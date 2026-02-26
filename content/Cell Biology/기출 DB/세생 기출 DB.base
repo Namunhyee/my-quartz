@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.inFolder("Cell Biology/출처/족보/정리")
+    order:
+      - file.name
+      - 정답/해설 오류
+      - 유형
+      - 연도
+      - 시험
+      - 복기_완성
+      - 번호
+      - 단원
+      - 관련_노트
+    sort: []

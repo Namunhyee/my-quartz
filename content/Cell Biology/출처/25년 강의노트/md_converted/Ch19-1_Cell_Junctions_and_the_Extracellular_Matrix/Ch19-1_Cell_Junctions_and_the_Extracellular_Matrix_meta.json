@@ -1,0 +1,2679 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 19\nCell Junctions and the \nExtracellular Matrix",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.3000030517578,
+          50.27532958984375
+        ],
+        [
+          524.46337890625,
+          50.27532958984375
+        ],
+        [
+          524.46337890625,
+          154.5594482421875
+        ],
+        [
+          205.3000030517578,
+          154.5594482421875
+        ]
+      ]
+    },
+    {
+      "title": "2 main ways in animal cell bound",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          5.2734375,
+          9.4921875
+        ],
+        [
+          343.8901062011719,
+          9.4921875
+        ],
+        [
+          343.8901062011719,
+          28.4765625
+        ],
+        [
+          5.2734375,
+          28.4765625
+        ]
+      ]
+    },
+    {
+      "title": "Various cell junctions found in a vertebrate epithelial cell",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          4.5703125,
+          17.9296875
+        ],
+        [
+          587.0139770507812,
+          17.9296875
+        ],
+        [
+          587.0139770507812,
+          37.15838623046875
+        ],
+        [
+          4.5703125,
+          37.15838623046875
+        ]
+      ]
+    },
+    {
+      "title": "ANCHORING JUNCTIONS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          96.6796875,
+          27.52850341796875
+        ],
+        [
+          598.884033203125,
+          27.52850341796875
+        ],
+        [
+          598.884033203125,
+          63.528533935546875
+        ],
+        [
+          96.6796875,
+          63.528533935546875
+        ]
+      ]
+    },
+    {
+      "title": "Transmembrane adhesion proteins link the cytoskeleton to \nextracellular structures.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          5.625,
+          13.447265625
+        ],
+        [
+          610.7401733398438,
+          13.447265625
+        ],
+        [
+          610.7401733398438,
+          53.9742431640625
+        ],
+        [
+          5.625,
+          53.9742431640625
+        ]
+      ]
+    },
+    {
+      "title": "CELL-CELL JUNCTIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          4.5,
+          7.5
+        ],
+        [
+          244.5,
+          7.5
+        ],
+        [
+          244.5,
+          27.0
+        ],
+        [
+          4.5,
+          27.0
+        ]
+      ]
+    },
+    {
+      "title": "Cadherin superfamily",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          7.199999809265137,
+          9.18267822265625
+        ],
+        [
+          254.8343048095703,
+          9.18267822265625
+        ],
+        [
+          254.8343048095703,
+          29.794921875
+        ],
+        [
+          7.199999809265137,
+          29.794921875
+        ]
+      ]
+    },
+    {
+      "title": "Cadherins Form a Diverse Family of Adhesion Molecules",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          6.328125,
+          9.228515625
+        ],
+        [
+          571.6260986328125,
+          9.228515625
+        ],
+        [
+          571.6260986328125,
+          28.740234375
+        ],
+        [
+          6.328125,
+          28.740234375
+        ]
+      ]
+    },
+    {
+      "title": "Transmembrane adhesion proteins link the cytoskeleton to \nextracellular structures.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          5.2734375,
+          13.447265625
+        ],
+        [
+          610.7401733398438,
+          13.447265625
+        ],
+        [
+          610.7401733398438,
+          53.9742431640625
+        ],
+        [
+          5.2734375,
+          53.9742431640625
+        ]
+      ]
+    },
+    {
+      "title": "Cadherins mediate homophilic adhesion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          7.03125,
+          8.96484375
+        ],
+        [
+          411.1920166015625,
+          8.96484375
+        ],
+        [
+          411.1920166015625,
+          29.00390625
+        ],
+        [
+          7.03125,
+          29.00390625
+        ]
+      ]
+    },
+    {
+      "title": "Cadherins Mediate Homophilic Adhesion",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          4.5703125,
+          9.228515625
+        ],
+        [
+          413.28009033203125,
+          9.228515625
+        ],
+        [
+          413.28009033203125,
+          28.740234375
+        ],
+        [
+          4.5703125,
+          28.740234375
+        ]
+      ]
+    },
+    {
+      "title": "Higher binding affinity",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          515.7421875,
+          48.251953125
+        ],
+        [
+          678.5281982421875,
+          48.251953125
+        ],
+        [
+          678.5281982421875,
+          66.708984375
+        ],
+        [
+          515.7421875,
+          66.708984375
+        ]
+      ]
+    },
+    {
+      "title": "Cadherins Mediate Homophilic Adhesion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          4.921875,
+          9.4921875
+        ],
+        [
+          369.1259765625,
+          9.4921875
+        ],
+        [
+          369.1259765625,
+          28.4765625
+        ],
+        [
+          4.921875,
+          28.4765625
+        ]
+      ]
+    },
+    {
+      "title": "Cadherin-dependent cell\u2013cell adhesion guides the organization of \ndeveloping tissues",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          6.328125,
+          20.302734375
+        ],
+        [
+          671.0201416015625,
+          20.302734375
+        ],
+        [
+          671.0201416015625,
+          64.3626708984375
+        ],
+        [
+          6.328125,
+          64.3626708984375
+        ]
+      ]
+    },
+    {
+      "title": "Cadherins form specific homophilic attachments",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          173.3203125,
+          126.51290893554688
+        ],
+        [
+          524.8701171875,
+          126.51290893554688
+        ],
+        [
+          524.8701171875,
+          144.53689575195312
+        ],
+        [
+          173.3203125,
+          144.53689575195312
+        ]
+      ]
+    },
+    {
+      "title": "Cells were mixed up",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          55.20000076293945,
+          324.580078125
+        ],
+        [
+          240.9708251953125,
+          324.580078125
+        ],
+        [
+          240.9708251953125,
+          345.146484375
+        ],
+        [
+          55.20000076293945,
+          345.146484375
+        ]
+      ]
+    },
+    {
+      "title": "Cadherin-Dependent Cell Sorting",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          6.328125,
+          18.45703125
+        ],
+        [
+          306.4119873046875,
+          18.45703125
+        ],
+        [
+          306.4119873046875,
+          37.44140625
+        ],
+        [
+          6.328125,
+          37.44140625
+        ]
+      ]
+    },
+    {
+      "title": "Cadherin-Dependent Cell\u2013Cell Adhesion Guides the Organization of \nDeveloping Tissues",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          7.199999809265137,
+          7.91015625
+        ],
+        [
+          622.5139770507812,
+          7.91015625
+        ],
+        [
+          622.5139770507812,
+          47.98828125
+        ],
+        [
+          7.199999809265137,
+          47.98828125
+        ]
+      ]
+    },
+    {
+      "title": "Catenins Link Classical Cadherins to the Actin Cytoskeleton",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          7.199999809265137,
+          17.40234375
+        ],
+        [
+          673.59375,
+          17.40234375
+        ],
+        [
+          673.59375,
+          38.22674560546875
+        ],
+        [
+          7.199999809265137,
+          38.22674560546875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          8.7890625,
+          11.07421875
+        ],
+        [
+          611.3671875,
+          11.07421875
+        ],
+        [
+          611.3671875,
+          33.22265625
+        ],
+        [
+          8.7890625,
+          33.22265625
+        ]
+      ]
+    },
+    {
+      "title": "Schematic representation of molecular mechanism of cadherin contraction",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          5.2734375,
+          10.546875
+        ],
+        [
+          562.9319458007812,
+          10.546875
+        ],
+        [
+          562.9319458007812,
+          28.739990234375
+        ],
+        [
+          5.2734375,
+          28.739990234375
+        ]
+      ]
+    },
+    {
+      "title": "Adherens Junctions Respond to Forces Generated by the Actin \nCytoskeleton",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          6.6796875,
+          8.4375
+        ],
+        [
+          713.7504272460938,
+          8.4375
+        ],
+        [
+          713.7504272460938,
+          53.24267578125
+        ],
+        [
+          6.6796875,
+          53.24267578125
+        ]
+      ]
+    },
+    {
+      "title": "Mechanotransduction in an adherens junction",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          108.6328125,
+          79.54019165039062
+        ],
+        [
+          593.8519287109375,
+          79.54019165039062
+        ],
+        [
+          593.8519287109375,
+          103.54019165039062
+        ],
+        [
+          108.6328125,
+          103.54019165039062
+        ]
+      ]
+    },
+    {
+      "title": "Tissue remodeling depends on the coordination of actin \nmediated contraction with cell\u2013cell adhesion",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          6.328125,
+          11.6015625
+        ],
+        [
+          639.8428955078125,
+          11.6015625
+        ],
+        [
+          639.8428955078125,
+          56.24267578125
+        ],
+        [
+          6.328125,
+          56.24267578125
+        ]
+      ]
+    },
+    {
+      "title": "Desmosome",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          255.75,
+          205.5
+        ],
+        [
+          482.25,
+          205.5
+        ],
+        [
+          482.25,
+          234.75
+        ],
+        [
+          255.75,
+          234.75
+        ]
+      ]
+    },
+    {
+      "title": "Desmosomes Give Epithelia Mechanical Strength",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          3.515625,
+          9.4921875
+        ],
+        [
+          498.70806884765625,
+          9.4921875
+        ],
+        [
+          498.70806884765625,
+          28.4765625
+        ],
+        [
+          3.515625,
+          28.4765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          18.28125,
+          111.533203125
+        ],
+        [
+          199.6875,
+          111.533203125
+        ],
+        [
+          199.6875,
+          123.662109375
+        ],
+        [
+          18.28125,
+          123.662109375
+        ]
+      ]
+    },
+    {
+      "title": "\ucc9c\ud3ec\ucc3d (Pemphigus vulgaris)",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          497.8125,
+          98.876953125
+        ],
+        [
+          652.9080200195312,
+          98.876953125
+        ],
+        [
+          652.9080200195312,
+          113.115234375
+        ],
+        [
+          497.8125,
+          113.115234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          29.8828125,
+          47.197265625
+        ],
+        [
+          224.6484375,
+          47.197265625
+        ],
+        [
+          224.6484375,
+          58.271484375
+        ],
+        [
+          29.8828125,
+          58.271484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          390.9375,
+          50.625
+        ],
+        [
+          670.78125,
+          50.625
+        ],
+        [
+          670.78125,
+          62.2265625
+        ],
+        [
+          390.9375,
+          62.2265625
+        ]
+      ]
+    },
+    {
+      "title": "\ub370\uc2a4\ubaa8\uc880\uc740 \ud53c\ubd80\u2013\ubaa8\ubc1c\u2013\uc2ec\uc7a5\uc744 \uc787\ub294 \uc811\ucc29 \ud5c8\ube0c",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          73.125,
+          430.3125
+        ],
+        [
+          441.30999755859375,
+          430.3125
+        ],
+        [
+          441.30999755859375,
+          450.1310348510742
+        ],
+        [
+          73.125,
+          450.1310348510742
+        ]
+      ]
+    },
+    {
+      "title": "Tight Junctions",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          248.203125,
+          205.705322265625
+        ],
+        [
+          500.916259765625,
+          205.705322265625
+        ],
+        [
+          500.916259765625,
+          234.140625
+        ],
+        [
+          248.203125,
+          234.140625
+        ]
+      ]
+    },
+    {
+      "title": "Various cell junctions found in a vertebrate epithelial cell",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          2.109375,
+          17.9296875
+        ],
+        [
+          522.325927734375,
+          17.9296875
+        ],
+        [
+          522.325927734375,
+          37.15838623046875
+        ],
+        [
+          2.109375,
+          37.15838623046875
+        ]
+      ]
+    },
+    {
+      "title": "Tight Junctions Form a Seal Between Cells and a Fence \nBetween Plasma Membrane Domains",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          4.199999809265137,
+          8.96484375
+        ],
+        [
+          629.0672607421875,
+          8.96484375
+        ],
+        [
+          629.0672607421875,
+          53.24267578125
+        ],
+        [
+          4.199999809265137,
+          53.24267578125
+        ]
+      ]
+    },
+    {
+      "title": "Tight Junctions Form a Seal Between Cells and a Fence Between Plasma \nMembrane Domains",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          7.199999809265137,
+          8.173828125
+        ],
+        [
+          667.9440307617188,
+          8.173828125
+        ],
+        [
+          667.9440307617188,
+          47.9583740234375
+        ],
+        [
+          7.199999809265137,
+          47.9583740234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          9.140625,
+          7.646484375
+        ],
+        [
+          626.484375,
+          7.646484375
+        ],
+        [
+          626.484375,
+          45.087890625
+        ],
+        [
+          9.140625,
+          45.087890625
+        ]
+      ]
+    },
+    {
+      "title": "Tight Junctions Contain Strands of Transmembrane Adhesion Proteins",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          7.199999809265137,
+          12.392578125
+        ],
+        [
+          637.9558715820312,
+          12.392578125
+        ],
+        [
+          637.9558715820312,
+          31.154266357421875
+        ],
+        [
+          7.199999809265137,
+          31.154266357421875
+        ]
+      ]
+    },
+    {
+      "title": "Gap junction",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          257.1100158691406,
+          224.14224243164062
+        ],
+        [
+          496.5639953613281,
+          224.14224243164062
+        ],
+        [
+          496.5639953613281,
+          256.2062683105469
+        ],
+        [
+          257.1100158691406,
+          256.2062683105469
+        ]
+      ]
+    },
+    {
+      "title": "Various cell junctions found in a vertebrate epithelial cell",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          2.109375,
+          17.9296875
+        ],
+        [
+          522.325927734375,
+          17.9296875
+        ],
+        [
+          522.325927734375,
+          37.15838623046875
+        ],
+        [
+          2.109375,
+          37.15838623046875
+        ]
+      ]
+    },
+    {
+      "title": "Gap Junctions Couple Cells Both Electrically and Metabolically",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          7.199999809265137,
+          23.203125
+        ],
+        [
+          625.5924682617188,
+          23.203125
+        ],
+        [
+          625.5924682617188,
+          44.296875
+        ],
+        [
+          7.199999809265137,
+          44.296875
+        ]
+      ]
+    },
+    {
+      "title": "A Gap-Junction Connexon Is Made of Six Transmembrane \nConnexin Subunits",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          7.199999809265137,
+          6.18267822265625
+        ],
+        [
+          660.4569702148438,
+          6.18267822265625
+        ],
+        [
+          660.4569702148438,
+          50.22674560546875
+        ],
+        [
+          7.199999809265137,
+          50.22674560546875
+        ]
+      ]
+    },
+    {
+      "title": "The size of a gap-junction channel",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": [
+        [
+          4.921875,
+          16.611328125
+        ],
+        [
+          392.917236328125,
+          16.611328125
+        ],
+        [
+          392.917236328125,
+          38.232421875
+        ],
+        [
+          4.921875,
+          38.232421875
+        ]
+      ]
+    },
+    {
+      "title": "Gap Junctions Couple Cells Both Electrically and Metabolically",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": [
+        [
+          7.199999809265137,
+          23.73046875
+        ],
+        [
+          701.895751953125,
+          23.73046875
+        ],
+        [
+          701.895751953125,
+          45.87890625
+        ],
+        [
+          7.199999809265137,
+          45.87890625
+        ]
+      ]
+    },
+    {
+      "title": "A Gap-Junction Connexon Is Made of Six Transmembrane \nConnexin Subunits",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          7.199999809265137,
+          6.18267822265625
+        ],
+        [
+          660.4569702148438,
+          6.18267822265625
+        ],
+        [
+          660.4569702148438,
+          50.22674560546875
+        ],
+        [
+          7.199999809265137,
+          50.22674560546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Ch19-1_Cell_Junctions_and_the_Extracellular_Matrix"
+}

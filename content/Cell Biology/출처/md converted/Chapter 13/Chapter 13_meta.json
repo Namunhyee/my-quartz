@@ -1,0 +1,4608 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Intracellular Membrane Traffic",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.0,
+          137.74951171875
+        ],
+        [
+          398.5547790527344,
+          137.74951171875
+        ],
+        [
+          398.5547790527344,
+          166.11126708984375
+        ],
+        [
+          72.0,
+          166.11126708984375
+        ]
+      ]
+    },
+    {
+      "title": "IN THIS CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          429.31494140625,
+          242.7113037109375
+        ],
+        [
+          533.7000122070312,
+          242.7113037109375
+        ],
+        [
+          533.7000122070312,
+          252.7113037109375
+        ],
+        [
+          429.31494140625,
+          252.7113037109375
+        ]
+      ]
+    },
+    {
+      "title": "Figure 13\u20131 Exocytosis and endocytosis.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          430.2421875,
+          624.43798828125
+        ],
+        [
+          584.22802734375,
+          624.43798828125
+        ],
+        [
+          584.22802734375,
+          633.3182373046875
+        ],
+        [
+          430.2421875,
+          633.3182373046875
+        ]
+      ]
+    },
+    {
+      "title": "MECHANISMS OF MEMBRANE TRANSPORT \nAND COMPARTMENT IDENTITY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.16162109375,
+          233.81689453125
+        ],
+        [
+          354.5171813964844,
+          233.81689453125
+        ],
+        [
+          354.5171813964844,
+          264.349853515625
+        ],
+        [
+          70.16162109375,
+          264.349853515625
+        ]
+      ]
+    },
+    {
+      "title": "There Are Various Types of Coated Vesicles",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.70703125,
+          534.8854370117188
+        ],
+        [
+          294.777587890625,
+          534.8854370117188
+        ],
+        [
+          294.777587890625,
+          546.8854370117188
+        ],
+        [
+          71.70703125,
+          546.8854370117188
+        ]
+      ]
+    },
+    {
+      "title": "The Assembly of a Clathrin Coat Drives Vesicle Formation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.76220703125,
+          440.1744384765625
+        ],
+        [
+          346.40155029296875,
+          440.1744384765625
+        ],
+        [
+          346.40155029296875,
+          452.1744384765625
+        ],
+        [
+          49.76220703125,
+          452.1744384765625
+        ]
+      ]
+    },
+    {
+      "title": "Adaptor Proteins Select Cargo into Clathrin-coated Vesicles",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.16162109375,
+          500.47442626953125
+        ],
+        [
+          378.9923095703125,
+          500.47442626953125
+        ],
+        [
+          378.9923095703125,
+          512.4744262695312
+        ],
+        [
+          70.16162109375,
+          512.4744262695312
+        ]
+      ]
+    },
+    {
+      "title": "Phosphoinositides Mark Organelles and Membrane Domains",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.99853515625,
+          462.076171875
+        ],
+        [
+          363.70794677734375,
+          462.076171875
+        ],
+        [
+          363.70794677734375,
+          474.7744445800781
+        ],
+        [
+          50.99853515625,
+          474.7744445800781
+        ]
+      ]
+    },
+    {
+      "title": "Membrane-bending Proteins Help Deform the Membrane During \nVesicle Formation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.470703125,
+          495.421875
+        ],
+        [
+          406.95477294921875,
+          495.421875
+        ],
+        [
+          406.95477294921875,
+          521.8784484863281
+        ],
+        [
+          70.470703125,
+          521.8784484863281
+        ]
+      ]
+    },
+    {
+      "title": "Cytoplasmic Proteins Regulate the Pinching off and Uncoating \nof Coated Vesicles",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.38037109375,
+          350.1298828125
+        ],
+        [
+          374.42156982421875,
+          350.1298828125
+        ],
+        [
+          374.42156982421875,
+          376.99444580078125
+        ],
+        [
+          50.38037109375,
+          376.99444580078125
+        ]
+      ]
+    },
+    {
+      "title": "Monomeric GTPases Control Coat Assembly",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.99853515625,
+          649.9904174804688
+        ],
+        [
+          282.81005859375,
+          649.9904174804688
+        ],
+        [
+          282.81005859375,
+          661.9904174804688
+        ],
+        [
+          50.99853515625,
+          661.9904174804688
+        ]
+      ]
+    },
+    {
+      "title": "Coat-recruitment GTPases Participate in Coat Disassembly",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.689453125,
+          592.283203125
+        ],
+        [
+          355.4999694824219,
+          592.283203125
+        ],
+        [
+          355.4999694824219,
+          604.4744262695312
+        ],
+        [
+          50.689453125,
+          604.4744262695312
+        ]
+      ]
+    },
+    {
+      "title": "The Shape and Size of Transport Vesicles Are Diverse",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.0888671875,
+          244.53515625
+        ],
+        [
+          347.4455261230469,
+          244.53515625
+        ],
+        [
+          347.4455261230469,
+          256.9854736328125
+        ],
+        [
+          71.0888671875,
+          256.9854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 13\u201316 Packaging of procollagen \ninto large tubular COPII-coated vesicles.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          431.78759765625,
+          465.251953125
+        ],
+        [
+          583.6319580078125,
+          465.251953125
+        ],
+        [
+          583.6319580078125,
+          483.3142395019531
+        ],
+        [
+          431.78759765625,
+          483.3142395019531
+        ]
+      ]
+    },
+    {
+      "title": "Rab Proteins Guide Transport Vesicles to Their Target Membrane",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          51.0,
+          78.99755859375
+        ],
+        [
+          384.4535217285156,
+          78.99755859375
+        ],
+        [
+          384.4535217285156,
+          92.4854736328125
+        ],
+        [
+          51.0,
+          92.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Rab Proteins Create and Change the Identity of an Organelle",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.39794921875,
+          375.93310546875
+        ],
+        [
+          384.1187438964844,
+          375.93310546875
+        ],
+        [
+          384.1187438964844,
+          389.2914733886719
+        ],
+        [
+          71.39794921875,
+          389.2914733886719
+        ]
+      ]
+    },
+    {
+      "title": "SNAREs Mediate Membrane Fusion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.99853515625,
+          511.69775390625
+        ],
+        [
+          236.59197998046875,
+          511.69775390625
+        ],
+        [
+          236.59197998046875,
+          523.9744262695312
+        ],
+        [
+          50.99853515625,
+          523.9744262695312
+        ]
+      ]
+    },
+    {
+      "title": "Rab cascade. The local activation of a \nRabA GEF leads to assembly of a RabA-\nassociated membrane patch (sometimes \ncalled a \"Rab domain\") on the membrane. \nActive RabA recruits its effector proteins, \none of which is a GEF for RabB. The \nRabB GEF then recruits RabB to the \nmembrane, which in turn begins to recruit \nits effectors, among them a GAP for \nRabA. The RabA GAP activates RabA-\nGTP hydrolysis leading to the inactivation \nof the RabA and the disassembly of the \nRabA-associated membrane patch as \nthe RabB-associated membrane patch \ngrows. In this way, the RabA-associated",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          410.15185546875,
+          91.6885986328125
+        ],
+        [
+          557.2639770507812,
+          91.6885986328125
+        ],
+        [
+          557.2639770507812,
+          232.63262939453125
+        ],
+        [
+          410.15185546875,
+          232.63262939453125
+        ]
+      ]
+    },
+    {
+      "title": "Interacting SNAREs Need to Be Pried Apart Before They Can \nFunction Again",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          71.70703125,
+          349.73291015625
+        ],
+        [
+          390.5843505859375,
+          349.73291015625
+        ],
+        [
+          390.5843505859375,
+          377.1784362792969
+        ],
+        [
+          71.70703125,
+          377.1784362792969
+        ]
+      ]
+    },
+    {
+      "title": "Viruses Encode Specialized Membrane Fusion Proteins Needed \nfor Cell Entry",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          49.453125,
+          119.8857421875
+        ],
+        [
+          382.49639892578125,
+          119.8857421875
+        ],
+        [
+          382.49639892578125,
+          146.989501953125
+        ],
+        [
+          49.453125,
+          146.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.689453125,
+          395.78173828125
+        ],
+        [
+          100.55999755859375,
+          395.78173828125
+        ],
+        [
+          100.55999755859375,
+          408.9854431152344
+        ],
+        [
+          50.689453125,
+          408.9854431152344
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPORT FROM THE ENDOPLASMIC RETICULUM \nTHROUGH THE GOLGI APPARATUS",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.0888671875,
+          119.091796875
+        ],
+        [
+          410.7846374511719,
+          119.091796875
+        ],
+        [
+          410.7846374511719,
+          149.349853515625
+        ],
+        [
+          71.0888671875,
+          149.349853515625
+        ]
+      ]
+    },
+    {
+      "title": "Proteins Leave the ER in COPII-coated Transport Vesicles",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.39794921875,
+          442.9854431152344
+        ],
+        [
+          368.3243713378906,
+          442.9854431152344
+        ],
+        [
+          368.3243713378906,
+          454.9854431152344
+        ],
+        [
+          71.39794921875,
+          454.9854431152344
+        ]
+      ]
+    },
+    {
+      "title": "Only Proteins That Are Properly Folded and Assembled \nCan Leave the ER",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          49.76220703125,
+          358.86328125
+        ],
+        [
+          337.978759765625,
+          358.86328125
+        ],
+        [
+          337.978759765625,
+          386.0214538574219
+        ],
+        [
+          49.76220703125,
+          386.0214538574219
+        ]
+      ]
+    },
+    {
+      "title": "Vesicular Tubular Clusters Mediate Transport from the ER \nto the Golgi Apparatus",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          49.76220703125,
+          669.69287109375
+        ],
+        [
+          347.75640869140625,
+          669.69287109375
+        ],
+        [
+          347.75640869140625,
+          696.5214080810547
+        ],
+        [
+          49.76220703125,
+          696.5214080810547
+        ]
+      ]
+    },
+    {
+      "title": "The Retrieval Pathway to the ER Uses Sorting Signals",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          50.0712890625,
+          117.90087890625
+        ],
+        [
+          327.0839538574219,
+          117.90087890625
+        ],
+        [
+          327.0839538574219,
+          130.4854736328125
+        ],
+        [
+          50.0712890625,
+          130.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Many Proteins Are Selectively Retained in the Compartments \nin Which They Function",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          50.38037109375,
+          471.603515625
+        ],
+        [
+          367.3067932128906,
+          471.603515625
+        ],
+        [
+          367.3067932128906,
+          498.48944091796875
+        ],
+        [
+          50.38037109375,
+          498.48944091796875
+        ]
+      ]
+    },
+    {
+      "title": "The Golgi Apparatus Consists of an Ordered Series \nof Compartments",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          70.470703125,
+          244.93212890625
+        ],
+        [
+          339.18951416015625,
+          244.93212890625
+        ],
+        [
+          339.18951416015625,
+          270.989501953125
+        ],
+        [
+          70.470703125,
+          270.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 13\u201330 Oligosaccharide \nprocessing in Golgi compartments.",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          430.55126953125,
+          80.982421875
+        ],
+        [
+          563.6080322265625,
+          80.982421875
+        ],
+        [
+          563.6080322265625,
+          99.7462158203125
+        ],
+        [
+          430.55126953125,
+          99.7462158203125
+        ]
+      ]
+    },
+    {
+      "title": "Oligosaccharide Chains Are Processed in the Golgi Apparatus",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          70.77978515625,
+          353.3056640625
+        ],
+        [
+          390.9947204589844,
+          353.3056640625
+        ],
+        [
+          390.9947204589844,
+          365.8174743652344
+        ],
+        [
+          70.77978515625,
+          365.8174743652344
+        ]
+      ]
+    },
+    {
+      "title": "Proteoglycans Are Assembled in the Golgi Apparatus",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          50.689453125,
+          707.3744277954102
+        ],
+        [
+          324.2474670410156,
+          707.3744277954102
+        ],
+        [
+          324.2474670410156,
+          719.3744277954102
+        ],
+        [
+          50.689453125,
+          719.3744277954102
+        ]
+      ]
+    },
+    {
+      "title": "What Is the Purpose of Glycosylation?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          70.16162109375,
+          603.79541015625
+        ],
+        [
+          268.2480163574219,
+          603.79541015625
+        ],
+        [
+          268.2480163574219,
+          615.8744201660156
+        ],
+        [
+          70.16162109375,
+          615.8744201660156
+        ]
+      ]
+    },
+    {
+      "title": "Transport Through the Golgi Apparatus Occurs by Multiple \nMechanisms",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          50.38037109375,
+          658.1806640625
+        ],
+        [
+          355.07879638671875,
+          658.1806640625
+        ],
+        [
+          355.07879638671875,
+          684.7584228515625
+        ],
+        [
+          50.38037109375,
+          684.7584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Golgi Matrix Proteins Help Organize the Stack",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          71.0888671875,
+          649.05029296875
+        ],
+        [
+          307.84674072265625,
+          649.05029296875
+        ],
+        [
+          307.84674072265625,
+          661.9034118652344
+        ],
+        [
+          71.0888671875,
+          661.9034118652344
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          50.0712890625,
+          219.12890625
+        ],
+        [
+          100.55999755859375,
+          219.12890625
+        ],
+        [
+          100.55999755859375,
+          231.88543701171875
+        ],
+        [
+          50.0712890625,
+          231.88543701171875
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPORT FROM THE TRANS GOLGI NETWORK \nTO THE CELL EXTERIOR AND ENDOSOMES",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          51.0,
+          585.53466796875
+        ],
+        [
+          373.7265930175781,
+          585.53466796875
+        ],
+        [
+          373.7265930175781,
+          616.2498321533203
+        ],
+        [
+          51.0,
+          616.2498321533203
+        ]
+      ]
+    },
+    {
+      "title": "Many Proteins and Lipids Are Carried Automatically from the Trans\nGolgi Network to the Cell Surface",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          71.39794921875,
+          428.33349609375
+        ],
+        [
+          413.204345703125,
+          428.33349609375
+        ],
+        [
+          413.204345703125,
+          454.8784484863281
+        ],
+        [
+          71.39794921875,
+          454.8784484863281
+        ]
+      ]
+    },
+    {
+      "title": "A Mannose 6-Phosphate Receptor Sorts Lysosomal Hydrolases \nin the Trans Golgi Network",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          71.0888671875,
+          646.271484375
+        ],
+        [
+          404.744384765625,
+          646.271484375
+        ],
+        [
+          404.744384765625,
+          673.4082794189453
+        ],
+        [
+          71.0888671875,
+          673.4082794189453
+        ]
+      ]
+    },
+    {
+      "title": "Defects in the GlcNAc Phosphotransferase Cause a Lysosomal \nStorage Disease in Humans",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.470703125,
+          566.0830078125
+        ],
+        [
+          400.2923889160156,
+          566.0830078125
+        ],
+        [
+          400.2923889160156,
+          592.9214172363281
+        ],
+        [
+          70.470703125,
+          592.9214172363281
+        ]
+      ]
+    },
+    {
+      "title": "Secretory Vesicles Bud from the Trans Golgi Network",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          50.689453125,
+          290.583984375
+        ],
+        [
+          323.91796875,
+          290.583984375
+        ],
+        [
+          323.91796875,
+          303.01531982421875
+        ],
+        [
+          50.689453125,
+          303.01531982421875
+        ]
+      ]
+    },
+    {
+      "title": "Precursors of Secretory Proteins Are Proteolytically Processed \nDuring the Formation of Secretory Vesicles",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          70.470703125,
+          472.3974609375
+        ],
+        [
+          394.8202819824219,
+          472.3974609375
+        ],
+        [
+          394.8202819824219,
+          498.6644287109375
+        ],
+        [
+          70.470703125,
+          498.6644287109375
+        ]
+      ]
+    },
+    {
+      "title": "Secretory Vesicles Wait Near the Plasma Membrane Until \nSignaled to Release Their Contents",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          51.0,
+          313.21142578125
+        ],
+        [
+          347.9747619628906,
+          313.21142578125
+        ],
+        [
+          347.9747619628906,
+          339.95843505859375
+        ],
+        [
+          51.0,
+          339.95843505859375
+        ]
+      ]
+    },
+    {
+      "title": "For Rapid Exocytosis, Synaptic Vesicles Are Primed \nat the Presynaptic Plasma Membrane",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          50.99853515625,
+          554.9677734375
+        ],
+        [
+          319.965576171875,
+          554.9677734375
+        ],
+        [
+          319.965576171875,
+          581.4584197998047
+        ],
+        [
+          50.99853515625,
+          581.4584197998047
+        ]
+      ]
+    },
+    {
+      "title": "Figure 13\u201344 Processing pathways \nfor the prohormone polyprotein \nproopiomelanocortin. The initial cleavages \nare made by proteases that cut next to \npairs of positively charged amino acids \n(Lys-Arg, Lys-Lys, Arg-Lys, or Arg-Arg \npairs). Trimming reactions then produce \nthe final secreted products. Different cell \ntypes produce different concentrations of \nindividual processing enzymes, so that the \nsame prohormone precursor is cleaved \nto produce different peptide hormones. \nIn the anterior lobe of the pituitary gland, \nfor example, only corticotropin (ACTH) \nand \u03b2-lipotropin are produced from \nproopiomelanocortin, whereas in the \nintermediate lobe of the pituitary gland, \nmainly \u03b1-melanocyte stimulating hormone \n(\u03b1-MSH), \u03b3-lipotropin, \u03b2-MSH, and \n\u03b2-endorphin are produced\u2014\u03b1-MSH from",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          410.4609375,
+          82.250244140625
+        ],
+        [
+          562.9119873046875,
+          82.250244140625
+        ],
+        [
+          562.9119873046875,
+          271.00201416015625
+        ],
+        [
+          410.4609375,
+          271.00201416015625
+        ]
+      ]
+    },
+    {
+      "title": "Synaptic Vesicles Can Be Recycled Locally After Exocytosis",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          72.0,
+          707.2884292602539
+        ],
+        [
+          379.2107238769531,
+          707.2884292602539
+        ],
+        [
+          379.2107238769531,
+          719.2884292602539
+        ],
+        [
+          72.0,
+          719.2884292602539
+        ]
+      ]
+    },
+    {
+      "title": "Secretory Vesicle Membrane Components Are Quickly Removed \nfrom the Plasma Membrane",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          50.0712890625,
+          473.19140625
+        ],
+        [
+          386.4574890136719,
+          473.19140625
+        ],
+        [
+          386.4574890136719,
+          500.95843505859375
+        ],
+        [
+          50.0712890625,
+          500.95843505859375
+        ]
+      ]
+    },
+    {
+      "title": "Some Regulated Exocytosis Events Serve to Enlarge \nthe Plasma Membrane",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          71.70703125,
+          542.2646484375
+        ],
+        [
+          346.53594970703125,
+          542.2646484375
+        ],
+        [
+          346.53594970703125,
+          569.8074340820312
+        ],
+        [
+          71.70703125,
+          569.8074340820312
+        ]
+      ]
+    },
+    {
+      "title": "Polarized Cells Direct Proteins from the Trans Golgi Network \nto the Appropriate Domain of the Plasma Membrane",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          50.0712890625,
+          335.8388671875
+        ],
+        [
+          362.8896179199219,
+          335.8388671875
+        ],
+        [
+          362.8896179199219,
+          362.93841552734375
+        ],
+        [
+          50.0712890625,
+          362.93841552734375
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          72.01611328125,
+          523.3344421386719
+        ],
+        [
+          121.63090515136719,
+          523.3344421386719
+        ],
+        [
+          121.63090515136719,
+          535.3344421386719
+        ],
+        [
+          72.01611328125,
+          535.3344421386719
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPORT INTO THE CELL FROM THE PLASMA \nMEMBRANE: ENDOCYTOSIS",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          50.0712890625,
+          222.3046875
+        ],
+        [
+          368.8125915527344,
+          222.3046875
+        ],
+        [
+          368.8125915527344,
+          252.849853515625
+        ],
+        [
+          50.0712890625,
+          252.849853515625
+        ]
+      ]
+    },
+    {
+      "title": "Pinocytic Vesicles Form from Coated Pits in the Plasma \nMembrane",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          70.16162109375,
+          186.97412109375
+        ],
+        [
+          360.07073974609375,
+          186.97412109375
+        ],
+        [
+          360.07073974609375,
+          213.489501953125
+        ],
+        [
+          70.16162109375,
+          213.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Not All Membrane Invaginations and Pinocytic Vesicles \nAre Clathrin Coated",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          70.470703125,
+          486.4854431152344
+        ],
+        [
+          356.288330078125,
+          486.4854431152344
+        ],
+        [
+          356.288330078125,
+          512.4894409179688
+        ],
+        [
+          70.470703125,
+          512.4894409179688
+        ]
+      ]
+    },
+    {
+      "title": "Cells Use Receptor-mediated Endocytosis to Import Selected \nExtracellular Macromolecules",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": [
+        [
+          70.470703125,
+          152.83447265625
+        ],
+        [
+          391.8467102050781,
+          152.83447265625
+        ],
+        [
+          391.8467102050781,
+          178.989501953125
+        ],
+        [
+          70.470703125,
+          178.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Specific Proteins Are Retrieved from Early Endosomes \nand Returned to the Plasma Membrane",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": [
+        [
+          50.38037109375,
+          589.9013671875
+        ],
+        [
+          332.8775939941406,
+          589.9013671875
+        ],
+        [
+          332.8775939941406,
+          615.9894104003906
+        ],
+        [
+          50.38037109375,
+          615.9894104003906
+        ]
+      ]
+    },
+    {
+      "title": "Recycling Endosomes Regulate Plasma Membrane Composition",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          71.39794921875,
+          477.534423828125
+        ],
+        [
+          405.82470703125,
+          477.534423828125
+        ],
+        [
+          405.82470703125,
+          489.534423828125
+        ],
+        [
+          71.39794921875,
+          489.534423828125
+        ]
+      ]
+    },
+    {
+      "title": "Plasma Membrane Signaling Receptors Are Down-regulated \nby Degradation in Lysosomes",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          50.99853515625,
+          522.01904296875
+        ],
+        [
+          364.88037109375,
+          522.01904296875
+        ],
+        [
+          364.88037109375,
+          548.9644165039062
+        ],
+        [
+          50.99853515625,
+          548.9644165039062
+        ]
+      ]
+    },
+    {
+      "title": "Early Endosomes Mature into Late Endosomes",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          71.0888671875,
+          373.154296875
+        ],
+        [
+          314.05078125,
+          373.154296875
+        ],
+        [
+          314.05078125,
+          385.9854431152344
+        ],
+        [
+          71.0888671875,
+          385.9854431152344
+        ]
+      ]
+    },
+    {
+      "title": "ESCRT Protein Complexes Mediate the Formation \nof Intralumenal Vesicles in Multivesicular Bodies",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": [
+        [
+          50.689453125,
+          343.7783203125
+        ],
+        [
+          312.92401123046875,
+          343.7783203125
+        ],
+        [
+          312.92401123046875,
+          370.9284362792969
+        ],
+        [
+          50.689453125,
+          370.9284362792969
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": [
+        [
+          50.38037109375,
+          117.90087890625
+        ],
+        [
+          100.55999755859375,
+          117.90087890625
+        ],
+        [
+          100.55999755859375,
+          130.4854736328125
+        ],
+        [
+          50.38037109375,
+          130.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "THE DEGRADATION AND RECYCLING \nOF MACROMOLECULES IN LYSOSOMES",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": [
+        [
+          50.689453125,
+          484.84783935546875
+        ],
+        [
+          307.21124267578125,
+          484.84783935546875
+        ],
+        [
+          307.21124267578125,
+          514.849853515625
+        ],
+        [
+          50.689453125,
+          514.849853515625
+        ]
+      ]
+    },
+    {
+      "title": "Lysosomes Are the Principal Sites of Intracellular Digestion",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": [
+        [
+          50.38037109375,
+          638.4854125976562
+        ],
+        [
+          351.5027160644531,
+          638.4854125976562
+        ],
+        [
+          351.5027160644531,
+          650.4854125976562
+        ],
+        [
+          50.38037109375,
+          650.4854125976562
+        ]
+      ]
+    },
+    {
+      "title": "Lysosomes Are Heterogeneous",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          71.70703125,
+          348.4854431152344
+        ],
+        [
+          233.61477661132812,
+          348.4854431152344
+        ],
+        [
+          233.61477661132812,
+          360.4854431152344
+        ],
+        [
+          71.70703125,
+          360.4854431152344
+        ]
+      ]
+    },
+    {
+      "title": "maturation. Late endosomes fuse \nwith preexisting lysosomes (bottom) or \npreexisting endolysosomes (top right). \nEndolysosomes eventually mature into \nlysosomes as hydrolases complete the \ndigestion of their contents, which can \ninclude intralumenal vesicles. Lysosomes \nalso fuse with phagosomes, as we \ndiscuss later.",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          409.8427734375,
+          84.158203125
+        ],
+        [
+          553.6784057617188,
+          84.158203125
+        ],
+        [
+          553.6784057617188,
+          177.22467041015625
+        ],
+        [
+          409.8427734375,
+          177.22467041015625
+        ]
+      ]
+    },
+    {
+      "title": "Plant and Fungal Vacuoles Are Remarkably Versatile Lysosomes",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          51.0,
+          242.55029296875
+        ],
+        [
+          380.2163391113281,
+          242.55029296875
+        ],
+        [
+          380.2163391113281,
+          255.1744384765625
+        ],
+        [
+          51.0,
+          255.1744384765625
+        ]
+      ]
+    },
+    {
+      "title": "Multiple Pathways Deliver Materials to Lysosomes",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": [
+        [
+          71.39794921875,
+          290.98095703125
+        ],
+        [
+          328.0176086425781,
+          290.98095703125
+        ],
+        [
+          328.0176086425781,
+          303.46038818359375
+        ],
+        [
+          71.39794921875,
+          303.46038818359375
+        ]
+      ]
+    },
+    {
+      "title": "Cells Can Acquire Nutrients from the Extracellular Fluid \nby Macropinocytosis",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          50.689453125,
+          327.10546875
+        ],
+        [
+          335.0615234375,
+          327.10546875
+        ],
+        [
+          335.0615234375,
+          353.8504638671875
+        ],
+        [
+          50.689453125,
+          353.8504638671875
+        ]
+      ]
+    },
+    {
+      "title": "Specialized Phagocytic Cells Can Ingest Large Particles",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          51.0,
+          592.3464202880859
+        ],
+        [
+          337.3199462890625,
+          592.3464202880859
+        ],
+        [
+          337.3199462890625,
+          604.3464202880859
+        ],
+        [
+          51.0,
+          604.3464202880859
+        ]
+      ]
+    },
+    {
+      "title": "Cargo Recognition by Cell-surface Receptors Initiates \nPhagocytosis",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": [
+        [
+          71.39794921875,
+          589.50439453125
+        ],
+        [
+          351.19195556640625,
+          589.50439453125
+        ],
+        [
+          351.19195556640625,
+          615.9284210205078
+        ],
+        [
+          71.39794921875,
+          615.9284210205078
+        ]
+      ]
+    },
+    {
+      "title": "Autophagy Degrades Unwanted Proteins and Organelles",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          50.38037109375,
+          615.3076171875
+        ],
+        [
+          342.8615417480469,
+          615.3076171875
+        ],
+        [
+          342.8615417480469,
+          627.3964233398438
+        ],
+        [
+          50.38037109375,
+          627.3964233398438
+        ]
+      ]
+    },
+    {
+      "title": "The Rate of Nonselective Autophagy Is Regulated by Nutrient \nAvailability",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": [
+        [
+          71.70703125,
+          543.05859375
+        ],
+        [
+          390.98394775390625,
+          543.05859375
+        ],
+        [
+          390.98394775390625,
+          569.7894592285156
+        ],
+        [
+          71.70703125,
+          569.7894592285156
+        ]
+      ]
+    },
+    {
+      "title": "A Family of Cargo-specific Receptors Mediates Selective \nAutophagy",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": [
+        [
+          49.14404296875,
+          152.4375
+        ],
+        [
+          345.97186279296875,
+          152.4375
+        ],
+        [
+          345.97186279296875,
+          178.989501953125
+        ],
+        [
+          49.14404296875,
+          178.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Some Lysosomes and Multivesicular Bodies Undergo Exocytosis",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          71.39794921875,
+          78.99755859375
+        ],
+        [
+          405.5999450683594,
+          78.99755859375
+        ],
+        [
+          405.5999450683594,
+          92.4854736328125
+        ],
+        [
+          71.39794921875,
+          92.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          71.0888671875,
+          318.76904296875
+        ],
+        [
+          121.55999755859375,
+          318.76904296875
+        ],
+        [
+          121.55999755859375,
+          331.4854431152344
+        ],
+        [
+          71.0888671875,
+          331.4854431152344
+        ]
+      ]
+    },
+    {
+      "title": "PROBLEMS",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": [
+        [
+          51.0,
+          78.6005859375
+        ],
+        [
+          125.1719970703125,
+          78.6005859375
+        ],
+        [
+          125.1719970703125,
+          92.84783935546875
+        ],
+        [
+          51.0,
+          92.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Which statements are true? Explain why or why not.",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": [
+        [
+          49.76220703125,
+          107.1826171875
+        ],
+        [
+          290.3389587402344,
+          107.1826171875
+        ],
+        [
+          290.3389587402344,
+          117.195068359375
+        ],
+        [
+          49.76220703125,
+          117.195068359375
+        ]
+      ]
+    },
+    {
+      "title": "Discuss the following problems.",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": [
+        [
+          50.689453125,
+          377.91796875
+        ],
+        [
+          198.2890167236328,
+          377.91796875
+        ],
+        [
+          198.2890167236328,
+          389.1950378417969
+        ],
+        [
+          50.689453125,
+          389.1950378417969
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          51.0,
+          78.84783935546875
+        ],
+        [
+          142.8260040283203,
+          78.84783935546875
+        ],
+        [
+          142.8260040283203,
+          92.84783935546875
+        ],
+        [
+          51.0,
+          92.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          50.99853515625,
+          98.44921875
+        ],
+        [
+          86.94000244140625,
+          98.44921875
+        ],
+        [
+          86.94000244140625,
+          109.195068359375
+        ],
+        [
+          50.99853515625,
+          109.195068359375
+        ]
+      ]
+    },
+    {
+      "title": "Mechanisms of Membrane Transport and \nCompartment Identity",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          49.76220703125,
+          209.195068359375
+        ],
+        [
+          243.47897338867188,
+          209.195068359375
+        ],
+        [
+          243.47897338867188,
+          230.695068359375
+        ],
+        [
+          49.76220703125,
+          230.695068359375
+        ]
+      ]
+    },
+    {
+      "title": "Transport from the Endoplasmic Reticulum Through \nthe Golgi Apparatus",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          50.0712890625,
+          623.64404296875
+        ],
+        [
+          292.1979675292969,
+          623.64404296875
+        ],
+        [
+          292.1979675292969,
+          645.6950531005859
+        ],
+        [
+          50.0712890625,
+          645.6950531005859
+        ]
+      ]
+    },
+    {
+      "title": "Transport From the Trans Golgi Network to the Cell \nExterior and Endosomes",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          312.1728515625,
+          136.95556640625
+        ],
+        [
+          551.9390258789062,
+          136.95556640625
+        ],
+        [
+          551.9390258789062,
+          159.08404541015625
+        ],
+        [
+          312.1728515625,
+          159.08404541015625
+        ]
+      ]
+    },
+    {
+      "title": "Transport Into the Cell from the Plasma Membrane: \nEndocytosis",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          313.4091796875,
+          314.79931640625
+        ],
+        [
+          553.4190063476562,
+          314.79931640625
+        ],
+        [
+          553.4190063476562,
+          336.5840759277344
+        ],
+        [
+          313.4091796875,
+          336.5840759277344
+        ]
+      ]
+    },
+    {
+      "title": "The Degradation and Recycling of Macromolecules \nin Lysosomes",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          313.4091796875,
+          621.6591796875
+        ],
+        [
+          554.0079956054688,
+          621.6591796875
+        ],
+        [
+          554.0079956054688,
+          643.5840606689453
+        ],
+        [
+          313.4091796875,
+          643.5840606689453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 49,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 50,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 51,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 52,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 53,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 54,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 55,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 56,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 57,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 58,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 59,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 60,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 61,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          50
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 13"
+}
