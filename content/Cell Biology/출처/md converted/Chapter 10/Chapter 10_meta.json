@@ -1,0 +1,2267 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INTERNAL ORGANIZATION OF THE CELL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.9928970336914,
+          178.982666015625
+        ],
+        [
+          585.09228515625,
+          178.982666015625
+        ],
+        [
+          585.09228515625,
+          206.982666015625
+        ],
+        [
+          71.9928970336914,
+          206.982666015625
+        ]
+      ]
+    },
+    {
+      "title": "Membrane Structure",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.39794921875,
+          315.990234375
+        ],
+        [
+          302.6954040527344,
+          315.990234375
+        ],
+        [
+          302.6954040527344,
+          342.811279296875
+        ],
+        [
+          71.39794921875,
+          342.811279296875
+        ]
+      ]
+    },
+    {
+      "title": "phospholipid molecule protein\nmolecule\nlipid\nbilayer\n(5 nm)\n(A) (B)\ncholesterol\n100 nm",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.48876953125,
+          585.931640625
+        ],
+        [
+          412.62451171875,
+          585.931640625
+        ],
+        [
+          412.62451171875,
+          751.072265625
+        ],
+        [
+          74.48876953125,
+          751.072265625
+        ]
+      ]
+    },
+    {
+      "title": "IN THIS CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          431.16943359375,
+          412.45458984375
+        ],
+        [
+          534.40283203125,
+          412.45458984375
+        ],
+        [
+          534.40283203125,
+          423.1062927246094
+        ],
+        [
+          431.16943359375,
+          423.1062927246094
+        ]
+      ]
+    },
+    {
+      "title": "THE LIPID BILAYER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.38037109375,
+          372.34783935546875
+        ],
+        [
+          170.86729431152344,
+          372.34783935546875
+        ],
+        [
+          170.86729431152344,
+          386.34783935546875
+        ],
+        [
+          50.38037109375,
+          386.34783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Glycerophospholipids, Sphingolipids, and Sterols Are the \nMajor Lipids in Cell Membranes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.39794921875,
+          117.50390625
+        ],
+        [
+          367.8443908691406,
+          117.50390625
+        ],
+        [
+          367.8443908691406,
+          144.489501953125
+        ],
+        [
+          71.39794921875,
+          144.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Phospholipids Spontaneously Form Bilayers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.689453125,
+          510.4054260253906
+        ],
+        [
+          277.3046569824219,
+          510.4054260253906
+        ],
+        [
+          277.3046569824219,
+          522.4054260253906
+        ],
+        [
+          50.689453125,
+          522.4054260253906
+        ]
+      ]
+    },
+    {
+      "title": "The Lipid Bilayer Is a Two-dimensional Fluid",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.689453125,
+          129.4130859375
+        ],
+        [
+          274.86749267578125,
+          129.4130859375
+        ],
+        [
+          274.86749267578125,
+          141.9854736328125
+        ],
+        [
+          50.689453125,
+          141.9854736328125
+        ]
+      ]
+    },
+    {
+      "title": "The Fluidity of a Lipid Bilayer Depends on Its Composition",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.470703125,
+          373.154296875
+        ],
+        [
+          369.1289978027344,
+          373.154296875
+        ],
+        [
+          369.1289978027344,
+          385.9344177246094
+        ],
+        [
+          70.470703125,
+          385.9344177246094
+        ]
+      ]
+    },
+    {
+      "title": "Despite Their Fluidity, Lipid Bilayers Can Form Domains \nof Different Compositions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.38037109375,
+          658.8374176025391
+        ],
+        [
+          338.1468200683594,
+          658.8374176025391
+        ],
+        [
+          338.1468200683594,
+          684.8414154052734
+        ],
+        [
+          50.38037109375,
+          684.8414154052734
+        ]
+      ]
+    },
+    {
+      "title": "Lipid Droplets Are Surrounded by a Phospholipid Monolayer",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.0888671875,
+          456.3844299316406
+        ],
+        [
+          380.7467346191406,
+          456.3844299316406
+        ],
+        [
+          380.7467346191406,
+          468.3844299316406
+        ],
+        [
+          71.0888671875,
+          468.3844299316406
+        ]
+      ]
+    },
+    {
+      "title": "The Asymmetry of the Lipid Bilayer Is Functionally Important",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.38037109375,
+          446.5594177246094
+        ],
+        [
+          358.97576904296875,
+          446.5594177246094
+        ],
+        [
+          358.97576904296875,
+          458.5594177246094
+        ],
+        [
+          50.38037109375,
+          458.5594177246094
+        ]
+      ]
+    },
+    {
+      "title": "Glycolipids Are Found on the Surface of All Eukaryotic \nPlasma Membranes",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          70.77978515625,
+          473.9853515625
+        ],
+        [
+          352.4276123046875,
+          473.9853515625
+        ],
+        [
+          352.4276123046875,
+          500.98944091796875
+        ],
+        [
+          70.77978515625,
+          500.98944091796875
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          50.0712890625,
+          661.4544219970703
+        ],
+        [
+          100.55999755859375,
+          661.4544219970703
+        ],
+        [
+          100.55999755859375,
+          673.4544219970703
+        ],
+        [
+          50.0712890625,
+          673.4544219970703
+        ]
+      ]
+    },
+    {
+      "title": "MEMBRANE PROTEINS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.0888671875,
+          221.5107421875
+        ],
+        [
+          219.5740203857422,
+          221.5107421875
+        ],
+        [
+          219.5740203857422,
+          236.84783935546875
+        ],
+        [
+          71.0888671875,
+          236.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Membrane Proteins Can Be Associated with the Lipid Bilayer \nin Various Ways",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.39794921875,
+          416.02734375
+        ],
+        [
+          388.522705078125,
+          416.02734375
+        ],
+        [
+          388.522705078125,
+          443.48944091796875
+        ],
+        [
+          71.39794921875,
+          443.48944091796875
+        ]
+      ]
+    },
+    {
+      "title": "Lipid Anchors Control the Membrane Localization \nof Some Signaling Proteins",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          49.76220703125,
+          463.4854431152344
+        ],
+        [
+          308.8427429199219,
+          463.4854431152344
+        ],
+        [
+          308.8427429199219,
+          489.48944091796875
+        ],
+        [
+          49.76220703125,
+          489.48944091796875
+        ]
+      ]
+    },
+    {
+      "title": "In Most Transmembrane Proteins, the Polypeptide Chain Crosses \nthe Lipid Bilayer in an \u03b1-Helical Conformation",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.77978515625,
+          589.107421875
+        ],
+        [
+          411.84832763671875,
+          589.107421875
+        ],
+        [
+          411.84832763671875,
+          616.5819396972656
+        ],
+        [
+          70.77978515625,
+          616.5819396972656
+        ]
+      ]
+    },
+    {
+      "title": "Transmembrane \u03b1 Helices Often Interact with One Another",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          70.16162109375,
+          129.4130859375
+        ],
+        [
+          374.1629943847656,
+          129.4130859375
+        ],
+        [
+          374.1629943847656,
+          142.79296875
+        ],
+        [
+          70.16162109375,
+          142.79296875
+        ]
+      ]
+    },
+    {
+      "title": "Some \u03b2 Barrels Form Large Channels",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.0888671875,
+          484.09295654296875
+        ],
+        [
+          270.3759765625,
+          484.09295654296875
+        ],
+        [
+          270.3759765625,
+          497.09295654296875
+        ],
+        [
+          71.0888671875,
+          497.09295654296875
+        ]
+      ]
+    },
+    {
+      "title": "Many Membrane Proteins Are Glycosylated",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          71.0888671875,
+          131.0009765625
+        ],
+        [
+          294.72247314453125,
+          131.0009765625
+        ],
+        [
+          294.72247314453125,
+          143.4674072265625
+        ],
+        [
+          71.0888671875,
+          143.4674072265625
+        ]
+      ]
+    },
+    {
+      "title": "Membrane Proteins Can Be Solubilized and Purified \nin Detergents",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          50.38037109375,
+          497.40673828125
+        ],
+        [
+          320.62677001953125,
+          497.40673828125
+        ],
+        [
+          320.62677001953125,
+          523.9784240722656
+        ],
+        [
+          50.38037109375,
+          523.9784240722656
+        ]
+      ]
+    },
+    {
+      "title": "Bacteriorhodopsin Is a Light-driven Proton (H+) Pump That \nTraverses the Lipid Bilayer as Seven \u03b1 Helices",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          71.39794921875,
+          646.37939453125
+        ],
+        [
+          378.89801025390625,
+          646.37939453125
+        ],
+        [
+          378.89801025390625,
+          674.2929229736328
+        ],
+        [
+          71.39794921875,
+          674.2929229736328
+        ]
+      ]
+    },
+    {
+      "title": "Membrane Proteins Often Function as Large Complexes",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          71.39794921875,
+          505.9854431152344
+        ],
+        [
+          362.1478576660156,
+          505.9854431152344
+        ],
+        [
+          362.1478576660156,
+          517.9854431152344
+        ],
+        [
+          71.39794921875,
+          517.9854431152344
+        ]
+      ]
+    },
+    {
+      "title": "Many Membrane Proteins Diffuse in the Plane of the Membrane",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          71.70703125,
+          672.4854125976562
+        ],
+        [
+          398.3746032714844,
+          672.4854125976562
+        ],
+        [
+          398.3746032714844,
+          684.4854125976562
+        ],
+        [
+          71.70703125,
+          684.4854125976562
+        ]
+      ]
+    },
+    {
+      "title": "Cells Can Confine Proteins and Lipids to Specific Domains \nWithin a Membrane",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          70.470703125,
+          233.81689453125
+        ],
+        [
+          376.05474853515625,
+          233.81689453125
+        ],
+        [
+          376.05474853515625,
+          259.989501953125
+        ],
+        [
+          70.470703125,
+          259.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "The Cortical Cytoskeleton Gives Membranes Mechanical Strength \nand Restricts Membrane Protein Diffusion",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          49.453125,
+          554.9677734375
+        ],
+        [
+          393.09234619140625,
+          554.9677734375
+        ],
+        [
+          393.09234619140625,
+          581.3384246826172
+        ],
+        [
+          49.453125,
+          581.3384246826172
+        ]
+      ]
+    },
+    {
+      "title": "Membrane-bending Proteins Deform Bilayers",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          50.99853515625,
+          592.3854217529297
+        ],
+        [
+          283.0427551269531,
+          592.3854217529297
+        ],
+        [
+          283.0427551269531,
+          604.3854217529297
+        ],
+        [
+          50.99853515625,
+          604.3854217529297
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.16162109375,
+          488.9144287109375
+        ],
+        [
+          121.75289916992188,
+          488.9144287109375
+        ],
+        [
+          121.75289916992188,
+          500.9144287109375
+        ],
+        [
+          70.16162109375,
+          500.9144287109375
+        ]
+      ]
+    },
+    {
+      "title": "PROBLEMS",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          50.99853515625,
+          79.03680419921875
+        ],
+        [
+          125.24290466308594,
+          79.03680419921875
+        ],
+        [
+          125.24290466308594,
+          93.03680419921875
+        ],
+        [
+          50.99853515625,
+          93.03680419921875
+        ]
+      ]
+    },
+    {
+      "title": "Which statements are true? Explain why or why not.",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          49.76220703125,
+          106.388671875
+        ],
+        [
+          290.40985107421875,
+          106.388671875
+        ],
+        [
+          290.40985107421875,
+          117.384033203125
+        ],
+        [
+          49.76220703125,
+          117.384033203125
+        ]
+      ]
+    },
+    {
+      "title": "Discuss the following problems.",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          50.689453125,
+          402.13330078125
+        ],
+        [
+          198.36001586914062,
+          402.13330078125
+        ],
+        [
+          198.36001586914062,
+          412.3840637207031
+        ],
+        [
+          50.689453125,
+          412.3840637207031
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.70703125,
+          400.33282470703125
+        ],
+        [
+          159.9340057373047,
+          400.33282470703125
+        ],
+        [
+          159.9340057373047,
+          414.33282470703125
+        ],
+        [
+          71.70703125,
+          414.33282470703125
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.0888671875,
+          419.60009765625
+        ],
+        [
+          107.94000244140625,
+          419.60009765625
+        ],
+        [
+          107.94000244140625,
+          430.6800537109375
+        ],
+        [
+          71.0888671875,
+          430.6800537109375
+        ]
+      ]
+    },
+    {
+      "title": "The Lipid Bilayer",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          70.77978515625,
+          606.97119140625
+        ],
+        [
+          149.28662109375,
+          606.97119140625
+        ],
+        [
+          149.28662109375,
+          617.1800689697266
+        ],
+        [
+          70.77978515625,
+          617.1800689697266
+        ]
+      ]
+    },
+    {
+      "title": "Membrane Proteins",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          334.4267578125,
+          725.26904296875
+        ],
+        [
+          426.5899963378906,
+          725.26904296875
+        ],
+        [
+          426.5899963378906,
+          736.6960525512695
+        ],
+        [
+          334.4267578125,
+          736.6960525512695
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          320
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TableCell",
+          59
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 10"
+}

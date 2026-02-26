@@ -1,0 +1,4672 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Energy Conversion and \nMetabolic Compartmentation: \nMitochondria and Chloroplasts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.39794921875,
+          80.30523681640625
+        ],
+        [
+          414.0014343261719,
+          80.30523681640625
+        ],
+        [
+          414.0014343261719,
+          166.313232421875
+        ],
+        [
+          71.39794921875,
+          166.313232421875
+        ]
+      ]
+    },
+    {
+      "title": "IN THIS CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          430.2421875,
+          242.1533203125
+        ],
+        [
+          533.7000122070312,
+          242.1533203125
+        ],
+        [
+          533.7000122070312,
+          252.7113037109375
+        ],
+        [
+          430.2421875,
+          252.7113037109375
+        ]
+      ]
+    },
+    {
+      "title": "THE MITOCHONDRION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.39794921875,
+          543.8525390625
+        ],
+        [
+          216.97000122070312,
+          543.8525390625
+        ],
+        [
+          216.97000122070312,
+          558.2878112792969
+        ],
+        [
+          71.39794921875,
+          558.2878112792969
+        ]
+      ]
+    },
+    {
+      "title": "The Mitochondrion Has an Outer Membrane and an \nInner Membrane",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.76220703125,
+          542.66162109375
+        ],
+        [
+          321.2999267578125,
+          542.66162109375
+        ],
+        [
+          321.2999267578125,
+          569.8784484863281
+        ],
+        [
+          49.76220703125,
+          569.8784484863281
+        ]
+      ]
+    },
+    {
+      "title": "Fission, Fusion, Distribution, and Degradation of Mitochondria",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.77978515625,
+          479.77044677734375
+        ],
+        [
+          392.699951171875,
+          479.77044677734375
+        ],
+        [
+          392.699951171875,
+          491.77044677734375
+        ],
+        [
+          70.77978515625,
+          491.77044677734375
+        ]
+      ]
+    },
+    {
+      "title": "The Inner Membrane Cristae Contain the Machinery for Electron \nTransport and ATP Synthesis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.16162109375,
+          221.5107421875
+        ],
+        [
+          403.8791809082031,
+          221.5107421875
+        ],
+        [
+          403.8791809082031,
+          247.989501953125
+        ],
+        [
+          70.16162109375,
+          247.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "The Citric Acid Cycle in the Matrix Produces NADH",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.0888671875,
+          615.4854125976562
+        ],
+        [
+          334.5215759277344,
+          615.4854125976562
+        ],
+        [
+          334.5215759277344,
+          627.4854125976562
+        ],
+        [
+          71.0888671875,
+          627.4854125976562
+        ]
+      ]
+    },
+    {
+      "title": "Mitochondria Have Many Essential Roles in Cellular Metabolism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.38037109375,
+          661.3744201660156
+        ],
+        [
+          380.387939453125,
+          661.3744201660156
+        ],
+        [
+          380.387939453125,
+          673.3744201660156
+        ],
+        [
+          50.38037109375,
+          673.3744201660156
+        ]
+      ]
+    },
+    {
+      "title": "A Chemiosmotic Process Couples Oxidation Energy \nto ATP Production",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.39794921875,
+          206.42578125
+        ],
+        [
+          343.17474365234375,
+          206.42578125
+        ],
+        [
+          343.17474365234375,
+          232.989501953125
+        ],
+        [
+          71.39794921875,
+          232.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "The Energy Derived from Oxidation Is Stored as an \nElectrochemical Gradient",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          50.0712890625,
+          207.61669921875
+        ],
+        [
+          315.08154296875,
+          207.61669921875
+        ],
+        [
+          315.08154296875,
+          233.989501953125
+        ],
+        [
+          50.0712890625,
+          233.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.39794921875,
+          152.04052734375
+        ],
+        [
+          121.55999755859375,
+          152.04052734375
+        ],
+        [
+          121.55999755859375,
+          164.9854736328125
+        ],
+        [
+          71.39794921875,
+          164.9854736328125
+        ]
+      ]
+    },
+    {
+      "title": "THE PROTON PUMPS OF THE ELECTRON-\nTRANSPORT CHAIN",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.0888671875,
+          392.60595703125
+        ],
+        [
+          342.0039978027344,
+          392.60595703125
+        ],
+        [
+          342.0039978027344,
+          422.849853515625
+        ],
+        [
+          71.0888671875,
+          422.849853515625
+        ]
+      ]
+    },
+    {
+      "title": "The Redox Potential Is a Measure of Electron Affinities",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.70703125,
+          579.97705078125
+        ],
+        [
+          349.412353515625,
+          579.97705078125
+        ],
+        [
+          349.412353515625,
+          592.4854125976562
+        ],
+        [
+          71.70703125,
+          592.4854125976562
+        ]
+      ]
+    },
+    {
+      "title": "Electron Transfers Release Large Amounts of Energy",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.689453125,
+          440.3234558105469
+        ],
+        [
+          321.99603271484375,
+          440.3234558105469
+        ],
+        [
+          321.99603271484375,
+          452.3234558105469
+        ],
+        [
+          50.689453125,
+          452.3234558105469
+        ]
+      ]
+    },
+    {
+      "title": "Transition Metal Ions and Quinones Accept and Release \nElectrons Readily",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.689453125,
+          690.732421875
+        ],
+        [
+          342.19189453125,
+          690.732421875
+        ],
+        [
+          342.19189453125,
+          716.8274154663086
+        ],
+        [
+          50.689453125,
+          716.8274154663086
+        ]
+      ]
+    },
+    {
+      "title": "HOW REDOX POTENTIALS ARE MEASURED",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          85.78299713134766,
+          96.77166748046875
+        ],
+        [
+          284.7029724121094,
+          96.77166748046875
+        ],
+        [
+          284.7029724121094,
+          106.77166748046875
+        ],
+        [
+          85.78299713134766,
+          106.77166748046875
+        ]
+      ]
+    },
+    {
+      "title": "THE STANDARD REDOX POTENTIAL, E\u2032\n0",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          99.10800170898438,
+          283.47125244140625
+        ],
+        [
+          280.7859802246094,
+          283.47125244140625
+        ],
+        [
+          280.7859802246094,
+          295.6397705078125
+        ],
+        [
+          99.10800170898438,
+          295.6397705078125
+        ]
+      ]
+    },
+    {
+      "title": "CALCULATION OF \u0394Go\n FROM\nREDOX POTENTIALS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          87.779296875,
+          421.3288269042969
+        ],
+        [
+          221.50100708007812,
+          421.3288269042969
+        ],
+        [
+          221.50100708007812,
+          444.3836975097656
+        ],
+        [
+          87.779296875,
+          444.3836975097656
+        ]
+      ]
+    },
+    {
+      "title": "EFFECT OF CONCENTRATION CHANGES",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          327.0087890625,
+          424.36376953125
+        ],
+        [
+          508.781005859375,
+          424.36376953125
+        ],
+        [
+          508.781005859375,
+          436.4537048339844
+        ],
+        [
+          327.0087890625,
+          436.4537048339844
+        ]
+      ]
+    },
+    {
+      "title": "NADH Transfers Its Electrons to Oxygen Through Three Large \nEnzyme Complexes Embedded in the Inner Membrane",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.39794921875,
+          298.5234375
+        ],
+        [
+          392.348388671875,
+          298.5234375
+        ],
+        [
+          392.348388671875,
+          325.3214416503906
+        ],
+        [
+          71.39794921875,
+          325.3214416503906
+        ]
+      ]
+    },
+    {
+      "title": "Figure 14\u201317 Quinone electron",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          432.0,
+          80.982421875
+        ],
+        [
+          546.7351684570312,
+          80.982421875
+        ],
+        [
+          546.7351684570312,
+          90.250244140625
+        ],
+        [
+          432.0,
+          90.250244140625
+        ]
+      ]
+    },
+    {
+      "title": "The NADH Dehydrogenase Complex Contains Separate Modules \nfor Electron Transport and Proton Pumping",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          50.0712890625,
+          692.71728515625
+        ],
+        [
+          390.43072509765625,
+          692.71728515625
+        ],
+        [
+          390.43072509765625,
+          719.4004287719727
+        ],
+        [
+          50.0712890625,
+          719.4004287719727
+        ]
+      ]
+    },
+    {
+      "title": "Cytochrome c Reductase Takes Up and Releases Protons on \nOpposite Sides of the Crista Membrane, Thereby Pumping \nProtons",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          71.39794921875,
+          598.9534149169922
+        ],
+        [
+          391.4496154785156,
+          598.9534149169922
+        ],
+        [
+          391.4496154785156,
+          638.9614105224609
+        ],
+        [
+          71.39794921875,
+          638.9614105224609
+        ]
+      ]
+    },
+    {
+      "title": "Figure 14\u201321 How a directional release \nand uptake of protons by a quinone \npumps protons across a membrane.",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          409.224609375,
+          82.17333984375
+        ],
+        [
+          555.6871948242188,
+          82.17333984375
+        ],
+        [
+          555.6871948242188,
+          109.24224853515625
+        ],
+        [
+          409.224609375,
+          109.24224853515625
+        ]
+      ]
+    },
+    {
+      "title": "The Cytochrome c Oxidase Complex Pumps Protons \nand Reduces O2 Using a Catalytic Iron\u2013Copper Center",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          70.470703125,
+          531.54638671875
+        ],
+        [
+          353.3137512207031,
+          531.54638671875
+        ],
+        [
+          353.3137512207031,
+          559.7308349609375
+        ],
+        [
+          70.470703125,
+          559.7308349609375
+        ]
+      ]
+    },
+    {
+      "title": "Succinate Dehydrogenase Acts in Both the Electron-Transport \nChain and the Citric Acid Cycle",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.689453125,
+          624.9744262695312
+        ],
+        [
+          374.44439697265625,
+          624.9744262695312
+        ],
+        [
+          374.44439697265625,
+          650.9784240722656
+        ],
+        [
+          50.689453125,
+          650.9784240722656
+        ]
+      ]
+    },
+    {
+      "title": "The Respiratory Chain Forms a Supercomplex in the Crista \nMembrane",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          70.16162109375,
+          510.90380859375
+        ],
+        [
+          378.29754638671875,
+          510.90380859375
+        ],
+        [
+          378.29754638671875,
+          537.8494567871094
+        ],
+        [
+          70.16162109375,
+          537.8494567871094
+        ]
+      ]
+    },
+    {
+      "title": "Protons Can Move Rapidly Through Proteins Along Predefined \nPathways",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          49.76220703125,
+          420.38543701171875
+        ],
+        [
+          375.34429931640625,
+          420.38543701171875
+        ],
+        [
+          375.34429931640625,
+          446.3894348144531
+        ],
+        [
+          49.76220703125,
+          446.3894348144531
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          72.0,
+          306.85986328125
+        ],
+        [
+          121.55999755859375,
+          306.85986328125
+        ],
+        [
+          121.55999755859375,
+          319.37445068359375
+        ],
+        [
+          72.0,
+          319.37445068359375
+        ]
+      ]
+    },
+    {
+      "title": "ATP PRODUCTION IN MITOCHONDRIA",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          72.0,
+          511.7368469238281
+        ],
+        [
+          313.52801513671875,
+          511.7368469238281
+        ],
+        [
+          313.52801513671875,
+          525.7368469238281
+        ],
+        [
+          72.0,
+          525.7368469238281
+        ]
+      ]
+    },
+    {
+      "title": "The Large Negative Value of \u0394G for ATP Hydrolysis Makes ATP \nUseful to the Cell",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          72.0,
+          693.3744201660156
+        ],
+        [
+          399.1775817871094,
+          693.3744201660156
+        ],
+        [
+          399.1775817871094,
+          719.3784255981445
+        ],
+        [
+          72.0,
+          719.3784255981445
+        ]
+      ]
+    },
+    {
+      "title": "Figure 14\u201329 A general model for H+\npumping coupled to electron transport. \nThis type of mechanism for H+ pumping \nby a transmembrane protein is thought \nto be used by NADH dehydrogenase \nand cytochrome c oxidase, and by many \nother proton pumps. The protein is driven \nthrough a cycle of three conformations. In \none of these conformations, the protein \nhas a high affinity for H+, causing it to pick \nup an H+ on the inside of the membrane. \nIn another conformation, the protein has \na low affinity for H+, causing it to release \nan H+ on the outside of the membrane. \nAs indicated, the transitions from one \nconformation to another occur only in one \ndirection, because they are driven by being \nallosterically coupled to an energetically \nfavorable process\u2014in this case by the free",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          430.55126953125,
+          83.59124755859375
+        ],
+        [
+          581.6851806640625,
+          83.59124755859375
+        ],
+        [
+          581.6851806640625,
+          263.30865478515625
+        ],
+        [
+          430.55126953125,
+          263.30865478515625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 14\u20133 Product Yields from the Oxidation of Sugars and Fats",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          56.2529296875,
+          86.93701171875
+        ],
+        [
+          330.6263732910156,
+          86.93701171875
+        ],
+        [
+          330.6263732910156,
+          97.146728515625
+        ],
+        [
+          56.2529296875,
+          97.146728515625
+        ]
+      ]
+    },
+    {
+      "title": "A. Net products from oxidation of one molecule of glucose",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          55.634765625,
+          105.19775390625
+        ],
+        [
+          291.7734375,
+          105.19775390625
+        ],
+        [
+          291.7734375,
+          114.94085693359375
+        ],
+        [
+          55.634765625,
+          114.94085693359375
+        ]
+      ]
+    },
+    {
+      "title": "Net result in mitochondrion",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          56.56201171875,
+          193.72265625
+        ],
+        [
+          169.68603515625,
+          193.72265625
+        ],
+        [
+          169.68603515625,
+          203.9996337890625
+        ],
+        [
+          56.56201171875,
+          203.9996337890625
+        ]
+      ]
+    },
+    {
+      "title": "B. Net products from oxidation of one molecule of palmitoyl CoA (activated form \nof palmitate, a fatty acid)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          55.32568359375,
+          225.48046875
+        ],
+        [
+          381.97918701171875,
+          225.48046875
+        ],
+        [
+          381.97918701171875,
+          245.6318359375
+        ],
+        [
+          55.32568359375,
+          245.6318359375
+        ]
+      ]
+    },
+    {
+      "title": "Net result in mitochondrion",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          55.634765625,
+          295.34765625
+        ],
+        [
+          169.61602783203125,
+          295.34765625
+        ],
+        [
+          169.61602783203125,
+          305.1837158203125
+        ],
+        [
+          55.634765625,
+          305.1837158203125
+        ]
+      ]
+    },
+    {
+      "title": "The ATP Synthase Is a Nanomachine That Produces ATP \nby Rotary Catalysis",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          72.0,
+          658.1806640625
+        ],
+        [
+          369.5963439941406,
+          658.1806640625
+        ],
+        [
+          369.5963439941406,
+          684.9844207763672
+        ],
+        [
+          72.0,
+          684.9844207763672
+        ]
+      ]
+    },
+    {
+      "title": "Proton-driven Turbines Are Ancient and Critical for Energy \nConversion",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          70.470703125,
+          128.619140625
+        ],
+        [
+          371.8895568847656,
+          128.619140625
+        ],
+        [
+          371.8895568847656,
+          155.989501953125
+        ],
+        [
+          70.470703125,
+          155.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Mitochondrial Cristae Help to Make ATP Synthesis Efficient",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          51.0,
+          315.990234375
+        ],
+        [
+          353.13238525390625,
+          315.990234375
+        ],
+        [
+          353.13238525390625,
+          328.7454528808594
+        ],
+        [
+          51.0,
+          328.7454528808594
+        ]
+      ]
+    },
+    {
+      "title": "Special Transport Proteins Move Solutes Through \nthe Inner Membrane",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.77978515625,
+          175.06494140625
+        ],
+        [
+          330.0936279296875,
+          175.06494140625
+        ],
+        [
+          330.0936279296875,
+          201.489501953125
+        ],
+        [
+          70.77978515625,
+          201.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Chemiosmotic Mechanisms First Arose in Bacteria",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          50.38037109375,
+          175.4619140625
+        ],
+        [
+          310.1495361328125,
+          175.4619140625
+        ],
+        [
+          310.1495361328125,
+          187.9854736328125
+        ],
+        [
+          50.38037109375,
+          187.9854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          50.38037109375,
+          690.732421875
+        ],
+        [
+          100.55999755859375,
+          690.732421875
+        ],
+        [
+          100.55999755859375,
+          702.9854125976562
+        ],
+        [
+          50.38037109375,
+          702.9854125976562
+        ]
+      ]
+    },
+    {
+      "title": "CHLOROPLASTS AND PHOTOSYNTHESIS",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.0888671875,
+          211.189453125
+        ],
+        [
+          337.0760192871094,
+          211.189453125
+        ],
+        [
+          337.0760192871094,
+          225.34783935546875
+        ],
+        [
+          71.0888671875,
+          225.34783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Chloroplasts Resemble Mitochondria but Have a Separate \nThylakoid Compartment",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.39794921875,
+          497.8037109375
+        ],
+        [
+          374.97589111328125,
+          497.8037109375
+        ],
+        [
+          374.97589111328125,
+          523.8274536132812
+        ],
+        [
+          71.39794921875,
+          523.8274536132812
+        ]
+      ]
+    },
+    {
+      "title": "Chloroplasts Capture Energy from Sunlight and Use It \nto Fix Carbon",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          49.76220703125,
+          598.23779296875
+        ],
+        [
+          330.17755126953125,
+          598.23779296875
+        ],
+        [
+          330.17755126953125,
+          624.4644317626953
+        ],
+        [
+          49.76220703125,
+          624.4644317626953
+        ]
+      ]
+    },
+    {
+      "title": "Carbon Fixation Uses ATP and NADPH to Convert CO2 \ninto Sugars",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          70.77978515625,
+          681.205078125
+        ],
+        [
+          360.0450134277344,
+          681.205078125
+        ],
+        [
+          360.0450134277344,
+          707.935432434082
+        ],
+        [
+          70.77978515625,
+          707.935432434082
+        ]
+      ]
+    },
+    {
+      "title": "Figure 14\u201339 A summary of the energy-\nconverting metabolism in chloroplasts.",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          431.478515625,
+          80.982421875
+        ],
+        [
+          577.2463989257812,
+          80.982421875
+        ],
+        [
+          577.2463989257812,
+          99.7462158203125
+        ],
+        [
+          431.478515625,
+          99.7462158203125
+        ]
+      ]
+    },
+    {
+      "title": "Carbon Fixation in Some Plants Is Compartmentalized to Facilitate \nGrowth at Low CO2 Concentrations",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          50.0712890625,
+          692.71728515625
+        ],
+        [
+          394.83587646484375,
+          692.71728515625
+        ],
+        [
+          394.83587646484375,
+          720.7598190307617
+        ],
+        [
+          50.0712890625,
+          720.7598190307617
+        ]
+      ]
+    },
+    {
+      "title": "The Sugars Generated by Carbon Fixation Can Be Stored as \nStarch or Consumed to Produce ATP",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          70.77978515625,
+          300.50830078125
+        ],
+        [
+          387.8963623046875,
+          300.50830078125
+        ],
+        [
+          387.8963623046875,
+          328.4784240722656
+        ],
+        [
+          70.77978515625,
+          328.4784240722656
+        ]
+      ]
+    },
+    {
+      "title": "The Thylakoid Membranes of Chloroplasts Contain the Protein \nComplexes Required for Photosynthesis and ATP Generation",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          70.77978515625,
+          612.92578125
+        ],
+        [
+          395.1923522949219,
+          612.92578125
+        ],
+        [
+          395.1923522949219,
+          638.9784240722656
+        ],
+        [
+          70.77978515625,
+          638.9784240722656
+        ]
+      ]
+    },
+    {
+      "title": "Chlorophyll\u2013Protein Complexes Can Transfer Either Excitation \nEnergy or Electrons",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          49.76220703125,
+          157.9854736328125
+        ],
+        [
+          370.19757080078125,
+          157.9854736328125
+        ],
+        [
+          370.19757080078125,
+          183.989501953125
+        ],
+        [
+          49.76220703125,
+          183.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "A Photosystem Contains Chlorophylls in Antennae \nand a Reaction Center",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          70.77978515625,
+          462.47314453125
+        ],
+        [
+          334.0415954589844,
+          462.47314453125
+        ],
+        [
+          334.0415954589844,
+          488.8814392089844
+        ],
+        [
+          70.77978515625,
+          488.8814392089844
+        ]
+      ]
+    },
+    {
+      "title": "The Thylakoid Membrane Contains Two Different Photosystems \nWorking in Series",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": [
+        [
+          49.76220703125,
+          244.93212890625
+        ],
+        [
+          381.069580078125,
+          244.93212890625
+        ],
+        [
+          381.069580078125,
+          270.989501953125
+        ],
+        [
+          49.76220703125,
+          270.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Photosystem II Uses a Manganese Cluster to Withdraw Electrons \nfrom Water",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": [
+        [
+          71.0888671875,
+          335.8388671875
+        ],
+        [
+          411.22314453125,
+          335.8388671875
+        ],
+        [
+          411.22314453125,
+          362.98944091796875
+        ],
+        [
+          71.0888671875,
+          362.98944091796875
+        ]
+      ]
+    },
+    {
+      "title": "The Cytochrome b6-f Complex Connects Photosystem II \nto Photosystem I",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": [
+        [
+          50.0712890625,
+          383.07861328125
+        ],
+        [
+          345.61102294921875,
+          383.07861328125
+        ],
+        [
+          345.61102294921875,
+          410.6784362792969
+        ],
+        [
+          50.0712890625,
+          410.6784362792969
+        ]
+      ]
+    },
+    {
+      "title": "Figure 14\u201350 Electron flow through the \ncytochrome b6-f complex to NADPH.",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": [
+        [
+          410.15185546875,
+          579.580078125
+        ],
+        [
+          555.5191650390625,
+          579.580078125
+        ],
+        [
+          555.5191650390625,
+          598.0424346923828
+        ],
+        [
+          410.15185546875,
+          598.0424346923828
+        ]
+      ]
+    },
+    {
+      "title": "Photosystem I Carries Out the Second Charge-Separation \nStep in the Z Scheme",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          71.39794921875,
+          348.14501953125
+        ],
+        [
+          375.419921875,
+          348.14501953125
+        ],
+        [
+          375.419921875,
+          374.4784240722656
+        ],
+        [
+          71.39794921875,
+          374.4784240722656
+        ]
+      ]
+    },
+    {
+      "title": "The Chloroplast ATP Synthase Uses the Proton Gradient \nGenerated by the Photosynthetic Light Reactions to Produce ATP",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          72.0,
+          542.66162109375
+        ],
+        [
+          410.1802978515625,
+          542.66162109375
+        ],
+        [
+          410.1802978515625,
+          569.9784240722656
+        ],
+        [
+          72.0,
+          569.9784240722656
+        ]
+      ]
+    },
+    {
+      "title": "The Proton-Motive Force for ATP Production in Mitochondria \nand Chloroplasts Is Essentially the Same",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          49.76220703125,
+          499.78857421875
+        ],
+        [
+          366.08154296875,
+          499.78857421875
+        ],
+        [
+          366.08154296875,
+          526.4784240722656
+        ],
+        [
+          49.76220703125,
+          526.4784240722656
+        ]
+      ]
+    },
+    {
+      "title": "Chemiosmotic Mechanisms Evolved in Stages",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          50.99853515625,
+          661.4744262695312
+        ],
+        [
+          289.031982421875,
+          661.4744262695312
+        ],
+        [
+          289.031982421875,
+          673.4744262695312
+        ],
+        [
+          50.99853515625,
+          673.4744262695312
+        ]
+      ]
+    },
+    {
+      "title": "By Providing an Inexhaustible Source of Reducing Power, \nPhotosynthetic Bacteria Overcame a Major Evolutionary Obstacle",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          70.470703125,
+          394.4854431152344
+        ],
+        [
+          407.8895263671875,
+          394.4854431152344
+        ],
+        [
+          407.8895263671875,
+          420.48944091796875
+        ],
+        [
+          70.470703125,
+          420.48944091796875
+        ]
+      ]
+    },
+    {
+      "title": "The Photosynthetic Electron-Transport Chains of Cyanobacteria \nProduced Atmospheric Oxygen and Permitted New Life-Forms",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          70.77978515625,
+          680.4111328125
+        ],
+        [
+          403.4375305175781,
+          680.4111328125
+        ],
+        [
+          403.4375305175781,
+          707.9894180297852
+        ],
+        [
+          70.77978515625,
+          707.9894180297852
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": [
+        [
+          50.0712890625,
+          511.9034118652344
+        ],
+        [
+          100.7607421875,
+          511.9034118652344
+        ],
+        [
+          100.7607421875,
+          523.9034118652344
+        ],
+        [
+          50.0712890625,
+          523.9034118652344
+        ]
+      ]
+    },
+    {
+      "title": "THE GENETIC SYSTEMS OF MITOCHONDRIA \nAND CHLOROPLASTS",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          71.39794921875,
+          207.34783935546875
+        ],
+        [
+          359.3639831542969,
+          207.34783935546875
+        ],
+        [
+          359.3639831542969,
+          237.349853515625
+        ],
+        [
+          71.39794921875,
+          237.349853515625
+        ]
+      ]
+    },
+    {
+      "title": "The Genetic Systems of Mitochondria and Chloroplasts Resemble \nThose of Prokaryotes",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          71.39794921875,
+          520.0341796875
+        ],
+        [
+          414.95751953125,
+          520.0341796875
+        ],
+        [
+          414.95751953125,
+          546.9894409179688
+        ],
+        [
+          71.39794921875,
+          546.9894409179688
+        ]
+      ]
+    },
+    {
+      "title": "Over Time, Mitochondria and Chloroplasts Have Exported Most \nof Their Genes to the Nucleus by Gene Transfer",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          50.0712890625,
+          282.9854736328125
+        ],
+        [
+          381.5855407714844,
+          282.9854736328125
+        ],
+        [
+          381.5855407714844,
+          308.989501953125
+        ],
+        [
+          50.0712890625,
+          308.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Mitochondria Have a Relaxed Codon Usage and Can Have a \nVariant Genetic Code",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          50.38037109375,
+          79.79150390625
+        ],
+        [
+          367.5718994140625,
+          79.79150390625
+        ],
+        [
+          367.5718994140625,
+          106.489501953125
+        ],
+        [
+          50.38037109375,
+          106.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Chloroplasts and Bacteria Share Many Striking Similarities",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": [
+        [
+          70.77978515625,
+          163.15576171875
+        ],
+        [
+          369.405517578125,
+          163.15576171875
+        ],
+        [
+          369.405517578125,
+          176.4854736328125
+        ],
+        [
+          70.77978515625,
+          176.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Organellar Genes Are Maternally Inherited in Animals and Plants",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          49.453125,
+          210.4854736328125
+        ],
+        [
+          382.1867370605469,
+          210.4854736328125
+        ],
+        [
+          382.1867370605469,
+          222.4854736328125
+        ],
+        [
+          49.453125,
+          222.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Mutations in Mitochondrial DNA Can Cause Severe \nInherited Diseases",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          50.0712890625,
+          646.271484375
+        ],
+        [
+          317.2883605957031,
+          646.271484375
+        ],
+        [
+          317.2883605957031,
+          673.4894104003906
+        ],
+        [
+          50.0712890625,
+          673.4894104003906
+        ]
+      ]
+    },
+    {
+      "title": "Why Do Mitochondria and Chloroplasts Maintain a Costly \nSeparate System for DNA Transcription and Translation?",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": [
+        [
+          71.0888671875,
+          681.205078125
+        ],
+        [
+          369.59759521484375,
+          681.205078125
+        ],
+        [
+          369.59759521484375,
+          707.9284286499023
+        ],
+        [
+          71.0888671875,
+          707.9284286499023
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": [
+        [
+          50.38037109375,
+          440.4854431152344
+        ],
+        [
+          100.55999755859375,
+          440.4854431152344
+        ],
+        [
+          100.55999755859375,
+          452.4854431152344
+        ],
+        [
+          50.38037109375,
+          452.4854431152344
+        ]
+      ]
+    },
+    {
+      "title": "PROBLEMS",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          72.0,
+          82.96728515625
+        ],
+        [
+          146.1719970703125,
+          82.96728515625
+        ],
+        [
+          146.1719970703125,
+          97.06878662109375
+        ],
+        [
+          72.0,
+          97.06878662109375
+        ]
+      ]
+    },
+    {
+      "title": "Which statements are true? Explain why or why not.",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          71.0888671875,
+          110.3583984375
+        ],
+        [
+          311.3389587402344,
+          110.3583984375
+        ],
+        [
+          311.3389587402344,
+          121.416015625
+        ],
+        [
+          71.0888671875,
+          121.416015625
+        ]
+      ]
+    },
+    {
+      "title": "Discuss the following problems.",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          71.70703125,
+          285.8203125
+        ],
+        [
+          219.27902221679688,
+          285.8203125
+        ],
+        [
+          219.27902221679688,
+          295.9150390625
+        ],
+        [
+          71.70703125,
+          295.9150390625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          72.0,
+          78.20361328125
+        ],
+        [
+          159.9340057373047,
+          78.20361328125
+        ],
+        [
+          159.9340057373047,
+          92.84783935546875
+        ],
+        [
+          72.0,
+          92.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          71.70703125,
+          98.44921875
+        ],
+        [
+          107.94000244140625,
+          98.44921875
+        ],
+        [
+          107.94000244140625,
+          109.195068359375
+        ],
+        [
+          71.70703125,
+          109.195068359375
+        ]
+      ]
+    },
+    {
+      "title": "The Mitochondrion",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          71.39794921875,
+          203.25
+        ],
+        [
+          159.25001525878906,
+          203.25
+        ],
+        [
+          159.25001525878906,
+          213.695068359375
+        ],
+        [
+          71.39794921875,
+          213.695068359375
+        ]
+      ]
+    },
+    {
+      "title": "The Proton Pumps of the Electron-Transport Chain",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          70.470703125,
+          357.275390625
+        ],
+        [
+          305.60797119140625,
+          357.275390625
+        ],
+        [
+          305.60797119140625,
+          368.695068359375
+        ],
+        [
+          70.470703125,
+          368.695068359375
+        ]
+      ]
+    },
+    {
+      "title": "ATP Production in Mitochondria",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          335.35400390625,
+          208.8076171875
+        ],
+        [
+          482.73004150390625,
+          208.8076171875
+        ],
+        [
+          482.73004150390625,
+          219.70404052734375
+        ],
+        [
+          335.35400390625,
+          219.70404052734375
+        ]
+      ]
+    },
+    {
+      "title": "Chloroplasts and Photosynthesis",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          335.044921875,
+          378.7119140625
+        ],
+        [
+          488.47003173828125,
+          378.7119140625
+        ],
+        [
+          488.47003173828125,
+          389.2040710449219
+        ],
+        [
+          335.044921875,
+          389.2040710449219
+        ]
+      ]
+    },
+    {
+      "title": "The Genetic Systems of Mitochondria \nand Chloroplasts",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          49.453125,
+          252.474609375
+        ],
+        [
+          227.72998046875,
+          252.474609375
+        ],
+        [
+          227.72998046875,
+          274.695068359375
+        ],
+        [
+          49.453125,
+          274.695068359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          358
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          288
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          363
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 49,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 50,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 51,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 52,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 53,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 54,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 55,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 56,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 57,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 58,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 59,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 60,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          336
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "ListItem",
+          47
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 61,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 14"
+}

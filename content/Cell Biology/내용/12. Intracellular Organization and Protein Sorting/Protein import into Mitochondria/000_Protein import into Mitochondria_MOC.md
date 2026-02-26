@@ -1,0 +1,23 @@
+---
+dg-publish: true
+---
+# Protein import into Mitochondria
+
+미토콘드리아의 단백질 대부분(약 99%)은 핵 유전자로 암호화되어 cytosol에서 합성된 후 수입된다. 나머지 소수만이 미토콘드리아 내부 ribosome에서 합성된다.
+
+![[Cell Biology/출처/md converted/Chapter 12/_page_44_Picture_2.jpeg]]
+*Fig 12-47. 미토콘드리아의 subcompartment. (A) Inner membrane은 matrix space를 둘러싸고 cristae를 형성한다. (B) 비교를 위한 엽록체 구조.*
+
+## 기본 원리
+
+- 모든 mitochondrial precursor protein은 하나 이상의 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Sorting Signal|signal sequence]]를 포함한다.
+- 단백질은 **post-translational** 방식으로, 완전히 합성된 후 **unfolded** 상태로 수입된다 (ER의 co-translational 방식과 달리 미토콘드리아 표면에 ribosome이 거의 결합하지 않음).
+- Cytosolic **hsp70** chaperone이 precursor를 unfolded 상태로 유지한다.
+- 미토콘드리아는 두 개의 막을 가지므로, 각 subcompartment로 단백질을 보내기 위한 여러 경로가 존재한다.
+
+## 목차
+
+- [[Translocators in mitochondrial membrane]] — TOM, TIM23, TIM22, SAM, OXA, MIM 복합체
+- [[Transport into inner mitochondrial membrane]] — inner membrane 단백질의 3가지 경로
+- [[3 Energy source for import]] — ATP, 막전위, 산화환원 전위
+- [[BAM pathway]] — β-barrel 단백질 삽입 (세균과의 유사성)

@@ -1,0 +1,2876 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Visualizing Cells and Their \nMolecules",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.470703125,
+          110.11126708984375
+        ],
+        [
+          367.3599853515625,
+          110.11126708984375
+        ],
+        [
+          367.3599853515625,
+          166.11529541015625
+        ],
+        [
+          70.470703125,
+          166.11529541015625
+        ]
+      ]
+    },
+    {
+      "title": "LOOKING AT CELLS AND MOLECULES \nIN THE LIGHT MICROSCOPE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.0,
+          597.046875
+        ],
+        [
+          320.00860595703125,
+          597.046875
+        ],
+        [
+          320.00860595703125,
+          627.5298309326172
+        ],
+        [
+          72.0,
+          627.5298309326172
+        ]
+      ]
+    },
+    {
+      "title": "IN THIS CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          430.8603515625,
+          241.75634765625
+        ],
+        [
+          533.7000122070312,
+          241.75634765625
+        ],
+        [
+          533.7000122070312,
+          252.7113037109375
+        ],
+        [
+          430.8603515625,
+          252.7113037109375
+        ]
+      ]
+    },
+    {
+      "title": "The Conventional Light Microscope Can Resolve \nDetails 0.2 \u03bcm Apart",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0712890625,
+          647.0654296875
+        ],
+        [
+          305.0867614746094,
+          647.0654296875
+        ],
+        [
+          305.0867614746094,
+          674.0275421142578
+        ],
+        [
+          50.0712890625,
+          674.0275421142578
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9\u20132 A light microscope.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          431.478515625,
+          80.982421875
+        ],
+        [
+          545.9912109375,
+          80.982421875
+        ],
+        [
+          545.9912109375,
+          90.250244140625
+        ],
+        [
+          431.478515625,
+          90.250244140625
+        ]
+      ]
+    },
+    {
+      "title": "Photon Noise Creates Additional Limits to Resolution When Light \nLevels Are Low",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.77978515625,
+          79.79150390625
+        ],
+        [
+          409.6068115234375,
+          79.79150390625
+        ],
+        [
+          409.6068115234375,
+          106.489501953125
+        ],
+        [
+          70.77978515625,
+          106.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Living Cells Are Seen Clearly in a Phase-Contrast \nor a Differential-Interference-Contrast Microscope",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.70703125,
+          362.8330078125
+        ],
+        [
+          327.6347961425781,
+          362.8330078125
+        ],
+        [
+          327.6347961425781,
+          390.48944091796875
+        ],
+        [
+          71.70703125,
+          390.48944091796875
+        ]
+      ]
+    },
+    {
+      "title": "Images Can Be Enhanced and Analyzed by Digital Techniques",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.99853515625,
+          545.83740234375
+        ],
+        [
+          370.8695068359375,
+          545.83740234375
+        ],
+        [
+          370.8695068359375,
+          558.2854614257812
+        ],
+        [
+          50.99853515625,
+          558.2854614257812
+        ]
+      ]
+    },
+    {
+      "title": "Intact Tissues Are Usually Fixed and Sectioned Before Microscopy",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.0,
+          163.15576171875
+        ],
+        [
+          413.26434326171875,
+          163.15576171875
+        ],
+        [
+          413.26434326171875,
+          176.4854736328125
+        ],
+        [
+          72.0,
+          176.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Specific Molecules Can Be Located in Cells by Fluorescence \nMicroscopy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.38037109375,
+          140.92529296875
+        ],
+        [
+          366.05426025390625,
+          140.92529296875
+        ],
+        [
+          366.05426025390625,
+          167.489501953125
+        ],
+        [
+          50.38037109375,
+          167.489501953125
+        ]
+      ]
+    },
+    {
+      "title": "Antibodies Can Be Used to Detect Specific Proteins",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.76220703125,
+          354.099609375
+        ],
+        [
+          318.1775207519531,
+          354.099609375
+        ],
+        [
+          318.1775207519531,
+          366.6034240722656
+        ],
+        [
+          49.76220703125,
+          366.6034240722656
+        ]
+      ]
+    },
+    {
+      "title": "Individual Proteins Can Be Fluorescently Tagged in Living Cells \nand Organisms",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          72.0,
+          244.53515625
+        ],
+        [
+          395.86553955078125,
+          244.53515625
+        ],
+        [
+          395.86553955078125,
+          271.449462890625
+        ],
+        [
+          72.0,
+          271.449462890625
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9\u201315 Indirect immunocytochemistry.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          431.16943359375,
+          80.58544921875
+        ],
+        [
+          586.904052734375,
+          80.58544921875
+        ],
+        [
+          586.904052734375,
+          90.250244140625
+        ],
+        [
+          431.16943359375,
+          90.250244140625
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9\u201316 Green fluorescent protein \n(GFP). (A) The structure of GFP, shown \nhere schematically, highlights the eleven \n\u03b2 strands that form the staves of a \nbarrel, buried within which is the active \nchromophore (dark green). (B) The \nchromophore is formed post-translationally \nfrom the protruding side chains of \ntwo amino acid residues in a series of \nautocatalytic steps. (A, PDB code: 1EMA, \nfrom M. Orm\u00f6 et al., Science 273:1392\u2013\n1395, 1996. With permission from AAAS.)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          431.78759765625,
+          439.9962158203125
+        ],
+        [
+          581.4022216796875,
+          439.9962158203125
+        ],
+        [
+          581.4022216796875,
+          552.3946228027344
+        ],
+        [
+          431.78759765625,
+          552.3946228027344
+        ]
+      ]
+    },
+    {
+      "title": "Protein Dynamics Can Be Followed in Living Cells",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.39794921875,
+          129.4130859375
+        ],
+        [
+          330.2879638671875,
+          129.4130859375
+        ],
+        [
+          330.2879638671875,
+          141.9854736328125
+        ],
+        [
+          71.39794921875,
+          141.9854736328125
+        ]
+      ]
+    },
+    {
+      "title": "Fluorescent Biosensors Can Monitor Cell Signaling",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.99853515625,
+          569.6034240722656
+        ],
+        [
+          311.24560546875,
+          569.6034240722656
+        ],
+        [
+          311.24560546875,
+          581.6034088134766
+        ],
+        [
+          50.99853515625,
+          581.6034088134766
+        ]
+      ]
+    },
+    {
+      "title": "Imaging of Complex Three-dimensional Objects Is Possible with \nthe Optical Microscope",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          71.70703125,
+          601.0166015625
+        ],
+        [
+          403.15069580078125,
+          601.0166015625
+        ],
+        [
+          403.15069580078125,
+          627.4074096679688
+        ],
+        [
+          71.70703125,
+          627.4074096679688
+        ]
+      ]
+    },
+    {
+      "title": "The Confocal Microscope Produces Optical Sections \nby Excluding Out-of-Focus Light",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.0712890625,
+          624.9244232177734
+        ],
+        [
+          327.1067199707031,
+          624.9244232177734
+        ],
+        [
+          327.1067199707031,
+          650.9284210205078
+        ],
+        [
+          50.0712890625,
+          650.9284210205078
+        ]
+      ]
+    },
+    {
+      "title": "Superresolution Fluorescence Techniques Can Overcome \nDiffraction-limited Resolution",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          50.99853515625,
+          520.43115234375
+        ],
+        [
+          349.7843322753906,
+          520.43115234375
+        ],
+        [
+          349.7843322753906,
+          546.9214477539062
+        ],
+        [
+          50.99853515625,
+          546.9214477539062
+        ]
+      ]
+    },
+    {
+      "title": "Single-Molecule Localization Microscopy Also Delivers \nSuperresolution",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          71.0888671875,
+          221.6973876953125
+        ],
+        [
+          353.62677001953125,
+          221.6973876953125
+        ],
+        [
+          353.62677001953125,
+          247.701416015625
+        ],
+        [
+          71.0888671875,
+          247.701416015625
+        ]
+      ]
+    },
+    {
+      "title": "Expanding the Specimen Can Offer Higher Resolution, \nbut with a Conventional Microscope\nMBoC7 n9.112/9.34",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          71.0888671875,
+          370.37548828125
+        ],
+        [
+          355.4135437011719,
+          370.37548828125
+        ],
+        [
+          355.4135437011719,
+          397.50543212890625
+        ],
+        [
+          71.0888671875,
+          397.50543212890625
+        ]
+      ]
+    },
+    {
+      "title": "(A and B) Two orthogonal views of the \nsame cultured human nasal epithelial \ncells that have been stained with a \nfluorescent dye, expanded by ten times, \nand then imaged by conventional confocal \nmicroscopy. The hollow centers of ciliary \nbasal bodies, which are not resolvable \nby conventional microscopy, are clearly \nvisible in both top view (A) and side view (B) \n(red arrows) (see Movie 9.1). (C and D) \nA segment of mouse brain lateral \nhypothalamus, 800 \u00d7 800 \u00d7 300 \u03bcm, \nthat has been expanded by a factor of \n2, probed by sequential rounds of in situ\nRNA hybridization, and imaged by light-\nsheet microscopy. The cellular expression \npatterns of six different genes are shown: \nGad1 (red), Slc17a6 (green), Hcrt (blue), \nTrh (yellow), Calb2 (magenta), and Meis2\n(cyan). (A and B, courtesy of Hugo \nDamstra, Lukas Kapitein, and Paul Tillberg; \nC and D, courtesy of Yuhan Wang, Mark \nEddison, Scott Sternson, and Paul Tillberg.)",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          409.53369140625,
+          91.6885986328125
+        ],
+        [
+          561.29443359375,
+          91.6885986328125
+        ],
+        [
+          561.29443359375,
+          314.40234375
+        ],
+        [
+          409.53369140625,
+          314.40234375
+        ]
+      ]
+    },
+    {
+      "title": "Large Multicellular Structures Can Be Imaged Over Time",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          50.99853515625,
+          361.9604187011719
+        ],
+        [
+          340.91748046875,
+          361.9604187011719
+        ],
+        [
+          340.91748046875,
+          373.9604187011719
+        ],
+        [
+          50.99853515625,
+          373.9604187011719
+        ]
+      ]
+    },
+    {
+      "title": "Single Molecules Can Be Visualized by Total Internal Reflection \nFluorescence Microscopy",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          71.0888671875,
+          339.80859375
+        ],
+        [
+          396.8243408203125,
+          339.80859375
+        ],
+        [
+          396.8243408203125,
+          367.0284423828125
+        ],
+        [
+          71.0888671875,
+          367.0284423828125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9\u201338 TIRF microscopy allows \nthe detection of single fluorescent \nmolecules near the cell surface.",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          432.0,
+          345.3662109375
+        ],
+        [
+          567.4951782226562,
+          345.3662109375
+        ],
+        [
+          567.4951782226562,
+          373.771240234375
+        ],
+        [
+          432.0,
+          373.771240234375
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          51.0,
+          79.79150390625
+        ],
+        [
+          100.55999755859375,
+          79.79150390625
+        ],
+        [
+          100.55999755859375,
+          92.4854736328125
+        ],
+        [
+          51.0,
+          92.4854736328125
+        ]
+      ]
+    },
+    {
+      "title": "LOOKING AT CELLS AND MOLECULES IN THE \nELECTRON MICROSCOPE",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          51.0,
+          335.044921875
+        ],
+        [
+          345.6986389160156,
+          335.044921875
+        ],
+        [
+          345.6986389160156,
+          365.849853515625
+        ],
+        [
+          51.0,
+          365.849853515625
+        ]
+      ]
+    },
+    {
+      "title": "The Electron Microscope Resolves the Fine Structure of the Cell",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          50.38037109375,
+          522.81298828125
+        ],
+        [
+          379.3403625488281,
+          522.81298828125
+        ],
+        [
+          379.3403625488281,
+          535.4854431152344
+        ],
+        [
+          50.38037109375,
+          535.4854431152344
+        ]
+      ]
+    },
+    {
+      "title": "Biological Specimens Require Special Preparation \nfor Electron Microscopy",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          71.70703125,
+          566.876953125
+        ],
+        [
+          332.10955810546875,
+          566.876953125
+        ],
+        [
+          332.10955810546875,
+          592.9584197998047
+        ],
+        [
+          71.70703125,
+          592.9584197998047
+        ]
+      ]
+    },
+    {
+      "title": "Heavy Metals Can Provide Additional Contrast",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          50.99853515625,
+          707.3744277954102
+        ],
+        [
+          292.1748352050781,
+          707.3744277954102
+        ],
+        [
+          292.1748352050781,
+          719.3744277954102
+        ],
+        [
+          50.99853515625,
+          719.3744277954102
+        ]
+      ]
+    },
+    {
+      "title": "Images of Surfaces Can Be Obtained by Scanning Electron \nMicroscopy",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          71.0888671875,
+          693.4884338378906
+        ],
+        [
+          380.1083679199219,
+          693.4884338378906
+        ],
+        [
+          380.1083679199219,
+          719.492431640625
+        ],
+        [
+          71.0888671875,
+          719.492431640625
+        ]
+      ]
+    },
+    {
+      "title": "Electron Microscope Tomography Allows the Molecular \nArchitecture of Cells to Be Seen in Three Dimensions",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.16162109375,
+          428.73046875
+        ],
+        [
+          358.33074951171875,
+          428.73046875
+        ],
+        [
+          358.33074951171875,
+          454.992431640625
+        ],
+        [
+          70.16162109375,
+          454.992431640625
+        ]
+      ]
+    },
+    {
+      "title": "SINGLE-PARTICLE RECONSTRUCTION BY CRYOEM",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          69.54345703125,
+          94.87646484375
+        ],
+        [
+          298.9656982421875,
+          94.87646484375
+        ],
+        [
+          298.9656982421875,
+          106.51763916015625
+        ],
+        [
+          69.54345703125,
+          106.51763916015625
+        ]
+      ]
+    },
+    {
+      "title": "CRYOEM STRUCTURE OF \nTHE RIBOSOME",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          72.63427734375,
+          547.0283203125
+        ],
+        [
+          192.48568725585938,
+          547.0283203125
+        ],
+        [
+          192.48568725585938,
+          567.8176574707031
+        ],
+        [
+          72.63427734375,
+          567.8176574707031
+        ]
+      ]
+    },
+    {
+      "title": "Cryo-electron Microscopy Can Determine Molecular Structures \nat Atomic Resolution\nMBoC7 n9.131/9.48",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.0888671875,
+          321.6107482910156
+        ],
+        [
+          398.7731628417969,
+          321.6107482910156
+        ],
+        [
+          398.7731628417969,
+          351.4354248046875
+        ],
+        [
+          71.0888671875,
+          351.4354248046875
+        ]
+      ]
+    },
+    {
+      "title": "Light Microscopy and Electron Microscopy Are Mutually Beneficial\nMBoC7 n9.133/9.51",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          70.77978515625,
+          319.56298828125
+        ],
+        [
+          410.99749755859375,
+          319.56298828125
+        ],
+        [
+          410.99749755859375,
+          332.73443603515625
+        ],
+        [
+          70.77978515625,
+          332.73443603515625
+        ]
+      ]
+    },
+    {
+      "title": "EZH2 nucleosome\nDNA\nH3 histone tail\nlysine 27\nhistone core",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          167.03700256347656,
+          490.26123046875
+        ],
+        [
+          400.26123046875,
+          490.26123046875
+        ],
+        [
+          400.26123046875,
+          759.40869140625
+        ],
+        [
+          167.03700256347656,
+          759.40869140625
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9\u201351 Atomic resolution by",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          429.005859375,
+          249.69580078125
+        ],
+        [
+          554.4970092773438,
+          249.69580078125
+        ],
+        [
+          554.4970092773438,
+          261.0672607421875
+        ],
+        [
+          429.005859375,
+          261.0672607421875
+        ]
+      ]
+    },
+    {
+      "title": "Using Microscopy to Study Cells Always Involves Trade-Offs",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          50.99853515625,
+          546.3854370117188
+        ],
+        [
+          359.72039794921875,
+          546.3854370117188
+        ],
+        [
+          359.72039794921875,
+          558.3854370117188
+        ],
+        [
+          50.99853515625,
+          558.3854370117188
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          71.39794921875,
+          580.8744201660156
+        ],
+        [
+          121.55999755859375,
+          580.8744201660156
+        ],
+        [
+          121.55999755859375,
+          592.8744201660156
+        ],
+        [
+          71.39794921875,
+          592.8744201660156
+        ]
+      ]
+    },
+    {
+      "title": "PROBLEMS",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          51.013397216796875,
+          78.6005859375
+        ],
+        [
+          125.18539428710938,
+          78.6005859375
+        ],
+        [
+          125.18539428710938,
+          92.84783935546875
+        ],
+        [
+          51.013397216796875,
+          92.84783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Which statements are true? Explain why or why not.",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          49.76220703125,
+          107.1826171875
+        ],
+        [
+          290.35235595703125,
+          107.1826171875
+        ],
+        [
+          290.35235595703125,
+          117.195068359375
+        ],
+        [
+          49.76220703125,
+          117.195068359375
+        ]
+      ]
+    },
+    {
+      "title": "Discuss the following problems.",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          50.38037109375,
+          249.298828125
+        ],
+        [
+          198.30201721191406,
+          249.298828125
+        ],
+        [
+          198.30201721191406,
+          260.195068359375
+        ],
+        [
+          50.38037109375,
+          260.195068359375
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          72.0,
+          478.92181396484375
+        ],
+        [
+          159.9340057373047,
+          478.92181396484375
+        ],
+        [
+          159.9340057373047,
+          492.92181396484375
+        ],
+        [
+          72.0,
+          492.92181396484375
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          71.0888671875,
+          498.20068359375
+        ],
+        [
+          107.94000244140625,
+          498.20068359375
+        ],
+        [
+          107.94000244140625,
+          509.26904296875
+        ],
+        [
+          71.0888671875,
+          509.26904296875
+        ]
+      ]
+    },
+    {
+      "title": "Looking at Cells and Molecules in the Light \nMicroscope",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          71.0888671875,
+          576.00732421875
+        ],
+        [
+          273.5599670410156,
+          576.00732421875
+        ],
+        [
+          273.5599670410156,
+          598.2690582275391
+        ],
+        [
+          71.0888671875,
+          598.2690582275391
+        ]
+      ]
+    },
+    {
+      "title": "Looking at Cells and Molecules in the Electron \nMicroscope",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          49.76220703125,
+          524.40087890625
+        ],
+        [
+          267.5779724121094,
+          524.40087890625
+        ],
+        [
+          267.5779724121094,
+          547.695068359375
+        ],
+        [
+          49.76220703125,
+          547.695068359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "FigureGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          274
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 9"
+}
