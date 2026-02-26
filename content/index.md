@@ -20,3 +20,11 @@ title: 🧬AUSOM 세포생물학 노트
 	내용에 이미지 링크 수정
 	index 파일 수정
 	세포생물학 내용 moc 제작
+
+
+
+
+
+---
+
+vault organized by 24 CHAE
