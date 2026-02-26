@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 1 - Citrate Synthase
 
 ## 반응

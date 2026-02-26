@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transport of Lysosomal Hydrolases to Endosomes
 
 Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전달된다. 이는 TGN에서 가장 잘 이해된 sorting 메커니즘이다.

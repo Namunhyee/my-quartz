@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # FRET (Förster Resonance Energy Transfer)
 
 ## 개요

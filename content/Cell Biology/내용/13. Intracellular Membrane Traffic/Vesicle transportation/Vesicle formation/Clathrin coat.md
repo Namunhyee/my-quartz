@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Clathrin coat
 
 ## 구조

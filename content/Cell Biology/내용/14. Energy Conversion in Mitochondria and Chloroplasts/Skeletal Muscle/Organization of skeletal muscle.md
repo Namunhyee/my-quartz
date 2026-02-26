@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Organization of Skeletal Muscle
 
 ## 계층 구조 (Hierarchical Organization)

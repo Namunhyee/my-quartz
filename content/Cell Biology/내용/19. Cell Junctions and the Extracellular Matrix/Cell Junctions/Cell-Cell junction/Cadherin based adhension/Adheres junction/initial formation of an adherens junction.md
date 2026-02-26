@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Initial Formation of an Adherens Junction
 
 ## Cortical Tension과 Junction 형성

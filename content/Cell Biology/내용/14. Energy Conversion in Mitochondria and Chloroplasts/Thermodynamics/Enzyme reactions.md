@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Enzyme Reactions
 
 ## 효소의 역할

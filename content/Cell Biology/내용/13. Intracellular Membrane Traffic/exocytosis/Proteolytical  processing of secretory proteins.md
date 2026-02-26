@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Secretory Proteins Processing
 
 ## 개요

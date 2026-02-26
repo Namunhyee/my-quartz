@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Proton Pumping
 
 ## 개요

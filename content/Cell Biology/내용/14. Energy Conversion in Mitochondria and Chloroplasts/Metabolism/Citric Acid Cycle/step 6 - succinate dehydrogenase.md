@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 6 - Succinate Dehydrogenase
 
 ## 반응

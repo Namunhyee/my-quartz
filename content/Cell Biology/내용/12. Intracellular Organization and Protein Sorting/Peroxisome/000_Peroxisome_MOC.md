@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Peroxisome
 
 Peroxisome은 사실상 모든 진핵세포에 존재하는 세포 소기관으로, 산소를 이용한 산화 반응의 주요 장소이다. 기본 구조와 개요는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Membrane-enclosed Organelles/Peroxisome|Peroxisome]] 노트를 참조.

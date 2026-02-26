@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Epithelial Cells in the Small Intestine
 
 소장의 상피는 **simple columnar epithelium** 구조로, 하나의 tall(columnar) 세포층이 basal lamina 위에 서있다.

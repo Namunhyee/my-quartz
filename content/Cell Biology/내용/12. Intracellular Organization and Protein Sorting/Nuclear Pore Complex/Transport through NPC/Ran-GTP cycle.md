@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Ran-GTP Cycle
 
 **Ran GTPase**는 핵 수입과 수출 모두에 방향성을 부여하는 핵심 분자이다. GTP 결합/가수분해 상태에 따라 두 가지 구조로 전환되는 molecular switch이다.

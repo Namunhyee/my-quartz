@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # N-linked Glycosylation
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Actin Arrays
 
 세포 내 actin filament는 여러 accessory protein의 작용을 통해 다양한 형태의 array로 조직화된다. 주요 array는 세포의 피질(cortex)에서 만들어지며, 각각 특정 nucleating protein에 의해 개시된다.
@@ -23,7 +20,7 @@ dg-publish: true
 **Contractile bundle (stress fiber)**
 - 반대 극성의 actin filament가 myosin II와 함께 수축성 구조 형성
 - Focal adhesion에 연결되어 세포가 기질에 traction 생성
-- [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/Myosin II|Myosin II]]가 수축력을 제공
+- [[Myosin II|Myosin II]]가 수축력을 제공
 
 **Cortical actin network**
 - Plasma membrane 바로 아래, 2D 또는 3D network

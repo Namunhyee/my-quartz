@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Talin
 
 Talin은 [[integrin_MOC|integrin]]과 actin cytoskeleton을 연결하는 거대한 adaptor protein이다. [[Cell-Matrix Junctions_MOC|Cell–matrix junction]]에서 핵심적인 역할을 하며, **mechanosensor**로서 기계적 장력을 감지하고 이에 반응한다.
@@ -34,14 +31,14 @@ Talin은 비활성 상태에서 자가억제 구조를 취한다: C-terminal act
 3. Integrin이 inactive(folded) → active(extended) 상태로 전환
 4. Talin이 actin filament와 결합하여 cytoskeleton 연결 완성
 
-이 과정을 **inside-out signaling**이라 하며, 세포 내부 신호가 integrin의 세포 외부 matrix-binding 활성을 조절한다.
+이 과정을 [[integrin_MOC#^6a5ea7|inside-out signaling]]이라 하며, 세포 내부 신호가 integrin의 세포 외부 matrix-binding 활성을 조절한다.
 
 ## Mechanotransduction: Talin as a Tension Sensor
 
 ![[Cell Biology/출처/md converted/Chapter 19/_page_48_Figure_5.jpeg]]
 *Figure 19-61. Talin의 mechanosensing 메커니즘. (A) Talin rod domain은 여러 접힌 domain으로 구성되며, 각각 숨겨진 vinculin 결합 부위를 포함한다. (B) Magnetic bead를 이용한 실험: talin fragment를 유리 표면에 고정하고 자기력으로 늘렸을 때, 늘어나지 않은 talin은 vinculin을 거의 결합하지 않았으나, 늘어난 talin은 2-3개의 vinculin을 결합했다.*
 
-Talin의 가장 중요한 기능 중 하나는 **mechanosensor**로서 장력을 감지하는 것이다 (→ [[mechanotransduction in an adherence junction]]과 유사한 원리):
+Talin의 가장 중요한 기능 중 하나는 **mechanosensor**로서 장력을 감지하는 것이다 (→ [[mechanotransduction in an adherence junction]]의 alpha-catenin과 유사한 원리):
 
 1. Actin filament가 non-muscle myosin II에 의해 수축하면 talin에 장력이 가해진다
 2. 장력이 talin rod domain의 접힌 구조를 펼친다(unfold)

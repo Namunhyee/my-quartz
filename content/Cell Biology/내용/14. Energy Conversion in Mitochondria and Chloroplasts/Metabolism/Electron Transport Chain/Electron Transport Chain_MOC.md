@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Electron Transport Chain
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![[Chapter 9.pdf#page=6&selection=73,0,75,1|w-100% h-50% styled]]
 # 그림 9-7 네 가지 유형의 광학현미경
 

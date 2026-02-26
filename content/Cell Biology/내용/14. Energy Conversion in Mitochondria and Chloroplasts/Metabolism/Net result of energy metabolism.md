@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Net Result of Energy Metabolism
 
 ## 교과서 Table 14-3 요약

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Membrane Bending Protein
 
 ## 개요

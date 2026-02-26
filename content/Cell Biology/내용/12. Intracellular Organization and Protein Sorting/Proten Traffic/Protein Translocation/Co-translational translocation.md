@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # 과정
 ## transporting polypeptide into translocator
 [[SRP]]와 [[SRP receptor]]는 ribosome을 [[Endoplasmic Reticulum]] membrane으로 안내한다. Ribosome이 [[Sec61 complex|translocator]]와 결합하면, 성장하는 polypeptide chain이 만들어지는 동안 membrane을 가로질러 threading된다.

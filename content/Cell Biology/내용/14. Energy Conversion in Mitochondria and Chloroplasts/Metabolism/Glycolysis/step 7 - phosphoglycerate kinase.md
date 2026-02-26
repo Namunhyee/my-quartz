@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 7 - Phosphoglycerate Kinase
 
 ## 반응

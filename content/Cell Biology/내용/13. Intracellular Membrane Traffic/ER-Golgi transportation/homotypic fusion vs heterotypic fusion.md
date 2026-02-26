@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # homotypic fusion vs heterotypic fusion
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein translocation
 
 Transmembrane protein [[Sec61 complex|translocator]]가 cytosol에서 topologically distinct한 공간(membrane의 반대편 또는 integral membrane protein의 경우 lipid bilayer 내부)으로 특정 단백질을 직접 수송한다. 수송되는 단백질 분자는 일반적으로 [[Sec61 complex|translocator]]를 통과하기 위해 펼쳐져야 한다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Fibrous Proteins_MOC
 
 Fibrous protein은 신장된(elongated) polypeptide chain으로 구성되며, 세포와 조직에 **강도(strength)**와 **보호(protection)**를 제공한다. ECM의 주요 구조적 구성요소이다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Glycolipid
 
 Glycolipid는 sugar를 포함하는 lipid molecule이다. 모든 진핵세포 plasma membrane의 표면에서 발견되며, membrane 분포에서 가장 극단적인 asymmetry를 보인다.

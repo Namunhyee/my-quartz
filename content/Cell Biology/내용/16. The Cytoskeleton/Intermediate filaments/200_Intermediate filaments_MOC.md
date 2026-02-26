@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Intermediate Filaments_MOC
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_1_Figure_6.jpeg]]

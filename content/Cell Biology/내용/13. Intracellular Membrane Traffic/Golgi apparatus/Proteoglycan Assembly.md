@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Proteoglycan Assembly
 
 ## Proteoglycan이란

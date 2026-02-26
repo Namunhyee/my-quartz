@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Localization Signals (NLS)
 
 NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting signal이다.

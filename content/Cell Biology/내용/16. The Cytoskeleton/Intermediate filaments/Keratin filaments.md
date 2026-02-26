@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Keratin Filaments
 
 Keratin은 intermediate filament 중 가장 다양한 계열이다. 인간 유전체에는 54종의 distinct keratin이 존재하며, 그 중 약 20종은 서로 다른 유형의 상피세포에서, 나머지 약 10종은 모발과 손발톱에 특이적으로 발현된다.

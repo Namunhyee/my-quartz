@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Phospholipid
 
 Phospholipid는 세포막의 가장 풍부한 lipid로, [[Major lipids in cell membrane]]의 주요 성분이다. 모든 phospholipid는 [[Amphiphilic molecule]]이며, polar head group (phosphate group 포함)과 두 개의 hydrophobic hydrocarbon tail을 가진다.

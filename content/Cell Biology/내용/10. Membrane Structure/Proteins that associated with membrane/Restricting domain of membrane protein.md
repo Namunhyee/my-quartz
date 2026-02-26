@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Restricting Domain of Membrane Protein
 
 세포는 [[Membrane protein]]과 lipid molecule을 continuous lipid bilayer 내의 특정 domain에 국한시키는 여러 방법을 가지고 있다. 생물학적 membrane이 2차원 fluid라는 인식은 membrane 구조와 기능 이해에 중요한 진보였지만, 모든 protein이 lipid sea에서 자유롭게 떠다니는 그림은 크게 단순화된 것이다.

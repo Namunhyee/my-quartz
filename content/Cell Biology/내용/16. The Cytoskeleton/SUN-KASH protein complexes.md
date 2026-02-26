@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # SUN-KASH Protein Complexes
 
 SUN-KASH protein complex(LINC complex: Linker of Nucleoskeleton and Cytoskeleton)는 핵막을 가로질러 핵 내부와 세포질 세포골격을 기계적으로 연결하는 단백질 복합체이다.

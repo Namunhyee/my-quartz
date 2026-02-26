@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transport through NPC
 
 NPC를 통한 수송은 다른 organelle의 막을 가로지르는 수송과 근본적으로 다르다. NPC는 단백질 translocator처럼 닫힌 채널이 아니라, **항상 열려 있는 대형 pore**를 통해 수송이 이루어진다. 따라서 완전히 접힌 단백질과 대형 복합체도 양방향으로 수송될 수 있다.

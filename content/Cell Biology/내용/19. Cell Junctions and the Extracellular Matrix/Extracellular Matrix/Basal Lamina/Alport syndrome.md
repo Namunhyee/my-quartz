@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Alport Syndrome
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_41_Picture_2.jpeg]]
@@ -8,7 +5,6 @@ dg-publish: true
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_41_Picture_6.jpeg]]
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_41_Picture_8.jpeg]]
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_41_Figure_10.jpeg]]
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_41_Picture_11.jpeg]]
 
 **Alport syndrome**은 **type IV collagen 유전자** 돌연변이로 인한 유전성 신장 질환이다.
 

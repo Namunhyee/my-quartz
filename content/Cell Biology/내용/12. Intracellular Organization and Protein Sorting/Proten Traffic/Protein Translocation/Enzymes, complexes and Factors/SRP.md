@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # SRP (Signal-Recognition Particle)
 
 [[Sorting Signal#Signal Sequences|ER signal sequence]]를 인식하고 결합하여 ribosome을 [[Endoplasmic Reticulum]] membrane의 특정 receptor로 안내하는 복합체.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nucleolus
 
 Nucleolus는 진핵세포의 핵에서 가장 크고 뚜렷한 **biomolecular condensate**로, ribosome 조립이 이루어지는 장소이다.

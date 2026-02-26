@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Tight Junction Genetic Disorder
 
 (추후 작성 예정)

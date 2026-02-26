@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Monomeric GTPase control of Coat Assembly
 
 Coat assembly의 시작과 해체는 coat-recruitment GTPase라는 monomeric GTPase family에 의해 조절된다. 이들은 언제 어디서 vesicle이 형성될지를 결정하는 spatial과 temporal cue를 제공한다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Substrate Activation
 
 ## 정의

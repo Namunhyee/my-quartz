@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Homophilic vs Heterophilic Binding
 
 ![[Cell Biology/출처/md converted/Chapter 19/_page_4_Picture_7.jpeg]]

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Pore Complex (structure)
 
 NPC는 진핵세포의 nuclear envelope을 관통하는 대형 단백질 복합체로, 핵과 세포질 사이의 광범위한 양방향 수송의 통로이다.

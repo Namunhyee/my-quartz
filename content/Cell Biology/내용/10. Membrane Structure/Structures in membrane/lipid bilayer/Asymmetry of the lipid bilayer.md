@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Asymmetry of the Lipid Bilayer
 
 [[Lipid bilayer]]의 두 monolayer는 lipid 조성이 현저하게 다르다. 이 lipid asymmetry는 기능적으로 중요하며, 특히 extracellular signal을 intracellular signal로 변환하는데 필수적이다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Proteoglycan
 
 Hyaluronan을 제외한 모든 [[GAG]]는 단백질에 공유결합하여 **proteoglycan**을 형성한다.

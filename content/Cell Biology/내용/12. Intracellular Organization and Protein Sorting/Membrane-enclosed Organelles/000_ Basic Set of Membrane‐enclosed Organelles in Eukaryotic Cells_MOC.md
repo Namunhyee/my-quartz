@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # [[Nucleus]]
 contains genome; site of DNA and RNA synthesis
 # [[Cytoplasm]]

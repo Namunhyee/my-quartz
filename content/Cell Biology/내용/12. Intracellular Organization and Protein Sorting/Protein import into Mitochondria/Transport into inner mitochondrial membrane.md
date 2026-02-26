@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transport into Inner Mitochondrial Membrane
 
 Inner mitochondrial membrane 단백질은 최소 세 가지 경로를 통해 막에 삽입된다.

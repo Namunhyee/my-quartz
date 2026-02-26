@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Microtubule Organization in a Neuron
 
 ![[Cell Biology/출처/md converted/Chapter 16/ppt로부터_ Figure 16-62.png]]

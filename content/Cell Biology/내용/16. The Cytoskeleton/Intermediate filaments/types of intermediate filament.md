@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Types of Intermediate Filament
 
 척추동물 세포의 intermediate filament 단백질은 세포 유형과 위치에 따라 크게 네 그룹으로 분류된다 (Table 16–2).
@@ -20,7 +17,7 @@ dg-publish: true
 
 **Nuclear lamin**은 actin이나 tubulin 수준으로 진화적으로 보존된 가장 오래된 intermediate filament 단백질이다. 내핵막을 지지하는 핵막하 망상 구조(nuclear lamina)를 형성한다. 유사분열 시 인산화에 의해 해체되었다가 세포분열 이후 재조립된다.
 
-**Vimentin-like 그룹**은 중배엽 기원 세포(섬유아세포, 내피세포 등)에서 주로 발현되며, desmin은 근육 세포에서 sarcomere의 Z disc 주위에 scaffold를 형성한다 (→ [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/Organization of accessory proteins in a sarcomere|Organization of accessory proteins in a sarcomere]]). Vimentin 필라멘트는 세포분열이나 이동 시 역동적으로 재조직될 수 있으며, 인산화가 그 해체를 조절한다.
+**Vimentin-like 그룹**은 중배엽 기원 세포(섬유아세포, 내피세포 등)에서 주로 발현되며, desmin은 근육 세포에서 sarcomere의 Z disc 주위에 scaffold를 형성한다 (→ [[Organization of accessory proteins in a sarcomere|Organization of accessory proteins in a sarcomere]]). Vimentin 필라멘트는 세포분열이나 이동 시 역동적으로 재조직될 수 있으며, 인산화가 그 해체를 조절한다.
 
 **Keratin 필라멘트**는 intermediate filament 중 가장 다양한 계열로, 상세한 내용은 [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/Keratin filaments|Keratin filaments]] 참조.
 

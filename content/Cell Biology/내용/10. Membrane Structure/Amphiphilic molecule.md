@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Amphiphilic Molecule
 
 Amphiphilic molecule (또는 amphipathic molecule)은 hydrophilic ("물을 좋아하는") 또는 polar 부분과 hydrophobic ("물을 싫어하는") 또는 nonpolar 부분을 모두 가진 분자이다. 세포막의 모든 lipid molecule은 amphiphilic 특성을 가지며, 많은 [[Membrane protein]]도 amphiphilic이다.

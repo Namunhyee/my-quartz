@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Visualizing Cells and Their Molecules
 
 CHAPTER

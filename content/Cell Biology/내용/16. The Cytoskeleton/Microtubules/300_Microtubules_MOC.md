@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Microtubules_MOC
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_1_Figure_4.jpeg]]

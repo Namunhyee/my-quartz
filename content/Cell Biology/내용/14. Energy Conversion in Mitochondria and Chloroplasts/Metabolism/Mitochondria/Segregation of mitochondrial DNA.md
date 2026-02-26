@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Segregation of Mitochondrial DNA
 
 ## 개요

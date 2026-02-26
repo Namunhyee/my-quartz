@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Plectin
 
 Plectin은 **plakin** 계열 단백질 중 하나로, plakin은 대형 modular 단백질로서 세포골격 필라멘트들을 서로, 그리고 junction complex에 연결하는 여러 domain을 가진다. Plectin은 세포골격 통합의 대표적인 예시이다.

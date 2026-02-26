@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # ESCRT Protein Complex
 
 **ESCRT (Endosomal Sorting Complexes Required for Transport) 단백질 복합체**는 multivesicular body에서<font color="#245bdb"> intralumenal vesicle 형성을 매개하는 일련의 세포질 단백질 복합체</font>이다.

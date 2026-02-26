@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 # 원리
 >[!scheme]

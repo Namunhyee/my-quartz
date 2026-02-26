@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Envelope
 
 Nuclear envelope은 두 개의 동심 막(inner/outer nuclear membrane)으로 구성되며, 핵 구획을 세포질로부터 분리한다.

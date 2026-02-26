@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transmembrane Protein Processing in [[Co-translational translocation]]
 ### Figure 12-26
 ![[Cell Biology/출처/md converted/Chapter 12/_page_26_Picture_7.jpeg]]

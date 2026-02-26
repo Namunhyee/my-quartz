@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cadherin-Dependent Cell Sorting
 
 ## 조직 조직화(Organization of Developing Tissues)에서 Cadherin의 역할

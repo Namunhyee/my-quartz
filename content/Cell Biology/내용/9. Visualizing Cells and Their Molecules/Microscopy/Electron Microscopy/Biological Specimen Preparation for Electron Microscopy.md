@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Biological Specimen Preparation for Electron Microscopy
 
 ## 개요

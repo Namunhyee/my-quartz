@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cholesterol
 
 Cholesterol은 동물 세포에서 발견되는 주요 sterol이다. Sterol은 steroid와 관련된 rigid ring structure를 가지지만 단일 polar hydroxyl group과 짧은 nonpolar hydrocarbon chain을 포함한다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # GAG
 
 Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다.

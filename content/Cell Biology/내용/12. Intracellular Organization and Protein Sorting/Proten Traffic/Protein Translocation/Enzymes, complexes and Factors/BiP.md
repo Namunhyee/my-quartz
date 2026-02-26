@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # BiP (Binding Protein)
 
 [[Endoplasmic Reticulum#^5cd609|ER lumen]]에서 단백질 folding을 돕는 주요 chaperone protein으로, hsp70 family의 구성원이다.

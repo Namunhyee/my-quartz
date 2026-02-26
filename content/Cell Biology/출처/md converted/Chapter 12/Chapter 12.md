@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Intracellular Organization and Protein Sorting
 
 CHAPTER

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 8 - Phosphoglycerate Mutase
 
 ## 반응

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Dorsal Protein Production Control
 
 **Dorsal** 단백질은 초파리(*Drosophila*) 배아 발생에서 등쪽(dorsal)과 배쪽(ventral) 분화를 제어하는 전사 조절 인자이다. 핵 내 위치 여부가 유전자 발현을 조절한다.

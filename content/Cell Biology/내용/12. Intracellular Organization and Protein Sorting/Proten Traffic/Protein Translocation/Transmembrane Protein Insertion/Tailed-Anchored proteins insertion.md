@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # The Insertion of Tailed-Anchored Proteins : Guided Entry of Tail-anchored proteins pathway(GET pathway)
 
 ## 개요

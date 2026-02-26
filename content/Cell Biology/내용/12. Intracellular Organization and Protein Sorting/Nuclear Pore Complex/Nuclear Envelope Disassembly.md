@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Envelope Disassembly
 
 동물 세포에서는 유사분열(mitosis) 동안 방추사(microtubule)가 복제된 염색체에 접근할 수 있도록 핵막이 분해된다. 유사분열 말기에는 핵막이 재조립된다.

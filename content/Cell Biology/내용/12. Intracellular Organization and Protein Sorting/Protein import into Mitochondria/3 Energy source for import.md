@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # 3 Energy Sources for Import
 
 미토콘드리아 단백질 수입은 세 가지 에너지원을 네 곳에서 사용한다. 모든 precursor 단백질이 이 세 가지 에너지를 모두 필요로 하지는 않는다.

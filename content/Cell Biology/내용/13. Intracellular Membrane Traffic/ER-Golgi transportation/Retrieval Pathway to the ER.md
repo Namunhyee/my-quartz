@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Retrieval Pathway to the ER
 
 ## 개요

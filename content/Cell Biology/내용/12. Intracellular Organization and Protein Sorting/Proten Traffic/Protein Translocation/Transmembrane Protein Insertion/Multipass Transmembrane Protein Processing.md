@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Multipass Transmembrane Protein Processing
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Energy Conversion and Metabolic Compartmentation: Mitochondria and Chloroplasts
 
 CHAPTER

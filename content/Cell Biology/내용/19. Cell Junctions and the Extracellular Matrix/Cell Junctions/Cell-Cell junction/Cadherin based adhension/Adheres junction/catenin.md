@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Catenin
 
 Catenin은 adherens junction에서 classical cadherin의 intracellular tail에 결합하는 adaptor protein으로, cadherin과 actin cytoskeleton 사이의 연결을 매개한다.

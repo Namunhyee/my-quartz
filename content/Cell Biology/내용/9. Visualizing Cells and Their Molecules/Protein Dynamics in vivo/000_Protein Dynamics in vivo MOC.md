@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein Dynamics in vivo - Map of Contents
 
 ## 개요

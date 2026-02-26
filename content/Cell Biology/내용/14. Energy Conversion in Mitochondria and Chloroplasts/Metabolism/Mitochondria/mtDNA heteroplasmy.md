@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # mtDNA Heteroplasmy
 
 ## 정의

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Glucose Trimming
 
 Glucose trimming은 N-linked oligosaccharide에서 glucose를 제거하고 재부착하여 단백질의 folding 상태를 표시하는 quality control 메커니즘이다. 이 과정은 [[Calnexin and Calreticulin]]과 함께 작동하여 불완전하게 접힌 단백질을 ER에 retention시킨다.

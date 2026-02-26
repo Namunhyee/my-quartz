@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cortical Cytoskeleton
 
 Cortical cytoskeleton은 대부분의 세포에서 plasma membrane 아래에 존재하는 specialized cytoskeletal network이다. 이는 membrane에 mechanical strength를 제공하고 [[Membrane protein]]의 확산을 제한하는 중요한 역할을 한다.

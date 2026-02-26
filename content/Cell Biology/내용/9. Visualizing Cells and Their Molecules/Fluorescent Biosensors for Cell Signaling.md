@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Fluorescent Biosensors for Cell Signaling
 
 ## 개요

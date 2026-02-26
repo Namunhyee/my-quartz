@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # AFM (Atomic Force Microscopy, 원자력 현미경)
 
 AFM은 나노스케일에서 표면의 형태와 물성을 측정하는 주사탐침현미경(SPM) 기술입니다.

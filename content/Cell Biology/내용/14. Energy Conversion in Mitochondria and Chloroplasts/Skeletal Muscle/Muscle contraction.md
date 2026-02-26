@@ -1,16 +1,13 @@
----
-dg-publish: true
----
 # Muscle Contraction
 
 ## 개요
 
-근육 수축은 [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/Myosin II cycle|Actin-Myosin sliding filament mechanism]]에 의해 일어난다. [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]] 가수분해가 myosin의 power stroke를 구동한다.
+근육 수축은 [[Myosin II cycle|Actin-Myosin sliding filament mechanism]]에 의해 일어난다. [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]] 가수분해가 myosin의 power stroke를 구동한다.
 
 ## 트리거: Ca²⁺
 
-- 운동 신경 → 근세포 → Action potential → [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/sarcoplasmic reticulum|Sarcoplasmic reticulum]]에서 Ca²⁺ 방출
-- Ca²⁺가 [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/troponin|Troponin C]]에 결합 → Tropomyosin 위치 변화 → Myosin-binding site 노출
+- 운동 신경 → 근세포 → Action potential → [[sarcoplasmic reticulum|Sarcoplasmic reticulum]]에서 Ca²⁺ 방출
+- Ca²⁺가 [[troponin|Troponin C]]에 결합 → Tropomyosin 위치 변화 → Myosin-binding site 노출
 - 미토콘드리아가 Ca²⁺ 농도 완충에도 관여 (Chapter 14 언급)
 
 ## Cross-bridge Cycle

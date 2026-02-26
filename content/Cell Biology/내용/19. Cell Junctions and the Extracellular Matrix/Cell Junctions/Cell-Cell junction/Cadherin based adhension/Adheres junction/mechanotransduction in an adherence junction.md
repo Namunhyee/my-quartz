@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mechanotransduction in an Adherens Junction
 
 ## 개념

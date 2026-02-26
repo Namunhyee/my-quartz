@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Oligosaccharide Processing in Golgi
 
 Golgi apparatus는 ER에서 전달받은 N-linked oligosaccharide를 처리하여 이질적인 oligosaccharide 구조를 생성한다.

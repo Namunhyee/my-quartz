@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transmission Electron Microscope (TEM)
 ## 개요
 Transmission electron microscope는 electron beam을 specimen을 통과시켜 이미지를 형성하는 현미경이다. Overall design이 inverted light microscope와 유사하지만 훨씬 크며, 약 0.05 nm의 실용적 분해능을 달성할 수 있어 light microscope보다 200배 이상 향상된 성능을 보인다.

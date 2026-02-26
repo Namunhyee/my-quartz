@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 >[!scheme]-
 >![[Ch9.pdf#page=6&selection=0,0,5,10|Ch9, 페이지 6]]
 

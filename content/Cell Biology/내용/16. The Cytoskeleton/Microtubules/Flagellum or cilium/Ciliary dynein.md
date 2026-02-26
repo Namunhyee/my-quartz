@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Ciliary Dynein
 ![[_page_56_Picture_1.jpeg]]
 

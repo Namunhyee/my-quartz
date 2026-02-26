@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # exocytosis_MOC
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Primary Cilia
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_57_Picture_2.jpeg]]

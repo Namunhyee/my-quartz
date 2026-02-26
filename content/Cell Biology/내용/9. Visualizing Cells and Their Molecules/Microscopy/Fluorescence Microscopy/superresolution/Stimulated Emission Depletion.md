@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Stimulated Emission Depletion (STED) Microscopy
 ## 개요
 STED microscopy는 point spread function의 크기를 줄여 [[diffraction limit|회절 한계]]를 극복하는 superresolution 기술이다. 약 20 nm의 resolution을 달성할 수 있어, conventional light microscopy보다 약 10배 향상된 성능을 보인다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Oligosaccharides
 
 Oligosaccharide는 단백질 [[Glycosylation]]에서 단백질에 부착되는 탄수화물 사슬이다. ER과 Golgi에서 protein modification의 핵심 구성요소이다.

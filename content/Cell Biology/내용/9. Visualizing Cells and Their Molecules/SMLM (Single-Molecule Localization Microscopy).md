@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # SMLM (Single-Molecule Localization Microscopy)
 
 ## 개요

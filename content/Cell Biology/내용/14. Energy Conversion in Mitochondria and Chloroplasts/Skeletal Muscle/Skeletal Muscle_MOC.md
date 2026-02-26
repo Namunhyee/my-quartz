@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Skeletal Muscle
 
 ## 개요 (Map of Contents)

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Vesicle formation_MOC
 
 ## 개요

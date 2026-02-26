@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Elastin Related Diseases
 
 *ELN* 유전자는 tropoelastin이라는 단백질을 암호화하며, 이는 elastic fiber의 두 구성요소 중 하나이다. *ELN* 유전자의 돌연변이는 여러 질환과 관련이 있다.

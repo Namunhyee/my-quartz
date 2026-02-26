@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Glycoproteins_MOC
 
 Glycoprotein은 [[N-linked glycosylation|asparagine-linked oligosaccharide]]를 가진 단백질이다. ECM에서 glycoprotein은 **matrix를 조직화**하고 **세포-matrix 상호작용을 매개**하는 중요한 역할을 한다.

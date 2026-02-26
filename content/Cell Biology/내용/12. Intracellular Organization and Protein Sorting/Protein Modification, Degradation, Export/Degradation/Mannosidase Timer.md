@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mannosidase Timer
 
 Mannosidase timer는 단백질이 ER에서 머무는 시간을 측정하는 quality control 메커니즘이다. ER-resident mannosidase가 천천히 terminal mannose를 제거함으로써, 오래 머무르는 단백질을 선별하여 degradation으로 보낸다.

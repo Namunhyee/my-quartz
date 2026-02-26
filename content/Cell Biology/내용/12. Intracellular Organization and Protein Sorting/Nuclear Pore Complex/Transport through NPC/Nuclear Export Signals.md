@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Export Signals (NES)
 
 NES는 핵에서 세포질로 수출되어야 하는 단백질 또는 RNA에 존재하는 sorting signal이다.

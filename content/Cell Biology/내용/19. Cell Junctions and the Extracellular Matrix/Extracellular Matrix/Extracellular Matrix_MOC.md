@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Extracellular Matrix_MOC
 
 Extracellular matrix(ECM)는 세포가 국소적으로 분비하여 조직화된 meshwork로 조립한 많은 단백질과 다당류로 구성된다.

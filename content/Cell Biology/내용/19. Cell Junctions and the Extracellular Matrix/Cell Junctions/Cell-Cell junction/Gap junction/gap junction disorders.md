@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Gap Junction Disorders
 
 교과서 Chapter 19에는 gap junction 관련 특정 유전 질환의 상세한 목록이 포함되어 있지 않다.

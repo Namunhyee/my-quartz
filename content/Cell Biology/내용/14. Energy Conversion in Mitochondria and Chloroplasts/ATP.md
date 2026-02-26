@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # ATP (Adenosine Triphosphate)
 
 ATP는 세포 내 모든 에너지 요구 반응을 구동하는 **universal energy currency**이다.

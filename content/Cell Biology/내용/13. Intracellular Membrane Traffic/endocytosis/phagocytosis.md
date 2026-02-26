@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Phagocytosis
 
 **Phagocytosis** ("cell eating")는 세포가 **phagosome**이라고 불리는 큰 endocytic vesicle을 사용하여 큰 입자(미생물, 죽은 세포 등)를 섭취하는 endocytosis의 특수한 형태이다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Sec62-Sec63 complex
 
 <mark style="background:#fff88f">Eukaryotic cell에서</mark> [[Post-translational translocation]]을 매개하는 데 필요한 accessory protein complex.

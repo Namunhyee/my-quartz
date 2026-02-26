@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Structured Illumination Microscopy (SIM)
 
 ## 개요

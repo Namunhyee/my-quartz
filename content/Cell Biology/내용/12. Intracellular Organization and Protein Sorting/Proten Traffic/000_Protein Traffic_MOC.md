@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Traffic in a Cell.canvas|도식]]
 # Protein Traffic
 ## Proteins Can Move Between Compartments in Different Ways

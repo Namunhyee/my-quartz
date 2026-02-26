@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # ATP Synthesis
 
 ## ATP Hydrolysis의 자유에너지 변화

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Functional Compartmentalization of the Golgi apparatus
 
 Golgi apparatus의 기능적 구획화는 서로 다른 oligosaccharide-processing 단계가 조직화된 순서로 발생하며, 각 cisterna가 특징적인 processing 효소 혼합물을 포함하고 있음을 의미한다.

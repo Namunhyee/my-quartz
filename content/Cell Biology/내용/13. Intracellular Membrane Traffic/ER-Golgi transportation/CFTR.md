@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # CFTR
 
 ## 개요

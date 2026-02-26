@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Complex II — Succinate Dehydrogenase
 
 ## 개요

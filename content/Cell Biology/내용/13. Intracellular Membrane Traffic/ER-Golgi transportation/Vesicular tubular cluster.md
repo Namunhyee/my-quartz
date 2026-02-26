@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Vesicular tubular cluster
 
 ## 개요

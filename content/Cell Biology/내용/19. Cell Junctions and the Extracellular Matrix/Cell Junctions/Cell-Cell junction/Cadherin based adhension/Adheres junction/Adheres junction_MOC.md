@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Adheres Junction_MOC
 
 Adherens junction은 cadherin이 actin filament에 연결되는 cell–cell anchoring junction이다. 세포 간 기계적 강도를 제공하며, 조직 morphogenesis에서 중요한 역할을 한다.

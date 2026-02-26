@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Pinching-Off
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Complex IV — Cytochrome c Oxidase
 
 ## 개요

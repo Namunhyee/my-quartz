@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # ER-Associated Degradation (ERAD)
 
 ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 ER에서 cytosol로 retrotranslocation하여 proteasome에서 분해하는 quality control mechanism이다.

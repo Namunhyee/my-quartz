@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## 개요
 강한 background fluorescence(배경 형광)는 out-of-focus 분자들이 방출하거나 산란시킨 빛 때문에 발생하며, 이는 관심 있는 특정 분자의 형광을 가려버리는 경향이 있다. 이 문제는 **total internal reflection fluorescence (TIRF) microscopy**라는 특수한 광학 기술을 사용하여 해결할 수 있다.
 

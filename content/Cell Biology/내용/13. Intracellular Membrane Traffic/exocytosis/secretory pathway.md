@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Secretory Pathway
 
 ## 개요

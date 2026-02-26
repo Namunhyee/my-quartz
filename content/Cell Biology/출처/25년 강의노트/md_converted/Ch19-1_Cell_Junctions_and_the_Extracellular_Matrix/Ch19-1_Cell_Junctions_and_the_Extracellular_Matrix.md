@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # **Chapter 19** Cell Junctions and the Extracellular Matrix
 
 - **CELL–CELL JUNCTIONS**

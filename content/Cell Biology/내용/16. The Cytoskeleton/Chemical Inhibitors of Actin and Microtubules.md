@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Chemical Inhibitors of Actin and Microtubules
 
 세포골격 필라멘트를 안정화하거나 불안정화하는 화학물질들은 세포 내에서 각 필라멘트의 역할을 연구하는 강력한 도구이다. 이 약물들은 세포골격 필라멘트가 역동적 평형(dynamic equilibrium) 상태에서 기능한다는 것을 보여주며, 특히 분열 중인 세포를 우선적으로 사멸시키는 특성 때문에 항암 치료에도 응용된다.

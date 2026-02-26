@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Activation Energy
 
 ## 정의

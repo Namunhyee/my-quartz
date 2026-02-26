@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Membrane Protein
 
 [[Lipid bilayer]]가 biological membrane의 기본 구조를 제공하는 반면, membrane protein은 대부분의 membrane 특정 작업을 수행하며, 각 type의 cell membrane에 특징적인 기능적 특성을 부여한다.

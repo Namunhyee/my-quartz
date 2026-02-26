@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Myosin II
 
 ## 구조

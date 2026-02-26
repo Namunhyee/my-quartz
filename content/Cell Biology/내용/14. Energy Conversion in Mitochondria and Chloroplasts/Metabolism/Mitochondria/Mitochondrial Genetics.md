@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mitochondrial Genetics
 
 ## 개요

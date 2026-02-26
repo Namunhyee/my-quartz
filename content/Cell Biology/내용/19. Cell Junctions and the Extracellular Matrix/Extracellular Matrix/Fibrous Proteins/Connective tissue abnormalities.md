@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Connective Tissue Abnormalities
 
 [[Collagen]]과 다른 ECM 단백질의 유전적 결함은 다양한 결합조직 이상(connective tissue abnormalities)을 유발한다.

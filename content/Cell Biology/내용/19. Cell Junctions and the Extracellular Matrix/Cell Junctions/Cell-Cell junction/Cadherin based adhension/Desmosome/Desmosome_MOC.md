@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Desmosome_MOC
 
 Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 **intermediate filament**에 연결되는 cell–cell anchoring junction이다. 주된 기능은 기계적 강도 제공이다. 척추동물 대부분의 성숙한 상피에 존재하며, 심근과 표피처럼 기계적 스트레스가 큰 조직에서 특히 풍부하다. *Drosophila* 등에는 존재하지 않는다.

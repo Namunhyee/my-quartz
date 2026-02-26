@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Integrins in Cell-to-Cell Interaction
 
 일부 [[integrin_MOC|integrin]]은 cell-matrix adhesion이 아닌 **cell-cell adhesion**을 매개한다. 특히 **β2 integrin family**가 이 역할을 한다.

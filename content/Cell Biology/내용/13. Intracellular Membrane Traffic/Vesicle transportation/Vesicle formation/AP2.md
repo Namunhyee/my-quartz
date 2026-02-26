@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # AP2
 
 ## 개요

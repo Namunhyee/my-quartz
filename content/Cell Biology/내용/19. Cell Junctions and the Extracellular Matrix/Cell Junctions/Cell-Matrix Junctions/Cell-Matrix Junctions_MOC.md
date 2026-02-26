@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cell-Matrix Junctions_MOC
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_43_Figure_2.jpeg]]

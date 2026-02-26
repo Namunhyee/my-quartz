@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lysosomal Hydrolase
 
 Lysosome은 약 40가지 유형의 가수분해 효소를 포함하며, 이들은 거대분자를 소화한다.

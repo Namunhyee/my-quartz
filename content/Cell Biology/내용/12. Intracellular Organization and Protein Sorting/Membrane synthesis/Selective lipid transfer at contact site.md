@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Selective Lipid Transfer at Contact Site
 
 Selective lipid transfer at contact site는 organelle 사이에서 특정 lipid를 비vesicular route를 통해 선택적으로 전달하는 메커니즘이다. 이 과정은 특히 mitochondria와 plastid처럼 vesicular transport로 ER과 소통하지 않는 organelle에게 중요하다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Rho Family GTPases
 
 Rho family GTPase는 세포 극성 확립과 actin cytoskeleton 재구성의 핵심 신호전달 분자다. 세 주요 구성원인 **Cdc42**, **Rac**, **Rho**는 각각 고유한 downstream effector를 통해 filopodia, lamellipodia, stress fiber 형성을 조절한다.

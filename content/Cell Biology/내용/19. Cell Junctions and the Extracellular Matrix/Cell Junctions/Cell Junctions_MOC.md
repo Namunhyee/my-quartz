@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cell Junctions_MOC
 
 ## 동물 세포가 결합하는 두 가지 방식
@@ -26,8 +23,8 @@ dg-publish: true
 - **Anchoring junctions** — 세포의 cytoskeleton을 인접 세포 또는 ECM에 고정하여 기계적 강도를 제공한다.
   - [[Cell-Cell junction_MOC|Cell–cell]]: **[[Adheres junction_MOC|Adherens junction]]** ([[100_Actin filaments_MOC|actin]] 연결), **[[Desmosome_MOC|Desmosome]]** ([[200_Intermediate filaments_MOC|intermediate filament]] 연결)
   - [[Cell-Matrix Junctions_MOC|Cell–matrix]]: **Actin-linked cell–matrix junction**, **[[hemidesmosomes|Hemidesmosome]]** ([[200_Intermediate filaments_MOC|intermediate filament]] 연결)
-- **[[Tight junction_MOC|Tight junction]]** — apical 쪽에서 세포 사이 공간을 봉합하여 분자의 paracellular 이동을 차단
-- **[[Gap junction_MOC|Gap junction]]** — 인접 세포 cytoplasm을 직접 연결하는 채널
+- **[[00_Tight junction_MOC|Tight junction]]** — apical 쪽에서 세포 사이 공간을 봉합하여 분자의 paracellular 이동을 차단
+- **[[00_Gap junction_MOC|Gap junction]]** — 인접 세포 cytoplasm을 직접 연결하는 채널
 - **[[Cell-Matrix Junctions_MOC|Cell-Matrix anchoring Junctions]]** — [[Basal Lamina_MOC|basal lamina]] 혹은 [[Extracellular Matrix_MOC|ECM]]과 [[100_Actin filaments_MOC|actin filaments]], [[Keratin filaments]] 등을 연결
 Apical 영역에서 tight junction, adherens junction, desmosome이 순서대로 배열된 구조를 **junctional complex**라고 한다.
 

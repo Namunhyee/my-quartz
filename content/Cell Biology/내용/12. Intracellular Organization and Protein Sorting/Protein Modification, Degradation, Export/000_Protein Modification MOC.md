@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein Modification MOC
 
 단백질 변형(Protein Modification)은 ER에서 일어나는 주요 생합성 기능 중 하나이다. 단백질이 ER로 translocation된 후, 적절한 구조와 기능을 갖추기 위해 다양한 공유결합 변형을 받는다.

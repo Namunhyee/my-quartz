@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Scanning Electron Microscope (SEM)
 
 ## 개요

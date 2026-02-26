@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Raft Domain
 
 Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 lipid와 membrane protein이 일시적으로 clustering되어 형성되는 영역이다. [[Fluidity of a lipid bilayer]]에도 불구하고, 세포는 특정 조성을 가진 membrane domain을 형성할 수 있다.

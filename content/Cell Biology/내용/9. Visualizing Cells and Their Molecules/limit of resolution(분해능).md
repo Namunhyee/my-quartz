@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 회절(diffraction)로 인해 발생하는 현미경의 한계
 두 개의 점을 구별할 수 있는 최소 거리
 ![[Ch9.pdf#page=5&selection=13,0,15,3|Ch9, 페이지 5]]

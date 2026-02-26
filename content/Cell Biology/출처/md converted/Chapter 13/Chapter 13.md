@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Intracellular Membrane Traffic
 
 CHAPTER

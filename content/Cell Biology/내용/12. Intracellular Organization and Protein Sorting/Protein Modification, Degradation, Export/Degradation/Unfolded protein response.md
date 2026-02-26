@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Unfolded Protein Response
 
 Unfolded protein response (UPR)는 ER lumen에 misfolded protein이 축적될 때 활성화되는 신호전달 경로이다. UPR은 ER의 protein-processing capacity를 증가시키고, 새로운 단백질 합성을 조절하며, 필요시 세포 사멸을 유도하여 ER homeostasis를 회복한다.

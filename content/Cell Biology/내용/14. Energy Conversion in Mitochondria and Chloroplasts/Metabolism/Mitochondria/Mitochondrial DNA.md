@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mitochondrial DNA (mtDNA)
 
 ## 개요

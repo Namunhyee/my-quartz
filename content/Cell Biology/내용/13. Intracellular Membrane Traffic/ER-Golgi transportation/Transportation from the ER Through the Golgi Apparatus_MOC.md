@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transportation from the ER Through the Golgi Apparatus_MOC
 
 ## 개요

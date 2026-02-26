@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mitochondria — Map of Contents
 
 ## 개요

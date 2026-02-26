@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Endosomes Maturation
 
 **Endosome maturation**은 early endosome이 시간이 지남에 따라 late endosome으로 변화하는 과정이다.

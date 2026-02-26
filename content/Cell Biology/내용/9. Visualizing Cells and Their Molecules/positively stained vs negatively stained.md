@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Positive Staining vs Negative Staining
 
 전자현미경(TEM)에서 사용하는 두 가지 대조적인 염색 방법입니다.

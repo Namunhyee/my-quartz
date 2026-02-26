@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 4 - α-Ketoglutarate Dehydrogenase
 
 ## 반응

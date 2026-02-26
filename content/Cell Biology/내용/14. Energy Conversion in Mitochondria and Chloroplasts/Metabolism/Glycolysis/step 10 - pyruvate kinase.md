@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 10 - Pyruvate Kinase
 
 ## 반응

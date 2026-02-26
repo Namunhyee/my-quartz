@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nonclassical Cadherin
 
 Nonclassical cadherin은 classical cadherin과 서열이 더 멀리 떨어진 cadherin superfamily 구성원이다. 뇌에서만 50개 이상이 발현될 만큼 다양하다.

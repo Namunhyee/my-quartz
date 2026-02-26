@@ -1,11 +1,8 @@
----
-dg-publish: true
----
 # Connexin
 
 ## 구조: Connexin → Connexon → Gap Junction Channel
 
-![[Cell Biology/출처/md converted/Chapter 19/_page_17_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_17_Figure_6.jpeg]]
 *Figure 19-25. (A) 두 인접 세포 사이의 gap junction. 각 세포의 lipid bilayer(회색)를 connexon(초록)이 관통하며, 두 connexon이 연결되어 연속된 수성 채널을 형성한다. (B) Connexon의 조합 방식: homomeric(같은 connexin) 또는 heteromeric(다른 connexin 혼합) connexon이 가능하며, 두 반채널의 조합이 같으면 homotypic, 다르면 heterotypic channel이 된다. (C) Human connexin 26 gap junction channel의 고해상도 결정 구조(x-ray crystallography): 6개의 connexin subunit이 모여 pore를 형성하며, 지름 약 1.4 nm의 통로가 예측된다.*
 
 **Connexin**은 4개의 transmembrane domain을 가진 단백질이다. 6개의 connexin이 모여 **connexon**(hemichannel)을 형성한다. 인접 세포 두 connexon이 정렬되면 두 세포를 연결하는 완전한 채널이 만들어진다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Proteoglycans and GAGs_MOC
 
 Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다. Hyaluronan을 제외한 모든 GAG는 단백질에 공유결합하여 **proteoglycan**을 형성한다.

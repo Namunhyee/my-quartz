@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # PALM/STORM
 
 ## 개요

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 6 - Glyceraldehyde 3-Phosphate Dehydrogenase
 
 ## 반응

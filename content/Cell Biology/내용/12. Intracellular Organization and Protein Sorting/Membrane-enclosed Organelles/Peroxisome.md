@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Peroxisome
 
 Peroxisome은 사실상 모든 진핵세포에 존재하는 소형 막 소기관으로, 산소를 활용하는 산화 반응의 주요 장소이다. 이름은 주요 반응 부산물인 과산화수소(H₂O₂, *hydrogen peroxide*)에서 유래했다.

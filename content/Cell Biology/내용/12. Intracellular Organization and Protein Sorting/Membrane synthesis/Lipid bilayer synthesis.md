@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lipid Bilayer Synthesis
 
 Lipid bilayer synthesis는 세포막의 성장과 유지를 위해 필수적인 과정이다. ER은 세포의 거의 모든 주요 lipid class를 합성하는 중심 장소이며, 이렇게 합성된 lipid는 새로운 세포막 생산에 사용된다.

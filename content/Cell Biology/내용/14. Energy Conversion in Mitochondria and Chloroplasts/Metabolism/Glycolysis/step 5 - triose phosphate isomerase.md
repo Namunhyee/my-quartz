@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 5 - Triose Phosphate Isomerase
 
 ## 반응

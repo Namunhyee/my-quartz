@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein Folding in ER
 
 ER lumen으로 translocation된 단백질은 unfolded polypeptide chain 상태로 들어와 올바른 3차원 구조로 접혀야 한다. 이 과정은 ER lumen의 여러 chaperone과 folding enzyme의 도움을 받는다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Membrane Bending Protein
 
 Cell membrane은 다양한 형태를 가진다. 진핵세포의 정교하고 다양한 cell-surface protrusion과 membrane-enclosed organelle의 구조가 이를 보여준다. Flat sheet, narrow tubule, round vesicle, fenestrated sheet, pita-bread-shaped cisterna가 모두 가능하며, 종종 같은 continuous bilayer의 서로 다른 영역에 다양한 형태가 존재한다.

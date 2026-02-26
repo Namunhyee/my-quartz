@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![](_page_0_Picture_0.jpeg)
 
 # INTERNAL ORGANIZATION OF THE CELL

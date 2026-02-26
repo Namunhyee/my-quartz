@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Complex III — Cytochrome c Reductase
 
 ## 개요

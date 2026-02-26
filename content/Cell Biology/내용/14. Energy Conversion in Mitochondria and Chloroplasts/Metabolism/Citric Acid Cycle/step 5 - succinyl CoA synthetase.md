@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 5 - Succinyl CoA Synthetase
 
 ## 반응

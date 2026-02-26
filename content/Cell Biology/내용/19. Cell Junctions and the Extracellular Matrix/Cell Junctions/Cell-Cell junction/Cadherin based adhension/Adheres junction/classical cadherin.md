@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Classical Cadherin
 
 처음 발견된 세 cadherin은 주로 발현되는 조직의 이름을 따라 명명되었다:

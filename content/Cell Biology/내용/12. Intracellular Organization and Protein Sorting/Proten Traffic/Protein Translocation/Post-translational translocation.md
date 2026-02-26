@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Post-translational translocation
 
 일부 단백질은 [[Endoplasmic Reticulum]]로 import되기 전에 cytosol에서 precursor로 완전히 합성되어, translocation이 항상 진행 중인 translation을 필요로 하지 않음을 보여준다.

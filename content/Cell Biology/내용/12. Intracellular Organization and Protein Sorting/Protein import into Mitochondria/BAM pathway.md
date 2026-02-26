@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # BAM Pathway
 
 미토콘드리아의 outer membrane과 그람 음성 세균의 outer membrane은 **β-barrel 단백질**을 공통적인 메커니즘으로 삽입한다. 이는 미토콘드리아의 내공생 기원을 뒷받침하는 강력한 증거이다.

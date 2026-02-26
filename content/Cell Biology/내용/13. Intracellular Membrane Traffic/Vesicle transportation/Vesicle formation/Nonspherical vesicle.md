@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nonspherical vesicle
 
 ## 개요

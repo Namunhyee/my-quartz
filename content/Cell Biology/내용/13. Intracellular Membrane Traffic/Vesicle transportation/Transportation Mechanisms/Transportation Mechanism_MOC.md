@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Transportation Mechanism_MOC
 
 ## 개요

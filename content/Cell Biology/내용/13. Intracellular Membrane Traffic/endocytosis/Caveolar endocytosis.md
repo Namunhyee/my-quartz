@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Caveolar Endocytosis
 
 Caveolae는 <mark style="background:#fff88f">clathrin-independent membrane invagination</mark>의 가장 잘 이해된 형태이다.

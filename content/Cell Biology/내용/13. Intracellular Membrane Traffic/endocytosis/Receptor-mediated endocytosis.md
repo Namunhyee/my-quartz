@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Receptor-mediated Endocytosis
 
 대부분의 동물 세포에서 clathrin-coated pit과 vesicle은 세포외 fluid에서 특정 거대분자를 흡수하는 효율적인 경로를 제공한다.

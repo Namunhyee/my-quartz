@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Vesicle Fusion_MOC
 
 ## 개요

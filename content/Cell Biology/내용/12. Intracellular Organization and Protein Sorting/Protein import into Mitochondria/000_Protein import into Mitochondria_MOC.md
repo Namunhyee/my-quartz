@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein import into Mitochondria
 
 미토콘드리아의 단백질 대부분(약 99%)은 핵 유전자로 암호화되어 cytosol에서 합성된 후 수입된다. 나머지 소수만이 미토콘드리아 내부 ribosome에서 합성된다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Hydropathy Plot
 
 Hydropathy plot은 protein의 amino acid sequence로부터 membrane-spanning segment를 예측하는 방법이다. X-ray crystallography와 single-particle cryo-electron microscopy의 발전으로 많은 membrane protein의 3차원 구조가 결정되었으며, 이는 amino acid sequence로부터 lipid bilayer를 확장하는 polypeptide chain 부분을 예측할 수 있음을 확인해주었다.

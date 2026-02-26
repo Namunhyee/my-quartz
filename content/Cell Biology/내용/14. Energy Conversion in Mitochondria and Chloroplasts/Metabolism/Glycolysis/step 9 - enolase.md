@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 9 - Enolase
 
 ## 반응

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Spontaneous and Non-Spontaneous Reactions
 
 ## 자유에너지 (Free Energy, G)

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Structures of an Actin Monomer and Actin Filament
 
 ## Actin Monomer (G-actin)

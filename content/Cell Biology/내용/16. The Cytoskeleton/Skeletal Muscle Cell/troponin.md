@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Troponin
 
 ![[Pasted image 20260219142536.png]]

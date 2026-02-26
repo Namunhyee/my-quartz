@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Major Lipids in Cell Membrane
 
 세포막의 lipid molecule은 대부분의 동물 세포막 질량의 약 50%를 구성한다. 세포막에 있는 모든 lipid molecule은 [[Amphiphilic molecule]]이다 - hydrophilic (polar) end와 hydrophobic (nonpolar) end를 모두 가진다.

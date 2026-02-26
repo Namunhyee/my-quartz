@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Bond Energy
 
 ## 화학결합과 에너지

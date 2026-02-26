@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Leukocyte Adhesion Deficiency
 
 **Leukocyte Adhesion Deficiency (LAD, 백혈구 부착 결핍증)**은 **β2 integrin**의 유전적 결함으로 인한 면역 결핍 질환이다.

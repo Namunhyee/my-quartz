@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Pore Complex
 
 핵과 세포질 사이의 분자 수송을 총괄하는 대형 단백질 복합체이다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 4 - Aldolase
 
 ## 반응

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![[Ch9.pdf#page=11&selection=0,0,7,3|Ch9, 페이지 11]]
 
 # 1.번역

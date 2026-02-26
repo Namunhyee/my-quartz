@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Calnexin and Calreticulin
 
 Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-dependent chaperone protein이다. 이들은 carbohydrate-binding protein (lectin)으로서 불완전하게 접힌 단백질을 인식하고 ER에 retention시킨다.

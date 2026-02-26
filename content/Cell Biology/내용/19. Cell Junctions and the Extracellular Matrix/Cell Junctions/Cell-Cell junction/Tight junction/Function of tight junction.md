@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Function of Tight Junction
 
 ## 1. Barrier 기능: Paracellular 이동 차단

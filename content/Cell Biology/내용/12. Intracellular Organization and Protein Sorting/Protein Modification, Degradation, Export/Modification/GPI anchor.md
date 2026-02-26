@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # GPI Anchor
 
 ## 개요

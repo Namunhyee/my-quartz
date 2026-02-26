@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Synaptic Vesicles
 = tiny (≈50 nm diameter) secretory vesicles
 ## 개요

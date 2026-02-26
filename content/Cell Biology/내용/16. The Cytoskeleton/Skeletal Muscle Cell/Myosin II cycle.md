@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Myosin II Cycle
 
 [[Myosin II]]는 ATP 가수분해를 역학적 일로 전환하기 위해 actin 필라멘트와의 반복적 상호작용 주기를 거친다. 각 주기마다 neck(lever arm) 역할을 하는 α-helix가 흔들리는 방식으로 힘을 발생시킨다.

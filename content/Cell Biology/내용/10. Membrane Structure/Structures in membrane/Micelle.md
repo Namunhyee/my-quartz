@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Micelle
 
 Micelle은 [[Amphiphilic molecule]]이 수용액에서 형성할 수 있는 구조 중 하나이다. [[Lipid bilayer]]와 달리 micelle은 단일층 구조로, 분자의 모양이 cone-shaped일 때 형성된다.

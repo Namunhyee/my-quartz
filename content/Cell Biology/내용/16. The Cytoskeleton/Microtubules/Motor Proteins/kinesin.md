@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Kinesin
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_51_Figure_2.jpeg]]

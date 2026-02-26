@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Import Control during T-cell Activation
 
 **NF-AT (Nuclear Factor of Activated T cells)**는 T 세포 활성화에 필요한 다수의 유전자 전사를 활성화하는 전사 조절 인자로, 인산화 상태에 따라 핵 수입이 조절된다.

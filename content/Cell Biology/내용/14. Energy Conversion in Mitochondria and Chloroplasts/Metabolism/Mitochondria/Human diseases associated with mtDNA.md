@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Human Diseases Associated with mtDNA
 
 ## 개요

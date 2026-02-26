@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Coat Assembly Control by Monomeric GTPase
 
 ## 개요

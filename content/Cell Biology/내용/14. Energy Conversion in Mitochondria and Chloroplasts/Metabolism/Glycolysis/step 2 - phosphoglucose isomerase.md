@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 2 - Phosphoglucose Isomerase
 
 ## 반응

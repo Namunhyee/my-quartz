@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Flagellum or Cilium_MOC
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_55_Figure_7.jpeg]]

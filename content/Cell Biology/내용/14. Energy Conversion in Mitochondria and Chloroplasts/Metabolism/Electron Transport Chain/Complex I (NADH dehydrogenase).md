@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Complex I (NADH Dehydrogenase)
 
 ## 개요

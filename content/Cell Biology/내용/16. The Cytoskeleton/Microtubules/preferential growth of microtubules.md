@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Centrosome
 
 **Centrosome**은 동물 세포에서 가장 중요한 **MTOC (microtubule-organizing center)**로, 핵 옆 세포질에 위치한다.

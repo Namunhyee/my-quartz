@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Scramblase
 
 Scramblase는 ER membrane에서 phospholipid가 bilayer의 두 leaflet 사이를 빠르게 equilibrate할 수 있도록 하는 phospholipid translocator이다. 이 효소는 새로 합성된 lipid가 membrane의 양쪽 leaflet에 고르게 분포되도록 하여 bilayer가 균형있게 성장할 수 있게 한다.

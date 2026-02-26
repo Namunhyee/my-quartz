@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Structure and Function of Cadherin
 
 ## Extracellular 구조

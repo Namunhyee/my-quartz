@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein Disulfide Isomerase (PDI)
 
 Protein disulfide isomerase (PDI)는 [[Endoplasmic Reticulum]] lumen에 위치하는 효소이다. PDI는 newly synthesized protein의 [[Disulfide bond formation]]을 촉매하고 잘못 형성된 disulfide bond를 재배열하여 올바른 protein folding을 돕는다.

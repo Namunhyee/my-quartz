@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Transport Regulation
 
 세포는 NPC를 통한 수송을 조절함으로써 전사 조절 인자의 활성을 제어한다. 일부 단백질은 NLS와 NES를 모두 보유하여 핵과 세포질 사이를 왕복하며, 수입·수출 속도의 조절로 위치가 변화한다.

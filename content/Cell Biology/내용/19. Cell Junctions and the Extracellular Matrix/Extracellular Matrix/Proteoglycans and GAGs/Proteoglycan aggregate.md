@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Proteoglycan Aggregate
 
 [[GAG]]와 [[proteoglycan]]은 ECM 내에서 서로 결합하여 훨씬 더 큰 polymeric complex를 형성할 수 있다.

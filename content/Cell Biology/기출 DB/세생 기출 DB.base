@@ -2,8 +2,10 @@ views:
   - type: table
     name: 표
     filters:
-      and:
-        - file.inFolder("Cell Biology/출처/족보/정리")
+      or:
+        - or:
+            - file.inFolder("Cell Biology/기출 DB/기말고사")
+            - file.inFolder("Cell Biology/기출 DB/중간고사")
     order:
       - file.name
       - 정답/해설 오류

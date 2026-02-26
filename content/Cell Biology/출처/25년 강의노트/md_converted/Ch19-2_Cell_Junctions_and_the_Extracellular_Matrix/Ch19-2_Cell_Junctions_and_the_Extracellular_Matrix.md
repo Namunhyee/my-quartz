@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # **Chapter 19 (II)** Cell Junctions and the Extracellular Matrix
 
 ### 2 main ways in animal cell bound

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 (Essential: E/ important: I/ Acceptable: A)
 
 1> A 와 B 이미지를 얻을 수 있는 현미경에 대한 설명 중 옳은 것은? (E 2 점)

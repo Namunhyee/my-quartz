@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Sorting Signal
 ## Sorting Signals and Sorting Receptors Direct Proteins to the Correct Cell Address
 Sorting signals은 단백질이 세포 내 올바른 위치로 이동하도록 지시하는 아미노산 서열이다. 이러한 signal은 두 가지 형태로 존재한다:

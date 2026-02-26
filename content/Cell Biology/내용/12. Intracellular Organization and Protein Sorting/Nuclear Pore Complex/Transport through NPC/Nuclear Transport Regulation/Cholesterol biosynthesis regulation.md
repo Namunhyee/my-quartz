@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cholesterol Biosynthesis Regulation
 
 콜레스테롤 농도가 낮아질 때 콜레스테롤 합성 효소들의 전사를 활성화하는 **SREBP (Sterol Response Element Binding Protein)**의 핵 이동은, ER 막 단백질의 단백질 가수분해 처리에 의해 조절된다.

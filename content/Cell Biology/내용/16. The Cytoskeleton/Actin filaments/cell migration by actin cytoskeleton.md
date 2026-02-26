@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cell Migration by Actin Cytoskeleton
 
 세포 이동(crawling)은 actin cytoskeleton에 의존하며, 핵심 원리는 leading edge에서의 actin 중합을 통한 membrane 밀어냄과 세포 후방에서의 수축이다. 이동 모드는 actin이 조직화되는 방식에 따라 다르게 나타난다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lipid Droplet
 
 Lipid droplet은 대부분의 진핵세포가 과도한 lipid를 저장하는 독특한 organelle이다. [[Lipid bilayer]]로 둘러싸인 다른 모든 membrane-bounded compartment와 달리, lipid droplet은 phospholipid monolayer로 둘러싸여 있다.

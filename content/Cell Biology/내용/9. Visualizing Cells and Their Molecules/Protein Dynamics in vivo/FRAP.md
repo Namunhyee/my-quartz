@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # FRAP (Fluorescence Recovery After Photobleaching)
 
 ## 개요

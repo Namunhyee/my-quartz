@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Flippase
 
 Flippase는 특정 phospholipid를 membrane의 한쪽 leaflet에서 다른쪽 leaflet로 선택적으로 그리고 단방향으로 이동시키는 transmembrane protein이다. [[Scramblase]]와 달리 flippase는 ATP hydrolysis를 사용하는 active transporter이며, membrane asymmetry를 확립하고 유지하는 데 핵심적인 역할을 한다.

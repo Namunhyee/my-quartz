@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Metabolism
 
 ## 개요 (Map of Contents)

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Dynein
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_52_Figure_5.jpeg]]

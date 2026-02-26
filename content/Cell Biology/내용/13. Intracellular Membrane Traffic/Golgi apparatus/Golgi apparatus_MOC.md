@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Golgi apparatus
 
 ## 개요

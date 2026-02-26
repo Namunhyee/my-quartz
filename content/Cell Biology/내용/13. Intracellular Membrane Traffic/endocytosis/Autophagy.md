@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Autophagy
 
 모든 진핵 세포는 **autophagy** 또는 "self-eating"이라고 불리는 과정을 수행할 수 있다.

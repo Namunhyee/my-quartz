@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # BiP (Binding Protein)
 
 BiP (Binding Protein)는 ER lumen의 major chaperone protein으로, hsp70 family에 속한다. [[Protein folding in ER]]에서 핵심적인 역할을 하며, misfolded protein을 인식하고 aggregation을 방지한다.

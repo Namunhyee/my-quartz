@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Axoneme Bending
 
 ![[_page_56_Figure_7.jpeg]]

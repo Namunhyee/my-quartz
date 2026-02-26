@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lipid Bilayer
 
 Lipid bilayer는 모든 세포막의 기본 구조를 제공한다. 이는 전자현미경으로 쉽게 관찰되며, bilayer 구조는 전적으로 lipid molecule의 특별한 특성에 기인한다. Lipid molecule은 단순한 인공 조건에서도 자발적으로 bilayer로 조립된다.

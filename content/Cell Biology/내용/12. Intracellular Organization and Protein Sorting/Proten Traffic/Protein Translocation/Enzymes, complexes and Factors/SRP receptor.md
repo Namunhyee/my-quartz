@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # SRP receptor
 [[Endoplasmic Reticulum]] membrane에 있는 transmembrane protein complex로, [[SRP]]와 결합하여 ribosome을 [[Sec61 complex|protein translocator]]로 전달한다.
 

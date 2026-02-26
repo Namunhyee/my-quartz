@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Citric Acid Cycle
 
 ## 개요

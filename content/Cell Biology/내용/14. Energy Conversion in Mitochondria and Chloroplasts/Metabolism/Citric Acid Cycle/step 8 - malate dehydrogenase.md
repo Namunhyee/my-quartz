@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 8 - Malate Dehydrogenase
 
 ## 반응

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Deconvolution
 
 ## 복잡한 3차원 객체의 Optical Microscope Imaging

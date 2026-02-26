@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # ER Network
 # 분류 : SER, RER
 smooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 nucleic envelope의 내외막과 연결되어 있음.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Step 3 - Isocitrate Dehydrogenase
 
 ## 반응

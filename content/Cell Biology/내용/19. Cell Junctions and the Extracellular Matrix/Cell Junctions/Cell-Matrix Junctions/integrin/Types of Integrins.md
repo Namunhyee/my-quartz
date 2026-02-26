@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Types of Integrins
 
 인간은 **24가지 타입의 integrin**을 가지며, 이는 8개의 β-chain 유전자와 18개의 α-chain 유전자의 산물이 다양한 조합으로 dimer를 형성한 것이다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 # [[Chapter 9.pdf#page=5&selection=31,0,32,50|교과서]]
 # 개요

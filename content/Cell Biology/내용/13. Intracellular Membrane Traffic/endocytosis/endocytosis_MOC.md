@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Endocytosis
 
 ## 개요

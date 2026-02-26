@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Collagen
 
 Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된다. 포유류에서 **전체 단백질 질량의 약 25%**를 차지하는 가장 풍부한 단백질이다.

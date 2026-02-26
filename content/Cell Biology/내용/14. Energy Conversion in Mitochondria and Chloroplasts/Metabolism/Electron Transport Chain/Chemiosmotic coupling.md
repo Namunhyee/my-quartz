@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Chemiosmotic Coupling
 
 ## 정의

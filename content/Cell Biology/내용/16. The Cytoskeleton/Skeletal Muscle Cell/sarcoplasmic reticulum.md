@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Sarcoplasmic Reticulum
 
 **Sarcoplasmic reticulum (SR)**은 골격근 세포에서 각 myofibril을 그물처럼 감싸는 특수화된 endoplasmic reticulum이다. [[T tubules|T tubule]]에서 전달되는 전기 신호를 Ca²⁺ 방출로 변환하여 근육 수축을 개시하는 역할을 한다.

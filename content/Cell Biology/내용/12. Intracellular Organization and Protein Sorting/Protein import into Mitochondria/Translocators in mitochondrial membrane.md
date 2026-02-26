@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Translocators in Mitochondrial Membrane
 
 미토콘드리아 막에는 약 1500여 종의 precursor protein을 각 subcompartment로 보내는 여러 translocator 복합체가 존재한다.

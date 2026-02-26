@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Phosphatidylinositol(PI) and Phosphoinositides(PIPs)
 
 ## 개요

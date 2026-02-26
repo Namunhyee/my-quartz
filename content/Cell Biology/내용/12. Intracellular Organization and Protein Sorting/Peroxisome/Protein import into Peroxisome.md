@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein import into Peroxisome
 
 Peroxisome의 단백질들은 두 가지 경로로 전달된다.

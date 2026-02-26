@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Adhension Proteins in Tight Junction
 
 ## Transmembrane Proteins: Claudin, Occludin, Tricellulin

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lipid Anchor
 
 Lipid anchor는 protein을 membrane에 부착시키는 covalently attached lipid group이다. 이러한 protein은 cytosol에서 수용성 protein으로 만들어진 후, lipid group의 공유 결합으로 membrane에 anchored된다.

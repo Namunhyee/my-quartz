@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Protein Misfolding and Trafficking Disorders
 
 단백질의 잘못된 접힘(misfolding), 세포 소기관 생합성 결함, 또는 막 지질 수송 이상으로 인해 발생하는 유전 질환들이다. 각 질환은 특정 세포 소기관의 기능과 직접 연결되어 있어, 세포 생물학 연구 모델로도 중요하게 활용된다.
@@ -9,7 +6,7 @@ dg-publish: true
 
 | 항목         | 내용                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **병태생리**   | [[Protein import into Peroxisome#Peroxin(Pex) 단백질들의 역할 — 수입 사이클 순서\|PEX gene]] mutation → peroxisome assembly 장애, 효소 import defect → [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Peroxisome_MOC\|β-oxidation]] 및 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Plasmalogen\|plasmalogen synthesis]] 소실 |
+| **병태생리**   | [[Protein import into Peroxisome#Peroxin(Pex) 단백질들의 역할 — 수입 사이클 순서\|PEX gene]] mutation → peroxisome assembly 장애, 효소 import defect → [[000_Peroxisome_MOC\|β-oxidation]] 및 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Plasmalogen\|plasmalogen synthesis]] 소실 |
 | **임상적 결과** | 심한 neurological defect, hepatomegaly, renal cyst, 두개안면 이상 → 영아기 multi-organ failure로 조기 사망                                                                                                                                                                                                                                                                                   |
 | **분자 기전**  | PEX mutation → peroxisome protein targeting 장애 → VLCFA (very-long-chain fatty acid) accumulation                                                                                                                                                                                                                                                                             |
 | **임상적 의의** | 대표적 Peroxisome Biogenesis Disorder (PBD); lipid metabolism 및 neurodevelopment 연구 모델                                                                                                                                                                                                                                                                                          |

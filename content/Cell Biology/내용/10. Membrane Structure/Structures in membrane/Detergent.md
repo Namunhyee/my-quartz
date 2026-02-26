@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Detergent
 
 Detergent는 hydrophobic association을 파괴하고 lipid bilayer를 disassemble하여 [[Membrane protein]]을 가용성 형태로 방출할 수 있는 유일한 agent이다. 이는 small [[Amphiphilic molecule|amphiphilic]] molecule로 가변적인 구조를 가진다.

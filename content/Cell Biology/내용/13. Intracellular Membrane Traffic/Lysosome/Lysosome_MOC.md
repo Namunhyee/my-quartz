@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Lysosome
 
 ## 개요

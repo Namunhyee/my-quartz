@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Construction of Intermediate Filament
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_59_Figure_2.jpeg]]

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Plasmalogen
 
 Plasmalogen은 모든 인간 세포에 존재하는 풍부한 인지질의 한 종류로, 특히 뇌에서 농도가 높아 myelin의 주요 성분이다(myelin 막 인지질의 약 80–90%).

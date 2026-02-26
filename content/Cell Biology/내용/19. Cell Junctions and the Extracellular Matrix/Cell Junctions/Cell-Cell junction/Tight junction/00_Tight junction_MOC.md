@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Tight Junction_MOC
 
 Tight junction은 상피세포 시트에서 인접 세포 사이의 공간을 봉합하여 분자의 paracellular 이동을 차단하고, 동시에 apical/basolateral 막 단백질이 섞이지 않도록 막는 fence 역할을 한다.

@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{"id":"grp_cycle","type":"group","x":-360,"y":160,"width":1120,"height":1380,"color":"5","label":"🔁 β-Oxidation 반복 사이클 (미토콘드리아 matrix)"},
+		{"id":"grp_activation","type":"group","x":-360,"y":-220,"width":1120,"height":320,"color":"6","label":"🔑 진입 전 활성화 (세포질)"},
+		{"id":"enoylcoa","type":"text","text":"## trans-2-Enoyl CoA\n(이중결합 형성)","x":-100,"y":500,"width":300,"height":75,"color":"5"},
+		{"id":"s2","type":"file","file":"Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/2. Enoyl CoA hydratase.md","x":-100,"y":645,"width":300,"height":65,"color":"2"},
+		{"id":"water_s2","type":"text","text":"**+ H₂O**","x":380,"y":650,"width":220,"height":60,"color":"6"},
+		{"id":"hydroxyacylcoa","type":"text","text":"## L-3-Hydroxyacyl CoA\n(OH기 추가)","x":-100,"y":785,"width":300,"height":75,"color":"5"},
+		{"id":"s3","type":"file","file":"Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/3. Hydroxyacyl CoA dehydrogenase.md","x":-100,"y":930,"width":300,"height":65,"color":"2"},
+		{"id":"ketoacylcoa","type":"text","text":"## 3-Ketoacyl CoA\n(케토기 형성)","x":-100,"y":1070,"width":300,"height":75,"color":"5"},
+		{"id":"s4","type":"file","file":"Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/4. B-Ketothiolase.md","x":-100,"y":1215,"width":300,"height":65,"color":"2"},
+		{"id":"coa_s4","type":"text","text":"**+ CoA-SH**","x":380,"y":1215,"width":220,"height":60,"color":"6"},
+		{"id":"acetylcoa_out","type":"text","text":"**Acetyl CoA** 🎉\n(C2, → Citric Acid Cycle)","x":380,"y":1370,"width":240,"height":75,"color":"3"},
+		{"id":"acylcoa_short","type":"text","text":"## Acyl CoA (Cn−2)\n↩ 사이클 반복","x":-100,"y":1370,"width":300,"height":75,"color":"5"},
+		{"id":"nadh","type":"text","text":"**NADH**\n(→ ETC, ~2.5 ATP)","x":380,"y":935,"width":220,"height":60,"color":"4"},
+		{"id":"final","type":"text","text":"마지막 사이클:\nC4 → **2× Acetyl CoA**\n(thiolase)","x":-340,"y":1370,"width":200,"height":75,"color":"6"},
+		{"id":"summary","type":"text","text":"## 📊 β-Oxidation 총 수지 (1 사이클 기준)\n**FADH₂: +1** (Step 1)   |   **NADH: +1** (Step 3)   |   **Acetyl CoA: +1** (Step 4, → Citric Acid Cycle)   |   Acyl CoA 탄소 **−2**\n→ 다음 사이클로 단축된 Acyl CoA 재입력, 마지막 사이클(C4)에서 Acetyl CoA ×2 생성","x":-360,"y":1600,"width":1120,"height":110},
+		{"id":"s1","type":"file","file":"Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/1. Acyl CoA dehydrogenase.md","x":-100,"y":360,"width":300,"height":65,"color":"2"},
+		{"id":"fadh2","type":"text","text":"**FADH₂**\n(→ ETC, ~1.5 ATP)","x":380,"y":365,"width":220,"height":60,"color":"4"},
+		{"id":"example","type":"text","text":"## 📐 예시: Palmitoyl CoA (C16)\n\n**사이클 횟수**: 7회\n\n| 산물 | 수량 |\n|------|------|\n| Acetyl CoA | 8 |\n| FADH₂ | 7 |\n| NADH | 7 |\n| ATP 비용 | −2 |\n\n**일반식** (짝수 포화, Cn):\n- 사이클 = n/2 − 1\n- Acetyl CoA = n/2\n- FADH₂ = NADH = n/2 − 1","x":700,"y":560,"width":300,"height":375},
+		{"id":"legend","type":"text","text":"## 범례\n🔵 **파란 박스**\n→ 대사산물 (Metabolite)\n\n🟠 **주황 박스**\n→ 효소 (Enzyme)\n클릭 시 노트로 이동\n\n🟣 보라: NADH / FADH₂\n🟢 초록: Acetyl CoA 생산\n🔴 빨강: ATP 소비\n🟣 연보라: 보조 반응물","x":700,"y":210,"width":300,"height":280},
+		{"id":"acylcoa_entry","type":"text","text":"## Acyl CoA (Cn)\n★ 사이클 시작","x":-100,"y":210,"width":300,"height":80,"color":"5"},
+		{"id":"activation","type":"text","text":"**Acyl CoA Synthetase**\n(세포질, −2 ATP 상당)","x":-100,"y":-50,"width":300,"height":65,"color":"2"},
+		{"id":"act_cost","type":"text","text":"**ATP → AMP + PPᵢ**\n(−2 ATP 상당)","x":350,"y":-50,"width":220,"height":65,"color":"1"},
+		{"id":"fattyacid","type":"text","text":"## 지방산 (Fatty Acid)\nCn (예: Palmitate C16)","x":-100,"y":-170,"width":300,"height":80,"color":"5"},
+		{"id":"carnitine","type":"text","text":"🚌 **Carnitine Shuttle**\nLong-chain acyl CoA →\ninner membrane 통과","x":350,"y":-170,"width":280,"height":80}
+	],
+	"edges":[
+		{"id":"e_fa_act","fromNode":"fattyacid","fromSide":"bottom","toNode":"activation","toSide":"top"},
+		{"id":"e_act_cost","fromNode":"activation","fromSide":"right","toNode":"act_cost","toSide":"left"},
+		{"id":"e_act_entry","fromNode":"activation","fromSide":"bottom","toNode":"acylcoa_entry","toSide":"top"},
+		{"id":"e_entry_s1","fromNode":"acylcoa_entry","fromSide":"bottom","toNode":"s1","toSide":"top","label":"Step 1"},
+		{"id":"e_s1_fadh2","fromNode":"s1","fromSide":"right","toNode":"fadh2","toSide":"left"},
+		{"id":"e_s1_enoyl","fromNode":"s1","fromSide":"bottom","toNode":"enoylcoa","toSide":"top"},
+		{"id":"e_enoyl_s2","fromNode":"enoylcoa","fromSide":"bottom","toNode":"s2","toSide":"top","label":"Step 2"},
+		{"id":"e_water_s2","fromNode":"water_s2","fromSide":"left","toNode":"s2","toSide":"right"},
+		{"id":"e_s2_hydroxy","fromNode":"s2","fromSide":"bottom","toNode":"hydroxyacylcoa","toSide":"top"},
+		{"id":"e_hydroxy_s3","fromNode":"hydroxyacylcoa","fromSide":"bottom","toNode":"s3","toSide":"top","label":"Step 3"},
+		{"id":"e_s3_nadh","fromNode":"s3","fromSide":"right","toNode":"nadh","toSide":"left"},
+		{"id":"e_s3_keto","fromNode":"s3","fromSide":"bottom","toNode":"ketoacylcoa","toSide":"top"},
+		{"id":"e_keto_s4","fromNode":"ketoacylcoa","fromSide":"bottom","toNode":"s4","toSide":"top","label":"Step 4"},
+		{"id":"e_coa_s4","fromNode":"coa_s4","fromSide":"left","toNode":"s4","toSide":"right"},
+		{"id":"e_s4_acetyl","fromNode":"s4","fromSide":"right","toNode":"acetylcoa_out","toSide":"left"},
+		{"id":"e_s4_short","fromNode":"s4","fromSide":"bottom","toNode":"acylcoa_short","toSide":"top"},
+		{"id":"e_short_loop","fromNode":"acylcoa_short","fromSide":"left","toNode":"acylcoa_entry","toSide":"left","label":"↩ 반복 (탄소 −2)"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

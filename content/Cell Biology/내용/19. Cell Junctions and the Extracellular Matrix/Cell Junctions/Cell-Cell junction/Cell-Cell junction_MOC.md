@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cell-Cell Junction_MOC
 
 Cell–cell junction은 세포 간 직접 결합을 매개한다. 크게 **anchoring junction**, **tight junction**, **gap junction**으로 나뉘며, 그 외 혈류 속에서 작동하는 transient adhesion 기전도 존재한다.
@@ -11,7 +8,7 @@ Cell–cell junction은 세포 간 직접 결합을 매개한다. 크게 **ancho
 
 Cadherin을 transmembrane adhesion protein으로 사용하여 인접 세포의 cytoskeleton과 연결한다.
 
-- [[Cadherin based adhension_MOC]]
+- [[00_Cadherin based adhension_MOC]]
 
 ---
 
@@ -19,7 +16,7 @@ Cadherin을 transmembrane adhesion protein으로 사용하여 인접 세포의 c
 
 인접 세포 사이의 공간을 봉합하여 분자의 paracellular 이동을 차단하고, 막 단백질의 apical/basolateral 도메인을 구분하는 fence 역할도 한다.
 
-- [[Tight junction_MOC]]
+- [[00_Tight junction_MOC]]
 
 ---
 
@@ -27,7 +24,7 @@ Cadherin을 transmembrane adhesion protein으로 사용하여 인접 세포의 c
 
 인접 세포의 cytoplasm을 직접 연결하는 채널을 형성하여 이온과 소분자를 공유할 수 있게 한다.
 
-- [[Gap junction_MOC]]
+- [[00_Gap junction_MOC]]
 
 ---
 

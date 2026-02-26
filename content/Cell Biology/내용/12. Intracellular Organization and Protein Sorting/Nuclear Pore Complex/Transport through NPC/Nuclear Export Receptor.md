@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Export Receptor
 
 Nuclear export receptor는 **karyopherin** 단백질 계열에 속하는 단백질로, NES를 인식하고 cargo를 핵에서 세포질로 수송한다. Import receptor와 구조적·진화적으로 유사하지만 반대 방향으로 작동한다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Vesicle transportation_MOC
 
 ## 개요

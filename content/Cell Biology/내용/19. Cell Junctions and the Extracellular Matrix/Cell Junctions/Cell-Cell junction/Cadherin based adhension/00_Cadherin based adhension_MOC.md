@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Cadherin Based Adhension_MOC
 > Calcium-dependent adhesion membrane protein
 

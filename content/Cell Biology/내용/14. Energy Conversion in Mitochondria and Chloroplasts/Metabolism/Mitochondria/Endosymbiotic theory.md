@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Endosymbiotic Theory
 
 ## 핵심 주장

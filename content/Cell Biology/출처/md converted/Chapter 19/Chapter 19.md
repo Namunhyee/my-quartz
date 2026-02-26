@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![](_page_0_Picture_0.jpeg)
 
 # CELLS IN THEIR SOCIAL CONTEXT

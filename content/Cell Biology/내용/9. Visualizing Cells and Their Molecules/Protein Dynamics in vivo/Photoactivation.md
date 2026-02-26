@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Photoactivation
 
 ## 개요

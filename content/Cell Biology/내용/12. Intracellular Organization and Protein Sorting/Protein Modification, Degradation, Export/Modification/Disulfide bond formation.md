@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Disulfide Bond Formation
 
 Disulfide bond (S–S bond)는 두 개의 cysteine residue의 sulfhydryl (SH) group 사이에 형성되는 공유 결합이다. 이 결합은 protein을 안정화시켜 혹독하고 가변적이며 chaperone이 없는 세포 외 환경을 더 잘 견딜 수 있게 한다.

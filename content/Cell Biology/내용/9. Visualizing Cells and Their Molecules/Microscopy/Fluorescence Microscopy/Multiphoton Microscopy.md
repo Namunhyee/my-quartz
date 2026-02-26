@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ### 개선된 방법: Multiphoton Microscopy
 
 특수 현미경들은 fluorescent molecules가 여기되는 방식을 활용하여 표본 내 더 깊이 탐사할 수 있다.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Quality Control of ER Protein Folding
 
 ER protein folding quality control은 ER에서 합성되는 단백질이 올바르게 접히는지를 감시하고, 잘못 접힌 단백질을 선별하여 제거하는 통합적인 시스템이다. 이 시스템은 여러 chaperone, folding enzyme, 그리고 degradation machinery가 협력하여 작동한다.

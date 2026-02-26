@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Confocal Microscope
 
 ## 개요

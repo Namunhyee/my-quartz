@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # integrin_MOC
 
 ![[Cell Biology/출처/md converted/Chapter 19/_page_42_Figure_6.jpeg]]
@@ -36,7 +33,7 @@ dg-publish: true
 Integrin은 단순한 기계적 linker가 아니라 **양방향 신호 전달** 기능을 가진다:
 
 - **Outside-in signaling**: ECM 결합 → 세포 내부로 신호 전달
-- **Inside-out signaling**: 세포 내 신호 → integrin 활성화 (→ [[Activation of Integrins by intracellular signaling]])
+- **Inside-out signaling**: 세포 내 신호 → integrin 활성화 (→ [[Activation of Integrins by intracellular signaling]]) ^6a5ea7
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_54_Picture_1.jpeg]]
 *Integrin의 active와 inactive conformation. Inactive (folded) 상태에서 active (extended) 상태로 전환되며, 이 conformational change가 extracellular 및 intracellular binding site를 동시에 노출시킨다.*

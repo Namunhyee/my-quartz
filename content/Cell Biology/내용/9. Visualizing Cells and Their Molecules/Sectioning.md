@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 > Intact Tissues Are Usually Fixed and Sectioned Before Microscopy
 [[Ch9.pdf#page=10&selection=0,0,0,64|Ch9, 페이지 10]]
 

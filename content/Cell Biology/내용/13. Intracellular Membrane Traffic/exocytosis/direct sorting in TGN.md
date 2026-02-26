@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Direct Sorting in TGN
 
 ## 개요

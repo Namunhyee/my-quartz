@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Structure of a Microtubule
 
 Microtubule은 αβ-tubulin 이종이합체(heterodimer)가 polymerize하여 만들어진 속이 빈 원통형 구조이다. 각 tubulin 이합체의 β-tubulin 소단위에는 GTP 결합 부위가 있다.

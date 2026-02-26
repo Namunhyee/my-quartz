@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Rab Cascades
 
 Rab cascade는 한 Rab protein이 다른 Rab protein을 순차적으로 recruit하고 activate하는 과정이다. 이를 통해 organelle의 identity가 dynamically하게 변화할 수 있다.

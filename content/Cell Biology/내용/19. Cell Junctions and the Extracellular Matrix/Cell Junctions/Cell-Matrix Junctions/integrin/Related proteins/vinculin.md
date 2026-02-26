@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # vinculin
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_56_Figure_1.jpeg]]

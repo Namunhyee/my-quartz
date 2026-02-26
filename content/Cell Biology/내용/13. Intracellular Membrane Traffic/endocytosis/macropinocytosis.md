@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Macropinocytosis
 
 **Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.

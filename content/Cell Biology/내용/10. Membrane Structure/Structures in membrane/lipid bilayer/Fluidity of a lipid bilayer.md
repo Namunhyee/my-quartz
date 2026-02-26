@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Fluidity of a Lipid Bilayer
 
 [[Lipid bilayer]]의 fluidity는 세포막을 이상적인 구조로 만드는 가장 중요한 특성 중 하나이다. Fluidity는 많은 membrane 기능에 중요하며, 개별 lipid molecule이 bilayer plane 내에서 자유롭게 확산할 수 있게 한다.

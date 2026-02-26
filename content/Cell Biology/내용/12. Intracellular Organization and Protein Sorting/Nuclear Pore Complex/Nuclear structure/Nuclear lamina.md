@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Nuclear Lamina
 
 Nuclear lamina는 inner nuclear membrane 안쪽 표면을 덮고 있는 섬유성 단백질 meshwork으로, 핵에 구조적 지지를 제공한다.
