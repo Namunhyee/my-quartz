@@ -2,7 +2,7 @@
 
 ## 개요
 
-Phosphoinositides (PIPs)는 membrane의 약 10% 미만을 차지[^1]하지만 중요한 regulatory function을 가진다. 이들은 organelle과 membrane domain의 molecular marker로 작용하며, vesicle transport의 여러 단계를 조절한다.
+Phosphoinositides (PIPs)는 membrane의 약 10% 미만을 차지[^1]하지만 중요한 regulatory function을 가진다.[^기출_중간_2022_22][^기출_중간_2023_3] 이들은 organelle과 membrane domain의 molecular marker로 작용하며, vesicle transport의 여러 단계를 조절한다.
 
 ## 구조와 생성
 
@@ -21,7 +21,7 @@ Inositol ring의 hydroxyl group이 phosphorylation되어 다양한 PIP 생성:
 
 ## Compartment-specific Distribution
 각 organelle은 특정 PI와 PIP kinase 및 phosphatase를 가진다:
-<font color="#ff0000">모두 cytosolic leaflet에 위치함.</font>
+<font color="#ff0000">모두 [[Asymmetry of the lipid bilayer|cytosolic leaflet에 위치함]].</font>
 
 ### Distribution Pattern
 - **Plasma membrane**: PI(4,5)P₂ enriched
@@ -110,3 +110,6 @@ Vesicle transport 외에도 PIP는 intracellular signaling에 중요:
 [^2]: [[2023 세포생물학 중간고사 문제지.pdf#page=1&selection=316,0,332,2|PI(3,4,5) P3를 phosphatidylinositol 3,4,5-tri-phosphate 라고 읽는다.]]
 
 [^3]: [[2023 세포생물학 중간고사 문제지.pdf#page=1&selection=336,0,353,2|인지질의 글리세롤 대신 이노시톨 (inositol)이 붙어있는 것이 PI이다.]]
+
+[^기출_중간_2022_22]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_22번|2022 중간 22번]] — 각 compartment의 특이적 PIP 분포(plasma membrane: PI(4,5)P₂, early endosome: PI(3)P 등)와 vesicle transport 조절 기능이 정답 근거로 활용됨.
+[^기출_중간_2023_3]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_3번|2023 중간 3번]] — PI/PIP의 compartment 특이적 분포와 coat assembly 조절에 관한 선지 ⑤가 정답.

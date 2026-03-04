@@ -1,6 +1,6 @@
 # Types of Intermediate Filament
 
-척추동물 세포의 intermediate filament 단백질은 세포 유형과 위치에 따라 크게 네 그룹으로 분류된다 (Table 16–2).
+척추동물 세포의 intermediate filament 단백질은 세포 유형과 위치에 따라 크게 네 그룹으로 분류된다 (Table 16–2).[^기출_기말_2022_17][^기출_기말_2023_13]
 
 | 유형            | 구성 단백질                                 | 발현 위치                              |
 | ------------- | -------------------------------------- | ---------------------------------- |
@@ -25,3 +25,6 @@
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_61_Figure_6.jpeg]]
 *(A) 뉴런 축삭의 neurofilament — NF-H의 C-terminal extension에 의한 cross-bridge. (B) 신경교세포의 glial filament — 가늘고 cross-bridge가 적다. (C) 축삭 횡단면 — neurofilament가 microtubule보다 훨씬 많이 분포.*
+
+[^기출_기말_2022_17]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_17번|2022 기말 17번]] — IF 문항으로, vimentin이 중배엽 기원(mesenchymal) 세포에서 발현되고(선지 ④), IF는 극성(polarity) 없이 조립되며 nucleotide를 필요로 하지 않는다는 내용이 정답 근거로 활용됨.
+[^기출_기말_2023_13]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_13번|2023 기말 13번]] — keratin intermediate filament의 특성(flexible, 극성 없음, nucleotide 불필요, tensile strength 제공)과 desmosome/hemidesmosome 연결을 통한 상피 조직 강화가 정답 근거로 활용됨.

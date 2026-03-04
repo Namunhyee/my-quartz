@@ -1,6 +1,6 @@
 # Macropinocytosis
 
-**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.
+**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.[^기출_중간_2022_33][^기출_중간_2023_10]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_53_Picture_2.jpeg]]
 
@@ -96,3 +96,6 @@ Macropinocytosis는 oncogene *Ras*의 활성화에 의해 자극된다:
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../16. The Cytoskeleton/Actin filaments|Actin filament]]
 - [[../../15. Cell Signaling/Ras|Ras signaling]]
+
+[^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Macropinocytosis의 비선택적 특성, ruffle 형성, actin polymerization 의존성이 정답 근거로 활용됨.
+[^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — Macropinocytosis와 caveolar endocytosis의 특성에 관한 선지 ④가 정답.

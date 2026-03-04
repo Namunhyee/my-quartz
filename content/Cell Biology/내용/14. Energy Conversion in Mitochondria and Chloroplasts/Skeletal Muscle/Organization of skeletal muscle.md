@@ -27,7 +27,7 @@ Muscle (근육)
 - Myofibril 사이에 미토콘드리아가 촘촘히 위치
 - 수축 시 ATP를 즉각 공급할 수 있도록 에너지 수요처와 인접
 
-> 자세한 구조 및 수축 메커니즘은 교과서 Chapter 16 참고.
+> 자세한 구조 및 수축 메커니즘은 [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/400_Skeletal Muscle Cell_MOC|Chapter 16 골격근 세포 노트]] 참고.
 
 ## 관련 개념
 

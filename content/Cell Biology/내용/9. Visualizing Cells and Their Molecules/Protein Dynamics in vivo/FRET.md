@@ -129,7 +129,7 @@ FRET efficiency ∝ 1/(distance)^6
 ## 핵심 특징
 
 ### 1. 비침습적 관찰
-- 살아있는 세포에서 실시간 모니터링
+- 살아있는 세포에서 실시간 모니터링[^기출_중간_2022_7]
 - 세포 손상 최소화
 
 ### 2. 높은 공간 해상도
@@ -183,3 +183,5 @@ FRET efficiency ∝ 1/(distance)^6
 - Section: "Protein Dynamics Can Be Followed in Living Cells"
 - Related Figure: 9-19, 15-49
 - Related concepts: [[Fluorescent Proteins(GFP, GFP tagging)|GFP]], [[FRAP]], [[Photoactivation]]
+
+[^기출_중간_2022_7]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_7번|2022 중간 7번]] — Co-IP는 세포 용해 후 단백질 복합체를 검출(lysis artifact 가능)하는 반면, FRET는 살아있는 세포에서 실시간으로 단백질 상호작용을 관찰할 수 있어 in vivo 적합성이 더 높다는 차이가 정답 근거로 활용됨.

@@ -2,7 +2,7 @@
 
 ## Actin Monomer (G-actin)
 
-각 actin subunit은 G-actin(globular actin)이라 불리며, ATP 또는 ADP 분자를 단단히 결합하는 375개 아미노산의 폴리펩타이드이다. 분자 중심의 깊은 cleft 안에 nucleotide가 결합한다.
+각 actin subunit은 G-actin(globular actin)이라 불리며, ATP 또는 ADP 분자를 단단히 결합하는 375개 아미노산의 폴리펩타이드이다.[^기출_기말_2023_14] 분자 중심의 깊은 cleft 안에 nucleotide가 결합한다.
 
 척추동물에는 세 가지 isoform이 존재한다.
 - **α-actin**: 근육 세포에서만 발현
@@ -25,3 +25,5 @@ actin subunit은 극성이 있음
   - **Minus end (pointed end)**: subunit 추가 속도가 느린 쪽
 
 Filament 내 actin subunit은 ATP를 결합한 채 중합되며, 중합 후 서서히 ATP를 ADP로 가수분해한다. 이 ADP-actin은 depolymerization되기 쉬워 filament dynamics의 근간을 이룬다 → [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/treadmilling|treadmilling]] 참조.
+
+[^기출_기말_2023_14]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_14번|2023 기말 14번]] — G-actin이 ATP 및 Mg²⁺와 결합하여 polymerization을 일으킨다는 내용과 plus end(barbed end)/minus end(pointed end)의 성장 속도 차이가 정답 근거로 활용됨.

@@ -9,7 +9,7 @@ Adherens junction은 기계적 힘을 감지하고, 이에 반응하여 actin cy
 ![[Cell Biology/출처/md converted/Chapter 19/_page_9_Figure_2.jpeg]]
 *Figure 19-12. Actin filament가 non-muscle myosin II에 의해 당겨지면, 그 장력이 α-catenin의 한 domain을 펼쳐서(unfold) 숨겨져 있던 vinculin 결합 부위를 노출시킨다. Vinculin이 결합하면 추가 actin을 동원하여 junction과 cytoskeleton 사이의 연결을 강화한다.*
 
-1. Actin filament가 non-muscle myosin II에 의해 수축하면 장력이 cadherin–catenin 복합체로 전달된다.
+1. [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/100_Actin filaments_MOC|Actin filament]]가 non-muscle [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/Myosin II|myosin II]]에 의해 수축하면 장력이 cadherin–catenin 복합체로 전달된다.
 2. 장력이 [[catenin|α-catenin]]을 접힌 구조에서 신장된 구조로 변형시켜 **cryptic [[vinculin]] 결합 부위**를 노출시킨다.
 3. Vinculin이 노출된 부위에 결합하고, 추가 actin 동원을 촉진하여 junction의 cytoskeleton 연결이 강해진다.
 4. 이 변화는 [[Rac/Rho 등의 small GTPase에 의한 actin/myosin 행동 조절]]로도 이어질 것으로 추정된다.

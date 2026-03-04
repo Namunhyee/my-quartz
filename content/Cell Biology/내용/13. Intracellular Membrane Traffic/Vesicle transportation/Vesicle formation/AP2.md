@@ -2,7 +2,7 @@
 
 ## 개요
 
-AP2 (Adaptor Protein 2)는 [[Clathrin coat|clathrin-coated vesicle]]의 inner coat layer를 형성하는 adaptor protein이다. AP2는 plasma membrane과 clathrin 사이에 위치하여 cargo selection과 clathrin recruitment를 매개한다.
+AP2 (Adaptor Protein 2)는 [[Clathrin coat|clathrin-coated vesicle]]의 inner coat layer를 형성하는 adaptor protein이다.[^기출_중간_2022_21][^기출_중간_2023_4] AP2는 plasma membrane과 clathrin 사이에 위치하여 cargo selection과 clathrin recruitment를 매개한다.
 
 ## 구조
 
@@ -77,3 +77,6 @@ AP2는 transmembrane cargo와 cargo receptor를 선택적으로 인식한다:
 이러한 specificity로 인해:
 - 각 adaptor protein은 특정 membrane에서만 coat assembly 유도
 - 특정 subset의 cargo만 특정 vesicle에 packaging
+
+[^기출_중간_2022_21]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_21번|2022 중간 21번]] — AP2가 PI(4,5)P₂ 결합 시 conformational change로 cargo binding site를 노출시키고 clathrin을 모집한다는 내용이 정답 근거로 활용됨.
+[^기출_중간_2023_4]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_4번|2023 중간 4번]] — AP2의 PI(4,5)P₂ 의존적 활성화와 cargo receptor 인식 메커니즘이 선지 ②의 정답 근거로 활용됨.

@@ -1,6 +1,6 @@
 # GAG
 
-Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다.
+Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다.[^기출_기말_2023_29]
 glycosamino는 -OH기 하나가 -NH<sub>2</sub>로 바뀌어 있는 아미노당. glycan은 polysaccharide를 의미하는 접미사
 
 ## 구조적 특징
@@ -36,3 +36,5 @@ glycosamino는 -OH기 하나가 -NH<sub>2</sub>로 바뀌어 있는 아미노당
 - 세포 이동이 끝나면 과잉 hyaluronan은 효소 **hyaluronidase**에 의해 분해된다.
 - **상처 치유** 시에도 대량 생산된다.
 - **관절액**의 중요 구성요소로 윤활 작용을 한다.
+
+[^기출_기말_2023_29]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_29번|2023 기말 29번]] — GAG 사슬이 core protein의 serine 잔기에 특정 linkage tetrasaccharide를 통해 연결된다는 내용이 정답 근거로 활용됨.

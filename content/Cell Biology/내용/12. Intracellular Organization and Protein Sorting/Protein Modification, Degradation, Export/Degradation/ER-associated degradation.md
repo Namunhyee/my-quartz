@@ -158,7 +158,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 ## Pathological Implications
 
 ### 1. Genetic Diseases
-**ΔF508-CFTR:**
+**[[CFTR|ΔF508-CFTR]]:**
 - Cystic fibrosis의 원인
 - Misfolded CFTR channel
 - ERAD에 의해 과도하게 분해
@@ -175,7 +175,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 - MHC class I molecule을 degradation
 - Immune evasion
 
-## ERAD와 UPR의 연결
+## ERAD와 [[Unfolded protein response|UPR]]의 연결
 
 ### Coordinated Response
 **UPR activation:**

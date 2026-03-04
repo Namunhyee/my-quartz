@@ -11,7 +11,7 @@ Plasma membrane은 다른 membrane에 비해 vesicle budding이 어렵다:
 ### 구조적 특징
 - Comparatively flat and stiff
 - Cholesterol-rich lipid composition
-- Underlying actin-rich cortex
+- Underlying [[100_Actin filaments_MOC|actin]]-rich cortex
 
 ### 결과
 - Clathrin coat assembly 단독으로는 불충분
@@ -53,8 +53,8 @@ BAR-domain protein이 curved membrane 생성:
 ### Vesicle Neck에서의 기능
 Budding vesicle neck에서 중요한 역할:
 1. **Sharp membrane bend 안정화**
-2. **Clathrin machinery와 함께 local actin assembly 자극**
-3. **Growing actin filament이 vesicle 주변 membrane을 push**
+2. **Clathrin machinery와 함께 local [[100_Actin filaments_MOC|actin]] assembly 자극**
+3. **Growing [[100_Actin filaments_MOC|actin filament]]이 vesicle 주변 membrane을 push**
 4. **Vesicle이 membrane으로부터 propel되는 것 도움**
 
 ## Actin Polymerization과의 연결

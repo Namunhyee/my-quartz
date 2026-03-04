@@ -1,6 +1,6 @@
 # ESCRT Protein Complex
 
-**ESCRT (Endosomal Sorting Complexes Required for Transport) 단백질 복합체**는 multivesicular body에서<font color="#245bdb"> intralumenal vesicle 형성을 매개하는 일련의 세포질 단백질 복합체</font>이다.
+**ESCRT (Endosomal Sorting Complexes Required for Transport) 단백질 복합체**는 multivesicular body에서<font color="#245bdb"> intralumenal vesicle 형성을 매개하는 일련의 세포질 단백질 복합체</font>이다.[^기출_중간_2022_34]
 
 ## ESCRT 복합체의 종류
 
@@ -161,3 +161,5 @@ SARS-CoV-2 (COVID-19를 일으키는 virus):
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../17. The Cell Cycle/Cytokinesis|Cytokinesis]]
 - [[../../23. Pathogens and Infection/Virus entry|Virus 진입]]
+
+[^기출_중간_2022_34]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_34번|2022 중간 34번]] — ESCRT-0→I→II→III 순차적 작용과 ubiquitin tag를 통한 cargo 선별, intralumenal vesicle 형성 메커니즘이 정답 근거로 활용됨.

@@ -76,7 +76,7 @@ Weak protein-protein, protein-lipid, lipid-lipid interaction이 서로 강화하
 - [[Cholesterol]] 농축
 - Sphingolipid 농축
 - [[Glycolipid]] 농축
-- Glycosylphosphatidylinositol (GPI)-anchored protein 농축
+- Glycosylphosphatidylinositol (GPI)-anchored protein 농축[^기출_중간_2021_10]
 - 일부 transmembrane protein 농축
 
 **물리적 특성:**
@@ -101,7 +101,7 @@ Raft domain은 세포막의 여러 중요한 과정에 관여한다:
 
 - Membrane vesicle에서 protein 조직화
 - Specific protein의 transport 촉진
-- Vesicle formation과 targeting 조절
+- [[Vesicle formation_MOC|Vesicle formation]]과 targeting 조절
 
 ### 2. Cell Signaling
 
@@ -131,3 +131,5 @@ Raft domain의 중요한 특성:
 - [[Membrane protein]]
 - [[Major lipids in cell membrane]]
 - [[Lipid anchor]]
+
+[^기출_중간_2021_10]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_10번|2021 중간 10번]] — Lipid raft(raft domain)는 콜레스테롤, sphingolipid, GPI-anchored protein 등이 집중된 막의 특수 도메인으로, 같은 종류의 지질끼리 모이는 특성이 출제됨. 복기 불완전. (선지 미복기)

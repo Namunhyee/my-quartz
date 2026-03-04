@@ -3,7 +3,7 @@
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_38_Figure_2.jpeg]]
 *Laminin (glycoprotein)의 구조. α-chain, β-chain, γ-chain으로 구성된 heterotrimeric protein이다.*
 
-**Laminin**은 [[Basal Lamina_MOC|basal lamina]]의 주요 glycoprotein이며, basal lamina의 **primary organizer**이다.
+**Laminin**은 [[Basal Lamina_MOC|basal lamina]]의 주요 glycoprotein이며, basal lamina의 **primary organizer**이다.[^기출_기말_2023_30]
 
 ## 구조
 
@@ -43,3 +43,5 @@ Laminin 결합 이상은 다음과 같은 질환을 유발할 수 있다:
 - Nephrotic syndrome (신장 필터 결함)
 
 특히 피부에서 **laminin-332**는 skin basal lamina의 핵심 구성요소이며, 이 유전자에 결함이 있으면 epidermis가 dermis에 제대로 부착되지 못해 **junctional epidermolysis bullosa** (연접부수포성표피박리증)라는 심각한 수포 질환을 유발한다.
+
+[^기출_기말_2023_30]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_30번|2023 기말 30번]] — laminin이 basal lamina의 primary organizer로서 collagen IV, nidogen, perlecan과 함께 basal lamina 핵심 구성요소임이 정답 근거로 활용됨.

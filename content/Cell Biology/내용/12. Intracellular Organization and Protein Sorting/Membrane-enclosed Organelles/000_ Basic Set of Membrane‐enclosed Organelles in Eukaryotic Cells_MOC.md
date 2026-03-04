@@ -5,7 +5,7 @@ contains genome; site of DNA and RNA synthesis
  - Protein synthesis and degradation
  - Small molecule degradation
  - Synthesis of building blocks
-# [[Endoplasmic Reticulum]](ER)
+# [[Endoplasmic Reticulum]](ER)[^기출_중간_2023_29]
 - Rough ER : Ribosome‐bound; synthesizes membrane & secretory proteins.
 - Smooth ER : Lipid synthesis, Ca²⁺ storage
 # [[Golgi apparatus_MOC|Golgi apparatus]]
@@ -22,3 +22,5 @@ Sorting compartments for endocytosed material
 oxidative reactions
 
 ![[Cell Biology/출처/md converted/Chapter 12/_page_1_Picture_2.jpeg]]
+
+[^기출_중간_2023_29]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_29번|2023 중간 29번]] — 진핵세포 막성 소기관(ER, Golgi, Mitochondria, Chloroplast, Peroxisome) 기능 빈칸 채우기

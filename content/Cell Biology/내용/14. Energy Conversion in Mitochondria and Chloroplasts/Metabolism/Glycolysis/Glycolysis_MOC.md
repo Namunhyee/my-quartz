@@ -2,7 +2,7 @@
 
 ## 개요
 
-Glycolysis(해당과정)는 **세포질(cytosol)**에서 일어나는 포도당 분해 과정이다. 산소 없이도 진행 가능한 혐기성 과정.
+Glycolysis(해당과정)는 **세포질(cytosol)**에서 일어나는 포도당 분해 과정이다.[^기출_기말_2023_2][^기출_기말_2023_3][^기출_기말_2023_4][^기출_기말_2023_7] 산소 없이도 진행 가능한 혐기성 과정.
 
 > "Without mitochondria, present-day animal cells would have had to generate all of their ATP through glycolysis." — Chapter 14
 
@@ -59,3 +59,8 @@ Glycolysis(해당과정)는 **세포질(cytosol)**에서 일어나는 포도당 
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/pyruvate oxidation|Pyruvate oxidation]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Net result of energy metabolism|Net result of energy metabolism]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Metabolism_MOC|Metabolism_MOC]]
+
+[^기출_기말_2023_2]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_2번|2023 기말 2번]] — 해당과정 중간체 순서(Fructose-1,6-bisphosphate→DHAP→1,3-bisphosphoglycerate→PEP = B→D→A→C)가 정답 ④의 근거로 활용됨.
+[^기출_기말_2023_3]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_3번|2023 기말 3번]] — 해당과정 효소 작용 순서(Aldolase→Phosphoglycerate kinase→Enolase = B→A→C)가 정답 ③의 근거로 활용됨.
+[^기출_기말_2023_4]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_4번|2023 기말 4번]] — Glucose→PEP 구간에서 ATP 2개 소비(투자 단계) 후 ATP 2개 회수(step 7)하여 net ATP = 0임이 정답 ①의 근거로 활용됨.
+[^기출_기말_2023_7]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_7번|2023 기말 7번]] — 해당과정에서 GAPDH(step 6)에 의해 NADH 2분자(glucose 기준)가 생성되어 총 NADH 계산(2+2+6=10)에 기여한다는 내용이 정답 ④의 근거로 활용됨.

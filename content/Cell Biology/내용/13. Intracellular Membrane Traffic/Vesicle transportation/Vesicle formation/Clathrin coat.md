@@ -2,7 +2,7 @@
 
 ## 구조
 
-Clathrin coat는 vesicle의 outer layer를 형성하는 주요 protein component이다. 
+Clathrin coat는 vesicle의 outer layer를 형성하는 주요 protein component이다.[^기출_중간_2022_20][^기출_중간_2022_21][^기출_중간_2023_4]
 [[Receptor-mediated endocytosis#Selective concentrating mechanism(선택적 농축 메커니즘)|Selective concentrating mechanism]]의 주요 원리
 cytosolic face로 budding
 
@@ -73,7 +73,7 @@ Plasma membrane의 clathrin-coated pit:
 
 ## Light Chain의 기능
 
-- Actin cytoskeleton과 연결
+- [[100_Actin filaments_MOC|Actin cytoskeleton]]과 연결
 - Membrane budding과 vesicle movement를 위한 force 생성 도움
 - Phosphorylation을 통해 clathrin coat assembly 조절
 
@@ -84,3 +84,7 @@ Plasma membrane의 clathrin-coated pit:
 - [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle formation/Membrane Bending Protein|Membrane-bending protein]]
 - [[Pinching-Off|Dynamin-mediated pinching-off]]
 - [[Vesicle formation_MOC|Vesicle formation 전체 과정]]
+
+[^기출_중간_2022_20]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_20번|2022 중간 20번]] — Clathrin은 plasma membrane의 endocytosis에 사용되며 COPI/COPII vesicle과 달리 주로 endocytic pathway에 관여한다는 내용이 선지 근거로 활용됨.
+[^기출_중간_2022_21]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_21번|2022 중간 21번]] — AP2가 PI(4,5)P₂ 결합 시 conformational change로 cargo binding site를 노출시키고 clathrin을 모집한다는 내용이 정답 근거로 활용됨.
+[^기출_중간_2023_4]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_4번|2023 중간 4번]] — Clathrin triskelion이 hexagon과 pentagon으로 구성된 basketlike lattice를 형성한다는 선지 ②가 정답.

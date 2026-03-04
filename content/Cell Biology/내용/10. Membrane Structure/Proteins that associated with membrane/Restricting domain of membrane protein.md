@@ -46,7 +46,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 - Lipid 조성도 이 두 membrane domain에서 다름
 
 **메커니즘:**
-- Specific type의 intercellular junction (tight junction)에 의해 설정된 장벽
+- Specific type의 intercellular junction ([[00_Tight junction_MOC|tight junction]])에 의해 설정된 장벽
 - Protein과 lipid molecule 모두의 분리 유지
 
 ### 4. Spermatozoon의 Domain
@@ -77,14 +77,14 @@ Mitochondria inner membrane의 ATP synthase complex:
 - Axon을 둘러싸는 또 다른 domain
 
 **메커니즘:**
-- Actin filament의 belt가 cell-body-axon junction에서 plasma membrane과 tightly associate
+- [[100_Actin filaments_MOC|Actin filament]]의 belt가 cell-body-axon junction에서 plasma membrane과 tightly associate
 - Barrier의 일부 형성
 
 ## Membrane Protein 고정 메커니즘
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_27_Picture_8.jpeg]]
 
-위 그림은 특정 plasma membrane protein의 lateral mobility를 제한하는 네 가지 일반적인 방법을 보여준다:
+위 그림은 특정 plasma membrane protein의 lateral mobility를 제한하는 네 가지 일반적인 방법을 보여준다:[^기출_중간_2023_22]
 
 ### 1. Self-assembly
 
@@ -117,7 +117,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 [[Cortical cytoskeleton]]은 plasma membrane protein의 확산을 제한한다:
 
 **메커니즘:**
-1. Cytoskeletal filament가 plasma membrane의 cytosolic surface에 밀접하게 apposed됨
+1. Cytoskeletal filament가 plasma membrane의 cytosolic surface에 밀접하게 apposed됨[^기출_중간_2022_19]
 2. Mechanical barrier 형성
 3. Membrane을 작은 domain 또는 corral로 partition
 
@@ -160,3 +160,6 @@ Transmembrane protein이 corral 내에 국한되는 정도는 다음에 의존:
 - [[Fluidity of a lipid bilayer]]
 - [[Raft domain]]
 - [[Lipid anchor]]
+
+[^기출_중간_2023_22]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — 막단백질의 이동 제한 메커니즘 4가지(self-assembly, 세포외 macromolecule tether, 세포내 macromolecule tether, 다른 세포 단백질 상호작용) 중 단백질-단백질 상호작용이 핵심 정답 근거로 활용됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_19]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — Cortical cytoskeleton이 막의 cytosolic surface에 밀착하여 막단백질의 이동을 corral 내로 제한하는 메커니즘이 출제됨. 복기 불완전. (선지 미복기)

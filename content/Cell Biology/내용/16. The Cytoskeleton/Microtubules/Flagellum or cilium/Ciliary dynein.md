@@ -3,7 +3,7 @@
 
 *Fig 16–59. Axonemal dynein. 바다성게 정자 편모의 cryoEM 재구성. Dynein arm이 한 doublet의 A microtubule과 인접 doublet의 B microtubule을 규칙적 간격으로 연결한다.*
 
-**Axonemal dynein** (섬모 dynein)은 axoneme 내 인접한 microtubule doublet을 연결하는 minus end 방향 motor이다. Cytoplasmic dynein과 구조적으로 관련이 있으며, ciliary/flagellar beating에 특화되어 있다.
+**Axonemal dynein** (섬모 dynein)은 axoneme 내 인접한 microtubule doublet을 연결하는 minus end 방향 motor이다.[^기출_기말_2022_19][^기출_기말_2023_21] Cytoplasmic dynein과 구조적으로 관련이 있으며, ciliary/flagellar beating에 특화되어 있다.
 ![[_page_57_Picture_2.jpeg]]
 ## 구조
 
@@ -16,3 +16,6 @@ Dynein head가 ATP를 가수분해하면 B microtubule의 minus end 방향으로
 Bending 메커니즘의 자세한 내용은 [[Cell Biology/내용/16. The Cytoskeleton/Microtubules/Flagellum or cilium/axoneme bending|axoneme bending]] 참조.
 
 인간에서 axonemal dynein의 유전적 결함은 **primary ciliary dyskinesia (Kartagener's syndrome)**을 일으킨다. 특징으로는 내장 비대칭의 역전(situs inversus), 불임(immotile sperm), 폐 감염에 대한 높은 감수성(호흡기 cilia 마비)이 있다.
+
+[^기출_기말_2022_19]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_19번|2022 기말 19번]] — 편모/섬모의 9+2 axoneme 구조, nexin link(선지 ⑤), ciliary dynein에 의한 sliding force 생성이 정답 근거로 활용됨.
+[^기출_기말_2023_21]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_21번|2023 기말 21번]] — axonemal dynein arm 결함이 primary ciliary dyskinesia(PCD)/Kartagener syndrome을 유발하며, 불임(immotile sperm), 폐 감염 감수성 증가, 내장 좌우 비대칭(situs inversus)이 특징이라는 내용이 정답 근거로 활용됨.

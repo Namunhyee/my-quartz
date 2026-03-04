@@ -1,6 +1,6 @@
 # Rab Cycle
 
-Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를 조절한다. 이 cycle은 vesicle과 target membrane에서 일어나며, vesicle identity와 targeting specificity를 제공한다.
+Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를 조절한다.[^기출_중간_2021_미상C][^기출_중간_2022_25][^기출_중간_2023_7] 이 cycle은 vesicle과 target membrane에서 일어나며, vesicle identity와 targeting specificity를 제공한다.
 
 ## Rab protein의 구조와 특성
 
@@ -87,8 +87,8 @@ Transport vesicle 형성 시:
 - Target membrane recognition에 사용
 
 **Motor protein recruitment**
-- Kinesin, dynein, myosin 등
-- Microtubule/actin filament을 따라 이동
+- [[kinesin|Kinesin]], [[dynein|dynein]], myosin 등
+- [[300_Microtubules_MOC|Microtubule]]/[[100_Actin filaments_MOC|actin filament]]을 따라 이동
 
 **Tethering protein recruitment**
 - Long-range capture of vesicle
@@ -148,3 +148,7 @@ Rab cycle의 dysregulation:
 - Organelle identity loss
 - Trafficking defect
 - Disease (e.g., Parkinson's disease와 Rab7L1 mutation)
+
+[^기출_중간_2021_미상C]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상C번|2021 중간 미상C번]] — Rab effector(tethering protein, motor protein 등)의 역할이 선지 근거로 활용됨.
+[^기출_중간_2022_25]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_25번|2022 중간 25번]] — Rab cycle에서 Rab-GTP가 effector를 모집하고 tethering protein이 vesicle을 target membrane으로 안내하는 과정이 정답 근거로 활용됨.
+[^기출_중간_2023_7]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_7번|2023 중간 7번]] — Rab protein의 특성(GDI와 결합, GEF/GAP 조절, effector 모집)에 대한 선지 ③이 정답.

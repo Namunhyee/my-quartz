@@ -2,7 +2,7 @@
 
 ## 개요
 
-**Cytochrome c oxidase** (Complex IV)는 ETC의 마지막 complex로, cytochrome c로부터 전자를 받아 **O₂를 물(H₂O)로 환원**시키는 반응을 촉매한다. 동시에 세 번째 proton pump로 기능한다.
+**Cytochrome c oxidase** (Complex IV)는 ETC의 마지막 complex로, cytochrome c로부터 전자를 받아 **O₂를 물(H₂O)로 환원**시키는 반응을 촉매한다.[^기출_기말_2022_13][^기출_기말_2023_8][^기출_기말_2023_11][^기출_기말_2023_12] 동시에 세 번째 proton pump로 기능한다.
 
 - **위치**: 미토콘드리아 crista membrane
 - **Proton pumping**: **1 H⁺/electron** (allosteric conformational change)
@@ -71,3 +71,8 @@ $$4\,\text{Cyt }c_{\text{red}} + \text{O}_2 + 8\text{H}^+_{\text{matrix}} \right
 - O₂를 최종 전자 수용체로 이용하는 것은 **혐기성 대사보다 훨씬 많은 에너지** 획득 가능
 - 세포가 O₂를 직접 안전하게 다룰 수 있는 복잡한 화학이 필요했으며, Complex IV가 그 역할을 함
 - 다세포 생물의 등장에 필수적인 에너지원을 제공
+
+[^기출_기말_2022_13]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_13번|2022 기말 13번]] — Cytochrome c가 Complex III로부터 전자를 받아 Complex IV로 전달하고, Complex IV에서 O₂ + 4H⁺ → 2H₂O 반응이 일어난다는 내용이 정답 ⑤의 근거로 활용됨.
+[^기출_기말_2023_8]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_8번|2023 기말 8번]] — Cytochrome c는 Complex III에서 전자를 받아 Complex IV로 전달하므로, 선지 ④("Complex I·II로부터 전자를 받아 Complex III에 전달")가 옳지 않음이 정답 근거로 활용됨.
+[^기출_기말_2023_11]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_11번|2023 기말 11번]] — Complex IV의 H⁺ 펌핑 원리(O₂ 환원 시 matrix H⁺ 소비 + 추가 H⁺ 능동 펌핑 2H⁺/2e⁻)가 서술형 답안의 핵심 내용.
+[^기출_기말_2023_12]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_12번|2023 기말 12번]] — Antimycin A에 의한 Complex III 억제로 cytochrome c에 전자 공급이 없어지면 Complex IV도 정지하여 O₂ 소비가 감소한다는 서술형 풀이의 핵심 내용.

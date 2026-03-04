@@ -8,7 +8,7 @@ Hyaluronan을 제외한 모든 [[GAG]]는 단백질에 공유결합하여 **prot
 ## 구성
 
 - **Core protein**: Membrane-bound ribosome이 합성하고 ER lumen으로 주입한다.
-- **GAG chain**: Golgi apparatus에서 core protein에 부착된다. 먼저 serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.
+- **GAG chain**: [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Proteoglycan Assembly|Golgi apparatus에서 core protein에 부착]]된다.[^기출_기말_2022_11][^기출_기말_2023_29] 먼저 serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.
 - **변형(Modification)**: Golgi에서 sulfation (음전하 증가), epimerization (sugar의 configuration 변화) 등이 일어난다.
 
 ## 기능
@@ -52,3 +52,6 @@ Proteoglycan은 거의 무한한 heterogeneity를 가질 수 있다:
 *Basal lamina의 분자 구조 모델. Perlecan이 laminin, type IV collagen, nidogen과 함께 고도로 cross-linked된 단백질 및 proteoglycan network를 형성한다.*
 
 Perlecan은 [[Laminin|laminin]]과 type IV collagen 사이를 연결하고, [[Basal Lamina_MOC|basal lamina]]의 구조적 integrity에 기여한다.
+
+[^기출_기말_2022_11]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_11번|2022 기말 11번]] — ECM 구성 성분 문항으로, proteoglycan(core protein + GAG 사슬)의 음전하 및 수화 특성이 정답 근거로 활용됨. (선지 미복기)
+[^기출_기말_2023_29]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_29번|2023 기말 29번]] — GAG 사슬이 core protein의 serine side chain에 O-xylose linkage로 연결되는 tetrasaccharide 프라이머로 시작된다는 내용이 정답 근거로 활용됨.

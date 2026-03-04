@@ -2,7 +2,7 @@
 = tiny (≈50 nm diameter) secretory vesicles
 ## 개요
 
-Synaptic vesicle은 신경세포와 일부 내분비 세포에서 발견되는 특수화된 작은 [[secretory pathway|secretory vesicle]]이다. 이들은 small-molecule neurotransmitter를 저장하고, millisecond 단위의 매우 빠른 exocytosis를 통해 chemical synapse에서 신호 전달을 매개한다.
+Synaptic vesicle은 신경세포와 일부 내분비 세포에서 발견되는 특수화된 작은 [[secretory pathway|secretory vesicle]]이다. 이들은 small-molecule neurotransmitter를 저장하고, millisecond 단위의 매우 빠른 exocytosis를 통해 chemical synapse에서 신호 전달을 매개한다.[^기출_중간_2022_36][^기출_중간_2023_12]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_36_Figure_2.jpeg]]
 *Figure 13-47: Synaptic vesicle의 구조. (A) Presynaptic terminal의 scale model. (B) 단일 synaptic vesicle의 상세 구조. Vesicle은 다양한 membrane protein과 약 1,800개의 neurotransmitter molecule을 포함한다.*
@@ -68,7 +68,7 @@ ER에서  넣어져서 오는 것이 아님.
 **새로운 vesicle 성분의 공급:**
 - [[secretory pathway|Constitutive secretory pathway]] 이용
 - Cell body에서 합성
-- Axon을 따라 이동
+- [[kinesin|Kinesin motor]]에 의해 axon을 따라 이동 ([[Microtubule organization in a neuron|뉴런 내 microtubule 방향성]] 참조)
 - Plasma membrane에 삽입
 
 #### 2. Local Endocytosis
@@ -256,3 +256,6 @@ H⁺/neurotransmitter antiport:
 ## 요약
 
 Synaptic vesicle은 신경세포에서 빠른 신호 전달을 가능하게 하는 특수화된 vesicle이다. 약 50 nm 크기에 다양한 membrane protein과 1,800개의 neurotransmitter molecule을 포함한다. 이들은 nerve terminal에서 local recycling을 통해 형성되며, priming system을 통해 fusion 직전 상태로 대기한다. Action potential에 의한 Ca²⁺ influx가 trigger가 되어 millisecond 내에 neurotransmitter를 방출하며, 연속적인 신경 전달을 위해 매우 빠르게 재활용된다.
+
+[^기출_중간_2022_36]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_36번|2022 중간 36번]] — Regulated secretory pathway에서 Ca²⁺-triggered exocytosis 메커니즘(synaptotagmin, SNARE complex)이 정답 근거로 활용됨.
+[^기출_중간_2023_12]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_12번|2023 중간 12번]] — 신경세포의 regulated exocytosis 특성에 관한 선지 ③이 정답.

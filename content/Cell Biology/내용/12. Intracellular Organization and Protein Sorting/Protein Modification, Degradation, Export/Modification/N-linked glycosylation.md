@@ -137,7 +137,7 @@ ER을 벗어난 후:
 - 다양한 [[Oligosaccharides]] 구조 생성
 - Complex, hybrid, high-mannose type으로 분류
   
-(자세한 내용은 [[Golgi apparatus_MOC]] 참조)
+(자세한 내용은 [[Oligosaccharide processing in Golgi|Golgi에서의 N-linked 당화 processing]] 참조)
 
 ## N-linked Glycosylation의 기능
 

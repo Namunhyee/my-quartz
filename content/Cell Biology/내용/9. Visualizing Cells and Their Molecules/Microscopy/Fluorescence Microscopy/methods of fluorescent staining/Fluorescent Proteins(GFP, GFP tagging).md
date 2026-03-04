@@ -43,8 +43,8 @@
 **과정**:
 1. 일부 아미노산들이 self-catalyzed post-translational modification(자가 촉매 번역 후 변형) 거침
 2. 효율적인 fluorochrome 생성
-3. Barrel-like protein(통 모양 단백질) 내부에 보호됨
-4. 청색광으로 적절히 조명하면 녹색으로 형광 발광
+3. Barrel-like protein(통 모양 단백질) 내부에 보호됨[^기출_중간_2022_6]
+4. 청색광으로 적절히 조명하면 녹색으로 형광 발광[^기출_중간_2023_6]
 
 ### GFP의 구조
 
@@ -63,7 +63,7 @@
   - **Serine(세린)**
 - **Protein backbone**에서 시작
 - 일련의 **autocatalytic steps(자가 촉매 단계)**를 거침
-- **Mature GFP fluorophore(성숙한 GFP 발색단)** 생성
+- **Mature GFP fluorophore(성숙한 GFP 발색단)** 생성[^기출_중간_2021_6]
 
 ## GFP 변이형 개발
 
@@ -282,3 +282,7 @@ GFP와 그 변이형들은 다음 장에서 설명될 추가 기술들에 활용
 - Related Figures: 9-16, 9-17, 9-18, 9-25B
 - Related Movie: Movie 16.8
 - Related topics: [[001_Protein Dynamics]], [[FRET]], [[FRAP]]
+
+[^기출_중간_2021_6]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_6번|2021 중간 6번]] — GFP chromophore는 Ser65-Tyr66-Gly67의 자가 촉매적 번역 후 변형으로 형성되며, 분자 산소(O₂)만 필요하고 다른 효소 불필요하다는 메커니즘이 출제됨. (※ 이 노트에는 Tyr과 Ser만 수록; Gly67과 O₂ 요구성은 미수록)
+[^기출_중간_2022_6]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_6번|2022 중간 6번]] — GFP-tagged 단백질이 산성 세포소기관(예: 라이소솜, pH ~5)으로 이동하면 낮은 pH에 의한 chromophore의 protonation으로 형광이 소광된다는 내용이 정답 근거(선지 ④)로 활용됨. (※ 산성 pH에서의 형광 소광 메커니즘은 이 노트에 직접 수록되지 않음)
+[^기출_중간_2023_6]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_6번|2023 중간 6번]] — GFP 융합 단백질을 관찰하려면 형광현미경이 필요하며, 위상차 현미경(phase contrast)으로는 GFP 형광을 볼 수 없다는 내용이 정답 근거(선지 ②)로 활용됨.

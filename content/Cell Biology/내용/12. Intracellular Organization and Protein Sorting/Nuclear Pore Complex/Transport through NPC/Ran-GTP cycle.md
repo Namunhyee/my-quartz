@@ -14,7 +14,7 @@
 - **Ran GAP** (GTPase-activating protein): 세포질에 위치, Ran-GTP → Ran-GDP 전환 촉진
 - **Ran GEF** (guanine nucleotide exchange factor): 핵 chromatin에 결합, Ran-GDP → Ran-GTP 전환 촉진
 
-두 조절 단백질의 위치 차이가 Ran의 상태 gradient를 만들고, 이것이 수송의 방향성을 결정한다.
+두 조절 단백질의 위치 차이가 Ran의 상태 gradient를 만들고, 이것이 수송의 방향성을 결정한다.[^기출_중간_2021_18][^기출_중간_2023_25]
 
 ## 핵 수입에서의 역할
 ![[_page_58_Figure_6.jpeg]]
@@ -41,3 +41,6 @@ Import와 반대 방향으로 작동:
 ## 에너지 원천
 
 Ran-GTP 가수분해의 자유에너지가 수송의 방향성을 부여하는 에너지원이다. GTP 가수분해는 세포질쪽에서만 일어나므로 수송이 일방향으로 rectify된다.
+
+[^기출_중간_2021_18]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_18번|2021 중간 18번]] — 핵과 세포질 사이 단백질 수송의 방향성을 제공하는 기전: RanGEF는 핵 chromatin에, RanGAP는 세포질에 존재하여 Ran-GTP/GDP 농도 구배를 만들고, 이 구배가 수입·수출의 방향을 결정함. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_25]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_25번|2023 중간 25번]] — 핵과 세포질 사이 물질 교환에서 RanGDP는 핵 안에서 RanGTP로 전환된다(RanGEF의 역할)는 선지 ②가 정답. RanGAP는 세포질에 위치한다는 내용 확인 포함. 복기 완성.

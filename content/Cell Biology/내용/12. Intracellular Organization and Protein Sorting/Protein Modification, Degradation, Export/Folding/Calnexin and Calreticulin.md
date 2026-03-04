@@ -1,6 +1,6 @@
 # Calnexin and Calreticulin
 
-Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-dependent chaperone protein이다. 이들은 carbohydrate-binding protein (lectin)으로서 불완전하게 접힌 단백질을 인식하고 ER에 retention시킨다.
+Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-dependent chaperone protein이다. 이들은 carbohydrate-binding protein (lectin)으로서 불완전하게 접힌 단백질을 인식하고 ER에 retention시킨다.[^기출_중간_2023_19]
 
 ## 구조와 특성
 
@@ -138,3 +138,5 @@ Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-depende
 - [[Mannosidase]]
 - [[Disulfide bond formation]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
+
+[^기출_중간_2023_19]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_19번|2023 중간 19번]] — Glycosylation의 순차적 변형(glucose 잔기 수 3→2→1→0)이 단백질 접힘 진행 정도를 나타내는 타이머 역할을 함; Calnexin/Calreticulin이 monoglucosylated glycoprotein에 결합하여 ER retention 유도

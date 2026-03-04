@@ -2,7 +2,7 @@
 
 ## 개요
 
-[[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]에서 합성된 단백질은 [[Golgi apparatus_MOC|Golgi apparatus]]를 거쳐 최종 목적지로 이동한다. 이 과정은 vesicular transport와 retrieval pathway의 정교한 균형으로 이루어지며, 각 compartment의 identity를 유지하면서도 지속적인 cargo 이동을 가능하게 한다.
+[[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]에서 합성된 단백질은 [[Golgi apparatus_MOC|Golgi apparatus]]를 거쳐 최종 목적지로 이동한다. 이 과정은 vesicular transport와 retrieval pathway의 정교한 균형으로 이루어지며, 각 compartment의 identity를 유지하면서도 지속적인 cargo 이동을 가능하게 한다.[^기출_중간_2021_13]
 
 ## ER Exit: COPII-coated Vesicle Formation
 
@@ -32,12 +32,12 @@ ER을 떠나는 protein은 두 가지 방식으로 선택:
 **Protein folding 검증**:
 - 제대로 fold되고 assemble된 protein만 ER exit 가능
 - Misfolded 또는 incompletely assembled protein은 transient하게 ER 체류
-- [[Cell Biology/내용/06. How Cells Obtain Energy from Food|Chaperone protein]] (BiP, calnexin)이 exit signal cover 또는 ER anchor
+- Chaperone protein ([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP|BiP]], [[Calnexin and Calreticulin|calnexin]])이 exit signal cover 또는 ER anchor
 
 **실패한 protein의 운명**:
-- Cytosol로 transport back
+- [[ER-associated degradation|ERAD를 통해 Cytosol로 transport back]]
 - Proteasome에 의해 degradation
-- Quality-control step으로 비정상 protein의 onward transport 방지
+- [[Quality control of ER protein folding|Quality-control step]]으로 비정상 protein의 onward transport 방지
 
 **CFTR 예시**:
 - **Cystic fibrosis transmembrane conductance regulator**
@@ -242,3 +242,5 @@ KDEL 제거된 ER resident protein:
 - [[Vesicle Fusion_MOC|Vesicle fusion]]
 - [[Golgi apparatus_MOC|Golgi apparatus]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER protein synthesis]]
+
+[^기출_중간_2021_13]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_13번|2021 중간 13번]] — COPII coat가 ER에서 Golgi로 단백질을 수송하는 메커니즘이 정답 근거로 활용됨.

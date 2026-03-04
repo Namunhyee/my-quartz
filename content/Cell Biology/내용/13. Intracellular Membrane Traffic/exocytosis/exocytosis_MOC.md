@@ -2,7 +2,7 @@
 
 ## 개요
 
-Exocytosis는 transport vesicle이 plasma membrane과 융합하여 vesicle의 내용물을 세포 외부로 방출하는 과정이다. Vesicle membrane은 plasma membrane의 일부가 되고, vesicle의 내용물은 extracellular space로 분비된다. 이 과정은 [[Transportation from the ER Through the Golgi Apparatus_MOC|protein의 ER에서 Golgi apparatus를 거쳐 세포 표면으로의 이동]] 경로의 마지막 단계이다.
+Exocytosis는 transport vesicle이 plasma membrane과 융합하여 vesicle의 내용물을 세포 외부로 방출하는 과정이다. Vesicle membrane은 plasma membrane의 일부가 되고, vesicle의 내용물은 extracellular space로 분비된다. 이 과정은 [[Transportation from the ER Through the Golgi Apparatus_MOC|protein의 ER에서 Golgi apparatus를 거쳐 세포 표면으로의 이동]] 경로의 마지막 단계이다.[^기출_중간_2022_36][^기출_중간_2023_12]
 
 ![[_page_0_Figure_14.jpeg]]
 *Figure 13-1: Exocytosis와 endocytosis. (A) Exocytosis에서 transport vesicle이 plasma membrane과 융합하여 내용물을 방출한다. (B) Endocytosis에서는 그 반대 과정이 일어난다.*
@@ -81,3 +81,6 @@ Exocytosis로 plasma membrane에 추가된 membrane은 [[endocytosis_MOC|endocyt
 ## 요약
 
 Exocytosis는 세포가 단백질, 지질, 기타 분자들을 세포 외부로 방출하는 필수적인 과정이다. Constitutive pathway는 지속적으로 작동하여 membrane과 ECM 성분을 공급하고, regulated pathway는 특수화된 세포에서 신호에 반응하여 저장된 물질을 방출한다. 이 과정은 SNARE protein에 의한 membrane fusion과 적절한 조절 메커니즘을 통해 정밀하게 제어된다.
+
+[^기출_중간_2022_36]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_36번|2022 중간 36번]] — Constitutive secretory pathway와 regulated secretory pathway의 차이(Ca²⁺ trigger, secretory vesicle 저장)가 정답 근거로 활용됨.
+[^기출_중간_2023_12]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_12번|2023 중간 12번]] — Exocytosis의 특성에 관한 선지 ③이 정답.

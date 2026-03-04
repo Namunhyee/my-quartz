@@ -1,6 +1,6 @@
 # Functional Compartmentalization of the Golgi apparatus
 
-Golgi apparatus의 기능적 구획화는 서로 다른 oligosaccharide-processing 단계가 조직화된 순서로 발생하며, 각 cisterna가 특징적인 processing 효소 혼합물을 포함하고 있음을 의미한다.
+Golgi apparatus의 기능적 구획화는 서로 다른 oligosaccharide-processing 단계가 조직화된 순서로 발생하며, 각 cisterna가 특징적인 processing 효소 혼합물을 포함하고 있음을 의미한다.[^기출_중간_2022_28][^기출_중간_2022_29]
 
 ## Golgi apparatus의 구획
 
@@ -84,3 +84,6 @@ Golgi apparatus는 ER과 다른 방식으로 작동한다:
 - [[Oligosaccharide processing in Golgi|Golgi에서의 Oligosaccharide 가공]]
 - [[Golgi apparatus_MOC|Golgi apparatus]]
 - [[../../12. Intracellular Organization and Protein Sorting/N-linked glycosylation|N-linked glycosylation]]
+
+[^기출_중간_2022_28]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_28번|2022 중간 28번]] — Golgi apparatus의 cis/medial/trans 구획에서 올리고당 수식 효소의 순차적 분포가 정답 근거로 활용됨.
+[^기출_중간_2022_29]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_29번|2022 중간 29번]] — Golgi apparatus의 cisternal maturation 모델(막 단백질은 유지되고 용질은 이동)이 정답 근거로 활용됨.

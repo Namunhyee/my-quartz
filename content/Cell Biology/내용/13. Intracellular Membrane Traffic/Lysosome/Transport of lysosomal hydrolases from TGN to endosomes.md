@@ -1,6 +1,6 @@
 # Transport of Lysosomal Hydrolases to Endosomes
 
-Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전달된다. 이는 TGN에서 가장 잘 이해된 sorting 메커니즘이다.
+Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전달된다. 이는 TGN에서 가장 잘 이해된 [[Sorting Signal|sorting 메커니즘]]이다.[^기출_중간_2022_32]
 
 ## M6P Receptor System
 
@@ -107,3 +107,5 @@ M6P receptor의 재활용은 [[../../12. Intracellular Organization and Protein 
 - [[Lysosome_MOC|Lysosome]]
 - [[../endocytosis/Receptor-mediated endocytosis|Receptor-mediated endocytosis]]
 - [[../endocytosis/Endosomes maturation|Endosome 성숙]]
+
+[^기출_중간_2022_32]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_32번|2022 중간 32번]] — M6P receptor를 통한 lysosomal hydrolase의 TGN→endosome→lysosome 수송 경로와 retromer를 통한 M6P receptor 재활용이 정답 근거로 활용됨.

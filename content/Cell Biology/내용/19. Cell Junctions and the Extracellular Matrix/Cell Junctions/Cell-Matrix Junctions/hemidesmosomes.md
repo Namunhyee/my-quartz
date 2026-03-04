@@ -8,7 +8,7 @@
 ## 구조
 
 ### Transmembrane Proteins
-- **[[Types of Integrins#^e1bcaf|α6β4 integrin]]**: 특수화된 [[integrin_MOC|integrin]]으로, 다른 integrin과 달리 intermediate filament에 연결
+- **[[Types of Integrins#^e1bcaf|α6β4 integrin]]**: 특수화된 [[integrin_MOC|integrin]]으로, 다른 integrin과 달리 [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|intermediate filament]]에 연결
 - **[[Collagen#^bec4d3|Type XVII collagen]]**: Transmembrane domain을 가진 비정형 collagen family 구성원
 
 ### Extracellular Attachment
@@ -20,7 +20,7 @@
 
 ### Cytoskeletal Attachment
 - **[[Keratin filaments|Keratin intermediate filament]]**에 연결 (상피세포)
-- 다른 integrin은 actin filament에 연결되는 것과 대조적
+- 다른 integrin은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/100_Actin filaments_MOC|actin filament]]에 연결되는 것과 대조적
 
 ## 기능
 

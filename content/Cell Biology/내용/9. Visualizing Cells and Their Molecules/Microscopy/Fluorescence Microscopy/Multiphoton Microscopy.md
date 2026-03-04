@@ -1,6 +1,6 @@
 ### 개선된 방법: Multiphoton Microscopy
 
-특수 현미경들은 fluorescent molecules가 여기되는 방식을 활용하여 표본 내 더 깊이 탐사할 수 있다.
+특수 현미경들은 fluorescent molecules가 여기되는 방식을 활용하여 표본 내 더 깊이 탐사할 수 있다.[^기출_중간_2021_미상A]
 
 #### [[Ch9.pdf#page=16&selection=0,0,0,19|Two-photon Effect(2광자 효과)]]
 
@@ -12,7 +12,7 @@
 **장점**:
 1. **Background noise 감소**: Longer-wavelength excitation 사용
 2. **더 깊은 침투**: Red 또는 near-infrared light는 표본 내 더 깊이 침투 가능
-3. **세포 손상 감소**: Infrared laser light는 visible light보다 살아있는 세포에 덜 손상을 줌
+3. **세포 손상 감소**: Infrared laser light는 visible light보다 살아있는 세포에 덜 손상을 줌[^기출_중간_2021_5]
 
 **성능**:
 - Multiphoton microscopes는 때때로 표본 내 0.5 millimeter 깊이에서도 선명한 이미지 획득 가능
@@ -28,3 +28,6 @@
 - Dendritic spines(빨간색)의 active synapses(노란색)를 보여줌
 - 시간의 함수로 변화를 추적 (이 경우 각 이미지 사이에 하루 간격)
 - Infrared laser light 사용으로 가능
+
+[^기출_중간_2021_미상A]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상A번|2021 중간 미상A번]] — 두 광자 현미경(two-photon/multiphoton)의 정의(NIR 사용, 더 깊은 조직 침투)가 여러 현미경 정의 문항에서 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2021_5]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_5번|2021 중간 5번]] — 두 광자 현미경의 특성: NIR/적외선 사용, 가시광보다 더 깊은 조직 침투(~0.5 mm), 가시광 대비 낮은 phototoxicity가 정답 근거로 활용됨.

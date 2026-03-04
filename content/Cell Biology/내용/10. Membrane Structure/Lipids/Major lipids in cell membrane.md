@@ -90,7 +90,7 @@ Sugar를 포함하는 lipid molecule로 [[Glycolipid]] 노트 참조.
 
 1. **Bacterial plasma membrane:**
    - 주로 한 가지 주요 phospholipid type
-   - Cholesterol 없음
+   - Cholesterol 없음[^기출_중간_2022_12]
    - E. coli: 70% phosphatidylethanolamine
 
 2. **Red blood cell plasma membrane:**
@@ -102,7 +102,7 @@ Sugar를 포함하는 lipid molecule로 [[Glycolipid]] 노트 참조.
    - 신경세포 축삭의 전기 절연에 특화
 
 4. **Mitochondrion membrane:**
-   - Cholesterol 3%로 낮음
+   - Cholesterol 3%로 낮음 ([[Selective lipid transfer at contact site|선택적 지질 전달]]로 유지)
    - Phosphatidylcholine 44%로 높음
 
 5. **Endoplasmic reticulum:**
@@ -136,7 +136,7 @@ Mass spectrometry에 의한 분석 결과:
 일부 membrane은 구조적으로 구별되는 많은 minor lipid 포함:
 - 이 중 일부는 중요한 기능 보유
 
-**Inositol phospholipid:**
+**[[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Inositol phospholipid]]:**
 - 동물 세포막에 소량 존재
 - Membrane traffic 안내에 중요한 기능
 - Cell signaling에 중요한 기능
@@ -171,3 +171,5 @@ Archaea에서 lipid는 보통:
 - Polar head group (phosphate group 포함)과 두 개의 hydrophobic hydrocarbon tail
 - 두 가지 주요 subclass: Glycerophospholipid와 Sphingolipid
 - 포유류 세포막에서: Phosphatidylcholine, phosphatidylethanolamine, phosphatidylserine, sphingomyelin이 lipid 질량의 절반 이상 구성
+
+[^기출_중간_2022_12]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_12번|2022 중간 12번]] — 박테리아 세포막에는 콜레스테롤이 없다는 특성이 정답 근거로 활용됨. 복기 불완전. (선지 미복기)

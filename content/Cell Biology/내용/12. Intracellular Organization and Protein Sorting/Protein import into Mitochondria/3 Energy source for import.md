@@ -1,6 +1,6 @@
 # 3 Energy Sources for Import
 
-미토콘드리아 단백질 수입은 세 가지 에너지원을 네 곳에서 사용한다. 모든 precursor 단백질이 이 세 가지 에너지를 모두 필요로 하지는 않는다.
+미토콘드리아 단백질 수입은 세 가지 에너지원을 네 곳에서 사용한다. 모든 precursor 단백질이 이 세 가지 에너지를 모두 필요로 하지는 않는다.[^기출_중간_2021_20][^기출_중간_2021_미상D][^기출_중간_2023_ver2_39]
 
 ## 1. ATP 가수분해 — Cytosolic hsp70 (수입 전)
 ![[Cell Biology/출처/md converted/Chapter 12/_page_46_Figure_6.jpeg]]
@@ -37,3 +37,7 @@
 - 이 공유결합이 단백질이 cytosol 방향으로 backslide하는 것을 방지
 - 결국 단백질 내에 intrachain disulfide 결합이 형성되면서 폴딩됨 → intermembrane space에 갇힘
 - **Mia40 재생**: 환원된 Mia40이 전자를 전자 전달계에 전달하여 재산화됨
+
+[^기출_중간_2021_20]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_20번|2021 중간 20번]] — 세포질→미토콘드리아 단백질 수송 3가지 경로: ① Matrix (TOM+TIM23, Δψ+ATP), ② Inner membrane (TOM+TIM22, Δψ), ③ IMS (MIA 경로, disulfide 형성)
+[^기출_중간_2021_미상D]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상D번|2021 중간 미상D번]] — 미토콘드리아 Matrix 단백질 수입 3단계: 1) TOM 통과(에너지 불필요), 2) TIM23 통과(막전위 Δψ), 3) mtHsp70 완전 수입(ATP)
+[^기출_중간_2023_ver2_39]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_ver2_39번|2023 중간 ver2 39번]] — 세포질→미토콘드리아 matrix 단백질 수입 과정 단계별 에너지원: TOM 통과(불필요), TIM23 통과(막전위 Δψ), mtHsp70 완전 수입(ATP)

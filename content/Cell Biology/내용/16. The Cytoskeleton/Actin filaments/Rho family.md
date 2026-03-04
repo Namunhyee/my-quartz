@@ -1,6 +1,6 @@
 # Rho Family GTPases
 
-Rho family GTPase는 세포 극성 확립과 actin cytoskeleton 재구성의 핵심 신호전달 분자다. 세 주요 구성원인 **Cdc42**, **Rac**, **Rho**는 각각 고유한 downstream effector를 통해 filopodia, lamellipodia, stress fiber 형성을 조절한다.
+Rho family GTPase는 세포 극성 확립과 actin cytoskeleton 재구성의 핵심 신호전달 분자다. 세 주요 구성원인 **Cdc42**, **Rac**, **Rho**는 각각 고유한 downstream effector를 통해 filopodia, lamellipodia, stress fiber 형성을 조절한다.[^기출_기말_2023_16]
 
 ## 분자 스위치 메커니즘
 
@@ -68,7 +68,7 @@ Rho-GTP는 Rac와 대조적으로 **평행 actin bundle**을 형성하고 myosin
 - **Rho-GTP → ROCK 활성화**:
   - ROCK이 myosin 인산화효소 억제제(phosphatase)를 억제 → **MLC(myosin light chain) 인산화 증가** → Myosin II 활성화
   - ROCK이 **LIM kinase**를 활성화 → cofilin 억제 → actin 필라멘트 안정화
-- 결과: 수축성 stress fiber와 integrin 기반 focal adhesion 형성
+- 결과: 수축성 stress fiber와 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin]] 기반 focal adhesion 형성
 
 ## Rac-Rho 상호 길항성
 
@@ -108,3 +108,5 @@ Rac와 Rho 경로는 공간적으로 분리되어 있으며 **상호 길항(mutu
 - [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/cell migration by actin cytoskeleton|Cell migration by actin cytoskeleton]]
 - [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/actin arrays|Actin arrays]]
 - [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/treadmilling|Treadmilling]]
+
+[^기출_기말_2023_16]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_16번|2023 기말 16번]] — Rac1→WAVE→Arp2/3에 의한 branched network(lamellipodia)와 RhoA→formin에 의한 linear filament(stress fiber)가 각각 다른 신호 경로를 통해 형성됨이 정답 근거로 활용됨.

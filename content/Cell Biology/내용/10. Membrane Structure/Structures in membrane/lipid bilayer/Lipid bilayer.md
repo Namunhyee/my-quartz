@@ -48,7 +48,7 @@ Bilayer를 bilayer로 만드는 동일한 힘이 self-sealing property도 제공
 1. Bilayer에 small tear 발생
 2. 물에 노출된 free edge 생성 - energetically unfavorable
 3. Lipid가 자발적으로 재배열하여 free edge 제거
-4. **중요한 결과**: Free edge를 피하는 유일한 방법은 자신을 닫아 sealed compartment 형성
+4. **중요한 결과**: Free edge를 피하는 유일한 방법은 자신을 닫아 sealed compartment 형성[^기출_중간_2021_11]
 
 이 remarkable behavior는 살아있는 세포의 창조에 근본적이며, phospholipid molecule의 모양과 [[Amphiphilic molecule]] 특성에서 직접 나온다.
 
@@ -79,10 +79,10 @@ Lipid bilayer는 2차원 fluid이다:
 ### Phospholipid Translocator
 
 생물학적 membrane에서 문제가 발생한다:
-- Phospholipid molecule은 주로 ER membrane의 cytosolic monolayer에서만 제조됨
+- Phospholipid molecule은 주로 [[Lipid bilayer synthesis|ER membrane의 cytosolic monolayer에서만 제조됨]]
 - 신규 분자가 noncytosolic monolayer로 빠르게 이동하지 못하면 membrane이 비대칭적으로 팽창
 
-**해결책**: Flippase와 scramblase
+**해결책**: [[Flippase]]와 [[Scramblase]]
 - Phospholipid translocator로 불리는 특별한 membrane protein class
 - 한 monolayer에서 다른 monolayer로 phospholipid의 빠른 flip-flop 촉매
 
@@ -112,7 +112,7 @@ Liposome은 물 속에서 서로 자발적으로 융합하지 않는다:
 
 모든 세포 membrane 융합 사건은:
 - Tightly regulated tether에 의해 촉매됨
-- Fusion protein이 bilayer를 분리하는 물층을 강제로 제거
+- [[SNARE|Fusion protein]]이 bilayer를 분리하는 물층을 강제로 제거
 
 ## 관련 개념
 - [[Phospholipid]]
@@ -122,3 +122,5 @@ Liposome은 물 속에서 서로 자발적으로 융합하지 않는다:
 - [[Asymmetry of the lipid bilayer]]
 - [[Major lipids in cell membrane]]
 - [[Membrane protein]]
+
+[^기출_중간_2021_11]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_11번|2021 중간 11번]] — 인지질의 cylindrical shape으로 bilayer가 형성되고, free edge를 피해 자발적으로 sealed compartment를 형성하는 self-sealing 특성을 설명하는 서술형 문항. 복기 불완전.

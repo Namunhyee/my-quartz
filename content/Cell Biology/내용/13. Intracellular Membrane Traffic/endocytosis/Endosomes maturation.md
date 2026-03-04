@@ -1,6 +1,6 @@
 # Endosomes Maturation
 
-**Endosome maturation**은 early endosome이 시간이 지남에 따라 late endosome으로 변화하는 과정이다.
+**Endosome maturation**은 early endosome이 시간이 지남에 따라 late endosome으로 변화하는 과정이다.[^기출_중간_2022_34]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_39_Picture_7.jpeg]]
 
@@ -22,7 +22,7 @@ Early endosome은 tubular와 vacuolar domain을 가진다:
 ### 1. 형태와 위치 변화
 - Tubular domain이 대부분 plasma membrane으로 재활용됨
 - Vacuolar domain이 철저하게 수정됨
-- Endosome이 microtubule을 따라 motor에 의해 핵 쪽으로 이동
+- Endosome이 [[300_Microtubules_MOC|microtubule]]을 따라 [[dynein|dynein motor]]에 의해 핵 쪽으로 이동
 ### 2. Rab 단백질 주도 변화
 Rab 단백질이 다음의 변화를 주도한다:
 - Endosome 막의 cytosolic face에서 phosphoinositide lipid의 변화
@@ -137,3 +137,5 @@ Maturation 과정은 lysosome 유지보수에 중요하다:
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[Transport of lysosomal hydrolases from TGN to endosomes|Lysosomal hydrolase의 endosome으로의 운반]]
 - [[ESCRT Protein Complex|ESCRT 단백질 복합체]]
+
+[^기출_중간_2022_34]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_34번|2022 중간 34번]] — Endosome maturation 과정(Rab5→Rab7 전환, pH 변화, MVB 형성, ESCRT 기계)이 정답 근거로 활용됨.

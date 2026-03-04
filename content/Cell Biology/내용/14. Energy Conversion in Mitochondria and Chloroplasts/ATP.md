@@ -1,6 +1,6 @@
 # ATP (Adenosine Triphosphate)
 
-ATP는 세포 내 모든 에너지 요구 반응을 구동하는 **universal energy currency**이다.
+ATP는 세포 내 모든 에너지 요구 반응을 구동하는 **universal energy currency**이다.[^기출_기말_2023_1]
 
 ## 구조
 
@@ -47,3 +47,6 @@ $$\Delta G = \Delta G° + RT \ln \frac{[\text{ADP}][\text{P}_i]}{[\text{ATP}]}$$
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Spontaneous and non-spontaneous reactions|Spontaneous and non-spontaneous reactions]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex V (ATP synthase)|Complex V (ATP synthase)]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/ATP synthesis|ATP synthesis]]
+- [[Cell Biology/내용/16. The Cytoskeleton/310_Motor Proteins_MOC|Motor protein (kinesin, dynein, myosin)]] — ATP 가수분해를 기계적 일로 전환하는 분자 기계
+
+[^기출_기말_2023_1]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_1번|2023 기말 1번]] — ATP의 에너지가 phosphoanhydride 결합의 "bond energy" 자체에서 오는 것이 아니라, 세포 내 [ATP]/[ADP] 비율 유지에 따른 ΔG 차이에서 비롯된다는 개념이 정답 근거로 활용됨. (정답 오류 표시 있음)

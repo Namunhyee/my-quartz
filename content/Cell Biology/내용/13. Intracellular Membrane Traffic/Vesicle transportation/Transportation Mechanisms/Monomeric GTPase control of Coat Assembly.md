@@ -1,6 +1,6 @@
 # Monomeric GTPase control of Coat Assembly
 
-Coat assembly의 시작과 해체는 coat-recruitment GTPase라는 monomeric GTPase family에 의해 조절된다. 이들은 언제 어디서 vesicle이 형성될지를 결정하는 spatial과 temporal cue를 제공한다.
+Coat assembly의 시작과 해체는 coat-recruitment GTPase라는 monomeric GTPase family에 의해 조절된다. 이들은 언제 어디서 vesicle이 형성될지를 결정하는 spatial과 temporal cue를 제공한다.[^기출_중간_2022_24][^기출_중간_2023_18]
 
 ## GTPase superfamily
 
@@ -121,3 +121,6 @@ Coat-recruitment GTPase의 dysregulation:
 - Protein trafficking impairment
 - Organelle morphology change
 - Secretory pathway dysfunction
+
+[^기출_중간_2022_24]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_24번|2022 중간 24번]] — Sar1의 GEF에 의한 활성화, amphiphilic helix의 ER membrane 삽입, Sec23/24→Sec13/31 순서의 COPII coat 조립이 정답 근거로 활용됨.
+[^기출_중간_2023_18]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_18번|2023 중간 18번]] — GEF가 GDP 방출 촉매→GTP 결합으로 활성화, GAP가 GTP 가수분해→불활성화하는 GTPase 조절 원리에 관한 선지 ③이 정답.

@@ -41,7 +41,7 @@ Flippase는 단방향으로만 phospholipid를 이동시킨다. Energy input이 
 
 ### 선택성
 각 flippase는 특정 phospholipid에 대해 높은 선택성을 보인다:
-- Aminophospholipid flippase: phosphatidylserine과 phosphatidylethanolamine을 특이적으로 이동
+- Aminophospholipid flippase: phosphatidylserine과 phosphatidylethanolamine을 특이적으로 이동[^기출_중간_2021_23][^기출_중간_2023_28]
 - P4-ATPase family: 다양한 aminophospholipid와 일부 다른 phospholipid를 이동
 
 ## [[Asymmetry of the lipid bilayer|Plasma Membrane Asymmetry]] 확립
@@ -74,10 +74,10 @@ ER에서 온 vesicle이 plasma membrane과 융합할 때:
 
 ## 다른 Organelle에서의 역할
 
-### Golgi Apparatus
+### [[Golgi apparatus_MOC|Golgi Apparatus]]
 Golgi membrane도 특정한 lipid asymmetry를 가진다. Flippase가 이를 확립하고 유지한다.
 
-### Endosome과 Lysosome
+### [[Endosome|Endosome]]과 [[Lysosome|Lysosome]]
 이들 organelle의 membrane도 비대칭적이며, flippase가 이 asymmetry를 유지한다.
 
 ## Flippase Family
@@ -127,7 +127,7 @@ Bile canaliculus의 flippase 결함은 간 질환을 일으킬 수 있다. Bile 
 상피세포와 같은 polarized cell에서 flippase는 apical과 basolateral membrane의 서로 다른 lipid composition을 유지하는 데 기여한다.
 
 ### Signal Transduction
-특정 lipid의 특정 leaflet로의 국한은 signaling cascade에 중요하다. 예를 들어 phosphatidylinositol phosphate는 주로 cytosolic leaflet에 있다.
+특정 lipid의 특정 leaflet로의 국한은 signaling cascade에 중요하다. 예를 들어 [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|phosphatidylinositol phosphate]]는 주로 cytosolic leaflet에 있다.
 
 ### Membrane Protein Function
 많은 membrane protein의 기능은 주변 lipid 환경에 의존한다. Flippase가 유지하는 asymmetry가 이러한 protein들의 적절한 기능을 지원한다.
@@ -135,6 +135,9 @@ Bile canaliculus의 flippase 결함은 간 질환을 일으킬 수 있다. Bile 
 ## 관련 개념
 - [[Scramblase]]
 - [[Lipid bilayer synthesis]]
-- Plasma membrane structure
-- Apoptosis signaling
-- Membrane asymmetry
+- [[Lipid bilayer|Plasma membrane structure]]
+- [[Asymmetry of the lipid bilayer|Membrane asymmetry]]
+- [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphoinositide signaling]]
+
+[^기출_중간_2021_23]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_23번|2021 중간 23번]] — Scramblase(ER, ATP 비의존, 양방향, 비특이적)와 Flippase(plasma membrane, ATP 의존, 단방향, PS·PE 특이적)의 구분
+[^기출_중간_2023_28]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_28번|2023 중간 28번]] — Flippase(outer→inner, ATP 의존, PS·PE 특이), Floppase(inner→outer, ATP 의존, PC·SM 특이), Scramblase(양방향, ATP 비의존, 비특이) 빈칸 채우기

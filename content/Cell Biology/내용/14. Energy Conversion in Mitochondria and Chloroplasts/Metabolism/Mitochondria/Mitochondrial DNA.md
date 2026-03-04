@@ -26,7 +26,7 @@
 - Complex I, III, IV의 소단위 (특히 Complex IV의 subunit I, II, III)
 - Complex V (ATP synthase) 소단위
 
-나머지 ~1,200–1,600종의 미토콘드리아 단백질은 **핵 genome encoding** → 세포질에서 합성 → 미토콘드리아로 import
+나머지 ~1,200–1,600종의 미토콘드리아 단백질은 **핵 genome encoding** → 세포질에서 합성 → [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein import into Mitochondria/000_Protein import into Mitochondria_MOC|TOM/TIM 복합체를 통해 미토콘드리아로 수입]]됨
 
 ![[Cell Biology/출처/md converted/Chapter 14/_page_52_Figure_6.jpeg]]
 *Figure 14-60: 미토콘드리아 respiratory chain 단백질의 이중 genome 기원과 조립.*

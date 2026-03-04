@@ -2,7 +2,7 @@
 
 ## 개요
 
-진핵세포는 membrane-enclosed compartment들 사이에서 물질을 교환하기 위해 vesicle transport를 사용한다. Transport vesicle은 donor compartment에서 budding하여 target compartment와 fusion함으로써 membrane component와 soluble cargo를 전달한다.
+진핵세포는 membrane-enclosed compartment들 사이에서 물질을 교환하기 위해 vesicle transport를 사용한다. Transport vesicle은 donor compartment에서 budding하여 target compartment와 fusion함으로써 membrane component와 soluble cargo를 전달한다.[^기출_중간_2022_20][^기출_중간_2022_29]
 
 ## Vesicle transport의 전체 경로
 
@@ -40,7 +40,7 @@
 
 ### 2. [[Transportation Mechanism_MOC|Transportation]]
 - Coat disassembly
-- Motor protein을 통한 이동
+- [[310_Motor Proteins_MOC|Motor protein]]을 통한 이동 ([[kinesin]], [[dynein]])
 - Target membrane 인식
 
 ### 3. [[Vesicle Fusion_MOC|Vesicle fusion]]
@@ -72,4 +72,7 @@
 - [[endocytosis_MOC]]
 - [[exocytosis_MOC]]
 - [[Lysosome_MOC]]
+
+[^기출_중간_2022_20]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_20번|2022 중간 20번]] — Clathrin-coated vesicle을 포함한 coated vesicle의 종류와 수송 경로가 정답 근거로 활용됨.
+[^기출_중간_2022_29]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_29번|2022 중간 29번]] — Golgi apparatus의 cisternal maturation 모델이 정답 근거로 활용됨.
 

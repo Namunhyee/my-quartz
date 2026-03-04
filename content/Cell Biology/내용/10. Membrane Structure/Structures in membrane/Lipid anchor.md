@@ -51,7 +51,7 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 
 **구조:**
 - Prenyl chain (farnesyl 또는 더 긴 geranylgeranyl chain)
-- Thioether linkage를 통해 cysteine residue에 부착
+- Thioether linkage를 통해 cysteine residue에 부착[^기출_중간_2023_20][^기출_중간_2022_16]
 - Cysteine는 처음에 protein의 C-terminus로부터 4번째 residue에 위치
 
 **Prenylation 과정:**
@@ -118,8 +118,8 @@ Classical peripheral membrane protein:
 - Conformational change가 hydrophobic peptide 노출
 - 또는 covalently attached lipid anchor 노출
 
-**Rab Protein Family 예:**
-- Intracellular membrane traffic 조절하는 small GTPase
+**[[Rab Cycle|Rab Protein Family]] 예:**
+- [[Rab Cycle|Intracellular membrane traffic 조절하는 small GTPase]]
 - 결합된 nucleotide에 따라 switch
 
 **GDP-bound state:**
@@ -192,3 +192,6 @@ GPI-anchored protein은:
 - 오직 세포 표면에 노출됨
 - Plasma membrane의 noncytosolic surface에 위치
 - [[Lipid bilayer]]를 통과하지 않음
+
+[^기출_중간_2023_20]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_20번|2023 중간 20번]] — Farnesylation은 cysteine에 farnesyl 기를 thioether 결합으로 부착하며, 해당 cysteine 돌연변이 시 세포막 결합이 불가능해진다는 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_16]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_16번|2022 중간 16번]] — Mevalonate kinase 저해 시 farnesyl group 합성이 억제되어 단백질의 prenylation(막 부착)이 불가능해진다는 내용이 출제됨. 복기 불완전. (선지 미복기)

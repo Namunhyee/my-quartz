@@ -2,7 +2,7 @@
 
 ## 개요
 
-FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.
+FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.[^기출_중간_2022_8]
 
 ## FRAP의 원리
 
@@ -106,7 +106,7 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 - Motor proteins에 의한 이동
 
 **응용**:
-- Vesicle trafficking
+- [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle transportation_MOC|Vesicle trafficking]]
 - Organelle movement
 - Directed protein transport
 
@@ -159,7 +159,7 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 **연구 대상**:
 - Lateral diffusion in membranes
 - Membrane domain organization
-- Lipid raft association
+- [[Cell Biology/내용/10. Membrane Structure/Structures in membrane/Raft domain|Lipid raft association]]
 - Receptor clustering
 
 **예시 (Figure 9-20)**:
@@ -178,7 +178,7 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 ### Cytoskeletal Dynamics
 
 **연구 대상**:
-- Actin turnover
+- [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/treadmilling|Actin turnover]] (treadmilling)
 - Microtubule dynamics
 - Intermediate filament exchange
 - Motor protein movement
@@ -188,7 +188,7 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 **연구 대상**:
 - ER resident proteins
 - Golgi trafficking
-- Mitochondrial protein import
+- [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein import into Mitochondria/000_Protein import into Mitochondria_MOC|Mitochondrial protein import]]
 - Peroxisomal dynamics
 
 ## 실험적 고려사항
@@ -337,3 +337,5 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 - Related Movie: Movie 10.6
 - Related techniques: [[FRET]], [[Photoactivation]]
 - Related concept: [[Fluorescent Proteins(GFP, GFP tagging)]]
+
+[^기출_중간_2022_8]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_8번|2022 중간 8번]] — FRAP는 photobleaching 후 형광 회복을 분석하여 분자 집단(population)의 이동성을 측정하며, 단일 분자(single molecule)를 추적하는 방법이 아니라는 점이 정답 근거(선지 ④)로 활용됨.

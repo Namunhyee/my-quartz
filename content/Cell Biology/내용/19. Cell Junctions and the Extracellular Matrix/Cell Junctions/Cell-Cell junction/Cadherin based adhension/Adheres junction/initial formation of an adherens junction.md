@@ -16,4 +16,4 @@
 5. 많은 cadherin 분자가 nascent adherens junction에 정렬된 후, Rac이 억제되고 Rho가 다시 활성화된다.
 6. Rho 활성화 → 선형 수축성 actin filament bundle 형성 → junction이 안쪽으로 당겨지며 tension이 생기고, actin 추가 동원과 junction 확장을 더 촉진한다.
 
-이 과정에서 Rac와 Rho의 역할은 [[Cell Biology/내용/16. The Cytoskeleton|16. The Cytoskeleton]] Ch. 16(Figure 16-75)에서 설명하는 내용과 일치한다.
+이 과정에서 Rac와 Rho의 역할은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/Rho family|Rho family GTPase]] (Ch. 16, Figure 16-75)에서 설명하는 내용과 일치한다.

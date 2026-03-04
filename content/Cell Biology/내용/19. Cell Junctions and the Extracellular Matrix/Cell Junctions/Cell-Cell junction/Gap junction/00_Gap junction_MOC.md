@@ -7,7 +7,7 @@ Gap junction은 인접 세포의 cytoplasm을 직접 연결하는 채널로, 이
 
 각 gap junction은 conventional 전자현미경에서 약 2~4 nm의 균일한 gap으로 보이며, 이 gap을 channel-forming protein이 가로지른다.
 
-**Vertebrate**에서의 주요 구성 단백질: [[Connexin]] (21 isoform in humans)  
+**Vertebrate**에서의 주요 구성 단백질: [[Connexin]] (21 isoform in humans)[^기출_기말_2022_21][^기출_기말_2023_26]
 **Invertebrate**: Innexin
 
 Gap junction의 pore size는 약 1.4 nm로, 이온, 당, 아미노산, 뉴클레오타이드, 비타민, cAMP, IP3 같은 intracellular signaling molecule 등 약 1000 dalton 이하의 분자를 통과시킨다. 단백질, 핵산, 다당류 같은 macromolecule은 통과하지 못한다.
@@ -22,3 +22,6 @@ Gap junction의 pore size는 약 1.4 nm로, 이온, 당, 아미노산, 뉴클레
 - [[Connexin]]
 - [[Electric and metabolic coupling]]
 - [[gap junction disorders]]
+
+[^기출_기말_2022_21]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_21번|2022 기말 21번]] — connexin 6개 → connexon(hemichannel), 두 connexon 결합 → 완전한 채널(정답⑤)이 정답 근거로 활용됨.
+[^기출_기말_2023_26]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_26번|2023 기말 26번]] — gap junction connexon(connexin×6) 구조와 채널 형성 메커니즘이 정답 근거로 활용됨.

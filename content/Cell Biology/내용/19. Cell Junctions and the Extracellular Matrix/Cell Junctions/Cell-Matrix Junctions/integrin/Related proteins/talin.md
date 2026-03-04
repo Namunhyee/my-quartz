@@ -12,7 +12,7 @@ Talin은 다음과 같은 구조를 가진다:
 - **Rod domain**: 여러 개의 접힌 domain으로 구성되며, 각 domain에 [[vinculin]] 결합 부위가 숨겨져 있음
 - **C-terminal domain**: Actin filament 결합 부위
 
-Talin의 주요 binding partner:
+Talin의 주요 binding partner:[^기출_기말_2023_31]
 - **Integrin β-subunit** (direct binding)
 - **[[100_Actin filaments_MOC|Actin filaments]]** (direct binding)
 - **[[Vinculin]]** (tension-dependent)
@@ -63,3 +63,5 @@ Talin 없이는 integrin이 활성화되지 않고, actin과의 안정적 연결
 - Cell–cell junction의 [[mechanotransduction in an adherence junction]]에서 α-catenin이 유사한 방식으로 작동
 - Both talin and α-catenin은 장력에 의해 구조 변화가 일어나는 mechanosensor
 - 차이점: Talin은 cell–matrix junction에서, α-catenin은 cell–cell junction에서 작동
+
+[^기출_기말_2023_31]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_31번|2023 기말 31번]] — talin이 N-terminal(integrin β-subunit 결합), rod domain(vinculin 결합), C-terminal(actin filament 결합)을 통해 integrin과 actin cytoskeleton을 연결한다는 내용이 정답 근거로 활용됨.

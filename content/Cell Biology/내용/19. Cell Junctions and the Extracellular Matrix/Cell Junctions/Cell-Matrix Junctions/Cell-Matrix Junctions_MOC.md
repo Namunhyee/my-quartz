@@ -10,7 +10,7 @@
 ### Actin-linked Cell-Matrix Junction
 - **Transmembrane protein**: [[integrin_MOC|Integrin]]
 - **Extracellular ligand**: ECM 단백질 ([[Fibronectin|fibronectin]], [[Laminin|laminin]] 등)
-- **Cytoskeletal attachment**: Actin filament
+- **Cytoskeletal attachment**: [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/100_Actin filaments_MOC|Actin filament]]
 - **Intracellular adaptors**: Talin, kindlin, [[vinculin]], paxillin, FAK 등
 
 ### [[hemidesmosomes|Hemidesmosome]]

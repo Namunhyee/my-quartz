@@ -20,4 +20,4 @@
 - 수축 장치(myofibril) 사이에 미토콘드리아가 밀집하여 ATP를 즉각 공급
 - 강한 운동 시 저산소 조건 → [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|glycolysis]]에 의존도 증가
 
-> 상세한 골격근 구조와 수축 메커니즘은 교과서 Chapter 16에서 다룬다.
+> 상세한 골격근 구조와 수축 메커니즘은 [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/400_Skeletal Muscle Cell_MOC|Chapter 16 골격근 세포 노트]]에서 다룬다.

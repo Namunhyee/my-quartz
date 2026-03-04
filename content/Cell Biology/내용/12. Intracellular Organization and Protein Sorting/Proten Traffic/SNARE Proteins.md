@@ -1,5 +1,5 @@
 ## SNARE Proteins
-- [[003_Vesicular Transport|Vesicular transport]]에서 membrane fusion 조절
+- [[003_Vesicular Transport|Vesicular transport]]에서 [[SNARE|membrane fusion 조절]]
 - 대부분 tail-anchored 구조
 - Cytosolic domain이 다른 SNARE와 상호작용
 - Transmembrane segment가 막에 고정

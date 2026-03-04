@@ -1,6 +1,6 @@
 # Phagocytosis
 
-**Phagocytosis** ("cell eating")는 세포가 **phagosome**이라고 불리는 큰 endocytic vesicle을 사용하여 큰 입자(미생물, 죽은 세포 등)를 섭취하는 endocytosis의 특수한 형태이다.
+**Phagocytosis** ("cell eating")는 세포가 **phagosome**이라고 불리는 큰 endocytic vesicle을 사용하여 큰 입자(미생물, 죽은 세포 등)를 섭취하는 endocytosis의 특수한 형태이다.[^기출_중간_2022_35][^기출_중간_2023_11]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_54_Figure_2.jpeg]]
 
@@ -185,3 +185,6 @@ Legionnaires' disease를 일으키는 세균:
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../24. The Innate and Adaptive Immune Systems/Macrophages|Macrophage]]
 - [[../../18. Apoptosis/Apoptosis|Apoptosis]]
+
+[^기출_중간_2022_35]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_35번|2022 중간 35번]] — Phagocytosis의 메커니즘(Fc receptor를 통한 opsonization, actin-mediated pseudopod 형성)이 정답 근거로 활용됨.
+[^기출_중간_2023_11]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_11번|2023 중간 11번]] — Phagocytosis의 특성에 관한 선지 ⑤가 정답.

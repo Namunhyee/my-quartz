@@ -15,7 +15,7 @@
 **콜레스테롤 부족 시**:
 1. SCAP의 콜레스테롤 결합 부위가 비워짐 → SCAP 구조 변화
 2. SCAP가 INSIG에서 해리됨
-3. SCAP–SREBP 복합체가 transport vesicle에 포장되어 **Golgi apparatus**로 이동
+3. SCAP–SREBP 복합체가 transport vesicle에 포장되어 **[[Golgi apparatus_MOC|Golgi apparatus]]**로 이동
 4. Golgi의 막 내 **protease** 두 종류가 SREBP를 절단 → 세포질 도메인 해방
 5. 해방된 세포질 도메인(전사 인자)이 핵으로 이동
 6. 핵에서 콜레스테롤 uptake 및 합성에 관여하는 유전자들의 promoter에 결합, 전사 활성화

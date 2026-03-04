@@ -62,15 +62,15 @@ Lipid neighbor처럼 membrane protein도 [[Amphiphilic molecule|amphiphilic]]이
 - Cytosolic lipid monolayer에 삽입됨
 
 **Multipass transmembrane protein** (예시 2):
-- Polypeptide chain이 bilayer를 multiple α helix로 횡단
+- Polypeptide chain이 bilayer를 multiple α helix로 횡단[^기출_중간_2023_17]
 
 **β barrel transmembrane protein** (예시 5):
 - Rolled-up β sheet (β barrel)로 bilayer 횡단
 
 **특정 측면 노출** (예시 3, 4):
 - 일부 transmembrane protein은 membrane의 한쪽에만 주로 노출
-- 예시 3: Golgi apparatus에서 glycosylation reaction을 수행하는 glycosyltransferase
-- 예시 4: Membrane fusion을 촉매하는 SNARE protein
+- 예시 3: [[Golgi apparatus_MOC|Golgi apparatus]]에서 [[N-linked glycosylation|glycosylation reaction]]을 수행하는 glycosyltransferase
+- 예시 4: Membrane fusion을 촉매하는 [[SNARE]] protein
 
 ### 2. Lipid-anchored Protein
 
@@ -148,14 +148,14 @@ Membrane protein은 membrane의 거의 모든 다른 기능을 매개한다:
 Multipass transmembrane protein의 또 다른 방식:
 - Multiple transmembrane strand가 β sheet로 배열
 - Cylinder로 rolled up (β barrel)
-- Porin protein 등에서 발견
+- Porin protein 등에서 발견[^기출_중간_2022_17][^기출_중간_2023_23]
 
 ## Glycosylation
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_18_Figure_7.jpeg]]
 
 대부분의 transmembrane protein (동물 세포)은 glycosylate됨:
-- Sugar residue가 ER과 Golgi apparatus의 lumen에서 추가됨
+- Sugar residue가 ER과 [[Golgi apparatus_MOC|Golgi apparatus]]의 lumen에서 [[N-linked glycosylation|추가됨]]
 - Oligosaccharide chain이 항상 membrane의 noncytosolic side에 존재
 
 위 그림은 single-pass transmembrane protein을 보여준다:
@@ -169,7 +169,7 @@ Multipass transmembrane protein의 또 다른 방식:
 
 많은 membrane protein이 빠르게:
 - 막 평면에 수직인 축을 중심으로 회전 가능 (rotational diffusion)
-- Membrane 내에서 laterally 이동 가능 (lateral diffusion)
+- Membrane 내에서 laterally 이동 가능 (lateral diffusion)[^기출_중간_2021_미상E]
 
 그러나 세포는 특정 membrane protein을 고정시키거나 특정 domain에 국한시키는 방법을 가지고 있다. [[Restricting domain of membrane protein]] 참조.
 
@@ -201,3 +201,8 @@ Glycoprotein과 [[Glycolipid]]의 carbohydrate는:
 - [[Cortical cytoskeleton]]
 - [[Cell Biology/내용/10. Membrane Structure/Proteins that associated with membrane/Membrane bending protein]]
 - [[Glycolipid]]
+
+[^기출_중간_2023_17]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_17번|2023 중간 17번]] — Hydropathy plot의 peak 수로 α-helix 수를 예측할 수 있다는 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_17]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_17번|2022 중간 17번]] — β-barrel 막단백질 구조에 관한 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_23]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_23번|2023 중간 23번]] — β-barrel 막단백질에서 격번 아미노산의 소수성 side chain이 지질과 접촉하며, 짧은 β strand로 막을 횡단한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2021_미상E]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상E번|2021 중간 미상E번]] — 막단백질이 막 평면 내에서 lateral diffusion이 가능하다는 특성이 인간-마우스 세포융합 실험 맥락에서 출제됨. 복기 불완전. (선지 미복기)

@@ -23,4 +23,4 @@ NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting
 
 ## NLS는 제거되지 않음
 
-ER signal sequence와 달리, NLS는 수입 완료 후에도 제거되지 않고 단백질에 남아 있다. 따라서 유사분열 후 핵이 재조립될 때마다 핵 단백질을 반복적으로 수입할 수 있다.
+[[Co-translational translocation|ER signal sequence]]와 달리, NLS는 수입 완료 후에도 제거되지 않고 단백질에 남아 있다. 따라서 유사분열 후 핵이 재조립될 때마다 핵 단백질을 반복적으로 수입할 수 있다.

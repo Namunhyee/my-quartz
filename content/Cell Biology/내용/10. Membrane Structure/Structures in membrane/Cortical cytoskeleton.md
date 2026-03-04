@@ -98,11 +98,11 @@ Cytoskeleton이 membrane에 두 transmembrane protein을 통해 연결:
 
 Cortical actin network의 dynamic remodeling은:
 - 많은 필수 세포 기능을 위한 driving force 제공
-- Cell movement
-- Endocytosis
+- [[cell migration by actin cytoskeleton|Cell movement]]
+- [[endocytosis_MOC|Endocytosis]]
 - Transient, mobile plasma membrane structure 형성:
-  - Filopodia
-  - Lamellipodia
+  - [[actin arrays|Filopodia]]
+  - [[actin arrays|Lamellipodia]]
 
 ## Membrane Protein Diffusion 제한
 

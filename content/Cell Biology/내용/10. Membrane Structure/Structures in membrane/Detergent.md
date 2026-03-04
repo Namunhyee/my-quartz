@@ -169,7 +169,7 @@ Detergent가 membrane과 섞이면:
 - 특정 세포 기능에 어떤 protein이 필요하고 충분한지 결정 가능
 
 **증명 예:**
-- ATP synthase가 H⁺ gradient를 사용하여 ATP를 만든다는 가설 증명
+- [[Complex V (ATP synthase)|ATP synthase]]가 H⁺ gradient를 사용하여 ATP를 만든다는 가설 증명
 - Mitochondrial, chloroplast, bacterial membrane에서
 
 ## Nanodisc

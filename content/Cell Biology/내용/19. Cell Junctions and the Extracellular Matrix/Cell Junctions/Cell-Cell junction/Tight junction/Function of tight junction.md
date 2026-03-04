@@ -9,7 +9,7 @@ Tight junction은 상피 시트를 가로지르는 분자의 **paracellular tran
 
 이 봉합은 macromolecule에 대해서는 불투과성이지만, 이온과 소분자에 대한 투과성은 조직마다 다르다. 예를 들어 소장 상피의 tight junction은 Na⁺ 같은 무기 이온에 대해 방광 상피 tight junction보다 10,000배 더 투과성이 높다. 이러한 차이는 tight junction을 구성하는 단백질(특히 claudin)의 종류 차이에서 비롯된다.
 
-## 2. Fence 기능: 막 단백질 도메인 구분
+## 2. Fence 기능: 막 단백질 도메인 구분[^기출_기말_2022_8]
 
 Tight junction은 apical 막 단백질과 basolateral 막 단백질이 서로의 영역으로 확산하지 못하도록 **fence** 역할도 한다.
 
@@ -17,3 +17,5 @@ Tight junction은 apical 막 단백질과 basolateral 막 단백질이 서로의
 *Figure 19-18. 소장 상피에서의 transcellular transport. Glucose는 apical 표면의 Na⁺-구동 glucose transporter로 세포 안으로 유입되고, basolateral 표면의 수동 glucose transporter로 세포 밖으로 나간다. Tight junction은 (1) 포도당이 장 내강으로 역류하지 못하도록 세포 사이 공간을 봉합하고, (2) 수송 단백질이 각자 올바른 막 도메인에 머물도록 fence 역할을 한다.*
 
 Tight junction이 없으면 apical 수송 단백질이 basolateral 막으로 퍼지고, 방향성 수송이 불가능해진다.
+
+[^기출_기말_2022_8]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_8번|2022 기말 8번]] — tight junction이 apical/basolateral 막단백질의 측면 확산을 차단하는 fence 기능(정답①)이 정답 근거로 활용됨.

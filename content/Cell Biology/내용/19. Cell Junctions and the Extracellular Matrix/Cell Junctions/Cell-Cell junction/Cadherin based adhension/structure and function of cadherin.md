@@ -11,8 +11,11 @@
 
 ## Homophilic Binding 기전
 
-Homophilic binding은 cadherin 분자의 N-terminal tip(막에서 가장 먼 EC domain)에서 발생한다. 각 N-terminal EC domain은 knob과 pocket을 형성하며, 반대 세포의 cadherin 분자와 knob-into-pocket 방식으로 결합한다 (→ [[Homophilic vs heterophilic binding]]).
+Homophilic binding은 cadherin 분자의 N-terminal tip(막에서 가장 먼 EC domain)에서 발생한다. 각 N-terminal EC domain은 knob과 pocket을 형성하며, 반대 세포의 cadherin 분자와 knob-into-pocket 방식으로 결합한다 (→ [[Homophilic vs heterophilic binding]]).[^기출_기말_2022_9][^기출_기말_2023_24]
 
 ## Velcro 원리
 
 개별 cadherin-cadherin 결합의 친화도는 낮다. 강한 부착은 많은 약한 결합이 병렬로 형성될 때 나타난다. 같은 세포의 cadherin 분자들은 측면-측면(side-to-side) 상호작용으로 집합화되어, 반대 세포의 수직 배열과 결합하는 촘촘한 2차원 배열을 이룬다. 이 구조는 Velcro처럼 전체적으로는 강하지만, 순차적으로 분리하면 쉽게 분해할 수 있다.
+
+[^기출_기말_2022_9]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_9번|2022 기말 9번]] — cadherin이 같은 종류의 cadherin에 결합하는 homophilic binding 특성(정답⑤)이 정답 근거로 활용됨.
+[^기출_기말_2023_24]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_24번|2023 기말 24번]] — cadherin intracellular domain에 직접 결합하는 단백질로 β-catenin과 p120-catenin이 정답 근거로 활용됨.

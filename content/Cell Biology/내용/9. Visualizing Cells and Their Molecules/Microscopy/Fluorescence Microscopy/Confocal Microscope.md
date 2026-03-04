@@ -14,7 +14,7 @@ Confocal microscope는 일반적으로 fluorescence optics(형광 광학계)와 
 
 - **광원**: 일반적으로 pinhole(핀홀)을 통과한 laser 빛으로 제공
 - **형광 수집**: 조명된 물질에서 방출된 형광이 적절한 light detector에 수집되어 이미지 생성
-- **Confocal aperture**: Detector 앞에 pinhole aperture가 배치되며, 이는 조명 pinhole과 confocal(공초점) 위치에 있음
+- **Confocal aperture**: Detector 앞에 pinhole aperture가 배치되며, 이는 조명 pinhole과 confocal(공초점) 위치에 있음[^기출_중간_2022_5]
   - 즉, 표본 내 조명된 지점에서 방출된 광선이 초점을 맞추는 정확한 위치에 있음
   - 따라서 표본의 이 지점에서 나온 빛은 이 aperture에 수렴하여 detector로 들어감
 
@@ -72,7 +72,7 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 ### 두께 제한
 두 방법 모두 매우 두꺼운 표본을 다루는 데 한계가 있다:
 - **Deconvolution methods**: 표본 깊이 약 40 μm 이상에서는 빠르게 효과가 떨어짐
-- <mark style="background:#fff88f">**Confocal microscopes**: 최대 약 150 μm 깊이까지만 이미지를 얻을 수 있음</mark>
+- <mark style="background:#fff88f">**Confocal microscopes**: 최대 약 150 μm 깊이까지만 이미지를 얻을 수 있음[^기출_중간_2023_13]</mark>
 
 ## ➡Multiphoton Microscopy가 대안![[Multiphoton Microscopy|h-50%]]
 
@@ -136,3 +136,6 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 - Section: "The Confocal Microscope Produces Optical Sections by Excluding Out-of-Focus Light"
 - Related Figures: 9-24, 9-25, 9-26
 - Related Movie: Movie 9.1
+
+[^기출_중간_2022_5]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_5번|2022 중간 5번]] — 공초점 현미경의 핀홀(pinhole)을 통한 out-of-focus light 제거 및 optical section 형성 원리가 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_13]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_13번|2023 중간 13번]] — Confocal microscope는 약 150 μm까지 이미징 가능하며, 250 μm 깊이 촬영은 불가능하다는 깊이 한계가 정답 근거(선지 ④)로 활용됨.

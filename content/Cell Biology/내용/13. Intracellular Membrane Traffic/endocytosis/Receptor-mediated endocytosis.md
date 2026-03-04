@@ -1,6 +1,6 @@
 # Receptor-mediated Endocytosis
 
-대부분의 동물 세포에서 clathrin-coated pit과 vesicle은 세포외 fluid에서 특정 거대분자를 흡수하는 효율적인 경로를 제공한다.
+대부분의 동물 세포에서 clathrin-coated pit과 vesicle은 세포외 fluid에서 특정 거대분자를 흡수하는 효율적인 경로를 제공한다.[^기출_중간_2022_34]
 
 ## 메커니즘
 
@@ -180,3 +180,5 @@ Transferrin은 세포외 fluid와 early endosome 사이를 왔다갔다 하며 s
 - [[Endosomes maturation|Endosome 성숙]]
 - [[../../10. Membrane Structure/Membrane proteins|Membrane 단백질]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
+
+[^기출_중간_2022_34]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_34번|2022 중간 34번]] — Receptor-mediated endocytosis에서 ubiquitin-tagged receptor의 ESCRT를 통한 MVB pathway(lysosomal degradation)가 정답 근거로 활용됨.

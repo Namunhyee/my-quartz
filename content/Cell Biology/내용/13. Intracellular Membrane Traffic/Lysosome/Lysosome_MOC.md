@@ -2,7 +2,7 @@
 
 ## 개요
 
-**Lysosome**은 세포 내 소화의 주요 장소인 막으로 둘러싸인 기관소이다. 거대분자를 소화하는 가용성 가수분해 효소로 가득 차 있다.
+**Lysosome**은 세포 내 소화의 주요 장소인 막으로 둘러싸인 기관소이다.[^기출_중간_2022_30][^기출_중간_2022_31][^기출_중간_2023_9] 거대분자를 소화하는 가용성 가수분해 효소로 가득 차 있다.
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_49_Figure_12.jpeg]]
 
@@ -90,3 +90,7 @@ Lysosome 내부의 낮은 pH (4.5-5.0):
 - [[../endocytosis/Endosomes maturation|Endosome 성숙]]
 - [[../exocytosis/exocytosis_MOC|Exocytosis]]
 - [[../../12. Intracellular Organization and Protein Sorting/Protein degradation in proteasome|Proteasome에서의 단백질 분해]]
+
+[^기출_중간_2022_30]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_30번|2022 중간 30번]] — Lysosome의 구조(V-type ATPase, pH 4.5~5.0), acid hydrolase 종류, 소화 경로가 정답 근거로 활용됨.
+[^기출_중간_2022_31]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_31번|2022 중간 31번]] — Autophagy(nonselective/selective), mTOR 조절, SNARE-mediated autophagosome-lysosome 융합이 정답 근거로 활용됨.
+[^기출_중간_2023_9]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_9번|2023 중간 9번]] — Autophagosome이 SNARE-mediated process로 lysosome과 융합한다는 선지 ①이 정답.

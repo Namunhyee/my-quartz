@@ -7,7 +7,7 @@ Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
 ## 경로 1: ER 경유 경로 (일부 막 단백질)
 
-일부 peroxisomal **막 단백질**은 먼저 ER의 Sec61 translocator를 통해 ER 막에 삽입된 후, 특화된 **peroxisomal precursor vesicle**로 포장되어 기존 peroxisome과 융합하거나 새로운 peroxisome을 형성한다. 이 budding 반응에는 **Pex19** 및 아직 밝혀지지 않은 cytosolic 단백질들이 관여한다.
+일부 peroxisomal **막 단백질**은 먼저 ER의 [[Sec61 complex|Sec61 translocator]]를 통해 ER 막에 삽입된 후, 특화된 **peroxisomal precursor vesicle**로 포장되어 기존 peroxisome과 융합하거나 새로운 peroxisome을 형성한다. 이 budding 반응에는 **Pex19** 및 아직 밝혀지지 않은 cytosolic 단백질들이 관여한다.
 
 ## 경로 2: Cytosol에서 직접 수입 (대부분의 단백질)
 
@@ -23,7 +23,7 @@ Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
 ### 1단계: Cargo 인식 (cytosol)
 
-- **Pex5**: PTS1을 인식하는 cytosolic import receptor. PTS1을 가진 cargo 단백질과 결합한다.
+- **Pex5**: PTS1을 인식하는 cytosolic import receptor. PTS1을 가진 cargo 단백질과 결합한다.[^기출_중간_2023_30]
 - **Pex7**: PTS2를 인식하는 cytosolic import receptor. 추가적인 accessory peroxin들과 함께 작동한다.
 
 ### 2단계: Peroxisomal 막으로 이동 및 Translocation
@@ -47,5 +47,7 @@ Cargo를 방출한 후, Pex5는 cytosol로 되돌아가야 한다. 이 recycling
 - [[Plasmalogen]] 결핍
 
 이로 인해 뇌, 간, 신장에 심각한 이상이 발생하며 출생 직후 사망한다.
+
+[^기출_중간_2023_30]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_30번|2023 중간 30번]] — 퍼옥시솜 단백질 수입: Pex5가 PTS(A→B)를 인식, Pex14/Pex13(C) 도킹 복합체에 결합, 산화반응(D→O₂) 후 H₂O₂(E)를 catalase로 분해
 
 [^1]: [[ER-associated degradation#^95a85b|AAA-ATPase]]는 ERAD에서 exported protein을 잡아당기는 역할을 했었음

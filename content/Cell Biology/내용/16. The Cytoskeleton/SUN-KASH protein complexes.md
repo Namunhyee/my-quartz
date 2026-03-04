@@ -11,7 +11,7 @@ SUN-KASH protein complex(LINC complex: Linker of Nucleoskeleton and Cytoskeleton
 
 **SUN proteins** (내핵막)
 - SUN domain이 핵막 내강에서 KASH domain과 결합
-- 핵질 쪽에서는 [[nuclear lamina]] 또는 염색체에 결합
+- 핵질 쪽에서는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Nuclear Pore Complex/Nuclear structure/Nuclear lamina|nuclear lamina]] 또는 염색체에 결합
 
 **KASH proteins** (외핵막)
 - KASH domain이 핵막 내강에서 SUN domain과 결합

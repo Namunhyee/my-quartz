@@ -1,6 +1,6 @@
 # Actin Arrays
 
-세포 내 actin filament는 여러 accessory protein의 작용을 통해 다양한 형태의 array로 조직화된다. 주요 array는 세포의 피질(cortex)에서 만들어지며, 각각 특정 nucleating protein에 의해 개시된다.
+세포 내 actin filament는 여러 accessory protein의 작용을 통해 다양한 형태의 array로 조직화된다. 주요 array는 세포의 피질(cortex)에서 만들어지며, 각각 특정 nucleating protein에 의해 개시된다.[^기출_기말_2023_23][^기출_기말_2023_16]
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_23_Picture_2.jpeg]]
 *Fig 16–18. 세포 이동 중 fibroblast의 actin array 모식도. (A) stress fiber(수축성), actin cortex(lamellipodia용 network), filopodia(spike형), lamellipodium. (B) Leading edge의 dense actin network. Plus end가 세포 끝을 향한다.*
@@ -27,3 +27,6 @@
 - 세포에 기계적 강도 제공, membrane shape 유지
 
 각 array 형성에 관여하는 단백질의 자세한 내용은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/major accessory proteins of the actin cytoskeleton|major accessory proteins of the actin cytoskeleton]] 참조.
+
+[^기출_기말_2023_23]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_23번|2023 기말 23번]] — lamellipodia(Arp2/3 branched), filopodia(formin parallel), stress fiber(myosin II contractile), cortical actin network 등 6종류 actin array 비교가 정답 근거로 활용됨.
+[^기출_기말_2023_16]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_16번|2023 기말 16번]] — Arp2/3에 의한 branched network와 formin에 의한 linear filament가 서로 다른 actin array를 구성한다는 내용이 정답 근거로 활용됨.

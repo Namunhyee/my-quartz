@@ -24,7 +24,7 @@
 - 각 cross-bridge cycle에 **1 ATP** 소비
 - 미토콘드리아가 근섬유 사이에 위치하여 ATP를 즉각 공급
 
-> 자세한 분자 메커니즘과 구조는 교과서 Chapter 16 참고.
+> 자세한 분자 메커니즘과 구조는 [[Cell Biology/내용/16. The Cytoskeleton/Skeletal Muscle Cell/400_Skeletal Muscle Cell_MOC|Chapter 16 골격근 세포 노트]] 참고.
 
 ## 관련 개념
 

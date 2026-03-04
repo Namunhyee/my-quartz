@@ -1,6 +1,6 @@
 # Caveolar Endocytosis
 
-Caveolae는 <mark style="background:#fff88f">clathrin-independent membrane invagination</mark>의 가장 잘 이해된 형태이다.
+Caveolae는 <mark style="background:#fff88f">clathrin-independent membrane invagination</mark>의 가장 잘 이해된 형태이다.[^기출_중간_2022_33][^기출_중간_2023_10]
 
 ## Caveolae의 구조
 
@@ -70,3 +70,6 @@ Caveolar endocytosis는 여러 clathrin-independent pinocytic vesicle 및 membra
 - [[Receptor-mediated endocytosis|Receptor-mediated endocytosis]]
 - [[../../10. Membrane Structure/Lipid rafts|Lipid raft]]
 - [[../../10. Membrane Structure/Membrane proteins|Membrane 단백질]]
+
+[^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Caveolae의 구조(caveolin/cavin, lipid raft 특성)와 clathrin-independent endocytosis 메커니즘이 정답 근거로 활용됨.
+[^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — Caveolar endocytosis와 macropinocytosis의 특성에 관한 선지 ④가 정답.

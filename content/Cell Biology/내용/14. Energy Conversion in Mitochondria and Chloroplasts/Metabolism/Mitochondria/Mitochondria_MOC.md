@@ -2,7 +2,7 @@
 
 ## 개요
 
-**미토콘드리아(Mitochondria)**는 진핵세포에서 ATP를 대량 생산하는 핵심 에너지 전환 소기관이다. 세포질 부피의 최대 20%를 차지하며, 단순히 ATP 공장에 그치지 않고 다양한 대사·신호 기능을 수행한다.
+**미토콘드리아(Mitochondria)**는 진핵세포에서 ATP를 대량 생산하는 핵심 에너지 전환 소기관이다.[^기출_기말_2022_12] 세포질 부피의 최대 20%를 차지하며, 단순히 ATP 공장에 그치지 않고 다양한 대사·신호 기능을 수행한다.
 
 ---
 
@@ -59,6 +59,12 @@
 
 ---
 
+## 단백질 수입
+
+미토콘드리아 단백질의 대부분(~99%)은 핵 유전자로 암호화되어 세포질 리보솜에서 합성된 후, [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein import into Mitochondria/000_Protein import into Mitochondria_MOC|TOM/TIM 복합체를 통해 post-translational 방식으로 수입된다]]. 수입 에너지원으로는 ATP(cytosolic hsp70), 막전위([[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Chemiosmotic coupling|Chemiosmotic coupling]]으로 유지되는 H⁺ gradient), 산화환원 전위(Mia40)가 사용된다.
+
+---
+
 ## 내용 목차
 
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Endosymbiotic theory|Endosymbiotic theory]] — 미토콘드리아의 진화적 기원
@@ -67,3 +73,5 @@
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/mtDNA heteroplasmy|mtDNA heteroplasmy]] — 정상 + 돌연변이 mtDNA 혼합 상태
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Segregation of mitochondrial DNA|Segregation of mitochondrial DNA]] — 모계 유전과 mitotic segregation
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Human diseases associated with mtDNA|Human diseases associated with mtDNA]] — mtDNA 돌연변이와 질환
+
+[^기출_기말_2022_12]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_12번|2022 기말 12번]] — 에너지 변환 소기관(미토콘드리아, 엽록체)의 이중막 구조, 리보솜 보유, inner membrane/thylakoid membrane에서 ATP 합성이 이루어진다는 내용이 정답 ④의 근거로 활용됨.

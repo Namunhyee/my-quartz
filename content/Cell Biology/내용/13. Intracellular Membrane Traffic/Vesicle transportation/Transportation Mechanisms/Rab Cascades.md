@@ -1,6 +1,6 @@
 # Rab Cascades
 
-Rab cascade는 한 Rab protein이 다른 Rab protein을 순차적으로 recruit하고 activate하는 과정이다. 이를 통해 organelle의 identity가 dynamically하게 변화할 수 있다.
+Rab cascade는 한 Rab protein이 다른 Rab protein을 순차적으로 recruit하고 activate하는 과정이다. 이를 통해 organelle의 identity가 dynamically하게 변화할 수 있다.[^기출_중간_2022_25]
 
 ## Rab cascade의 개념
 
@@ -62,9 +62,9 @@ Rab protein의 교체는 organelle의 여러 특성을 변화시킨다:
 - 다른 cargo selection
 
 **Positioning**
-- 다른 motor protein → 다른 cellular location
+- 다른 [[310_Motor Proteins_MOC|motor protein]] → 다른 cellular location
 - Early endosome: Cell periphery
-- Late endosome: Near nucleus
+- Late endosome: Near nucleus ([[dynein]]에 의해 [[300_Microtubules_MOC|microtubule]]을 따라 핵 방향으로 이동)
 
 **Biochemical properties**
 - 다른 enzyme recruitment
@@ -115,3 +115,5 @@ Rab cascade의 dysregulation:
 - Cargo trafficking error
 - Degradation pathway impairment
 - Disease (e.g., neurodegeneration)
+
+[^기출_중간_2022_25]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_25번|2022 중간 25번]] — Rab protein의 cascade(Rab5→Rab7 전환)를 통한 endosome maturation 조절이 정답 근거로 활용됨.

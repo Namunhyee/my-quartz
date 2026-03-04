@@ -1,6 +1,6 @@
 # ER Network
 # 분류 : SER, RER
-smooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 nucleic envelope의 내외막과 연결되어 있음.
+smooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 nucleic envelope의 내외막과 연결되어 있음.[^기출_중간_2021_21]
 따라서 내부는 세포질 외부와 topologically identical.
 ## Rough ER
 - 표면에 리보솜이 결합되어 있음.
@@ -26,7 +26,7 @@ smooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 n
 3. $Ca^{2+}$저장 및 방출 : 세포질의 칼슘 농도 조절
 	-  근육세포에는 Sarcoplasmic reticulum(근소포체)라는 특수한 활면소포체가 있어 칼슘이온의 방출과 재흡수를 통해 근육의 수축과 이완을 조절
 4. Organelle Contact Sites
-	- Mitochondria, plastid, endosome, plasma membrane과 접촉하여 lipids, metabolites의 수송이 활발함. 
+	- Mitochondria, plastid, endosome, plasma membrane과 접촉하여 lipids, metabolites의 수송이 활발함 ([[Selective lipid transfer at contact site|Contact Sites를 통한 지질 전달]] 참조).
 ## Figure 12-15
 ![[Cell Biology/출처/md converted/Chapter 12/_page_16_Figure_2.jpeg]]
 ### (A) Rough ER in Pancreatic Exocrine Cell (췌장 외분비 세포)
@@ -84,6 +84,8 @@ The isolation of purified rough and smooth microsomes from the ER.
 	- Rough microsome fraction: Many vesicles studded with ribosomes; derived from rough ER. 
 	-  Smooth microsome fraction: Ribosome‐free vesicles, mainly from smooth ER, Golgi cisternae, and other organelles.
 
+
+[^기출_중간_2021_21]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_21번|2021 중간 21번]] — ER이 다른 소기관과 구별되는 특성: 핵막과 직접 연결된 막 네트워크, 분비경로 시작점, 주요 지질 합성 공장, 단백질 품질관리(BiP/calnexin), Ca²⁺ 저장소, 낮은 cholesterol 함량
 
 [^1]: **지질단백질**(脂質蛋白質, [영어](https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%B4 "영어"): lipoprotein) 또는 **리포단백질**은 중심에 [지질](https://ko.wikipedia.org/wiki/%EC%A7%80%EC%A7%88_\(%EC%83%9D%EB%AC%BC%ED%95%99\) "지질 (생물학)")과 [단백질](https://ko.wikipedia.org/wiki/%EB%8B%A8%EB%B0%B1%EC%A7%88 "단백질")을 함께 포함하고 있는 [생화학](https://ko.wikipedia.org/wiki/%EC%83%9D%ED%99%94%ED%95%99 "생화학") 물질이다.
 ![[Pasted image 20260202165809.png]]

@@ -30,14 +30,14 @@ Phosphatidic acid는 충분히 소수성이어서 lipid bilayer에 남아있을 
 동일한 방식으로 다른 주요 membrane phospholipid들도 합성된다:
 - Phosphatidylethanolamine
 - Phosphatidylserine
-- Phosphatidylinositol (PI) - minor phospholipid이지만 signaling에 중요
+- [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphatidylinositol (PI)]] - minor phospholipid이지만 signaling에 중요
 
 모든 합성은 cytosolic leaflet에서 일어나며, 동일한 기본 메커니즘을 따른다.
 
 ## Cholesterol과 Ceramide 합성
 
 ### Cholesterol
-ER은 cholesterol도 생산한다. Cholesterol은 membrane의 유동성과 구조에 중요한 역할을 한다.
+ER은 cholesterol도 생산한다.[^기출_중간_2021_12] Cholesterol은 membrane의 유동성과 구조에 중요한 역할을 한다.
 
 ### Ceramide
 ![[Cell Biology/출처/md converted/Chapter 12/_page_38_Figure_2.jpeg]]
@@ -47,7 +47,7 @@ Ceramide는 다음 과정을 거쳐 합성된다:
 1. Serine과 fatty acid가 condensation되어 amino alcohol인 sphingosine 형성
 2. 두 번째 fatty acid가 covalently 부착되어 ceramide 완성
 
-Ceramide는 Golgi apparatus로 export되어 두 가지 lipid의 전구체로 사용된다:
+Ceramide는 [[Golgi apparatus_MOC|Golgi apparatus]]로 export되어 두 가지 lipid의 전구체로 사용된다:
 - **Glycosphingolipids** (glycolipids): oligosaccharide가 ceramide에 부착 ^462610
 - **Sphingomyelin**: phosphocholine이 부착
 
@@ -59,7 +59,7 @@ Golgi apparatus에서 이 lipid들을 합성하는 효소들은 active site가 G
 Phospholipid 합성이 ER lipid bilayer의 cytosolic leaflet에서만 일어나므로, 처음에는 한쪽 leaflet만 확장된다. 하지만 ER membrane은 두 leaflet에서 다른 phospholipid들이 거의 동등하게 분포되어 있다.
 ![[Cell Biology/출처/md converted/Chapter 12/_page_38_Figure_2.jpeg]]
 ### [[Scramblase]]의 역할
-이 대칭적 분포는 scramblase라는 phospholipid translocator에 의해 달성된다. Scramblase는 새로 형성된 phospholipid molecule 일부를 cytosolic leaflet에서 lumenal leaflet로 전달한다.
+이 대칭적 분포는 scramblase라는 phospholipid translocator에 의해 달성된다.[^기출_중간_2021_23][^기출_중간_2023_28] Scramblase는 새로 형성된 phospholipid molecule 일부를 cytosolic leaflet에서 lumenal leaflet로 전달한다.
 
 ### 다른 Organelle로의 전달
 ER에서 합성된 lipid는 transport vesicle을 통해 다른 organelle로 전달된다. Plasma membrane과 Golgi apparatus, lysosome, endosome의 membrane은 모두 ER로부터 [[003_Vesicular Transport|vesicular transport]]를 통해 전달된 lipid로 구성된다.
@@ -100,5 +100,9 @@ Membrane lipid composition은 그 membrane에 위치한 protein의 기능에 영
 - [[Scramblase]]
 - [[Flippase]]
 - [[Selective lipid transfer at contact site]]
-- [[Glycosylation]]
-- ER membrane structure
+- [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphoinositide signaling]]
+- [[Lipid bilayer|ER membrane structure]]
+
+[^기출_중간_2021_12]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_12번|2021 중간 12번]] — ER membrane에 cholesterol이 적은 이유: ER에서 합성된 cholesterol은 빠르게 plasma membrane, 골지체 등으로 수송되어 ER에 낮게 유지됨. ER은 단백질 삽입·수송의 관문으로서 얇고 유동적인 막이 필요하기 때문. 복기 불완전. (선지 미복기)
+[^기출_중간_2021_23]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_23번|2021 중간 23번]] — Scramblase(ER, ATP 비의존, 양방향, 비특이적)와 Flippase(plasma membrane, ATP 의존, 단방향, PS·PE 특이적)의 역할 및 ER막과 plasma membrane의 인지질 비대칭성 차이가 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_28]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_28번|2023 중간 28번]] — Flippase(outer→inner, ATP 의존, PS·PE 특이), Floppase(inner→outer, ATP 의존, PC·SM 특이), Scramblase(양방향, ATP 비의존, 비특이)를 빈칸으로 묻는 단답형. 복기 불완전. (선지 미복기)

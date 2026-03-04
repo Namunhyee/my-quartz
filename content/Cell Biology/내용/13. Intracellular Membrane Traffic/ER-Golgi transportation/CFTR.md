@@ -18,7 +18,7 @@
 
 CFTR은 ER quality control system의 중요한 예시:
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]에서 synthesis
-- Proper folding과 assembly 검증
+- [[Quality control of ER protein folding|Proper folding과 assembly 검증]]
 - 성공 시에만 ER exit 허용
 - [[Transportation from the ER Through the Golgi Apparatus_MOC|Golgi를 거쳐]] plasma membrane으로 delivery
 
@@ -39,7 +39,7 @@ Mutant CFTR의 paradox:
   - Cl⁻ transport 수행 가능
 - **실제로는**:
   - ER quality control에 의해 detected
-  - ER에 retained
+  - [[ER-associated degradation|ERAD]]에 의해 ER에 retained
   - Cytosolic proteasome에서 degraded
   - Plasma membrane에 도달하지 못함
 

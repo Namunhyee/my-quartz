@@ -2,7 +2,7 @@
 
 ## 개요
 
-Transport vesicle의 형성은 donor membrane의 특정 영역에서 coat protein이 조립되면서 시작된다. Coat는 cargo를 선택하고, membrane을 구부리며, vesicle을 형성하는 역할을 수행한다. Vesicle이 완전히 budding된 후, coat는 빠르게 disassemble되어 vesicle이 target membrane과 fusion할 수 있게 한다.
+Transport vesicle의 형성은 donor membrane의 특정 영역에서 coat protein이 조립되면서 시작된다. Coat는 cargo를 선택하고, membrane을 구부리며, vesicle을 형성하는 역할을 수행한다. Vesicle이 완전히 budding된 후, coat는 빠르게 disassemble되어 vesicle이 target membrane과 fusion할 수 있게 한다.[^기출_중간_2021_13][^기출_중간_2022_20]
 
 ## Coated Vesicle의 종류와 경로
 
@@ -77,3 +77,6 @@ Coat assembly는 다음에 의해 조절된다:
 - [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle formation/Membrane Bending Protein|Membrane-bending proteins]]
 - [[Pinching-Off|Vesicle pinching-off]]
 - [[Nonspherical vesicle|특수한 vesicle 형태]]
+
+[^기출_중간_2021_13]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_13번|2021 중간 13번]] — COPII coat(ER→Golgi)와 clathrin coat(endocytosis/TGN)의 특성 비교가 정답 근거로 활용됨.
+[^기출_중간_2022_20]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_20번|2022 중간 20번]] — Clathrin-coated vesicle의 구조와 기능이 정답 근거로 활용됨.

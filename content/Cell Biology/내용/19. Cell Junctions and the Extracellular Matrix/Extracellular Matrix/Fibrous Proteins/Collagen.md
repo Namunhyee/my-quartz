@@ -1,6 +1,6 @@
 # Collagen
 
-Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된다. 포유류에서 **전체 단백질 질량의 약 25%**를 차지하는 가장 풍부한 단백질이다.
+Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된다.[^기출_기말_2022_11][^기출_기말_2022_25] 포유류에서 **전체 단백질 질량의 약 25%**를 차지하는 가장 풍부한 단백질이다.[^기출_기말_2023_27]
 
 ## 구조적 특징
 
@@ -36,7 +36,7 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 
 ### Fibril-forming (Fibrillar) Collagens
 
-Extracellular space로 분비된 후 **collagen fibril**로 조립되는 collagen들이다. Fibril은 직경 10~300 nm, 길이 수백 μm의 얇고 긴 구조이며, 더 큰 cable-like bundle (collagen fiber)을 형성할 수도 있다.
+[[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/secretory pathway|분비 경로(ER → Golgi → 세포 표면)]]를 거쳐 extracellular space로 분비된 후 **collagen fibril**로 조립되는 collagen들이다. Fibril은 직경 10~300 nm, 길이 수백 μm의 얇고 긴 구조이며, 더 큰 cable-like bundle (collagen fiber)을 형성할 수도 있다.
 
 | Type         | Tissue Distribution                         | Mutant Phenotype                              |
 | ------------ | ------------------------------------------- | --------------------------------------------- |
@@ -98,4 +98,7 @@ Type IV collagen의 돌연변이는 [[Alport syndrome]] 같은 신장 질환을 
 
 ^bec4d3
 
-[^1]: 원섬유. 
+[^1]: 원섬유.
+[^기출_기말_2022_11]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_11번|2022 기말 11번]] — ECM 구성 성분 문항으로, collagen의 triple helix 구조, Gly-X-Y 반복서열, 인장 강도(tensile strength) 제공 기능이 정답 근거로 활용됨. (선지 미복기)
+[^기출_기말_2022_25]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_25번|2022 기말 25번]] — ECM 리모델링과 암 전이 서술형으로, MMP에 의한 collagen 분해(MMP-1: collagen I/III, MMP-2/9: collagen IV)가 전이의 핵심 과정으로 활용됨. (선지 미복기)
+[^기출_기말_2023_27]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_27번|2023 기말 27번]] — fibroblast가 합성하는 collagen이 체내 단백질의 약 25% 차지, COL1A1 돌연변이 → osteogenesis imperfecta(골형성부전증)이 정답 근거로 활용됨.

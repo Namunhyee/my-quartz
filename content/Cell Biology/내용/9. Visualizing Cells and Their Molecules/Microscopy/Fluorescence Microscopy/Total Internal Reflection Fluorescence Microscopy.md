@@ -119,7 +119,7 @@
 ### 1. 극도로 낮은 Background
 **최소화된 배경 형광**:
 - Out-of-focus light 거의 완전 제거
-- 매우 높은 signal-to-noise ratio
+- 매우 높은 signal-to-noise ratio[^기출_중간_2022_9]
 - Single-molecule detection 가능
 ### 2. 높은 시간 해상도
 **빠른 Imaging**:
@@ -272,3 +272,5 @@
 - Chapter 9: Visualizing Cells and Their Molecules, Section: "Single Molecules Can Be Visualized by Total Internal Reflection Fluorescence Microscopy"
 - Related Figures: 9-38
 - Related techniques: [[Confocal Microscope]], [[FRAP]], [[Fluorescent Protein Tagging in Living Cells]]
+
+[^기출_중간_2022_9]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_9번|2022 중간 9번]] — TIRF는 evanescent wave로 cover slip 표면 ~100-200 nm 범위만 조명하여 out-of-focus background를 거의 완전히 제거함으로써 매우 높은 S/N ratio를 달성한다는 특성이 정답 근거(선지 ④)로 활용됨.

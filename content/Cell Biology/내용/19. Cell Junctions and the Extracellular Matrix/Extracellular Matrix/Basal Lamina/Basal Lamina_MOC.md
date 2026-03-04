@@ -32,12 +32,12 @@ Basal lamina는 다음 위치에 존재한다:
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_39_Figure_1.jpeg]]
 *Basal lamina의 분자 구조 모델.*
 
-Basal lamina는 양측 세포가 합성한다:
+Basal lamina는 양측 세포가 합성한다 ([[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/secretory pathway|분비 경로]]를 통해 ER → Golgi → ECM으로 분비):
 - 상피세포가 한 세트의 구성요소를 제공
 - Underlying connective tissue 세포(stroma)가 다른 세트를 제공
 
 **주요 구성요소**:
-- [[Laminin|Laminin]] ([[Glycoproteins_MOC|glycoprotein]]) — primary organizer
+- [[Laminin|Laminin]] ([[Glycoproteins_MOC|glycoprotein]]) — primary organizer[^기출_기말_2023_30]
 - [[Collagen#^cbf8fd|Type IV collagen]] — flexible network, tensile strength 제공 (→ [[Collagen#Network-forming Collagens]])
 - [[nidogen|Nidogen]] ([[Glycoproteins_MOC|glycoprotein]]) — laminin과 collagen IV를 cross-link
 - [[Proteoglycan|Perlecan]] ([[Proteoglycan|proteoglycan]])
@@ -59,3 +59,5 @@ Basal lamina는 양측 세포가 합성한다:
 
 - [[Alport syndrome]]
 - [[Regeneration experiment]]
+
+[^기출_기말_2023_30]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_30번|2023 기말 30번]] — basal lamina의 주요 구성요소로 laminin과 type IV collagen이 정답 근거로 활용됨.

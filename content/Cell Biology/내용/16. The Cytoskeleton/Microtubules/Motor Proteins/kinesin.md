@@ -3,7 +3,7 @@
 ![[Cell Biology/출처/md converted/Chapter 16/_page_51_Figure_2.jpeg]]
 *Fig 16–52. Kinesin superfamily. Kinesin-1(N-terminal motor, plus end), kinesin-5(tetramer, microtubule sliding), kinesin-13(중앙 motor, depolymerization), kinesin-14(C-terminal motor, minus end).*
 
-**Kinesin**은 대규모 protein superfamily로, motor domain(heavy chain)이 공통 요소이다. 효모에 6개, C. elegans에 20개, 인간에 45개의 kinesin이 있다.
+**Kinesin**은 대규모 protein superfamily로, motor domain(heavy chain)이 공통 요소이다. 효모에 6개, C. elegans에 20개, 인간에 45개의 kinesin이 있다.[^기출_기말_2022_6]
 
 ## Kinesin-1 구조
 
@@ -22,4 +22,6 @@ N-terminal motor domain: plus end 방향 이동 (대부분의 kinesin)
 C-terminal motor domain: minus end 방향 이동 (kinesin-14 계열)
 중앙 motor domain: 이동하지 않고 microtubule end에서 depolymerization을 촉진 (kinesin-13)
 
-세포 내에서 kinesin은 organelle과 vesicle을 세포 중심에서 periphery로(centrifugal) 수송하는 데 주로 사용되며, plus end 방향 수송을 담당한다. 척수에서 엄지발가락까지 1 m 길이의 축삭에서 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondria_MOC|mitochondria]]와 synaptic vesicle 전구체를 빠르게 수송(**anterograde axonal transport**)하는 것이 kinesin의 역할이다.
+세포 내에서 kinesin은 organelle과 vesicle을 세포 중심에서 periphery로(centrifugal) 수송하는 데 주로 사용되며, plus end 방향 수송을 담당한다. 척수에서 엄지발가락까지 1 m 길이의 축삭에서 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondria_MOC|mitochondria]]와 [[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/synaptic vesicles|synaptic vesicle]] 전구체를 빠르게 수송(**anterograde axonal transport**)하는 것이 kinesin의 역할이다.
+
+[^기출_기말_2022_6]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_6번|2022 기말 6번]] — kinesin이 plus end 방향(anterograde, 세포체→말단)으로 이동하며 organelle과 vesicle을 수송한다는 내용이 정답 ④의 근거로 활용됨.

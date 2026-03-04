@@ -2,7 +2,7 @@
 
 ## 개요
 
-Retrieval pathway는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]을 실수로 떠난 protein을 다시 ER로 되돌리는 transport system이다. 이 pathway는 각 compartment의 identity를 유지하는 데 essential하다.
+Retrieval pathway는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]을 실수로 떠난 protein을 다시 ER로 되돌리는 transport system이다.[^기출_중간_2021_미상B][^기출_중간_2022_27][^기출_중간_2023_5] 이 pathway는 각 compartment의 identity를 유지하는 데 essential하다.
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
@@ -220,3 +220,7 @@ Retrieval은 continuous process:
 - [[Golgi apparatus_MOC|Golgi apparatus]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER resident proteins]]
 - [[Cell Biology/내용/06. How Cells Obtain Energy from Food|Chaperone proteins]]
+
+[^기출_중간_2021_미상B]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상B번|2021 중간 미상B번]] — KDEL(soluble ER 단백질 회수)과 KKXX(막 단백질 회수) 신호를 이용한 ER retrieval pathway 개념이 선지 근거로 활용됨.
+[^기출_중간_2022_27]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_27번|2022 중간 27번]] — COPI vesicle을 통한 ER retrieval 메커니즘과 KDEL receptor의 pH 의존적 결합이 정답 근거로 활용됨.
+[^기출_중간_2023_5]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_5번|2023 중간 5번]] — ER retrieval signal(KDEL/KKXX)과 COPI vesicle 기반 retrograde transport에 관한 선지 ⑤가 정답.

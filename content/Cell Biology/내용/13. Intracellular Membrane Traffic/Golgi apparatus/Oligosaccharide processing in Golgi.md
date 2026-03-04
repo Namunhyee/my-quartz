@@ -1,10 +1,10 @@
 # Oligosaccharide Processing in Golgi
 
-Golgi apparatus는 ER에서 전달받은 N-linked oligosaccharide를 처리하여 이질적인 oligosaccharide 구조를 생성한다.
+Golgi apparatus는 ER에서 전달받은 N-linked oligosaccharide를 처리하여 이질적인 oligosaccharide 구조를 생성한다.[^기출_중간_2022_28]
 
 ## Processing의 시작
 
-ER에서 단일 종류의 N-linked oligosaccharide가 많은 단백질에 *en bloc*으로 부착되고, 단백질이 여전히 ER에 있는 동안 trimming된다. 이러한 trimming 반응에 의해 생성된 oligosaccharide intermediate는 단백질 folding을 돕고, misfolded 단백질을 세포질로 운반하여 proteasome에서 분해하는 데 중요한 역할을 한다.
+ER에서 단일 종류의 N-linked oligosaccharide가 많은 단백질에 *en bloc*으로 부착되고, 단백질이 여전히 ER에 있는 동안 trimming된다. 이러한 trimming 반응에 의해 생성된 oligosaccharide intermediate는 단백질 folding을 돕고, [[ER-associated degradation|misfolded 단백질을 세포질로 운반하여 proteasome에서 분해]]하는 데 중요한 역할을 한다.
 
 CGN에 도착한 후, 단백질은 Golgi processing 구획의 첫 번째(cis Golgi cisterna)로 들어간다. 그런 다음 다음 구획(medial cisterna)으로 이동하고, 마지막으로 glycosylation이 완료되는 trans cisterna로 이동한다.
 
@@ -86,7 +86,7 @@ Hybrid oligosaccharide도 존재한다 (하나의 mannose branch와 하나의 Gl
 N-linked glycosylation은 단백질 folding을 두 가지 방식으로 촉진한다:
 - Folding intermediate를 더 용해성 있게 만들어 응집 방지
 - N-linked oligosaccharide의 순차적 수정이 단백질 folding 진행을 표시하는 "glyco-code" 확립
-- 이 glyco-code는 ER의 chaperone과 lectin이 단백질 folding과 분해를 안내하는 데 사용됨
+- 이 glyco-code는 ER의 chaperone과 lectin이 [[Quality control of ER protein folding|단백질 folding과 분해]]를 안내하는 데 사용됨
 
 ### 2. 보호 코팅
 
@@ -126,3 +126,5 @@ Glycosylation은 중요한 조절 역할을 할 수 있다. 예를 들어, Notch
 - [[Golgi apparatus_MOC|Golgi apparatus]]
 - [[../../12. Intracellular Organization and Protein Sorting/N-linked glycosylation|N-linked glycosylation]]
 - [[../../12. Intracellular Organization and Protein Sorting/Quality control in ER|ER에서의 품질 관리]]
+
+[^기출_중간_2022_28]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_28번|2022 중간 28번]] — Golgi에서 N-linked oligosaccharide의 cis→medial→trans 순차적 처리(mannose 제거, sugar 추가)가 정답 근거로 활용됨.

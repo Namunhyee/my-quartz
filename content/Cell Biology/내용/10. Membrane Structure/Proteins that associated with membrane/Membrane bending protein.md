@@ -54,7 +54,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 위 그림 (C)는 protein의 curved surface가 lipid head group에 결합하여 membrane을 deform하거나 curvature를 stabilize하는 것을 보여준다.
 
 **예시:**
-- Intracellular transport에서 budding vesicle을 shape하는 coat protein
+- Intracellular transport에서 budding vesicle을 shape하는 [[Clathrin coat|coat protein]]
 - 이 class에 속함
 
 ### 3. Lipid Clustering
@@ -74,7 +74,7 @@ Cone-shaped과 inverted cone-shaped lipid의 비대칭 분포:
 
 **Lipid의 Curvature Induction:**
 Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
-- Head group과 hydrocarbon tail의 상대적 cross-sectional area에 의해 결정됨
+- Head group과 hydrocarbon tail의 상대적 cross-sectional area에 의해 결정됨[^기출_중간_2023_21]
 
 **예시:**
 - **Phosphoinositide:**
@@ -119,8 +119,8 @@ Membrane-bending protein은 여러 중요한 세포 과정에 필수적이다:
 ### 3. Cell Movement
 
 **Membrane protrusion:**
-- Filopodia와 lamellipodia 형성
-- Membrane-bending protein과 actin polymerization 협력
+- [[actin arrays|Filopodia와 lamellipodia]] 형성
+- Membrane-bending protein과 [[cell migration by actin cytoskeleton|actin polymerization]] 협력
 
 ### 4. Cell Division
 
@@ -144,3 +144,5 @@ Membrane-bending protein은 여러 중요한 세포 과정에 필수적이다:
 - [[Cortical cytoskeleton]]
 - [[Phospholipid]]
 - [[Restricting domain of membrane protein]]
+
+[^기출_중간_2023_21]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — Head group이 tail보다 넓은 cone-shape 지질이 한 leaflet에 축적되면 positive membrane curvature를 유도한다는 내용이 정답 근거로 활용됨. 복기 불완전. (선지 미복기)

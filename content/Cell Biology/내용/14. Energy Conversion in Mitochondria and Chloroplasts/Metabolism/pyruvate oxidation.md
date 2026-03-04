@@ -2,7 +2,7 @@
 
 ## 개요
 
-Pyruvate는 세포질에서 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|glycolysis]]의 최종 산물로 생성된다. 산소가 있을 때 **미토콘드리아 matrix**로 수송되어 산화된다.
+Pyruvate는 세포질에서 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|glycolysis]]의 최종 산물로 생성된다.[^기출_기말_2023_7] 산소가 있을 때 **미토콘드리아 matrix**로 수송되어 산화된다.
 
 **위치**: 미토콘드리아 matrix (inner membrane을 통해 수송 후)
 
@@ -48,3 +48,5 @@ Pyruvate oxidation은 glycolysis와 citric acid cycle을 **연결**하는 핵심
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|Glycolysis_MOC]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Citric Acid Cycle/Citric Acid Cycle_MOC|Citric Acid Cycle_MOC]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondria_MOC|Mitochondria_MOC]]
+
+[^기출_기말_2023_7]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_7번|2023 기말 7번]] — Pyruvate dehydrogenase complex에 의한 pyruvate 산화 단계에서 NADH 2분자(glucose 기준 × 2 pyruvate)가 생성되어 총 NADH 계산(2+2+6=10)에 기여한다는 내용이 정답 ④의 근거로 활용됨.
