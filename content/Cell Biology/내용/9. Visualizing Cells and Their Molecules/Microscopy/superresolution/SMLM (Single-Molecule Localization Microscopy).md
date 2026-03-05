@@ -28,31 +28,33 @@ Single-molecule localization microscopy는 개별 형광 분자의 정확한 위
 ^c7bd0d
 
 실제로 이는 lasers를 사용하여 [[Photoactivation#^48987e|switchable fluorescent labels]]가 포함된 표본에서 sparse subset의 형광 분자들을 순차적으로 전환함으로써 달성할 수 있다. 현재 수백 가지의 그러한 labels가 있으며, 세 가지 클래스로 나뉜다:(이 세가지 종류 모두 쓰긴 한다고 함)
-
 1. **Photoactivated labels**: 예를 들어 dark에서 green으로 전환
 2. **Photoconvertible labels**: 예를 들어 green에서 red로 전환  
 3. **Photoswitchable labels**: 앞뒤로 전환
 
 ### Activation Process
-Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 이는 작은 subset의 분자들을 수정하여 다른 파장의 excitation beam에 노출될 때 형광을 내도록 한다. 이들은 switching off하여 형광을 quenching하기 전에 excitation에 반응하여 각각 수천 개의 photons를 방출하며, switching process는 수만 또는 수십만 번까지 반복될 수 있어 매우 큰 단일 분자 세트의 정확한 좌표를 결정할 수 있다.
+Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 이는
+#### Isolation
+<mark style="background:#fff88f">작은 subset의 분자들</mark>을 수정하여 다른 파장의 excitation beam에 노출될 때 형광을 내도록 한다. 이들은 switching off하여 형광을 quenching하기 전에 excitation에 반응하여 각각 수천 개의 photons를 방출하며, switching process는 수만 또는 수십만 번까지 반복될 수 있어 
+#### Localization
+<mark style="background:#fff88f">단일 분자 세트의 정확한 좌표를 결정할 수 있다.</mark>
 
 ### Image Reconstruction
-전체 세트를 결합하여 계산된 각 개별 분자의 위치가 정확히 표시된 이미지로 디지털 표시할 수 있다.
+전체 세트를 결합하여 계산된 <mark style="background:#fff88f">각 개별 분자의 위치가 정확히 표시된 이미지로 디지털 표시</mark>할 수 있다.
 
 ## Figure 9-32: Single-Molecule Localization Microscopy (SMLM)
-![[_page_21_Figure_3.jpeg]]
-
+![[Cell Biology/출처/md converted/Chapter 9/_page_21_Figure_3.jpeg]]
 ### (A) SMLM의 원리
 **가상의 표본에서**: Sparse subsets의 형광 분자들이 개별적으로 짧게 켜진 후 bleached됨. 이러한 모든 잘 분리된 분자들의 정확한 위치를 점진적으로 함께 추가하여 superresolution에서 이미지로 구축할 수 있다.
 
 **Sequential cycles**: 활성화와 bleaching의 연속적인 cycles가 잘 분리된 단일 형광 분자를 검출할 수 있게 함
 
 **Image building**: 수만 개의 연속적인 작은 분자 그룹들의 위치가 map에 추가됨에 따라 형광 구조의 superresolution 이미지가 구축됨
-
+![[Pasted image 20260305212402.png]]
 ### (B) TIRF와 PALM/STORM 비교
 세포의 일부에서 microtubules가 형광으로 표지되어 TIRF microscope(왼쪽)와 superresolution PALM microscope(오른쪽)에서 이미지화됨.
 
-**왼쪽 (TIRF)**: 각 microtubule의 직경이 blurred diffraction-limited image에서 250 nm
+**왼쪽 ([[Total Internal Reflection Fluorescence Microscopy(TIRF)|TIRF]])**: 각 microtubule의 직경이 blurred diffraction-limited image에서 250 nm
 **오른쪽 (PALM)**: 각 microtubule의 직경이 이제 실제 크기인 약 25 nm와 유사함
 
 ## SMLM의 주요 특징
@@ -121,18 +123,6 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 **vs [[Stimulated Emission Depletion]]**: 둘 다 ~20 nm resolution. STED는 point-by-point scanning, SMLM은 wide-field imaging 후 reconstruction.
 
 **vs [[Confocal Microscope]]**: Confocal은 ~200 nm, 빠름, 3D 가능. SMLM은 ~20 nm이지만 느리고 주로 2D (단, 3D 가능한 변형도 있음).
-
-## SMLM의 변형 기술
-
-### 3D SMLM
-**Astigmatism**: Cylindrical lens로 z-position 결정
-**Biplane**: 두 focal planes에서 동시 imaging
-**Light Sheet**: Z-sectioning과 결합
-
-### Multi-color SMLM
-**여러 Probes**: 다른 색상의 photoswitchable probes
-**Sequential Imaging**: 각 color channel을 순차적으로
-**Spectral Unmixing**: Emission spectra 기반 분리
 
 ## 데이터 분석
 

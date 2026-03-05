@@ -12,34 +12,51 @@ Scanning electron microscope (SEM)는 specimen 표면의 three-dimensional struc
 ### 작동 방식
 Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled specimen stage에 coating하여 microscope에서 검사한다.
 
-## Scanning 과정
-
-### Electron Beam Scanning
-**매우 좁은 electron beam**으로 specimen을 scan함
-**Primary beam**: 표면의 각 연속적인 point를 bombardment
-
-### Signal Collection
-**측정**: Primary beam이 metallic surface의 각 연속 point를 bombard할 때 scattered 또는 emitted되는 electrons의 양
-**Image building**: Computer screen에 이미지 구축
-
 ## Figure 9-45: Scanning Electron Microscope
 ![[_page_29_Picture_2.jpeg]]
 
-**SEM 작동 원리**:
-- Specimen이 electromagnetic coils(lenses 역할)에 의해 specimen에 초점을 맞춰진 electron beam으로 scan됨
-- Detector는 beam이 표면의 각 연속 point를 bombard할 때 scattered 또는 emitted되는 electrons의 양을 측정
-- 연속적인 points의 강도를 screen에 구축된 이미지에 기록
+## 작동원리
+## 전자빔의 생성과 주사 과정
+### (1) Electron gun
+- <mark style="background:#fff88f">1차 전자(primary electron)</mark>를 방출한다.
+### (2) Condenser lens
+- 전자빔을 집속하여 가는 빔으로 만든다.
+### (3) Beam deflector (scan coil)
+- 전자빔을 좌우·상하로 주사하여 시료 표면을 raster 방식으로 스캔한다.
+### (4) Objective lens
+- 최종적으로 전자빔을 시료 표면에 정확히 집속한다.
+- 
+→ 이 과정을 통해 전자빔이 시료 표면의 한 점씩 순차적으로 조사된다.
+
 
 **결과**: SEM은 0.5 nm에서 10 nm 사이의 resolution으로 three-dimensional objects의 striking images 생성 (instrument 종류에 따라)
 
-**Photograph**: 실제 사용 중인 SEM (courtesy of Andy Davis)
+## 3. 시료-전자 상호작용
+전자빔이 시료에 충돌하면 여러 신호가 발생한다.
+### (1) <mark style="background:#fff88f">Secondary electron (SE)</mark>
+- 1차 전자가 시료의 원자와 상호작용하여 방출된 저에너지 전자
+- 주로 표면에서 발생
+- 표면 형상(topography) 관찰에 가장 중요
+
+→ 표면의 굴곡이 클수록 신호 차이가 커져 입체감 있는 영상 형성
+### (2) <mark style="background:#fff88f">Backscattered electron (BSE)</mark>
+- 1차 전자가 원자핵에 의해 큰 각도로 산란되어 되돌아온 전자
+- 원자번호(atomic number)가 클수록 산란 확률 증가
+
+→ 조성 대비(compositional contrast) 형성에 유리
+
+## 4. 검출과 영상 형성
+- Detector가 SE 또는 BSE를 수집한다.
+- 각 위치에서 검출된 신호 강도를 전기적 신호로 변환한다.
+- Scan generator와 동기화하여 모니터 화면에 영상으로 표시한다.
+
+→ 한 점의 밝기는 해당 위치에서 검출된 전자 신호 세기에 비례한다.
 
 ## SEM의 특징
 
 ### 1. Depth of Field
 **큰 depth of field**: Objects가 near와 far 모두 field of view에서 선명하게 이미지화됨
 **3D appearance**: Surface angle이 beam에 대해 상대적이므로 electron scattering 양이 달라져 highlights와 shadows 생성
-
 ### 2. Surface Imaging
 **표면만 관찰**: 내부 구조는 볼 수 없음
 **해상도**: 약 10 nm (standard SEM)
@@ -99,11 +116,9 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 **표본**: Macromolecular assemblies
 **준비**: 매우 얇은 tungsten coating으로 shadowed
 **Imaging**: Field-emission electron gun을 갖춘 SEM
-
 ### (A) Actin Filament
 **구조**: Actin monomers의 helical arrangement 보여줌
 **Resolution**: 개별 subunits 식별 가능
-
 ### (B) Clathrin-coated Vesicles
 **구조**: Vesicle 표면의 clathrin coat pattern
 **Detail**: Coat의 basket-like structure
@@ -154,63 +169,10 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 
 ## Special SEM Techniques
 
-### Environmental SEM (ESEM)
-**특징**: Hydrated specimens 관찰 가능
-**낮은 vacuum**: 완전한 vacuum 불필요
-**응용**: 생물학적 표본을 더 자연스러운 상태로
-
-### Cryo-SEM
-**냉동 표본**: Frozen state에서 관찰 (Figure 9-46A)
-**구조 보존**: 우수한 preservation
-**Sublimation**: Ice를 제거하여 내부 구조 노출 가능
-
-### Backscattered Electron Imaging
-**Contrast**: 원자 번호에 따른 contrast
-**Composition**: Material composition 정보
-**응용**: Geological과 materials science samples
-
-## 응용 분야
-
-### 발생 생물학
-**Embryos**: Embryo surface morphology
-**Organ development**: Tissue organization
-**Plant development**: Flower, seed structures (Figure 9-46A)
-
-### 미생물학
-**Bacterial morphology**: Cell shapes, surface features
-**Biofilms**: 3D architecture (Figure 9-46C)
-**Fungal structures**: Hyphae, spores
-
-### 식물학
-**Pollen**: Species identification (Figure 9-46B)
-**Leaf surfaces**: Stomata, trichomes
-**Root structures**: Root hairs, nodules
-
-### Materials Science
-**Surface characterization**: Material surfaces
-**Fracture analysis**: Fracture surfaces
-**Quality control**: Product inspection
-
-## 기술적 고려사항
-
-### Specimen Preparation
-**Coating**: 일반적으로 gold, platinum, or carbon
-**Thickness**: 수 nm의 thin layer
-**Fixation**: Chemical fixation 또는 rapid freezing
-
-### Imaging Parameters
-**Accelerating voltage**: 일반적으로 5-30 kV
-**Working distance**: Specimen과 detector 사이 거리
-**Spot size**: Resolution과 signal intensity의 trade-off
-
-### Detector Selection
-**Secondary electrons**: Surface topology (가장 일반적)
-**Backscattered electrons**: Compositional information
-**Multiple detectors**: 동시에 다른 정보
 
 ## SEM vs 다른 Microscopy 기술
 
-**vs [[Transmission Electron Microscope|TEM]]**:
+**vs [[Transmission Electron Microscope(TEM)|TEM]]**:
 - SEM: Surface, 3D, ~10 nm (standard)
 - TEM: Internal structure, 2D sections, ~0.05-1 nm
 
@@ -222,15 +184,7 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 - SEM: Surface detail, electron microscopy
 - Confocal: Internal 3D, fluorescence, 살아있는 세포
 
-## 요약
-**핵심 원리**: Electron beam으로 specimen 표면 scan, scattered/emitted electrons로 3D surface image 생성
-**Resolution**: Standard ~10 nm, high-resolution ~0.5 nm
-**주요 장점**: 직접적인 3D visualization, 큰 depth of field, large specimens, 상대적 단순성
-**주요 한계**: 표면만 관찰, 제한된 resolution (standard), coating 필요, 고정 표본만
-**응용**: Whole organisms, surface morphology, tissue architecture, pollen identification, bacterial structures
-**특수 기술**: Environmental SEM, cryo-SEM, backscattered imaging
-
 ---
 
 ## 참고 문헌
-Chapter 9: Visualizing Cells and Their Molecules, Section: "The Electron Microscope Resolves the Fine Structure of the Cell", Related Figures: 9-45, 9-46, 9-47, Related concepts: [[Transmission Electron Microscope]], [[Biological Specimen Preparation for Electron Microscopy]]
+Chapter 9: Visualizing Cells and Their Molecules, Section: "The Electron Microscope Resolves the Fine Structure of the Cell", Related Figures: 9-45, 9-46, 9-47, Related concepts: [[Transmission Electron Microscope(TEM)]], [[Cryo EM_Biological Specimen Preparation for Electron Microscopy]]

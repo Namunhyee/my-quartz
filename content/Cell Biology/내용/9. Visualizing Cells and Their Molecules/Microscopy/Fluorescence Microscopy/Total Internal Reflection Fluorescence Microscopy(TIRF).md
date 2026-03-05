@@ -16,7 +16,7 @@
 - Cover slip 표면 너머 매우 짧은 거리까지만 표본으로 연장
 - Cover slip에 부착되었거나 표면에 매우 가까운 분자들만 여기됨
 
-**결과**: 이 분자들이 형광을 발할 때, 방출된 빛은 더 이상 overlying molecules의 out-of-focus light와 경쟁하지 않으므로 검출 가능
+**결과**: 이 분자들이 형광을 발할 때, 방출된 빛은 더 이상 overlying molecules의 out-of-focus light와 경쟁하지 않으므로 검출 가능. <mark style="background:#fff88f">Blurring effects 감소</mark>
 
 ### Figure 9-38: TIRF Microscopy
 
@@ -29,16 +29,15 @@
 **Evanescent wave**:
 - 일부 전자기 에너지가 interface를 가로질러 짧은 거리로 확장
 - Cover slip에 부착되었거나 표면에 매우 가까운 분자들만 여기
-- 약 **200 nm** 깊이까지만 효과적
+- <mark style="background:#fff88f">약 **200 nm** 깊이까지만 효과적</mark>
 
-#### (B) Clathrin-coated Pit 형성 추적
+#### (B)[[Clathrin coat|Clathrin-coated Pit]] 형성 추적
 **실험 시스템**:
 - *Arabidopsis* root cell의 plasma membrane 표면 이미지
 - Clathrin adaptor protein이 [[Fluorescent Protein Tagging in Living Cells#Green Fluorescent Protein (GFP)|GFP]]로 tagged
 **관찰**:
 - 개별 clathrin-coated pits를 시간에 따라 추적 가능
 - Pit의 형성과 subsequent endocytosis 관찰
-
 #### (C) 개별 Pit의 시간 경과
 **B에서 링으로 표시된 pit의 1초 간격 이미지**:
 - Pit의 출현
@@ -49,8 +48,8 @@
 
 ### 제한된 깊이
 **현재 기술**:
-- 세포 표면 아래 약 **200 nm** 층으로 제한
-- 매우 얇은 영역만 관찰 가능
+- <mark style="background:#fff88f">세포 표면 아래 약 200 nm 층으로 제한(일반세포 두께 10um의 1~2%)</mark>
+- <mark style="background:#fff88f">membrane protein이 존재하는 영역 관찰 가능</mark>
 **이유**:
 - Evanescent wave의 침투 깊이가 매우 짧음
 - Exponentially decay함
@@ -63,6 +62,8 @@
 - Receptor dynamics
 
 ## TIRF의 주요 응용
+### 0. 강의노트 : myosin, actin filament 관찰
+![[Pasted image 20260305203627.png]]
 
 ### 1. Single Motor Proteins
 **극적인 실험 예시**:
@@ -73,7 +74,6 @@
 - 개별 분자 수준의 관찰
 - 이동 속도와 방향 정밀 측정
 - Step size 측정 가능
-
 ### 2. Membrane Dynamics
 **Receptor trafficking**:
 - 세포막에서의 receptor 이동
@@ -83,13 +83,11 @@
 - Clathrin-coated pit 형성 (Figure 9-38B, C)
 - Vesicle fusion
 - Membrane recycling
-
 ### 3. Cell-Substrate Interactions
 **Focal adhesions**:
 - Adhesion complex 형성
 - Cell migration 중 adhesion dynamics
 - Force transmission
-
 ### 4. Single-Molecule Studies
 **DNA-protein interactions**:
 - DNA replication
@@ -99,22 +97,6 @@
 - 단일 효소 분자의 활성
 - Substrate binding/release
 - Catalytic cycles
-
-## 변형 기술: Highly Inclined Laminated Optical Sheet
-### HILO Microscopy
-**원리**: 
-- TIRF는 아니지만 유사한 접근
-- 입사광의 각도를 줄임
-- Cover slip에 거의 평행하게 조명
-**장점**:
-- 세포 내부 더 깊이 검사 가능
-- 200 nm 이상의 깊이
-- 균일하지는 않지만 더 넓은 영역 관찰
-**유용성**:
-- 식물 세포와 같이 outer wall이 있는 세포
-- 곰팡이 세포
-- 두꺼운 표본
-
 ## TIRF의 장점
 ### 1. 극도로 낮은 Background
 **최소화된 배경 형광**:
@@ -159,7 +141,7 @@
 ### vs [[Confocal Microscope]]
 **Confocal**:
 - [[Confocal Microscope#Three-dimensional Imaging(3차원 영상화)|3D imaging]] 가능
-- 더 깊은 침투 (수십 μm)
+- 더 깊은 침투 (150 μm)
 - Out-of-focus light를 pinhole로 제거
 **TIRF**:
 - 표면만 (200 nm)
@@ -184,40 +166,6 @@
 - TIRF: 공간 선택성 (표면)
 - FRAP: 시간 선택성 (photobleaching)
 
-## 실험적 고려사항
-
-### 임계각 최적화
-**각도 조절**:
-- Total internal reflection을 위한 정확한 각도
-- 너무 얕으면: 빛이 투과
-- 너무 가파르면: 조명 영역 감소
-### Objective Lens
-**고 numerical aperture 필요**:
-- 일반적으로 NA > 1.4
-- Oil-immersion objective
-- TIRF-specific objectives
-### Illumination System
-**Laser 요구사항**:
-- 안정적인 laser source
-- 적절한 파장
-- 균일한 조명
-
-## 기술적 발전
-### Improved Illumination
-**다양한 조명 방식**:
-- Through-the-objective TIRF
-- Prism-based TIRF
-- Variable angle TIRF
-### Multi-color TIRF
-**동시 다중 색상**:
-- 여러 형광 단백질 동시 관찰
-- Protein-protein interactions
-- Complex dynamics
-### Super-resolution TIRF
-**TIRF와 superresolution 결합**:
-- [[FRET|PALM]]/STORM과 조합
-- 표면에서 nanometer resolution
-- Single-molecule localization
 
 ## 생물학적 응용 예시
 ### Membrane Protein Trafficking

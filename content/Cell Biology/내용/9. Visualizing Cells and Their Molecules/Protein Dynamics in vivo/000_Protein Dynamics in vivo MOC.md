@@ -126,7 +126,7 @@
 ### Microscopy 기술들
 이러한 protein dynamics 연구는 다양한 현미경 기술과 결합:
 - [[Confocal Microscope]]: 3D imaging, optical sectioning
-- [[Total Internal Reflection Fluorescence Microscopy]]: 표면 근처 단일 분자
+- [[Total Internal Reflection Fluorescence Microscopy(TIRF)]]: 표면 근처 단일 분자
 - [[Structured Illumination Microscopy]]: 향상된 resolution
 - [[Stimulated Emission Depletion]]: Superresolution
 

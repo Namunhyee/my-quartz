@@ -49,7 +49,7 @@
 ### GFP의 구조
 
 #### Figure 9-16: Green Fluorescent Protein (GFP)
-![[Chapter 9.pdf#page=11&selection=109,0,109,11|h-35%]]
+![[Pasted image 20260305162204.png]]
 
 **(A) GFP의 구조적 특징**
 - 개략적 구조도
@@ -83,15 +83,12 @@
 2. **흡수 및 방출 스펙트럼** 변경
 
 ### 색상 범위의 확장
-
 **청록색 계열**:
 - Blue-green spectrum
 - **Blue Fluorescent Protein (BFP)**
-
 **적색 계열**:
 - Far visible red spectrum
 - **Red Fluorescent Protein (RFP)**
-
 **추가 발견**:
 - 산호 등에서 관련 형광 단백질 발견
 - Red region으로 범위 추가 확장
@@ -101,18 +98,15 @@
 ### 1. Reporter Molecule로서의 사용
 
 #### 기본 원리
-
 **방법**:
 - GFP-coding sequence를 관심 유전자의 promoter의 transcriptional control 하에 배치
 - Transgenic organism 생성
-
 **효과**:
-- 살아있는 생물에서 유전자의 expression pattern을 직접 시각적으로 확인 가능
+- 살아있는 생물에서 유전자의 expression pattern을 직접 시각적으로 확인 가능.
+- 특정 promoter 아래 유전자가 발현 됐는지 여부를 판별 가능(단백질에 gfp가 연결된 건 아님. 독립적 단백질임)
 
-#### Figure 9-17: Reporter Molecules로서의 Fluorescent Proteins
-![[Chapter 9.pdf#page=12&selection=48,0,48,12|h-70%]]
+#### Figure 9-17: Reporter Molecules로서의 Fluorescent Proteins![[Cell Biology/출처/md converted/Chapter 9/_page_11_Picture_2.jpeg]]
 **(A) 초파리 실험 예시**
-
 **실험 설계**:
 - Recombinant DNA techniques 사용
 - GFP 유전자를 초파리 promoter에 연결
@@ -128,7 +122,6 @@
   - 즉각적인 환경 감지 가능
 
 **(B) 다중 형광 단백질 변이형**
-
 **실험 방법**:
 - 세 가지 형광 단백질 사용: red, yellow, cyan
 - 살아있는 초파리 배아의 neurons에서 무작위 발현
@@ -150,7 +143,7 @@
 #### Peptide Location Signal 추가
 
 **방법**:
-- GFP에 peptide location signal 추가
+- GFP에 [[Sorting Signal#Signal Sequences의 예시|peptide location signal]] 추가
 - 특정 세포 compartment로 directing
 
 **표적 예시**:
@@ -171,7 +164,7 @@
 **결과물**:
 - **Chimeric product(키메라 산물)** 생성
 - 원래 단백질 + 새로운 GFP domain 부착
-![[Ch9.pdf#page=18]]
+![[Pasted image 20260305172013.png]]
 #### 기능적 특성
 
 **대부분의 경우**:
@@ -208,7 +201,7 @@
 
 ### 최고의 방법론
 
-**GFP tagging은**:
+**GFP tagging은** 단백질에 GFP domain을 붙인 <font color="#ff0000">GFP fusion protein</font>을 만드는 방법
 - 살아있는 생물에서 단백질의 **distribution(분포)** 표시하는 가장 명확한 방법
 - 살아있는 생물에서 단백질의 **dynamics(역학)** 표시하는 가장 명백한 방법
 - 가장 확실한 (most unequivocal) 방법
@@ -216,7 +209,6 @@
 **참고 자료**: Movie 16.8
 
 ### 주요 장점
-
 1. **비침습적**
    - 외부 분자 도입 불필요
    - 세포의 자연스러운 과정 이용
@@ -263,9 +255,10 @@ GFP와 그 변이형들은 다음 장에서 설명될 추가 기술들에 활용
    - 유전자 발현 패턴 시각화
    - 살아있는 생물에서 실시간 관찰
 
-3. **Fusion proteins**
+1. **Fusion proteins**
    - 단백질 위치와 dynamics 추적
    - 기능적 동등성 유지
+   - GFP tagging 기술의 결과물.
 
 ### 영향
 

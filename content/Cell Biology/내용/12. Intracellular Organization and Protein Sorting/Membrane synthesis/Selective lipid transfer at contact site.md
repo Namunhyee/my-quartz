@@ -68,10 +68,10 @@ ER과 mitochondria 사이의 contact site는 MAM (mitochondria-associated ER mem
 ### Lipid Transfer의 중요성
 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondria_MOC|Mitochondria]]는 자체 genome을 가지고 있지만, lipid 합성 능력이 제한적이다. 따라서 ER로부터 lipid를 수입해야 한다:
 
-#### [[Phospholipid#주요 Glycerophospholipid|Phosphatidylcholine]] Transfer
+#### Phosphatidylcholine Transfer
 특정 lipid transfer protein이 phosphatidylcholine을 ER에서 mitochondria로 전달한다. Phosphatidylcholine은 mitochondrial membrane의 주요 구성 성분이다.
 
-#### [[Phospholipid#주요 Glycerophospholipid|Phosphatidylserine]] Transfer
+#### Phosphatidylserine Transfer
 다른 lipid transfer protein이 phosphatidylserine을 ER에서 mitochondria로 전달한다. Mitochondria에서 phosphatidylserine은 phosphatidylethanolamine으로 전환된다.
 
 #### Bidirectional Transfer

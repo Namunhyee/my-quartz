@@ -1,7 +1,7 @@
 # PALM/STORM
 
 ## 개요
-PALM (Photoactivated Localization Microscopy)과 STORM (Stochastic Optical Reconstruction Microscopy)은 [[Cell Biology/내용/9. Visualizing Cells and Their Molecules/# SMLM (Single-Molecule Localization Microscopy)]]의 두 가지 주요 방법으로, 동일한 일반 원리를 공유하지만 서로 다른 형광 probes를 사용한다. 두 방법 모두 약 20 nm의 resolution을 달성할 수 있다.
+PALM (Photoactivated Localization Microscopy)과 STORM (Stochastic Optical Reconstruction Microscopy)은 [[SMLM (Single-Molecule Localization Microscopy)]]의 두 가지 주요 방법으로, 동일한 일반 원리를 공유하지만 서로 다른 형광 probes를 사용한다. 두 방법 모두 약 20 nm의 resolution을 달성할 수 있다.
 
 ## PALM과 STORM의 차이
 
@@ -218,4 +218,4 @@ PALM (Photoactivated Localization Microscopy)과 STORM (Stochastic Optical Recon
 ---
 
 ## 참고 문헌
-Chapter 9: Visualizing Cells and Their Molecules, Section: "Single-Molecule Localization Microscopy Also Delivers Superresolution", Related Figures: 9-33, Related concepts: [[Cell Biology/내용/9. Visualizing Cells and Their Molecules/SMLM (Single-Molecule Localization Microscopy)]], [[deconvolution]], [[Structured Illumination Microscopy]], [[Stimulated Emission Depletion]]
+Chapter 9: Visualizing Cells and Their Molecules, Section: "Single-Molecule Localization Microscopy Also Delivers Superresolution", Related Figures: 9-33, Related concepts: [[SMLM (Single-Molecule Localization Microscopy)]], [[deconvolution]], [[Structured Illumination Microscopy]], [[Stimulated Emission Depletion]]

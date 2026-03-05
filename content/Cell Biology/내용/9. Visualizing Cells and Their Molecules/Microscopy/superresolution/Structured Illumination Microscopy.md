@@ -1,7 +1,7 @@
 # Structured Illumination Microscopy (SIM)
 
 ## 개요
-[[diffraction limit|회절 한계]]를 극복하는 첫 번째 **superresolution** 접근법으로, 약 100 nm의 resolution을 가진 [[000_Fluorescence Microscopy(형광현미경)#Fluorescent dyes(형광염료)|fluorescence imaging]] 방법이다. 이는 conventional bright-field microscopy의 약 2배 resolution에 해당한다.
+[[diffraction limit|회절 한계]]를 극복하는 첫 번째 **superresolution** 접근법으로, 약 100 nm의 resolution을 가진 [[000_Fluorescence Microscopy(형광현미경)#Fluorescent dyes(형광염료)|fluorescence imaging]] 방법이다. 이는 conventional bright-field microscopy의 약 2배 resolution에 해당한다. 광학현미경에 속함.
 
 ## 회절 한계의 극복
 [[optical microscope|Light microscopy]]의 변형들은 모두 classic [[diffraction limit]]에 의해 제약받아 약 0.2 μm(200 nm)까지만 분해능을 가진다(Figure 9-5 참조). 그러나 여러 접근법들이 빛의 회절로 인한 한계를 우회하며, 일부는 10 nm 정도의 작은 객체까지 성공적으로 분해할 수 있어 20배의 놀라운 개선을 이뤘다.
@@ -12,9 +12,9 @@
 SIM은 grated 또는 structured pattern의 빛으로 sample을 조명하여 회절 한계를 극복한다. Microscope의 물리적 설정과 작동은 상당히 복잡하지만, 일반적인 원리는 **moiré pattern**(모아레 패턴) 생성과 유사하게 생각할 수 있다.
 
 ### Moiré Pattern(모아레 패턴)
-Moiré pattern은 서로 다른 각도나 mesh 크기를 가진 두 grids를 겹쳐 만든 interference pattern이다. 조명 grid와 sample features가 결합되어 interference pattern을 만들며, 여기서 grid spacing보다 작은 features가 더 큰 patterns로 변환된다.
+Moiré pattern은 서로 다른 각도나 mesh 크기를 가진 두 grids를 겹쳐 만든 interference pattern이다. 조명 grid와 sample features가 결합되어 interference pattern을 만들며, <mark style="background:#fff88f">여기서 grid spacing보다 작은 features가 더 큰 patterns로 변환된다</mark>.
 
-## Figure 9-27: Structured Illumination Microscopy 원리
+## <mark style="background:#fff88f">Figure 9-27: Structured Illumination Microscopy 원리</mark>
 ![[_page_18_Figure_2.jpeg]]
 
 **(A) 미지의 구조로부터의 pattern**: 원래 구조의 pattern을 보여줌

@@ -3,13 +3,14 @@
 ## 개요
 
 Confocal microscope(공초점 현미경)는 [[deconvolution]]과 유사한 결과를 얻지만, 측정 전에 빛을 조작하는 방식으로 작동한다. 이는 디지털 기술이 아닌 <mark style="background:#fff88f">아날로그 기술</mark>이다. Confocal microscope의 광학적 세부사항은 복잡하지만, 기본 개념은 단순하며(Figure 9-24 참조), 그 결과는 기존 광학 현미경보다 훨씬 우수하다.
+<mark style="background:#fff88f">150μm 깊이까지만 이미지를 얻을 수 있음.</mark>
 
 ## 작동 원리
 
 ### 기본 구성
 
 Confocal microscope는 일반적으로 fluorescence optics(형광 광학계)와 함께 사용된다(Figure 9-10C 참조). 그러나 일반적인 방식처럼 전체 표본을 한 번에 조명하는 대신, 광학 시스템은 순간적으로 표본 내 특정 깊이의 단일 지점에 빛의 점을 집속한다.
-![[Chapter 9.pdf#page=17&selection=65,0,65,11|h-30%]]
+![[_page_16_Picture_2.jpeg]]
 ### Pinpoint Illumination(점 조명)
 
 - **광원**: 일반적으로 pinhole(핀홀)을 통과한 laser 빛으로 제공
@@ -64,6 +65,7 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 - **빠른 결과**: 최종 optical sections을 빠르게 볼 수 있음
 
 ### Deconvolution의 장점
+(강의노트상 표기. 실제론 'image deconvolution';computational approach)
 - **Photon 수집 효율**: Deconvolution systems에 사용되는 CMOS cameras는 방출되는 거의 모든 photon을 수집하는 데 매우 효율적
 - **약한 표본에 적합**: 너무 약하게 염색되었거나 confocal microscopy에 사용되는 밝은 빛으로 쉽게 손상되는 표본에서 상세한 three-dimensional images를 만드는 데 사용 가능
 
@@ -72,7 +74,7 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 ### 두께 제한
 두 방법 모두 매우 두꺼운 표본을 다루는 데 한계가 있다:
 - **Deconvolution methods**: 표본 깊이 약 40 μm 이상에서는 빠르게 효과가 떨어짐
-- <mark style="background:#fff88f">**Confocal microscopes**: 최대 약 150 μm 깊이까지만 이미지를 얻을 수 있음[^기출_중간_2023_13]</mark>
+- <mark style="background:#fff88f">**Confocal microscopes**: 최대 약 150 μm 깊이까지만 이미지를 얻을 수 있음</mark>[^기출_중간_2023_13]
 
 ## ➡Multiphoton Microscopy가 대안![[Multiphoton Microscopy|h-50%]]
 
@@ -82,9 +84,7 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 ## Figure 설명
 
 ### Figure 9-24: Confocal Fluorescence Microscope
-
-> [!scheme] Fig. 9-24
-![[Chapter 9.pdf#page=17&selection=65,0,65,11|h-30%]]
+![[_page_16_Picture_2.jpeg]]
 
 **(A) 기본 구성도**
 - Standard fluorescence microscope(Figure 9-10C 참조)와 유사한 광학 구성요소의 기본 배열
@@ -103,30 +103,6 @@ Confocal microscope는 다음과 같은 다양한 구조 해상에 사용되어 
 **(D) 상업용 버전**
 - Laser scanning confocal microscopes의 상업용 버전은 upright 및 inverted microscopes 모두에 구성 가능
 - 표준 upright confocal microscope를 보여줌
-
-### Figure 9-25: Confocal Fluorescence Microscopy의 3D 데이터
-
-**(A) *Utricularia gibba* 포획기**
-- 육식성 수생 식물의 정교한 컵 모양 trap
-- Cell walls용 fluorescent label을 사용한 452개의 개별 confocal images stack을 조합하여 이미지 제작
-
-**(B) 3D 재구성**
-- Optical sections의 stack에서 객체 재구성 가능
-- 단일 살아있는 yeast cell의 mitochondrial compartment의 복잡한 분기 구조
-- 훨씬 다른 규모에서의 예시
-
-### Figure 9-26: Multiphoton Imaging
-
-살아있는 마우스 뇌 피질 내부 거의 0.5 mm를 볼 수 있다:
-- **기술**: Two-photon effect
-  - Fluorochrome이 single high-energy photon 대신 두 개의 coincident infrared photons로 여기될 수 있음
-- **사용된 염료**: Calcium 농도에 따라 형광이 변하는 dye
-- **관찰 내용**: 
-  - Dendritic spines(빨간색)의 active synapses(노란색) 표시
-  - 시간의 함수로 변화 (각 이미지 사이에 하루 간격)
-- **장점**:
-  - Infrared laser light가 visible light보다 살아있는 세포에 덜 손상
-  - 더 깊이 침투하여 현미경 관찰자가 살아있는 조직 내부를 더 깊이 들여다볼 수 있음
 
 ---
 

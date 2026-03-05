@@ -1,6 +1,12 @@
-![[Ch9.pdf#page=11&selection=0,0,7,3|Ch9, 페이지 11]]
-
-# 1.번역
+![[_page_7_Figure_7.jpeg]]
+## Filters와 mirror
+1. Exitation filter
+	- 450~490nm 필터 통과
+2. beam-splitting mirror
+	- 510nm 보다 짧은 파장(파란 빛) 반사
+	- 510nm 보다 긴 파장(형광 emmision) 통과
+3. second barrier filter
+	-  520~560nm(형광 emmision) 필터 통과
 
 ##  [[Chapter 9.pdf#page=7&selection=10,0,10,64|특정 분자들은 형광현미경(Fluorescence Microscopy)으로 세포 내에서 위치를 확인할 수 있다]]
 
@@ -9,24 +15,19 @@
 세포 염색에 사용되는 형광 염료는 형광현미경(fluorescence microscope)으로 관찰된다. 이 현미경은 일반적인 정립(upright) 또는 도립(inverted) 광학현미경(light microscope)과 유사하지만, 매우 강력한 광원에서 나오는 조명광이 두 세트의 필터를 통과한다는 점이 다르다 - 하나는 시편에 도달하기 전에 빛을 필터링하고, 다른 하나는 시편에서 얻은 빛을 필터링한다. 첫 번째 필터는 특정 형광 염료를 여기(excite)시키는 파장만 통과시키고, 두 번째 필터는 이 빛을 차단하고 염료가 형광을 발할 때 방출되는 파장만 통과시킨다 (그림 9-10C).
 
 
-> [!scheme] 작동원리
-> ![[Chapter 9.pdf#page=8&selection=101,0,101,11|h-40%]]
-> ## Figure 9-10 형광과 형광현미경(Fluorescence and the Fluorescence Microscope)
+
+> ![[_page_7_Figure_7.jpeg]]
+> 
+>## Figure 9-10 형광과 형광현미경(Fluorescence and the Fluorescence Microscope)
 **(A)** 형광색소(fluorochrome) 분자의 궤도 전자(orbital electron)는 광자(photon)의 흡수 후 여기 상태(excited state)로 올라갈 수 있다. 형광(fluorescence)은 전자가 바닥 상태(ground state)로 돌아가면서 더 긴 파장의 광자를 방출할 때 발생한다. 빛에 너무 많이 노출되거나 너무 밝은 빛은 광표백(photobleaching)이라는 과정에서 형광색소 분자를 파괴할 수 있다.
 **(B)** 일반적인 형광 염료인 플루오레세인 이소티오시아네이트(fluorescein isothiocyanate, FITC)의 여기 및 방출 스펙트럼(excitation and emission spectra).
-**(C)** 형광현미경에서 필터 세트(filter set)는 두 개의 차단 필터(barrier filters) (1과 3)와 하나의 이색성(dichroic) (빔 분할, beam-splitting) 거울(mirror) (2)로 구성된다. 이 예시는 형광 분자 플루오레세인 검출을 위한 필터 세트를 보여준다. 고개구수(high-numerical-aperture) 대물렌즈(objective lenses)는 이 유형의 현미경에서 특히 중요한데, 주어진 배율(magnification)에 대해 형광 이미지의 밝기(brightness)가 개구수(numerical aperture)의 4제곱에 비례하기 때문이다 (그림 9-5 참조).
+**(C)** <mark style="background:#fff88f">형광현미경에서 필터 세트(filter set)는 두 개의 차단 필터(barrier filters) (1과 3)와 하나의 이색성(dichroic) (빔 분할, beam-splitting) 거울(mirror) (2)로 구성된다. </mark>이 예시는 형광 분자 플루오레세인 검출을 위한 필터 세트를 보여준다. 고개구수(high-numerical-aperture) 대물렌즈(objective lenses)는 이 유형의 현미경에서 특히 중요한데, 주어진 배율(magnification)에 대해 형광 이미지의 밝기(brightness)가 개구수(numerical aperture)의 4제곱에 비례하기 때문이다 (그림 9-5 참조).
 
 
-> [!scheme] The maximum excitation and emission wavelengths of commonly used fluorescent probes
-> ![[Chapter 9.pdf#page=9&selection=133,0,133,30|h-40%]]
+
+> ![[_page_8_Figure_7.jpeg]]
 > ## Figure 9–12 형광 프로브.
->  일반적으로 사용되는 여러 형광 프로브의 최대 여기 및 방출 파장이 스펙트럼의 해당 색상과 관련하여 표시되어 있다. 형광 분자에서 방출되는 광자는 필연적으로 흡수된 광자보다 에너지가 낮으며(파장이 길며), 이것이 여기 피크와 방출 피크 사이의 차이를 설명한다. CFP, GFP, YFP, RFP는 각각 청록색, 녹색, 황색, 적색 형광 단백질이다. DAPI는 자외선을 흡수하고 밝은 파란색으로 형광을 내는 일반적인 형광 DNA 프로브로 널리 사용된다. FITC는 fluorescein isothiocyanate의 약어로—밝은 녹색으로 형광을 내는 fluorescein의 널리 사용되는 유도체이다. 다른 프로브들은 모두 항체 및 기타 단백질을 형광 표지하는 데 일반적으로 사용된다. 여기에는 실제 형광 방출 색상이 표시되어 있지만, 현미경에서 보이는 실제 색상은 사용되는 두 번째 차단 필터에 따라 달라지며(그림 9–10 참조), 이러한 필터는 일반적으로 동일한 시료에서 가능한 한 많은 서로 다른 비중첩 색상 프로브를 볼 수 있도록 최적화된다. 따라서 YFP는 녹색 스펙트럼에서 방출되지만, 사용된 필터 때문에 현미경에서는 실제로 황록색으로 나타난다. 형광 단백질의 사용에 대해서는 이 장의 뒷부분에서 논의될 것이다.
-
-
-
-
-
-
+>  일반적으로 사용되는 여러 형광 프로브의 최대 여기 및 방출 파장이 스펙트럼의 해당 색상과 관련하여 표시되어 있다. 형광 분자에서 방출되는 광자는 필연적으로 흡수된 광자보다 에너지가 낮으며(파장이 길며), 이것이 여기 피크와 방출 피크 사이의 차이를 설명한다. <mark style="background:#fff88f">CFP, GFP, YFP, RFP는 각각 청록색, 녹색, 황색, 적색 형광 단백질이다.</mark> DAPI는 자외선을 흡수하고 밝은 파란색으로 형광을 내는 일반적인 형광 DNA 프로브로 널리 사용된다. FITC는 fluorescein isothiocyanate의 약어로—밝은 녹색으로 형광을 내는 fluorescein의 널리 사용되는 유도체이다. 다른 프로브들은 모두 항체 및 기타 단백질을 형광 표지하는 데 일반적으로 사용된다. 여기에는 실제 형광 방출 색상이 표시되어 있지만, 현미경에서 보이는 실제 색상은 사용되는 두 번째 차단 필터에 따라 달라지며(그림 9–10 참조), 이러한 필터는 일반적으로 동일한 시료에서 가능한 한 많은 서로 다른 비중첩 색상 프로브를 볼 수 있도록 최적화된다. 따라서 YFP는 녹색 스펙트럼에서 방출되지만, 사용된 필터 때문에 현미경에서는 실제로 황록색으로 나타난다. 형광 단백질의 사용에 대해서는 이 장의 뒷부분에서 논의될 것이다.
 
 형광현미경은 세포와 조직(tissues)에서 특정 단백질(proteins)이나 다른 분자들을 검출하는 데 가장 자주 사용된다. 예를 들어, 형광 뉴클레오타이드 프로브(fluorescent nucleotide probes)를 사용할 때, 앞서 논의된 제자리 혼성화(in situ hybridization)(그림 8-63 참조)는 절편 재료(sectioned material)나 작은 생물체, 기관 또는 세포의 전체 표본(whole mounts)에서 특정 발현된 RNA 분자의 세포 내 분포와 풍부도를 밝혀낼 수 있다 (그림 9-11).
 

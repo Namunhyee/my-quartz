@@ -28,6 +28,14 @@ title: 🧬AUSOM 세포생물학 노트
 		- 악플은 노노노노.
 	- 내용에 내부 링크 보완
 	- 족보->내용 링크와 내용->족보 링크 완료
+- 2026/03/05
+	- 9과 
+		- 임베드 형식 자료를 캡쳐 이미지로 수정
+		- 강의노트에 나오는 내용 강조 표시
+		- 새로 나온 내용 [[Cryo EM_Biological Specimen Preparation for Electron Microscopy]] 을 비롯하여 내용 추가/ 수정
+		- 불필요 내용 일부 제거
+		- superresolution 폴더 위치를 한 단계 올림
+		- [[SMLM]]을 superresolution 폴더로 이동
 
 ----
 vault organized by 24 CHAE

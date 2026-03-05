@@ -6,12 +6,12 @@
 
 **기본 원리**:
 - Fluorescent molecules는 일반적으로 방출되는 빛보다 짧은 파장의 single high-energy photon에 의해 여기됨
-- 추가로 두 개(또는 그 이상)의 lower energy photons의 흡수로도 여기 가능
+- 긴 파장의 두 개(또는 그 이상)의 lower energy photons의 흡수로도 여기 가능
 - 단, 두 photons가 femtosecond 이내에 도착해야 함
 
 **장점**:
-1. **Background noise 감소**: Longer-wavelength excitation 사용
-2. **더 깊은 침투**: Red 또는 near-infrared light는 표본 내 더 깊이 침투 가능
+1. **Background noise 감소**: 광자 밀도가 높은 초점지역에서만 의미있는 흡수가 일어나기 때문에 그 <mark style="background:#fff88f">외의 지역은 형광이 발생하지 않음</mark>
+2. **더 깊은 침투**: <mark style="background:#fff88f">Red 또는 near-infrared light는 산란이 덜하고 투과가 좋아 표본 내 더 깊이 침투 가능</mark>
 3. **세포 손상 감소**: Infrared laser light는 visible light보다 살아있는 세포에 덜 손상을 줌[^기출_중간_2021_5]
 
 **성능**:
@@ -20,8 +20,7 @@
 - 특히 살아있는 뇌 표면 바로 아래 synapses와 neurons의 dynamic activity imaging에 유용
 
 ### Figure 9-26: Multiphoton Imaging 예시
-> [!scheme] Multiphoton imaging
-> ![[Chapter 9.pdf#page=18&selection=86,0,86,12|h-20%]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_17_Picture_2.jpeg]]
 
 살아있는 마우스 뇌 피질 내부 거의 0.5 mm까지 볼 수 있다:
 - Calcium 농도에 따라 형광이 변하는 dye 사용
