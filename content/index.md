@@ -35,7 +35,7 @@ title: 🧬AUSOM 세포생물학 노트
 		- 새로 나온 내용 [[Cryo EM_Biological Specimen Preparation for Electron Microscopy]] 을 비롯하여 내용 추가/ 수정
 		- 불필요 내용 일부 제거
 		- superresolution 폴더 위치를 한 단계 올림
-		- [[SMLM]]을 superresolution 폴더로 이동
+		- [[SMLM (Single-Molecule Localization Microscopy)]]을 superresolution 폴더로 이동
 
 ----
 vault organized by 24 CHAE
