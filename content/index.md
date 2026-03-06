@@ -36,6 +36,8 @@ title: 🧬AUSOM 세포생물학 노트
 		- 불필요 내용 일부 제거
 		- superresolution 폴더 위치를 한 단계 올림
 		- [[SMLM (Single-Molecule Localization Microscopy)]]을 superresolution 폴더로 이동
+- 2026/03/06
+	- [[기출문제 모음]] 404 에러 해결
 
 ----
 vault organized by 24 CHAE
