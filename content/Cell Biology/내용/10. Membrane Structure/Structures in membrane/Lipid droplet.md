@@ -59,9 +59,7 @@ Lipid droplet의 표면은 다양한 protein을 포함한다:
 - Monolayer에 embedded되거나 associated됨
 
 ## 형성 메커니즘
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_9_Figure_7.jpeg]]
-
+![[Cell Biology/출처/md converted/Chapter 10/_page_9_Picture_2.jpeg]]
 위 그림은 lipid droplet 형성의 model을 보여준다:
 
 ### 1. Neutral Lipid의 축적

@@ -4,7 +4,7 @@ Lipid anchor는 protein을 membrane에 부착시키는 covalently attached lipid
 
 ## Lipid Anchor의 종류
 
-### 1. Fatty Acid Anchor
+### 1. Fatty Acid Anchor(3번째 것)
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_14_Figure_1.jpeg]]
 
@@ -45,32 +45,23 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 4. Palmitic acid 제거
 5. Kinase가 cytosol로 돌아감
 
-### 2. Prenyl Anchor
+### 2. Prenyl Anchor(3번째 것)
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_14_Figure_1.jpeg]]
 
 **구조:**
 - Prenyl chain (farnesyl 또는 더 긴 geranylgeranyl chain)
-- Thioether linkage를 통해 cysteine residue에 부착[^기출_중간_2023_20][^기출_중간_2022_16]
+- <mark style="background:#fff88f">Thioether linkage를 통해 cysteine residue에 부착</mark>[^기출_중간_2023_20][^기출_중간_2022_16]
 - Cysteine는 처음에 protein의 C-terminus로부터 4번째 residue에 위치
+#### <mark style="background:#fff88f">2주차 형성평가</mark>
+![[_page_1_Figure_25.jpeg]]
+최근 새로 발견된 Gasdermin D (GSDMD)라는 단백질은 세포질 영역 에 존재하고 있다가 특정 효소에 의해 절단된 후 세포막의 음극성 인 지질에 결합해 membrane에 구멍을 만든다. 이 단백질 (GSDMD)이 세포밖으로 나왔을 때 할 수 있는 역할로 타당한 것은? 
+① 세포막에 박혀 경화를 억제시킨다. 
+② 박테리아 세포막의 콜레스테롤에 결합한다. 
+③ 이웃한 세포로 이동하여 세포막에 구멍을 만든다. 
+<mark style="background:#b1ffff">④ 침투해온 박테리아의 세포막 외부에 직접 결합하여 구멍을 만든다. </mark>
+⑤ 침투한 박테리아의 내부로 들어가 음극성 인지질에 결합해 구멍을 만든다.
 
-**Prenylation 과정:**
-1. Prenyl group 부착
-2. Terminal 3개의 amino acid가 cleaved off
-3. 새로운 C-terminus가 methylated됨
-4. Membrane에 anchor 삽입
-
-**예시:**
-- Ras family small GTPase
-- Myristic acid와 prenyl group, palmitic acid의 조합 사용
-- Plasma membrane으로 protein 모집
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_14_Figure_1.jpeg]]
-
-위 그림 (D-F)는 lipid anchor의 구조를 보여준다:
-- (D) Myristoyl anchor: 14-carbon saturated fatty acid chain
-- (E) Palmitoyl anchor: 16-carbon saturated fatty acid chain
-- (F) Farnesyl anchor: 15-carbon unsaturated hydrocarbon chain (3개의 5-carbon isoprenoid repeat으로 구성)
 
 ## GPI Anchor
 
@@ -78,7 +69,7 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_12_Picture_7.jpeg]]
 
-**Glycosylphosphatidylinositol (GPI) anchor:**
+**Glycosylphosphatidylinositol (GPI) anchor:** 8번
 - Protein을 noncytosolic surface에 부착
 - Oligosaccharide linker를 통해
 - Outer monolayer의 phosphatidylinositol에 연결

@@ -1,7 +1,7 @@
 # Structured Illumination Microscopy (SIM)
 
 ## 개요
-[[diffraction limit|회절 한계]]를 극복하는 첫 번째 **superresolution** 접근법으로, 약 100 nm의 resolution을 가진 [[000_Fluorescence Microscopy(형광현미경)#Fluorescent dyes(형광염료)|fluorescence imaging]] 방법이다. 이는 conventional bright-field microscopy의 약 2배 resolution에 해당한다. 광학현미경에 속함.
+[[diffraction limit|회절 한계]]를 극복하는 첫 번째 **superresolution** 접근법으로, 약 100 nm의 resolution을 가진 [[000_Fluorescence Microscopy(형광현미경)#Fluorescent dyes(형광염료)|fluorescence imaging]] 방법이다. <mark style="background:#fff88f">이는 conventional bright-field microscopy의 약 2배 resolution에 해당</mark>한다. <mark style="background:#fff88f">광학현미경에 속함</mark>.
 
 ## 회절 한계의 극복
 [[optical microscope|Light microscopy]]의 변형들은 모두 classic [[diffraction limit]]에 의해 제약받아 약 0.2 μm(200 nm)까지만 분해능을 가진다(Figure 9-5 참조). 그러나 여러 접근법들이 빛의 회절로 인한 한계를 우회하며, 일부는 10 nm 정도의 작은 객체까지 성공적으로 분해할 수 있어 20배의 놀라운 개선을 이뤘다.
@@ -28,7 +28,7 @@ Moiré pattern은 서로 다른 각도나 mesh 크기를 가진 두 grids를 겹
 ### Image Acquisition
 Classical limit을 넘어서는 원래 features가 optical system에 의해 imaging될 수 있도록 변환됨. Computer image processing은 이들을 classical limit의 2배까지 resolution을 가진 이미지로 복원할 수 있다.
 
-### Grid Illumination 과정
+### ~~Grid Illumination 과정~~
 **문제**: Grid의 dark stripes에 있는 sample 부분은 조명되지 않아 imaging되지 않음
 **해결**: Imaging을 여러 번(일반적으로 3번) 반복. 각 이미지 사이에 grid를 grid spacing의 일부만큼 이동시킴
 
@@ -57,23 +57,9 @@ Classical limit을 넘어서는 원래 features가 optical system에 의해 imag
 **(B) 3D SIM Image**: 향상된 resolution으로 각 lateral element(약 100 nm 폭)를 명확히 분해할 수 있으며, 각 개별 쌍의 두 chromosomes가 서로 coil하는 것을 볼 수 있음.
 
 **(C) 색상 추적**: 전체 nucleus에 대한 complete three-dimensional data set이 가능하므로, 각 개별 chromosome 쌍의 경로를 추적하고 인위적으로 다른 색상을 할당할 수 있음.
-
-## SIM의 장점
-1. **광범위한 호환성**: 모든 fluorescent dyes와 proteins 사용 가능
-2. **3D Imaging**: Three-dimensional data sets 생성 가능
-3. **상대적으로 간단**: 다른 superresolution 기술에 비해 구현이 용이
-4. **살아있는 세포**: Living cells에서 사용 가능
-5. **빠른 Imaging**: 비교적 빠른 acquisition time
-
-## SIM의 한계
-1. **제한된 Resolution 향상**: 약 2배만 개선 (200 nm → 100 nm)
-2. **복잡한 Image Processing**: 여러 이미지를 수학적으로 결합해야 함
-3. **광표백**: Multiple acquisitions로 인한 photobleaching 증가
-4. **Artifacts 가능성**: Image processing 과정에서 artifacts 발생 가능
-
 ## 다른 Superresolution 기술과 비교
 **vs [[Confocal Microscope]]**: Confocal은 회절 한계 내(200 nm), SIM은 약 100 nm resolution
-**vs [[Stimulated Emission Depletion|STED]]**: STED는 약 20 nm resolution 가능하지만 특수한 photoswitchable probes 필요
+**vs [[STED(Stimulated Emission Depletion)|STED]]**: STED는 약 20 nm resolution 가능하지만 특수한 photoswitchable probes 필요
 **vs PALM/STORM**: 이들도 약 20 nm resolution이지만 더 긴 acquisition time과 특수 probes 필요
 
 ## 응용 분야

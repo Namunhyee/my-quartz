@@ -1,6 +1,6 @@
 # [[Nucleus]]
 contains genome; site of DNA and RNA synthesis
-# [[Cytoplasm]]
+# [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Membrane-enclosed Organelles/Cytoplasm]]
  - Cytosol ~50% of cell volume 
  - Protein synthesis and degradation
  - Small molecule degradation

@@ -1,42 +1,23 @@
 # Fluorescent Protein Tagging in Living Cells
 
-## 개요
-
-세포 구조는 생명 주기 동안 끊임없이 변화한다. 가장 안정적인 구조조차도 조립, 분해, 재조직화되어야 하며, 다른 구조들은 분자 규모에서 빠르게 변화, 이동, 재조직화된다. 복잡하고 고도로 조직화된 분자 기계들이 세포의 구성 요소들을 이동시키며, 핵 안팎, 세포소기관 간, 그리고 세포 안팎의 이동을 제어한다.
-
 ## Fluorescent Proteins의 변화
 
 ### 기존 방식의 한계
-
 **지금까지 논의된 모든 형광 분자들**:
 - 세포 외부에서 만들어짐
 - 인위적으로 세포 내로 도입되어야 함
 
 ### 새로운 패러다임
-
 **본질적으로 형광을 띠는 단백질 분자를 암호화하는 유전자 사용**:
 - 외부 분자 도입 없이 자체 가시적 tags와 labels 생성
 - 생물과 세포주가 스스로 만드는 표지
 - 이러한 "cellular exhibitionists(세포 전시자)"는 빛나는 형광색으로 내부 작용을 표시
-
-## Green Fluorescent Protein (GFP)
-
-### 발견 및 기원
-
-**출처**: 
-- 해파리 *Aequorea victoria*에서 분리
-- 세포 생물학자들이 사용하는 가장 중요한 형광 단백질
-
-**유전적 특성**:
-- 단일 유전자로 암호화
-- Cloning하여 다른 종의 세포에 도입 가능
 
 ### 형광 발현 메커니즘
 
 #### 초기 단계
 **번역 직후**:
 - 새로 번역된 단백질은 형광을 띠지 않음
-
 #### 성숙 과정
 **시간**: 약 1시간 이내 (일부 alleles는 더 짧거나 길 수 있음)
 
@@ -46,7 +27,7 @@
 3. Barrel-like protein(통 모양 단백질) 내부에 보호됨[^기출_중간_2022_6]
 4. 청색광으로 적절히 조명하면 녹색으로 형광 발광[^기출_중간_2023_6]
 
-### GFP의 구조
+### ~~GFP의 구조~~
 
 #### Figure 9-16: Green Fluorescent Protein (GFP)
 ![[Pasted image 20260305162204.png]]
@@ -65,33 +46,6 @@
 - 일련의 **autocatalytic steps(자가 촉매 단계)**를 거침
 - **Mature GFP fluorophore(성숙한 GFP 발색단)** 생성[^기출_중간_2021_6]
 
-## GFP 변이형 개발
-
-### Site-directed Mutagenesis
-
-원래 유전자 서열에 대한 광범위한 site-directed mutagenesis 수행:
-
-**결과**:
-- 다양한 생물에서 효과적으로 사용 가능한 multiple variants 생성
-  - 동물 (Animals)
-  - 식물 (Plants)
-  - 곰팡이 (Fungi)
-  - 미생물 (Microbes)
-
-**개선 사항**:
-1. **Fluorescence efficiency(형광 효율)** 향상
-2. **흡수 및 방출 스펙트럼** 변경
-
-### 색상 범위의 확장
-**청록색 계열**:
-- Blue-green spectrum
-- **Blue Fluorescent Protein (BFP)**
-**적색 계열**:
-- Far visible red spectrum
-- **Red Fluorescent Protein (RFP)**
-**추가 발견**:
-- 산호 등에서 관련 형광 단백질 발견
-- Red region으로 범위 추가 확장
 
 ## GFP의 주요 응용
 
@@ -106,38 +60,14 @@
 - 특정 promoter 아래 유전자가 발현 됐는지 여부를 판별 가능(단백질에 gfp가 연결된 건 아님. 독립적 단백질임)
 
 #### Figure 9-17: Reporter Molecules로서의 Fluorescent Proteins![[Cell Biology/출처/md converted/Chapter 9/_page_11_Picture_2.jpeg]]
-**(A) 초파리 실험 예시**
+<mark style="background:#fff88f">(A) 초파리 실험 예시</mark>
 **실험 설계**:
 - Recombinant DNA techniques 사용
-- GFP 유전자를 초파리 promoter에 연결
+- <mark style="background:#fff88f">GFP 유전자를 초파리 promoter에 연결</mark>
 - 특수한 neurons 세트에서만 활성화되는 promoter 사용
-
-**관찰 결과**:
-- 살아있는 초파리 배아의 형광 현미경 이미지
-- **약 20개의 neurons** 표시
-- 각 neuron의 특징:
-  - 긴 projections (axons와 dendrites) 보유
-  - 다른 (비형광) 세포들과 통신
-  - 동물 표면 바로 아래에 위치
-  - 즉각적인 환경 감지 가능
-
-**(B) 다중 형광 단백질 변이형**
-**실험 방법**:
-- 세 가지 형광 단백질 사용: red, yellow, cyan
-- 살아있는 초파리 배아의 neurons에서 무작위 발현
-- **Genetic constructs 배열**:
-  - 강한 청색광 펄스가 세 형광 단백질 중 하나를 neuronal cells에서 무작위로 활성화
-  - Plasma membrane으로 targeting
-
-**장점**:
-- **비침습적 세포 라벨링 타이밍 제어**
-- 시간 경과에 따라 개별 세포 행동 추적 가능
-- 개별 감각 neurons의 모든 dendrites 세밀한 디테일 명확히 표시
-
-**추가 관찰**:
-- 창백한 점들의 선: cuticle의 denticles 띠의 autofluorescence
-- 배아의 segments를 정의 (Figure 21-24 참조)
-
+![[Pasted image 20260312165002.png]]
+**수업내용(?)** : 엽록소 빨간색 염색
+녹색 형광 염색은 mitochondrian protein에 붙은 gfp
 ### 2. Organelle Targeting
 
 #### Peptide Location Signal 추가
@@ -165,7 +95,7 @@
 - **Chimeric product(키메라 산물)** 생성
 - 원래 단백질 + 새로운 GFP domain 부착
 ![[Pasted image 20260305172013.png]]
-#### 기능적 특성
+#### <mark style="background:#fff88f">기능적 특성</mark>
 
 **대부분의 경우**:
 - GFP fusion protein이 원래 단백질과 **동일한 방식으로 작동**
@@ -174,39 +104,14 @@
   - 활동 (Activities) 직접 표시
 
 **기능적 동등성 증명**:
-- GFP fusion protein이 untagged protein과 기능적으로 동등함을 증명 가능
+- <mark style="background:#fff88f">GFP fusion protein이 untagged protein과 기능적으로 동등함을 증명해야함.</mark>
 - **방법 예시**: 해당 단백질이 결핍된 mutant를 rescue하는 데 사용
-
-#### Figure 9-18: GFP-tagged Proteins
->[!multi-column]
->>[!blank-container] 
->>![[Cell Biology/출처/md converted/Chapter 9/_page_11_Picture_7.jpeg]]
->
->>[!blank-container] 
->>**실험 예시: EB3 단백질**
->> **시스템**:
->> 
->> - 배양된 포유류 세포
->> - **EB3 발현**: plus-end tracking protein
->>- **GFP-derived blue fluorescent protein (BFP)**에 융합
- >> **EB3의 특성**:
->>- 성장하는 microtubules의 plus ends와 결합
->>- Figure 16-49 참조
->>
->> **관찰 결과**:
->> - Dynamics를 실시간 추적 가능
->> - 세포 주변을 밝게 빠르게 이동하는 것처럼 보임 ("zoom brightly around the cell")
-
 ## GFP Tagging의 의의
 
-### 최고의 방법론
-
 **GFP tagging은** 단백질에 GFP domain을 붙인 <font color="#ff0000">GFP fusion protein</font>을 만드는 방법
-- 살아있는 생물에서 단백질의 **distribution(분포)** 표시하는 가장 명확한 방법
+- <mark style="background:#fff88f">살아있는 생물</mark>에서 단백질의 **distribution(분포)** 표시하는 가장 명확한 방법
 - 살아있는 생물에서 단백질의 **dynamics(역학)** 표시하는 가장 명백한 방법
 - 가장 확실한 (most unequivocal) 방법
-
-**참고 자료**: Movie 16.8
 
 ### 주요 장점
 1. **비침습적**
@@ -215,7 +120,7 @@
 
 2. **실시간 관찰**
    - 살아있는 세포에서 직접 관찰
-   - 동적 과정 추적 가능
+   - 동적 과정 추적 가능(GFP_fusion)
 
 3. **유전적으로 암호화됨**
    - 안정적 발현
@@ -242,16 +147,10 @@ GFP와 그 변이형들은 다음 장에서 설명될 추가 기술들에 활용
 ### 핵심 개념
 
 **Fluorescent protein tagging**은:
-- 살아있는 세포와 생물에서 개별 단백질을 형광으로 표지하는 혁명적 기술
+- 살아있는 세포와 생물에서 개별 단백질을 형광으로 표지하는기술
 - 외부 염료 도입 없이 유전적으로 암호화된 형광 사용
-
 ### 주요 기술
-
-1. **GFP 및 변이형**
-   - 자가 촉매 형광 발색단 형성
-   - 다양한 색상 스펙트럼
-
-2. **Reporter 시스템**
+1. **Reporter 시스템**
    - 유전자 발현 패턴 시각화
    - 살아있는 생물에서 실시간 관찰
 

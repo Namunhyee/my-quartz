@@ -16,7 +16,7 @@
 
 **핵심 특징**:
 - 거리의 6제곱에 반비례하는 효율 (극도로 민감)
-- [[Fluorescent Proteins(GFP, GFP tagging)#GFP 변이형 개발|GFP 변이형]] 사용
+- [[GFP(Fluorescent Protein Tagging)#GFP 변이형 개발|GFP 변이형]] 사용
 - Ratiometric measurement로 정량화
 - 살아있는 세포 내 실시간 관찰
 
@@ -126,9 +126,9 @@
 ### Microscopy 기술들
 이러한 protein dynamics 연구는 다양한 현미경 기술과 결합:
 - [[Confocal Microscope]]: 3D imaging, optical sectioning
-- [[Total Internal Reflection Fluorescence Microscopy(TIRF)]]: 표면 근처 단일 분자
-- [[Structured Illumination Microscopy]]: 향상된 resolution
-- [[Stimulated Emission Depletion]]: Superresolution
+- [[TIRF(Total Internal Reflection Fluorescence Microscopy)]]: 표면 근처 단일 분자
+- [[SIM(Structured Illumination Microscopy)]]: 향상된 resolution
+- [[STED(Stimulated Emission Depletion)]]: Superresolution
 
 ## 실험 설계 가이드
 
@@ -192,7 +192,7 @@
 - Quantitative phenotyping
 
 ## 요약
-**Protein Dynamics in vivo** 기술들은 살아있는 세포 내에서 단백질의 동적 행동을 실시간으로 관찰하고 정량화할 수 있게 한다. [[FRET]]는 분자 간 상호작용과 거리를, [[FRAP]]는 mobility와 kinetics를, [[Photoactivation]]은 trafficking과 localization dynamics를 연구한다. 이들은 모두 [[Fluorescent Proteins(GFP, GFP tagging)|형광 단백질 tagging]] 기술에 기반하며, 현대 세포생물학 연구의 필수 도구다.
+**Protein Dynamics in vivo** 기술들은 살아있는 세포 내에서 단백질의 동적 행동을 실시간으로 관찰하고 정량화할 수 있게 한다. [[FRET]]는 분자 간 상호작용과 거리를, [[FRAP]]는 mobility와 kinetics를, [[Photoactivation]]은 trafficking과 localization dynamics를 연구한다. 이들은 모두 [[GFP(Fluorescent Protein Tagging)|형광 단백질 tagging]] 기술에 기반하며, 현대 세포생물학 연구의 필수 도구다.
 
 ---
 

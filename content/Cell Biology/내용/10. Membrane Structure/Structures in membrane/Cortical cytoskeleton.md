@@ -65,13 +65,6 @@ Cytoskeleton이 membrane에 두 transmembrane protein을 통해 연결:
 2. **Glycophorin (single-pass protein):**
    - Spectrin이 band 4.1 protein을 통해 glycophorin에 결합
    - Band 3에도 결합 (표시 안됨)
-
-**(B) Electron micrograph:**
-- Red blood cell membrane의 cytosolic side에서 cytoskeleton
-- Fixation과 negative staining 후
-- Spectrin meshwork가 의도적으로 stretch되어 구조 detail 확인 가능
-- 정상 세포에서는 이 meshwork가 훨씬 더 crowded되어 표시된 면적의 약 1/10만 차지
-
 ### 최종 구조
 
 **결과:**
@@ -86,7 +79,7 @@ Cytoskeleton이 membrane에 두 transmembrane protein을 통해 연결:
 대부분의 다른 세포에서:
 - Analogous하지만 훨씬 더 elaborate하고 highly dynamic한 cytoskeletal network 존재
 - 세포의 cortex 구성
-- Actin filament가 풍부함
+- [[100_Actin filaments_MOC|Actin filament]]가 풍부함
 - 다양한 방식으로 plasma membrane에 부착
 
 **Cortical cytoskeleton:**

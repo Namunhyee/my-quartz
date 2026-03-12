@@ -2,7 +2,7 @@
 
 ## 개요
 
-FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.[^기출_중간_2022_8]
+FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.[^기출_중간_2022_8]
 
 ## FRAP의 원리
 
@@ -10,10 +10,10 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 
 **Photobleaching(광표백)**:
 - Laser의 강한 집속 빛(strong focused beam of light)을 사용
-- 세포의 특정 영역에서 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)|GFP]] 형광을 소멸(extinguish)시킴
+- 세포의 특정 영역에서 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]] 형광을 소멸(extinguish)시킴
 
 **Recovery(회복) 관찰**:
-- 소멸되지 않은 나머지 형광 단백질 분자들의 이동 분석
+- <mark style="background:#fff88f">소멸되지 않은 나머지 형광 단백질 분자들의 이동</mark> 분석
 - 표백된 영역(bleached area)으로 들어오는 방식을 시간의 함수로 분석
 
 ## 작동 메커니즘
@@ -60,14 +60,14 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 3. 표백된 영역을 채움
 4. 시간의 함수로 회복 추적
 
-### (B) 실험 개략도
+### <mark style="background:#fff88f">(B) 실험 개략도</mark>
 
 **도식적 표현**:
 - (A)에 표시된 실험의 단계별 설명
 - Photobleaching 전, 중, 후의 상태
 - 형광 분자들의 이동 방향 표시
 
-### (C) Fluorescence Recovery Curve
+### <mark style="background:#fff88f">(C) Fluorescence Recovery Curve</mark>
 
 **그래프 분석**:
 - X축: 시간 (time)
@@ -336,6 +336,6 @@ FRAP는 [[Fluorescent Proteins(GFP, GFP tagging)#Green Fluorescent Protein (GFP)
 - Related Figure: 9-20, 24-34
 - Related Movie: Movie 10.6
 - Related techniques: [[FRET]], [[Photoactivation]]
-- Related concept: [[Fluorescent Proteins(GFP, GFP tagging)]]
+- Related concept: [[GFP(Fluorescent Protein Tagging)]]
 
 [^기출_중간_2022_8]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_8번|2022 중간 8번]] — FRAP는 photobleaching 후 형광 회복을 분석하여 분자 집단(population)의 이동성을 측정하며, 단일 분자(single molecule)를 추적하는 방법이 아니라는 점이 정답 근거(선지 ④)로 활용됨.

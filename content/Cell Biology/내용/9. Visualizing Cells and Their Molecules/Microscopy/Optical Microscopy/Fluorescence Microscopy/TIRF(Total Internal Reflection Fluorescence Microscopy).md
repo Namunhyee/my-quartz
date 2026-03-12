@@ -62,7 +62,7 @@
 - Receptor dynamics
 
 ## TIRF의 주요 응용
-### 0. 강의노트 : myosin, actin filament 관찰
+### 0. <mark style="background:#fff88f">강의노트 : myosin, actin filament 관찰</mark>
 ![[Pasted image 20260305203627.png]]
 
 ### 1. Single Motor Proteins
@@ -74,7 +74,7 @@
 - 개별 분자 수준의 관찰
 - 이동 속도와 방향 정밀 측정
 - Step size 측정 가능
-### 2. Membrane Dynamics
+### 2. <mark style="background:#fff88f">Membrane Dynamics</mark>
 **Receptor trafficking**:
 - 세포막에서의 receptor 이동
 - Clustering 형성
@@ -98,9 +98,9 @@
 - Substrate binding/release
 - Catalytic cycles
 ## TIRF의 장점
-### 1. 극도로 낮은 Background
+### <mark style="background:#fff88f">1. 극도로 감소된 Background</mark>
 **최소화된 배경 형광**:
-- Out-of-focus light 거의 완전 제거
+- Out-of-focus light 거의 완전 제거하여 <mark style="background:#fff88f">noise가 거의 없음</mark>
 - 매우 높은 signal-to-noise ratio[^기출_중간_2022_9]
 - Single-molecule detection 가능
 ### 2. 높은 시간 해상도
@@ -108,12 +108,12 @@
 - 낮은 background로 인해 짧은 exposure time
 - 빠른 동적 과정 추적
 - Video rate imaging 가능
-### 3. 광표백 최소화
+### 3. <mark style="background:#fff88f">광표백 최소화</mark>
 **제한된 조명**:
 - 표면 근처 분자들만 조명
 - 세포 내부 형광 단백질 보존
 - 장시간 관찰 가능
-### 4. 광독성 감소
+### 4. <mark style="background:#fff88f">광독성 감소</mark>
 **세포 손상 최소화**:
 - 제한된 영역만 조명
 - 세포 전체에 대한 빛 노출 감소
@@ -124,7 +124,7 @@
 **얕은 침투**:
 - 약 200 nm로 제한
 - 세포 내부 깊은 곳 관찰 불가
-- 표면 현상에만 국한
+- <mark style="background:#fff88f">표면 현상에만 국한</mark>
 ### 2. 특수 장비 필요
 **기술적 요구사항**:
 - 정밀한 각도 제어
@@ -147,17 +147,6 @@
 - 표면만 (200 nm)
 - 더 낮은 background
 - Single-molecule sensitivity
-
-### vs Wide-field Fluorescence
-**Wide-field**:
-- 전체 시편 조명
-- 높은 background
-- 깊이 전체 관찰
-**TIRF**:
-- 표면만 조명
-- 극도로 낮은 background
-- 표면 현상에 특화
-
 ### vs [[FRAP]]
 **공통점**:
 - 살아있는 세포 dynamics 연구
@@ -166,53 +155,6 @@
 - TIRF: 공간 선택성 (표면)
 - FRAP: 시간 선택성 (photobleaching)
 
-
-## 생물학적 응용 예시
-### Membrane Protein Trafficking
-**Receptor dynamics**:
-- EGFR internalization
-- GPCR signaling
-- Ion channel gating
-### Cytoskeletal Dynamics
-**Actin polymerization**:
-- 세포 가장자리에서의 actin dynamics
-- Lamellipodium formation
-- Cell migration
-### Vesicle Fusion
-**Exocytosis**:
-- Synaptic vesicle fusion
-- Hormone secretion
-- Neurotransmitter release
-### Cell Adhesion
-**Focal adhesion dynamics**:
-- Integrin clustering
-- Adhesion assembly/disassembly
-- Force generation
-
-## 데이터 분석
-### Single-Molecule Tracking
-**분석 방법**:
-- Particle tracking algorithms
-- Trajectory analysis
-- Diffusion coefficient 계산
-### Quantification
-**측정 가능한 parameters**:
-- Molecule count
-- Dwell time
-- Binding kinetics
-- Diffusion rates
-
-## 요약
-
-**핵심 원리**: Total internal reflection으로 evanescent wave 생성, cover slip 표면 근처(~200 nm)만 조명, 극도로 낮은 background
-
-**주요 특징**: Single-molecule sensitivity, 높은 시간 해상도, 최소 광표백, 표면 현상에 특화
-
-**주요 응용**: Motor proteins imaging, Membrane dynamics, Endocytosis/exocytosis, Cell-substrate interactions, Single-molecule studies
-
-**제한사항**: 깊이 제한(200 nm), 특수 장비 필요, Cover slip 의존성
-
-**생물학적 의의**: Membrane trafficking, Cytoskeletal dynamics, Vesicle fusion, Cell adhesion, Molecular motors
 
 ---
 

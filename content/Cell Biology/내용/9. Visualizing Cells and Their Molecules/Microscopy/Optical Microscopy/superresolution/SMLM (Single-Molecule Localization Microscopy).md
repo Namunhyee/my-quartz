@@ -34,12 +34,12 @@ Single-molecule localization microscopy는 개별 형광 분자의 정확한 위
 
 ### Activation Process
 Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 이는
-#### Isolation
+#### <font color="#0070c0">Isolation</font>
 <mark style="background:#fff88f">작은 subset의 분자들</mark>을 수정하여 다른 파장의 excitation beam에 노출될 때 형광을 내도록 한다. 이들은 switching off하여 형광을 quenching하기 전에 excitation에 반응하여 각각 수천 개의 photons를 방출하며, switching process는 수만 또는 수십만 번까지 반복될 수 있어 
-#### Localization
+#### <font color="#0070c0">Localization</font>
 <mark style="background:#fff88f">단일 분자 세트의 정확한 좌표를 결정할 수 있다.</mark>
 
-### Image Reconstruction
+### <font color="#0070c0">Image Reconstruction</font>
 전체 세트를 결합하여 계산된 <mark style="background:#fff88f">각 개별 분자의 위치가 정확히 표시된 이미지로 디지털 표시</mark>할 수 있다.
 
 ## Figure 9-32: Single-Molecule Localization Microscopy (SMLM)
@@ -54,12 +54,12 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 ### (B) TIRF와 PALM/STORM 비교
 세포의 일부에서 microtubules가 형광으로 표지되어 TIRF microscope(왼쪽)와 superresolution PALM microscope(오른쪽)에서 이미지화됨.
 
-**왼쪽 ([[Total Internal Reflection Fluorescence Microscopy(TIRF)|TIRF]])**: 각 microtubule의 직경이 blurred diffraction-limited image에서 250 nm
-**오른쪽 (PALM)**: 각 microtubule의 직경이 이제 실제 크기인 약 25 nm와 유사함
+**왼쪽 ([[TIRF(Total Internal Reflection Fluorescence Microscopy)|TIRF]])**: 각 microtubule의 직경이 blurred diffraction-limited image에서 250 nm
+**오른쪽 (PALM;SMLM의 한 종류)**: 각 microtubule의 직경이 이제 실제 크기인 약 25 nm와 유사함
 
 ## SMLM의 주요 특징
 
-### 1. 극도로 높은 Resolution
+### 1. <mark style="background:#fff88f">극도로 높은 Resolution</mark>
 **20 nm까지 도달**: Conventional light microscopy의 10배 향상
 **실제 크기 반영**: 25 nm microtubule이 25 nm로 보임 (250 nm가 아님)
 
@@ -85,7 +85,7 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 
 ## 기술적 요구사항
 
-### Photoswitchable Labels
+### <mark style="background:#fff88f">Photoswitchable Labels</mark>
 **다양한 Labels**: 수백 가지 사용 가능
 **세 가지 클래스**: Photoactivated, photoconvertible, photoswitchable
 **높은 Photon Yield**: 분자당 수천 개의 photons 방출
@@ -100,51 +100,15 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 **복잡한 Algorithms**: 분자 위치 계산
 **Image Reconstruction**: 최종 superresolution 이미지 생성
 
-## 응용 분야
-
-### Cytoskeleton
-**Microtubules**: 실제 직경(25 nm) 측정 (Figure 9-32B)
-**Actin Filaments**: Branching patterns, organization
-**Intermediate Filaments**: Network architecture
-
-### Membrane Structures
-**Receptor Clustering**: Nanoscale organization
-**Lipid Domains**: Membrane heterogeneity
-**Protein Complexes**: Stoichiometry와 arrangement
-
-### Nuclear Structures
-**Chromatin Organization**: Nanoscale packaging
-**Nuclear Pores**: Detailed architecture
-**Transcription Sites**: Molecular organization
 
 ## 다른 Superresolution 기술과 비교
-**vs [[Structured Illumination Microscopy]]**: SIM은 더 빠르고(초-분 단위) 모든 dyes 사용 가능하지만 100 nm 제한. SMLM은 20 nm까지 가능하지만 분-시간 단위 소요.
+**vs [[SIM(Structured Illumination Microscopy)]]**: SIM은 더 빠르고(초-분 단위) 모든 dyes 사용 가능하지만 100 nm 제한. SMLM은 20 nm까지 가능하지만 분-시간 단위 소요.
 
-**vs [[Stimulated Emission Depletion]]**: 둘 다 ~20 nm resolution. STED는 point-by-point scanning, SMLM은 wide-field imaging 후 reconstruction.
+**vs [[STED(Stimulated Emission Depletion)]]**: 둘 다 ~20 nm resolution. STED는 point-by-point scanning, SMLM은 wide-field imaging 후 reconstruction.
 
 **vs [[Confocal Microscope]]**: Confocal은 ~200 nm, 빠름, 3D 가능. SMLM은 ~20 nm이지만 느리고 주로 2D (단, 3D 가능한 변형도 있음).
-
-## 데이터 분석
-
-### Localization Precision
-**정확도**: 일반적으로 10-20 nm
-**Photon 의존성**: 더 많은 photons = 더 높은 정확도
-**Background 영향**: 낮은 background가 중요
-
-### Molecule Counting
-**Quantification**: 개별 분자 수 계산
-**Stoichiometry**: Protein complex 조성
-**Clustering Analysis**: 분자들의 spatial organization
-
-## 요약
-**핵심 원리**: 단일 형광 분자의 정확한 위치를 순차적으로 결정하여 [[deconvolution|회절 한계]] 극복, nanometer 정밀도로 superresolution 이미지 구축
-**주요 기술**: Photoswitchable labels의 sequential activation, 각 분자의 수학적 중심 계산, 수만-수십만 위치의 디지털 결합
-**Resolution**: 약 20 nm (실제 분자 크기 반영)
-**장점**: 극도로 높은 resolution, 정확한 위치 정보, 정량적 분석 가능
-**한계**: 긴 acquisition time, 특수 labels 필요, live cell imaging 제약
-**응용**: Cytoskeleton structure, membrane organization, nuclear architecture, protein complex stoichiometry
 
 ---
 
 ## 참고 문헌
-Chapter 9: Visualizing Cells and Their Molecules, Section: "Single-Molecule Localization Microscopy Also Delivers Superresolution", Related Figures: 9-31, 9-32, Related concepts: [[deconvolution]], [[Structured Illumination Microscopy]], [[Stimulated Emission Depletion]], [[Confocal Microscope]]
+Chapter 9: Visualizing Cells and Their Molecules, Section: "Single-Molecule Localization Microscopy Also Delivers Superresolution", Related Figures: 9-31, 9-32, Related concepts: [[deconvolution]], [[SIM(Structured Illumination Microscopy)]], [[STED(Stimulated Emission Depletion)]], [[Confocal Microscope]]

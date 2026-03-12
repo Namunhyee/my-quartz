@@ -32,7 +32,7 @@
 
 2. **Phosphatidylserine**
    - 포유류 plasma membrane의 주요 phospholipid
-   - 유일하게 net negative charge 보유
+   - net negative charge 보유
    - [[Asymmetry of the lipid bilayer]]에서 중요한 역할
 
 3. **Phosphatidylcholine**
@@ -81,6 +81,8 @@ Sterol의 일종으로 동물 세포에서 발견되는 주요 sterol이다:
 Sugar를 포함하는 lipid molecule로 [[Glycolipid]] 노트 참조.
 
 ## Lipid 조성의 다양성
+
+![[Pasted image 20260312213444.png]]
 
 ### 세포막별 차이
 

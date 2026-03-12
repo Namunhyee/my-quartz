@@ -39,11 +39,11 @@ NA: 렌즈의 빛 모음 정도
 전자빔이 이상적인 경로로 집속되지 못해 영상이 왜곡되거나 해상도가 저하되는 현상
 ### 1. 구면수차 (Spherical Aberration)
 - 구면수차는 렌즈 중심을 통과하는 전자와 주변부를 통과하는 전자가 서로 다른 초점에 모이는 현상
-- 전자렌즈의 자기장이 이상적인 포물면 형태가 아니기 때문에 발생 
+- <mark style="background:#fff88f">주변부 전자의 굴절 과다</mark> 때문에 발생 
 - 고해상도 관찰에서 가장 큰 해상도 제한 요인 중 하나로 작용한다.
 ### 2. 색수차 (Chromatic Aberration)
 - 색수차는 에너지가 서로 다른 전자들이 서로 다른 위치에 초점을 형성하는 현상 
-- 전자총에서 발생하는 에너지 분포나 시료 통과 과정에서의 에너지 손실 때문에 발생
+- <mark style="background:#fff88f">전자빔의 에너지 불균일성, 파장의 차이</mark> 때문에 발생
 - 가속 전압의 안정성과 전자 에너지 분산이 중요한 영향을 미친다.
 ## <mark style="background:#fff88f">전자 산란</mark>
 ### 중금속 염색의 의미
@@ -78,23 +78,6 @@ NA: 렌즈의 빛 모음 정도
 - Carbon nanotubes의 기초
 - 육각형 격자 구조의 탄소 원자들
 
-
-## TEM의 장점
-### 1. 매우 높은 Resolution
-**0.05-1 nm**: 생물학적 표본에서 실용적 범위
-**Atomic resolution**: 최적 조건에서 개별 원자 가시화 가능 (Figure 9-39)
-### 2. 광범위한 Magnification
-**범위**: 수천 배에서 수백만 배
-**유연성**: 다양한 크기의 structures 관찰
-### 3. 구조적 세부사항
-**Ultrastructure**: 세포 소기관의 내부 구조
-**Macromolecules**: 대형 분자 복합체
-**Membranes**: Membrane 구조 상세
-### 4. 성숙한 기술
-**잘 확립됨**: 수십 년의 발전
-**표준화**: 준비와 imaging 프로토콜
-**광범위한 응용**: 다양한 생물학적 시스템
-
 ## TEM의 한계
 ### 1. Specimen 제약
 **고정 필요**: 살아있는 세포 관찰 불가
@@ -124,45 +107,7 @@ NA: 렌즈의 빛 모음 정도
 - TEM: Transmission, 내부 구조
 - SEM: Surface scanning, 3D 표면
 
-## 응용 분야
-### 세포 생물학
-**Organelles**: Mitochondria, ER, Golgi의 ultrastructure
-**Cytoskeleton**: Filaments, microtubules의 상세 구조
-**Membranes**: 이중층 구조, membrane junctions
-### 바이러스학
-**Virus structure**: Capsid architecture, envelope
-**Viral assembly**: 조립 중간 단계
-**Host-virus interactions**: 세포 내 바이러스
-### 재료 과학
-**Nanomaterials**: Carbon nanotubes, graphene (Figure 9-39)
-**Crystals**: Crystal structure와 defects
-**Composites**: Material interfaces
-### 병리학
-**Disease diagnosis**: Tissue abnormalities
-**Ultrastructural pathology**: 세포 수준 질병 변화
-**Infectious agents**: Bacteria, viruses 식별
 
-## 기술적 고려사항
-### Accelerating Voltage
-**일반적 범위**: 80-300 kV
-**높은 voltage**: 더 짧은 파장, 더 나은 resolution, 더 깊은 penetration
-**낮은 voltage**: 적은 radiation damage, 생물학적 표본에 적합
-### Specimen Thickness
-**최적**: 50-100 nm for biological specimens
-**너무 두꺼움**: Electron scattering 증가, resolution 감소
-**너무 얇음**: 구조적 맥락 손실
-### Electron Dose
-**Trade-off**: Resolution vs radiation damage
-**Low-dose imaging**: Damage 최소화하지만 noise 증가
-**Cryo-EM**: 매우 낮은 dose 사용 가능
-
-## 요약
-**핵심 원리**: Electron beam을 specimen을 통과시켜 매우 높은 resolution 이미지 생성
-**Resolution**: 약 0.05-1 nm (생물학적 표본), atomic resolution 가능 (최적 조건)
-**설계**: Inverted light microscope와 유사하지만 magnetic lenses와 vacuum 사용
-**주요 장점**: 극도로 높은 resolution, ultrastructure 가시화, 성숙한 기술
-**주요 한계**: 고정 표본만, 복잡한 준비, radiation damage, 2D projection
-**응용**: Cell biology, virology, materials science, pathology
 
 ---
 

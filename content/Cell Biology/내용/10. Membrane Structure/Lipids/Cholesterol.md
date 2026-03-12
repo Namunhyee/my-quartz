@@ -55,7 +55,7 @@ Phospholipid와 섞였을 때:
 3. Bilayer가 이 영역에서 덜 deformable해짐
 4. 결과: Bilayer의 permeability 감소
 
-### 3. Fluidity 조절
+### <mark style="background:#fff88f">3. Fluidity 조절</mark>
 
 Cholesterol은 bilayer의 packing을 tighten하지만 membrane을 덜 fluid하게 만들지는 않는다:[^기출_중간_2022_13]
 

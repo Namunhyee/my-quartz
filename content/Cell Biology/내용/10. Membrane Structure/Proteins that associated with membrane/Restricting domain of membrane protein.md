@@ -80,7 +80,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 - [[100_Actin filaments_MOC|Actin filament]]의 belt가 cell-body-axon junction에서 plasma membrane과 tightly associate
 - Barrier의 일부 형성
 
-## Membrane Protein 고정 메커니즘
+## <mark style="background:#fff88f">Membrane Protein 고정 메커니즘</mark>
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_27_Picture_8.jpeg]]
 

@@ -1,6 +1,6 @@
 # Positive Staining vs Negative Staining
 
-[[Transmission Electron Microscope(TEM)|전자현미경(TEM)]]에서 사용하는 두 가지 대조적인 염색 방법입니다.
+[[TEM(Transmission Electron Microscope)|전자현미경(TEM)]]에서 사용하는 두 가지 대조적인 염색 방법입니다.
 
 ## 기본 원리
 
@@ -11,7 +11,7 @@
 - 전자를 거의 산란시키지 않음
 - 결과: 대비가 적음. **투명하게 보임** → 아무것도 안 보임!
 
-**해결책:** 무거운 금속 원자(납, 우라늄, 텅스텐 등)를 첨가 → 전자를 많이 산란 → 어둡게 보임 → 대비 생성!
+**해결책:** 무거운 금속 원자(납, 우라늄, 텅스텐 등)를 첨가 → <mark style="background:#fff88f">전자를 많이 산란 → 어둡게 보임</mark> → 대비 생성!
 
 ## Positive Staining (양성 염색)
 

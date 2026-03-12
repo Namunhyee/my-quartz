@@ -10,7 +10,7 @@
 - 단, 두 photons가 femtosecond 이내에 도착해야 함
 
 **장점**:
-1. **Background noise 감소**: 광자 밀도가 높은 초점지역에서만 의미있는 흡수가 일어나기 때문에 그 <mark style="background:#fff88f">외의 지역은 형광이 발생하지 않음</mark>
+1. **Background noise 감소**: <mark style="background:#fff88f">광자 밀도가 높은 초점지역에서만 의미있는 흡수가 일어나기 때문에 그 외의 지역은 형광이 발생하지 않음</mark>
 2. **더 깊은 침투**: <mark style="background:#fff88f">Red 또는 near-infrared light는 산란이 덜하고 투과가 좋아 표본 내 더 깊이 침투 가능</mark>
 3. **세포 손상 감소**: Infrared laser light는 visible light보다 살아있는 세포에 덜 손상을 줌[^기출_중간_2021_5]
 

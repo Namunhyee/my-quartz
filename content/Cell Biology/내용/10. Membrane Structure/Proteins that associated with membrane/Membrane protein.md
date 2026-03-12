@@ -98,31 +98,26 @@ Lipid neighbor처럼 membrane protein도 [[Amphiphilic molecule|amphiphilic]]이
 Membrane protein은 membrane의 거의 모든 다른 기능을 매개한다:
 
 ### 1. Transport
-
 - 특정 molecule의 membrane 횡단 transport
 - Multipass protein이 담당
 - 작은 water-soluble molecule 전달
 
 ### 2. Enzymatic Activity
-
 - Membrane-associated reaction의 촉매
 - 예: ATP synthesis
 
 ### 3. Structural Link
-
 **Plasma membrane에서:**
-- Cytoskeleton과 extracellular matrix 연결
-- 또는 인접 세포와 연결
+- [[Cell-Matrix Junctions_MOC|Cytoskeleton과 extracellular matrix 연결]]
+- 또는 [[Cell-Cell junction_MOC|인접 세포와 연결]]
 - Lipid bilayer를 통과하는 transmembrane protein이 담당
 
 ### 4. Signal Transduction
-
 **Receptor 기능:**
 - 세포 환경의 chemical signal 감지 및 변환
 - Cell surface에서 작동
 
 ### 5. Cell Recognition
-
 - Cell-cell interaction 매개
 - Cell adhesion 담당
 

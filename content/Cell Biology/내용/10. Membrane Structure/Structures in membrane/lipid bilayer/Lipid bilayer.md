@@ -1,15 +1,19 @@
 # Lipid Bilayer
 
 Lipid bilayer는 모든 세포막의 기본 구조를 제공한다. 이는 전자현미경으로 쉽게 관찰되며, bilayer 구조는 전적으로 lipid molecule의 특별한 특성에 기인한다. Lipid molecule은 단순한 인공 조건에서도 자발적으로 bilayer로 조립된다.
+## <mark style="background:#fff88f">전체 면적 대비 각 소기관에서의 면적 비율</mark>
+- [[Endoplasmic Reticulum]] : 50~60%
+- [[Mitochondria_MOC|Mitochondria]] : 20~30%
+- [[Golgi apparatus_MOC|Golgi apparatus]] : 7%
+- Plasma membrane : 2~5%
+
+## <mark style="background:#fff88f">Protein Lipid Mass Ratio</mark>
+<mark style="background:#fff88f">1:1</mark>
 
 ## 구조적 특성
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_0_Picture_0.jpeg]]
-
 Lipid bilayer는 약 5 nm 두께의 연속적인 이중층으로 lipid molecule이 배열된 구조이다. 이 bilayer는 membrane의 기본적인 fluid structure를 제공하며 대부분의 water-soluble molecule의 통과에 대해 본질적으로 불투과성 장벽으로 작용한다.
 
 ### 분자 배열
-
 ![[Cell Biology/출처/md converted/Chapter 10/_page_5_Figure_7.jpeg]]
 
 Lipid bilayer는 두 개의 monolayer (또는 leaflet)로 구성되며:
@@ -18,11 +22,9 @@ Lipid bilayer는 두 개의 monolayer (또는 leaflet)로 구성되며:
 - 두 monolayer의 hydrophobic tail이 서로 마주보며 bilayer의 core를 형성
 
 ## 형성 메커니즘
-
 Lipid bilayer의 형성은 [[Amphiphilic molecule]]의 특성에서 비롯된다:
 
 ### 1. 자발적 조립 (Spontaneous Assembly)
-
 [[Phospholipid]] molecule이 수용액에 노출되면:
 1. Hydrophobic tail의 물 노출을 최소화하려는 경향
 2. Hydrophilic head의 물 노출을 최대화하려는 경향

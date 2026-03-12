@@ -77,7 +77,7 @@ Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
 - Head group과 hydrocarbon tail의 상대적 cross-sectional area에 의해 결정됨[^기출_중간_2023_21]
 
 **예시:**
-- **Phosphoinositide:**
+- **[[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphoinositide]]:**
   - 큰 head group을 가짐
   - Wedge-shaped lipid molecule
   - 한 bilayer leaflet의 domain에 축적되면

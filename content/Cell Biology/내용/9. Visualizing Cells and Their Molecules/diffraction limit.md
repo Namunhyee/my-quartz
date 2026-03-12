@@ -58,7 +58,7 @@
 → "분해능이 나쁘다"
 ```
 
-### 예시 3: 초고해상도 현미경 (STED, PALM)
+### 예시 3: 초고해상도 현미경 ([[STED(Stimulated Emission Depletion)|STED]], PALM)
 
 ```
 회절한계: 200nm (여전히 존재)

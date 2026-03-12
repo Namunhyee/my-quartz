@@ -8,7 +8,7 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 1. **Lipid portion**: Sphingosine 기반 (동물 세포에서)
 2. **Sugar portion**: Oligosaccharide chain
 
-### Sphingosine 기반
+### [[Phospholipid#Sphingolipid|Sphingosine]] 기반
 
 동물 세포에서 glycolipid는:
 - Sphingosine으로부터 만들어짐
@@ -19,7 +19,7 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 
 ### Neutral Glycolipid
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_12_Picture_7.jpeg]]
+![[Pasted image 20260312184823.png]]
 
 **Galactocerebroside:**
 - Head group을 형성하는 sugar가 uncharged
@@ -28,7 +28,7 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 
 ### Ganglioside
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_12_Picture_7.jpeg]]
+![[Pasted image 20260312184931.png]]
 
 Glycolipid 중 가장 복잡한 형태이다.
 
@@ -59,8 +59,7 @@ Glycolipid 중 가장 복잡한 형태이다.
 ## Membrane 분포
 
 ### 극단적 Asymmetry
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_9_Picture_2.jpeg]]
+![[_page_8_Figure_6.jpeg]]
 
 Sugar-containing lipid molecule로서 glycolipid는:
 - Membrane 분포에서 가장 극단적인 asymmetry 보임
