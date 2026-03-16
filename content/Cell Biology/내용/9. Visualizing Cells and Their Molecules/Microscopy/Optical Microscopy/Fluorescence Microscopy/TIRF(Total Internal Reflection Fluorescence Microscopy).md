@@ -34,7 +34,7 @@
 #### (B)[[Clathrin coat|Clathrin-coated Pit]] 형성 추적
 **실험 시스템**:
 - *Arabidopsis* root cell의 plasma membrane 표면 이미지
-- Clathrin adaptor protein이 [[Fluorescent Protein Tagging in Living Cells#Green Fluorescent Protein (GFP)|GFP]]로 tagged
+- Clathrin adaptor protein이 [[GFP(Fluorescent Protein Tagging)|GFP]]로 tagged
 **관찰**:
 - 개별 clathrin-coated pits를 시간에 따라 추적 가능
 - Pit의 형성과 subsequent endocytosis 관찰
@@ -71,7 +71,7 @@
 - Microtubules를 따라 이동하는 motor proteins
 - Actin filaments를 따라 이동하는 motor proteins
 **장점**:
-- 개별 분자 수준의 관찰
+- <mark style="background:#fff88f">개별 분자 수준의 관찰</mark>
 - 이동 속도와 방향 정밀 측정
 - Step size 측정 가능
 ### 2. <mark style="background:#fff88f">Membrane Dynamics</mark>

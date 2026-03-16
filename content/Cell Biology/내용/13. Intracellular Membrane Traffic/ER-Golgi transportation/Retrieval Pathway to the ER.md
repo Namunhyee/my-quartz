@@ -57,7 +57,7 @@ Retrieval pathway는 specific signal에 의존한다.
 - v-SNARE와 t-SNARE (ER-Golgi interface에서 기능)
 - Some cargo receptor
 
-### Soluble Protein Signal: KDEL
+### Soluble ER resident Protein Signal: KDEL
 
 **Structure**:
 - C-terminal end에 위치

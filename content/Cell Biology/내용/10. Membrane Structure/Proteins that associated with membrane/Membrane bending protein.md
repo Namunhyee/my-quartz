@@ -21,7 +21,7 @@ Membrane shape는 동적으로 조절된다:
 - Local membrane curvature 조절
 - 종종 cytoskeletal dynamics와 함께 작용
 
-## Membrane-bending Protein의 작용 메커니즘
+## ==Membrane-bending Protein의 작용 메커니즘==
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_1.jpeg]]
 
@@ -32,7 +32,8 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 ![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_2.jpeg]]
 
 **메커니즘:**
-- 일부 protein이 hydrophobic protein domain 또는 attached lipid anchor를 bilayer의 한 leaflet에 삽입
+- ==일부 protein이 hydrophobic protein domain 또는 attached lipid anchor를 bilayer의 한 leaflet에 삽입==
+- ==cytosolic leaflet에서 주로 형성==
 - 한 leaflet의 면적만 증가
 - Membrane이 bend되도록 함
 
@@ -42,35 +43,33 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 - Endoplasmic reticulum의 convoluted network of narrow tubule을 형성하는 protein
 - 이 방식으로 작동
 
-### 2. Rigid Scaffold Formation
+### 2. Rigid Scaffold Formation (C)
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_3.jpeg]]
 
 **메커니즘:**
-- 일부 membrane-bending protein이 rigid scaffold 형성
-- Membrane을 deform하거나
-- 이미 bent된 membrane을 stabilize
+- ==일부 membrane-bending protein이 rigid scaffold 형성==
+- ==cytosolic leaflet에서 주로 형성==
+- Membrane을 deform하거나 이미 bent된 membrane을 stabilize
 
 위 그림 (C)는 protein의 curved surface가 lipid head group에 결합하여 membrane을 deform하거나 curvature를 stabilize하는 것을 보여준다.
 
 **예시:**
-- Intracellular transport에서 budding vesicle을 shape하는 [[Clathrin coat|coat protein]]
-- 이 class에 속함
+- Intracellular transport에서 budding vesicle을 shape하는 [[Clathrin coat|coat protein]]이 class에 속함
 
 ### 3. Lipid Clustering
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_4.jpeg]]
 
 **메커니즘:**
-Cone-shaped과 inverted cone-shaped lipid의 비대칭 분포:
-- Inner 또는 outer leaflet에서
-- Membrane bending 유발 가능
+==Cone-shaped과 inverted cone-shaped lipid의 비대칭 분포:==
+- ==Inner 또는 outer leaflet에서==== Membrane bending 유발 가능
 
 일부 membrane-bending protein이:
 - 특정 membrane lipid를 cluster하도록 유도
 - Membrane curvature를 induce
 
-위 그림 (D)는 protein이 큰 head group을 가진 lipid에 결합하고 cluster하여 membrane을 bend하는 것을 보여준다.
+위 그림 (D)는 ==protein이 큰 head group을 가진 lipid([[Phospholipid#Sphingomyelin|sphingomyelin]]이 그 예시)에 결합하고 cluster하여 membrane을 bend하는 것을 보여준다.==
 
 **Lipid의 Curvature Induction:**
 Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
@@ -83,10 +82,11 @@ Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
   - 한 bilayer leaflet의 domain에 축적되면
   - Positive curvature induce
 
-- **Phospholipase가 처리한 lipid:**
-  - Lipid head group 제거
+- ==**Phospholipase가 처리한 lipid:**==
+  - ![[Pasted image 20260316192026.png]]
+  - ==Lipid head group 제거==
   - Inversely shaped lipid molecule 생성
-  - Negative curvature induce
+  - ==Negative curvature induce==
 
 ## Membrane-bending Protein의 협력
 

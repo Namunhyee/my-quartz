@@ -8,7 +8,7 @@ Hyaluronan을 제외한 모든 [[GAG]]는 단백질에 공유결합하여 **prot
 ## 구성
 
 - **Core protein**: Membrane-bound ribosome이 합성하고 ER lumen으로 주입한다.
-- **GAG chain**: [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Proteoglycan Assembly|Golgi apparatus에서 core protein에 부착]]된다.[^기출_기말_2022_11][^기출_기말_2023_29] 먼저 serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.
+- **GAG chain**: [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Proteoglycan Assembly|Golgi apparatus에서 core protein에 부착]]된다.<mark style="background:#fff88f">serine에 연결됨.</mark>[^기출_기말_2022_11][^기출_기말_2023_29] 먼저 serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.
 - **변형(Modification)**: Golgi에서 sulfation (음전하 증가), epimerization (sugar의 configuration 변화) 등이 일어난다.
 
 ## 기능

@@ -17,15 +17,15 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 - 특정 lipid끼리 모이는 lateral segregation으로 이어짐
 - Separate domain에 특정 lipid가 함께 옴
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_1.jpeg]]
 
-위 그림은 artificial lipid bilayer에서의 lateral phase separation을 보여준다:
+<mark style="background:#fff88f">위 그림은 artificial lipid bilayer에서의 lateral phase separation을 보여준다:</mark>
 
-**(A) 균일한 bilayer:**
+**<mark style="background:#fff88f">(A) 균일한 bilayer:</mark>**
 - 1:1 혼합의 phosphatidylcholine과 sphingomyelin
 - 균일한 bilayer 형성
 
-**(B) 분리된 phase:**
+**==(B) 분리된 phase:==**
 - 1:1:1 혼합의 phosphatidylcholine, sphingomyelin, [[Cholesterol]]
 - 두 개의 분리된 phase를 가진 bilayer 형성
 - Liposome은 한 phase로 우선적으로 분할되는 fluorescent dye의 trace concentration으로 염색됨
@@ -48,21 +48,16 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 - 살아있는 세포의 plasma membrane에서 lipid molecule이 유사하게 specialized domain으로 분리되는가?
 
 ### 관찰 결과
-
 **대규모 lipid phase segregation:**
 - 살아있는 세포 membrane에서 드물게 관찰됨
 
-**실제 양상:**
+**<mark style="background:#fff88f">실제 양상</mark>:**
 - 많은 lipid와 membrane protein이 균일하게 분포하지 않음
-- 특정 membrane protein과 lipid가 더 일시적이고 동적인 방식으로 집중됨
+- 특정 membrane protein과 lipid가 <mark style="background:#fff88f">더 일시적이고 동적인 방식으로 집중</mark>됨
 - Protein-protein interaction에 의해 촉진됨
 - Specialized membrane region의 일시적 형성 허용
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_1.jpeg]]
-
 ### Raft Domain의 특성
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_1.jpeg]]
+![[_page_8_Figure_6.jpeg]]
 
 위 그림은 raft domain의 model을 보여준다:
 

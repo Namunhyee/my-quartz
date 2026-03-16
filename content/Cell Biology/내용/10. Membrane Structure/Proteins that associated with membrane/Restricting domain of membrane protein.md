@@ -27,7 +27,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 - Large aggregate로 형성
 - 매우 느리게 확산
 
-### 3. Epithelial Cell의 Domain
+### 3. ==Epithelial Cell의 Domain==
 
 ![[_page_26_Figure_6.jpeg]]]
 
@@ -49,12 +49,12 @@ Mitochondria inner membrane의 ATP synthase complex:
 - Specific type의 intercellular junction ([[00_Tight junction_MOC|tight junction]])에 의해 설정된 장벽
 - Protein과 lipid molecule 모두의 분리 유지
 
-### 4. Spermatozoon의 Domain
+### 4. ==Spermatozoon의 Domain==
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_27_Figure_2.jpeg]]
 
 **포유류 정자세포:**
-- 단일 세포가 여러 구조적, 기능적으로 구별되는 부분으로 구성됨
+- ==단일 세포가 여러 구조적, 기능적으로 구별되는 부분으로 구성됨==
 - Continuous plasma membrane으로 덮여 있음
 
 위 그림은 guinea pig sperm의 plasma membrane에서 세 개의 domain을 보여준다:
@@ -80,7 +80,8 @@ Mitochondria inner membrane의 ATP synthase complex:
 - [[100_Actin filaments_MOC|Actin filament]]의 belt가 cell-body-axon junction에서 plasma membrane과 tightly associate
 - Barrier의 일부 형성
 
-## <mark style="background:#fff88f">Membrane Protein 고정 메커니즘</mark>
+## ==Membrane Protein 고정 메커니즘==
+==이건 구역 설정 정도가 아니라 아예 이동이 제한된 경우==
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_27_Picture_8.jpeg]]
 
@@ -101,14 +102,14 @@ Mitochondria inner membrane의 ATP synthase complex:
 
 **(C) 세포 내부의 Macromolecule Assembly에 Tether:**
 - Membrane protein이 세포 내부의 macromolecule assembly와 상호작용으로 tether됨
-- [[Cortical cytoskeleton]]이 주요 역할
+- [[Cortical cytoskeleton]]==이 주요 역할==
 
 ### 4. Interaction with Another Cell
 
 **(D) 다른 세포 표면의 Protein과 상호작용:**
 - Membrane protein이 다른 세포 표면의 protein과 상호작용
 
-## Corralling by Cortical Cytoskeleton
+## Corralling by [[Cortical Cytoskeleton]]
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_29_Figure_2.jpeg]]
 
@@ -117,15 +118,15 @@ Mitochondria inner membrane의 ATP synthase complex:
 [[Cortical cytoskeleton]]은 plasma membrane protein의 확산을 제한한다:
 
 **메커니즘:**
-1. Cytoskeletal filament가 plasma membrane의 cytosolic surface에 밀접하게 apposed됨[^기출_중간_2022_19]
+1. ==Cytoskeletal filament(**spectrin tetramer**)==가 plasma membrane의 cytosolic surface에 밀접하게 apposed됨[^기출_중간_2022_19]
 2. Mechanical barrier 형성
 3. Membrane을 작은 domain 또는 corral로 partition
 
 위 그림은 cortical cytoskeletal filament에 의한 plasma membrane protein의 corralling을 보여준다:
 - (A) Filament가 membrane을 작은 domain (corral)로 나누는 diffusion barrier 제공
 - (B) High-speed single-particle tracking으로 한 type의 형광 labeled membrane protein의 경로를 시간에 따라 추적
-- 개별 protein molecule이 tightly delimited membrane domain 내에서 확산
-- 드물게 이웃 domain으로 escape (색 변화로 표시)
+- ==개별 protein molecule이 tightly delimited membrane domain 내에서 확산==
+- ==드물게 이웃 domain으로 escape (색 변화로 표시)==
 
 **Corral의 특성:**
 - Permanent (예: sperm)

@@ -18,20 +18,21 @@
 
 Biophysical 연구는 phospholipid molecule이 synthetic bilayer에서 다양한 운동을 보임을 보여주었다:
 
-#### 1. Lateral Diffusion (측면 확산)
-
-**특성:**
+#### 1. <mark style="background:#fff88f">Lateral Diffusion (측면 확산)</mark>
+<mark style="background:#fff88f">**특성:**</mark>
 - Lipid molecule이 monolayer (leaflet) 내에서 이웃과 빠르게 위치 교환
 - 교환 속도: ~10⁷ times/second
 - Diffusion coefficient (D): 약 10⁻⁸ cm²/sec
 - 평균 lipid molecule이 큰 bacterial cell (~2 μm) 길이를 약 1초에 확산
 
-#### 2. Rotational Diffusion
-
+#### 2. <mark style="background:#fff88f">Rotational Diffusion</mark>
 - Lipid molecule이 자신의 긴 축을 중심으로 빠르게 회전
 - Hydrocarbon chain이 flexible함
 
-#### 3. Flip-flop (매우 드묾)
+#### 3. <mark style="background:#fff88f">Flexion</mark>
+- 꼬리 부분이 유연하게 움직이는 것
+
+#### 4. <mark style="background:#fff88f">Flip-flop (매우 드묾)</mark>
 
 **특성:**
 - 한 monolayer에서 반대편 monolayer로 이동
@@ -48,32 +49,21 @@ Flip-flop 동안 hydrophilic head group이:
 - 빠르게 flip-flop 가능
 - 단일 hydroxyl group만 hydrophobic core에 일시적으로 수용되면 됨
 
-### Computer Simulation
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_6_Figure_1.jpeg]]
-
-위 그림 (A)는 100개의 phosphatidylcholine molecule을 regular bilayer로 배열한 후, computer가 300 picosecond의 simulated time 후 모든 atom의 위치를 계산한 결과이다.
-
-**결과:**
-- Lipid molecule이 매우 disordered함
-- 불규칙하고 ragged한 표면을 물 phase에 제공
-- Variously spaced and oriented head group
-- 한 monolayer의 tail이 충분히 길면 반대편 monolayer의 tail과 상호작용 가능
-
-이 이론적 계산으로부터 나온 lipid bilayer model은 synthetic lipid bilayer의 거의 모든 측정 가능한 특성을 설명한다:
-- Thickness
-- Membrane area당 lipid molecule 수
-- 물 침투 깊이
-- 두 표면의 unevenness
-
 ## Biological Membrane에서의 Fluidity
 
-### 유사한 Mobility
+### Mobility
 
 Biological membrane과 살아있는 세포의 labeled lipid molecule에 대한 유사한 mobility 연구:[^기출_중간_2021_9][^기출_중간_2021_미상E]
 - Synthetic bilayer와 유사한 결과
 - Biological membrane의 lipid component가 2차원 liquid임을 증명
-- Constituent molecule이 laterally 자유롭게 이동
+- Constituent molecule이 laterally 자유롭게 이동\
+#### 강의자료
+![[Cell Biology/출처/md converted/Chapter 10/_page_25_Picture_2.jpeg]]
+==위 그림은 mouse와 human의 membrane protein을 갖는 각각의 cell을 fusion했을 때 결과.==
+==mouse cell의 mp도 퍼져있고 human cell의 mp도 퍼져있음== => ==mp의 diffusion을 실험적으로 검증==
+#### ==diffusion 속도 측정==
+![[_page_25_Figure_5.jpeg]]
+[[FRAP]]==으로 정량적 측정 가능==
 
 ### Monolayer Confinement
 
@@ -138,26 +128,25 @@ Fluidity는 정밀하게 조절되어야 한다:
 Membrane이 많은 서로 다른 lipid species의 복잡한 혼합으로 구성되면:
 - 대부분의 membrane이 phase-transition point 바로 위에서 liquid로 유지되도록 조절됨
 
-### 온도 적응
+### <mark style="background:#fff88f">온도 적응</mark>
 
-온도가 환경과 함께 변동하는 유기체 (bacteria, yeast 등 단세포 생물):
-- Membrane lipid의 fatty acid 조성을 조절
-- 상대적으로 일정한 fluidity 유지
+<mark style="background:#fff88f">온도가 환경과 함께 변동하는 유기체 (bacteria, yeast 등 단세포 생물):</mark>
+- <mark style="background:#fff88f"> Membrane lipid의 fatty acid 조성(길이, 포화정도)을 조절</mark>
+- <mark style="background:#fff88f"> 상대적으로 일정한 fluidity 유지</mark>
 
 **예시:**
 온도가 떨어질 때:
 1. 세포가 더 많은 cis-double bond를 가진 fatty acid 합성
 2. 온도 하락으로 인한 bilayer fluidity 감소를 회피
 
-### Cholesterol의 역할
+### <mark style="background:#fff88f">Cholesterol의 역할</mark>
 
 [[Cholesterol]]은 lipid bilayer의 특성을 조절한다:
 
 **효과:**
-1. **Packing 강화**: Bilayer의 lipid packing을 tighten
-2. **Mobility 감소**: Phospholipid hydrocarbon chain의 첫 몇 개 CH₂ group의 mobility 감소
-3. **Deformability 감소**: 온도가 낮을 때 막의 경화 차단
-4. **Permeability 감소**: 작은 water-soluble molecule에 대한 bilayer permeability 감소
+1. **<mark style="background:#fff88f">Mobility 감소</mark>**: Phospholipid hydrocarbon chain의 첫 몇 개 CH₂ group의 mobility 감소(온도 높을때)
+2. **<mark style="background:#fff88f">Deformability 감소</mark>**: 온도가 낮을 때 막의 경화 차단
+3. **<mark style="background:#fff88f">Permeability 감소</mark>**: 작은 water-soluble molecule에 대한 bilayer permeability 감소
 
 **중요한 점:**
 - Cholesterol이 bilayer의 lipid packing을 tighten하지만

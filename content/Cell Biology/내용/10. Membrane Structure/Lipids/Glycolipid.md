@@ -1,9 +1,13 @@
 # Glycolipid
 
-Glycolipid는 sugar를 포함하는 lipid molecule이다. 모든 진핵세포 plasma membrane의 표면에서 발견되며, membrane 분포에서 가장 극단적인 asymmetry를 보인다.
+==Glycolipid는 sugar를 포함하는 lipid molecule이다. 모든 진핵세포 plasma membrane의 표면에서 발견되며, membrane 분포에서 가장 극단적인 asymmetry를 보인다.==
+## ==주요 수업 내용==
+phospholipid만큼 비율이 높지는 않다.
+ [[Phospholipid#^73ff92|spingosine]] 기반
+- galactocerebrocide
+- ganglioside(slalic acid가 붙어 음전하)
 
 ## 구조적 특징
-
 Glycolipid는 두 가지 주요 성분으로 구성된다:
 1. **Lipid portion**: Sphingosine 기반 (동물 세포에서)
 2. **Sugar portion**: Oligosaccharide chain
@@ -21,12 +25,12 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 
 ![[Pasted image 20260312184823.png]]
 
-**Galactocerebroside:**
+==**Galactocerebroside:**==
 - Head group을 형성하는 sugar가 uncharged
 - Neutral glycolipid로 불림
 - 위 그림 (A)에 구조 표시
 
-### Ganglioside
+### ==Ganglioside==
 
 ![[Pasted image 20260312184931.png]]
 
@@ -34,12 +38,12 @@ Glycolipid 중 가장 복잡한 형태이다.
 
 **구조적 특징:**
 - 하나 이상의 sialic acid moiety를 포함하는 oligosaccharide
-- Sialic acid가 net negative charge 부여
+- ==Sialic acid가 net negative charge 부여==
 - 위 그림 (B)에 GM1 ganglioside 구조 표시
 
 **Sialic acid:**
 - 다양한 type 존재
-- Human cell에서 주로 N-acetylneuraminic acid (NANA)
+- ==Human cell에서 주로 N-acetylneuraminic acid (NANA)==
 - 위 그림 (C)에 구조 표시
 
 **다양성:**

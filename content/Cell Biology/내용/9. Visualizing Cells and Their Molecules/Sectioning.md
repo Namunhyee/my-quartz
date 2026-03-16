@@ -43,7 +43,7 @@
 - **예시: <mark style="background:#fff88f">H&E</mark>
     - 음전하를 띤 분자에 친화성
     - <font color="#c0504d">DNA, RNA, 산성 단백질의 일반적인 분포를 보여줌</font> (그림 9-9)
-### 2.[[Antibodies for Protein Detection#^bbd9c5|형광 프로브]](GFP)와 마커(antibody) 사용
+### 2.[[Immunofluorescence Staining#^bbd9c5|형광 프로브]](GFP)와 마커(antibody) 사용
 - 관심 단백질을 국재화(localizing)하는 데 매우 민감한 접근법
 - 일반적이고 광범위하게 적용 가능
 - Antibody가 이용됨

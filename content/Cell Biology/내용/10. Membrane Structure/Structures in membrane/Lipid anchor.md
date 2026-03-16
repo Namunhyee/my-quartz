@@ -1,7 +1,7 @@
 # Lipid Anchor
 
-Lipid anchor는 protein을 membrane에 부착시키는 covalently attached lipid group이다. 이러한 protein은 cytosol에서 수용성 protein으로 만들어진 후, lipid group의 공유 결합으로 membrane에 anchored된다.
-
+Lipid anchor는 protein을 membrane에 부착시키는 covalently attached lipid group이다. 이러한 protein은 cytosol에서 수용성 protein으로 만들어진 후, ==lipid group의 공유 결합으로 membrane에 anchored된다.==
+==신호를 받아 lipid와 결합이 형성되어 기능하는 단백질들이 많다==
 ## Lipid Anchor의 종류
 
 ### 1. Fatty Acid Anchor(3번째 것)
@@ -10,11 +10,11 @@ Lipid anchor는 protein을 membrane에 부착시키는 covalently attached lipid
 
 Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 
-#### Myristoyl Anchor
+#### ==Myristoyl Anchor==
 
 **구조:**
 - 14-carbon saturated fatty acid chain (myristic acid)
-- Amide linkage를 통해 N-terminal glycine에 부착
+- ==Amide linkage==를 통해 ==N-terminal glycine==에 부착
 
 **부착 시기:**
 - Ribosome에서 protein 합성 중
@@ -24,11 +24,11 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 - Src family의 모든 cytoplasmic protein tyrosine kinase
 - 이 방식으로 myristoylated됨
 
-#### Palmitoyl Anchor
+#### ==**Palmitoyl Anchor**==
 
 **구조:**
 - 16-carbon saturated fatty acid chain (palmitic acid)
-- Thioester linkage를 통해 cysteine에 부착
+- ==Thioester linkage(황)를 통해 cysteine에 부착==
 
 **특성:**
 - 두 번째 lipid modification으로 종종 사용됨
@@ -45,25 +45,37 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 4. Palmitic acid 제거
 5. Kinase가 cytosol로 돌아감
 
-### 2. Prenyl Anchor(3번째 것)
+### 2. ==Prenyl Anchor(3번째 것)==
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_14_Figure_1.jpeg]]
 
 **구조:**
-- Prenyl chain (farnesyl 또는 더 긴 geranylgeranyl chain)
-- <mark style="background:#fff88f">Thioether linkage를 통해 cysteine residue에 부착</mark>[^기출_중간_2023_20][^기출_중간_2022_16]
+- Prenyl chain (==farnesyl 또는 더 긴 geranylgeranyl chain==)
+- ==Thio**ether** linkage를 통해 cysteine residue에 부착==[^기출_중간_2023_20][^기출_중간_2022_16]
 - Cysteine는 처음에 protein의 C-terminus로부터 4번째 residue에 위치
 #### <mark style="background:#fff88f">2주차 형성평가</mark>
 ![[_page_1_Figure_25.jpeg]]
-최근 새로 발견된 Gasdermin D (GSDMD)라는 단백질은 세포질 영역 에 존재하고 있다가 특정 효소에 의해 절단된 후 세포막의 음극성 인 지질에 결합해 membrane에 구멍을 만든다. 이 단백질 (GSDMD)이 세포밖으로 나왔을 때 할 수 있는 역할로 타당한 것은? 
-① 세포막에 박혀 경화를 억제시킨다. 
-② 박테리아 세포막의 콜레스테롤에 결합한다. 
-③ 이웃한 세포로 이동하여 세포막에 구멍을 만든다. 
-<mark style="background:#b1ffff">④ 침투해온 박테리아의 세포막 외부에 직접 결합하여 구멍을 만든다. </mark>
-⑤ 침투한 박테리아의 내부로 들어가 음극성 인지질에 결합해 구멍을 만든다.
+MKD(mevalonate kinase deficiency)라는 병은 mevalonate kinase에 돌연변이가 발생해 farnesyl을 만들어낼 수 없게 된다. MKD의 발병 원인을 추론하라
+
+> [!NOTE] Title
+> **Mevalonate Kinase의 역할:**
+> 
+Mevalonate Kinase는 Mevalonate → Mevalonate-5-phosphate 반응을 촉진하는 효소로, **이소프레노이드(Isoprenoid) 합성 경로**의 핵심 단계에 관여한다. 이 경로를 통해 **Farnesyl pyrophosphate** 및 **Geranylgeranyl pyrophosphate**가 생성된다.
+**HIDS 발병 원리 (Lipid anchor 관점):**
+1. Mevalonate Kinase 기능 상실 → Isoprenoid 합성 불가
+2. Farnesyl 및 Geranylgeranyl 그룹 생성 불가
+3. [[Cell Biology/내용/10. Membrane Structure/Structures in membrane/Lipid anchor|Lipid anchor]] 중 **Farnesylation** 및 **Geranylgeranylation** 불가
+4. Ras, Rho, Rab 등 **신호전달 단백질**들이 세포막에 **결합(anchoring)하지 못함**
+5. 단백질이 세포막에 고정되지 않아 활성 형태(GTP-결합 상태)로의 전환 및 **신호 전달 불가**
+6. 특히 면역세포의 신호전달 이상 → **염증 반응 과활성화** → HIDS 증상(주기적 발열, 염증)
 
 
-## GPI Anchor
+
+
+
+
+
+# ~~[[GPI Anchor]]~~
 
 ### 구조와 형성
 
@@ -156,33 +168,7 @@ Lipid anchor의 선택은 protein의 기능과 localization을 결정한다:
 - [[Raft domain]]
 - [[Restricting domain of membrane protein]]
 - [[Cortical cytoskeleton]]
-# GPI Anchor
-## [[GPI anchor]]
 
-### 구조와 형성
-
-![[Cell Biology/출처/md converted/Chapter 10/_page_12_Picture_7.jpeg]]
-
-**Glycosylphosphatidylinositol (GPI) anchor:**
-- Protein을 noncytosolic surface에 부착
-- Oligosaccharide linker를 통해
-- Outer monolayer의 phosphatidylinositol에 연결
-
-**형성 과정:**
-1. Protein이 처음 ER에서 만들어지고 삽입됨
-2. C-terminus에 single transmembrane segment 보유 (예시 4와 유사)
-3. ER에 있는 동안
-4. Protein의 transmembrane segment가 cleaved off
-5. [[GPI anchor]]가 추가됨
-6. Protein이 ER membrane의 noncytosolic surface에만 anchor로 결합된 채로 남음
-7. Transport vesicle이 결국 protein을 plasma membrane으로 전달
-
-### 위치
-
-GPI-anchored protein은:
-- 오직 세포 표면에 노출됨
-- Plasma membrane의 noncytosolic surface에 위치
-- [[Lipid bilayer]]를 통과하지 않음
 
 [^기출_중간_2023_20]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_20번|2023 중간 20번]] — Farnesylation은 cysteine에 farnesyl 기를 thioether 결합으로 부착하며, 해당 cysteine 돌연변이 시 세포막 결합이 불가능해진다는 내용이 출제됨. 복기 불완전. (선지 미복기)
 [^기출_중간_2022_16]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_16번|2022 중간 16번]] — Mevalonate kinase 저해 시 farnesyl group 합성이 억제되어 단백질의 prenylation(막 부착)이 불가능해진다는 내용이 출제됨. 복기 불완전. (선지 미복기)

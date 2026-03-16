@@ -2,6 +2,15 @@
 
 Lipid droplet은 대부분의 진핵세포가 과도한 lipid를 저장하는 독특한 organelle이다. [[Lipid bilayer]]로 둘러싸인 다른 모든 membrane-bounded compartment와 달리, lipid droplet은 phospholipid monolayer로 둘러싸여 있다.
 
+## ==중요 수업 내용==
+![[Cell Biology/출처/md converted/Chapter 10/_page_9_Picture_2.jpeg]]
+- ER lumen에서 출아한다.
+- monolayer이다.
+- triglycerol(중성지방), cholesterol ester가 주요 내용물이다.
+- associated protein이 관여한다.
+- 특정 세포, 특히 **비만세포**는 커다란 lipid droplet을 가진다.
+- 이로써 세포의 모든 막이 이중막은 아님을 알 수 있다.
+- ---
 ## 기능
 
 Lipid droplet은 세포의 lipid 저장소 역할을 한다:
