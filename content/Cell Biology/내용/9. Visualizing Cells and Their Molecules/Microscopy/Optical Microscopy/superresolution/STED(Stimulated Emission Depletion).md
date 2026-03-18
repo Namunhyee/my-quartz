@@ -8,6 +8,7 @@ STED microscopy는 point spread function의 크기를 줄여 [[diffraction limit
 **Resolution 향상 방법**: Excitation spot의 blurred periphery에 있는 모든 형광 분자들을 ground state나 정상적으로 형광을 내지 않는 state로 다시 전환하고, 매우 center에 있는 분자들만 기록되도록 남겨두는 것이다.
 <font color="#e36c09">depletion beam</font>은 '유도방출'이라는 원리(photobleacing, photoactivation 아님)로 전자를 내린다.
 ## Figure 9-30: Point Spread Function 크기 감소를 통한 Superresolution
+
 ![[_page_19_Figure_6.jpeg]]
 
 **(A) Normal Focused Beam**: 정상적인 focused beam of excitatory light의 크기
