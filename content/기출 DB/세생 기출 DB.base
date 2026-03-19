@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      or:
+        - or:
+            - file.inFolder("Cell Biology/기출 DB/기말고사")
+            - file.inFolder("Cell Biology/기출 DB/중간고사")
+    order:
+      - file.name
+      - 정답/해설 오류
+      - 유형
+      - 연도
+      - 시험
+      - 복기_완성
+      - 번호
+      - 단원
+      - 관련_노트
+      - 해설 불완전
+      - 정답 오류
+    sort:
+      - property: 유형
+        direction: DESC
