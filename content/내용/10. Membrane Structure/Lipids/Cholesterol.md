@@ -4,7 +4,7 @@ Cholesterol은 동물 세포에서 발견되는 주요 sterol이다. Sterol은 s
 
 ## 구조
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_3_Figure_2.jpeg]]
+![[출처/md converted/Chapter 10/_page_3_Figure_2.jpeg]]
 
 Cholesterol의 구조적 특징:
 - **Rigid ring structure**: Platelike steroid ring
