@@ -9,7 +9,7 @@
 - 단일 RNA 분자에 결합
 - Rod 모양의 ribonucleoprotein complex
 
-![[_page_20_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_20_Figure_2.jpeg]]
 
 *Figure 12-19A: 포유류 SRP의 구조. Rod 모양의 ribonucleoprotein complex로 6개의 단백질 subunit(갈색)과 1개의 RNA 분자(파란색)를 포함한다. SRP RNA는 signal sequence 결합 pocket을 포함하는 단백질 domain을 translation을 늦추는 역할을 하는 domain에 연결하는 backbone을 형성한다.*
 SRP RNA는 signal sequence 결합 pocket을 포함하는 단백질 domain과 translation을 늦추는 역할을 담당하는 domain을 연결하는 backbone을 형성한다.

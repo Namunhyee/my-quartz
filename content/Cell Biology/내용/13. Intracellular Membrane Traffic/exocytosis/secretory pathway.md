@@ -152,7 +152,7 @@ Regulated pathway에서:
 
 ### Epithelial Cell의 Polarized Secretion
 
-![[_page_38_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_38_Figure_2.jpeg]]
 *Figure 13-49: 극성 상피세포에서의 protein sorting. Direct pathway와 indirect pathway를 통해 apical과 basolateral domain에 선택적으로 전달된다.*
 
 #### Apical Domain으로의 분비

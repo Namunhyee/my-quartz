@@ -107,7 +107,7 @@ H⁺/neurotransmitter antiport:
 
 ### Priming: Fusion 준비 상태
 
-![[_page_34_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_34_Figure_2.jpeg]]
 *Figure 13-45: Synaptic vesicle exocytosis의 분자 메커니즘. Priming과 Ca²⁺-triggered fusion 과정.*
 
 **Priming process:**

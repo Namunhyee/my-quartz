@@ -15,7 +15,7 @@ Single-molecule localization microscopy는 개별 형광 분자의 정확한 위
 이 한계를 우회하는 방법은 매우 적은 수의 명확히 분리된 분자들만 한 번에 활발히 형광을 내도록 배치하는 것이다. 각각의 정확한 위치를 계산한 후, 후속 분자 세트들을 검사할 수 있다.
 
 ## Figure 9-31: Single Fluorescent Molecules의 정확한 위치 결정
-![[_page_20_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_20_Figure_6.jpeg]]
 
 **원리**: 단일 형광 분자의 blurred image의 정확한 수학적 중심 결정은 이미지에 기여하는 photons가 많을수록 더 정확해진다.
 

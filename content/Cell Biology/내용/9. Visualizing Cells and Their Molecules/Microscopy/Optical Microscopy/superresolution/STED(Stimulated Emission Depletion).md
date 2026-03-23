@@ -9,7 +9,7 @@ STED microscopy는 point spread function의 크기를 줄여 [[diffraction limit
 <font color="#e36c09">depletion beam</font>은 '유도방출'이라는 원리(photobleacing, photoactivation 아님)로 전자를 내린다.
 ## Figure 9-30: Point Spread Function 크기 감소를 통한 Superresolution
 
-![[_page_19_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_19_Figure_6.jpeg]]
 
 **(A) Normal Focused Beam**: 정상적인 focused beam of excitatory light의 크기
 **(B) Doughnut-shaped Depletion Beam**: 극도로 강한 superimposed laser beam이 다른 파장이며 torus(도넛) 모양으로, specimen의 모든 곳에서 emitted fluorescence를 depletion시킴. 단, beam의 정중앙은 제외.[^기출_중간_2023_14]

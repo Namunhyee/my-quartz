@@ -13,7 +13,7 @@ Scanning electron microscope (SEM)는 specimen 표면의 three-dimensional struc
 Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled specimen stage에 coating하여 microscope에서 검사한다.
 
 ## Figure 9-45: Scanning Electron Microscope
-![[_page_29_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_29_Picture_2.jpeg]]
 
 ## 작동원리
 ## 전자빔의 생성과 주사 과정
@@ -63,7 +63,7 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 **결과**: 주로 whole cells과 tissues 연구에 사용됨 (subcellular organelles보다)
 
 ## Figure 9-46: SEM의 다양한 Magnifications
-![[_page_29_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_29_Figure_6.jpeg]]
 ## SEM vs 다른 Microscopy 기술
 
 **vs [[TEM(Transmission Electron Microscope)|TEM]]**:

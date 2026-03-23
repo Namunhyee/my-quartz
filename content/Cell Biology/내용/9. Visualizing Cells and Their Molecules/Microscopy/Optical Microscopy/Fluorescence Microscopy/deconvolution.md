@@ -63,7 +63,7 @@ Image deconvolution은 종종 **computational approach**라고 불린다.
 **Point spread function(점 확산 함수)**:
 - 점 광원의 이 흐릿한 이미지를 point spread function이라고 함
 - Figure 9-29 참조
-![[_page_19_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_19_Figure_2.jpeg]]
 
 #### PSF를 이용한 Image 형성 이해
 

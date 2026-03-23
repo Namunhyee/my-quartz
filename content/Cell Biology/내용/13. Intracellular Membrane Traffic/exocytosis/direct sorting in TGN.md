@@ -85,7 +85,7 @@ Early endosome (pH 6.0):
 
 ### Epithelial Cell의 Polarization
 
-![[_page_38_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_38_Figure_2.jpeg]]
 *Figure 13-49: 극성 상피세포에서의 단백질 분류. (A) Direct pathway에서 TGN에서 직접 분류. (B) Indirect pathway에서는 일단 한 쪽으로 보낸 후 [[direct sorting in TGN#Indirect Pathway (Transcytosis)|transcytosis]].*
 
 #### Apical Domain으로의 Sorting
