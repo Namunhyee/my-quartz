@@ -1,6 +1,6 @@
 # Desmosome_MOC
 
-Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 **intermediate filament**에 연결되는 cell–cell anchoring junction이다. 주된 기능은 기계적 강도 제공이다. 척추동물 대부분의 성숙한 상피에 존재하며, 심근과 표피처럼 기계적 스트레스가 큰 조직에서 특히 풍부하다. *Drosophila* 등에는 존재하지 않는다.
+Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 **intermediate filament**에 연결되는 cell–cell anchoring junction이다. 주된 기능은 기계적 강도 제공이다.[^기출_기말_2022_11] 척추동물 대부분의 성숙한 상피에 존재하며, 심근과 표피처럼 기계적 스트레스가 큰 조직에서 특히 풍부하다. *Drosophila* 등에는 존재하지 않는다.
 
 ## 구조
 
@@ -9,7 +9,7 @@ Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 
 
 **Transmembrane protein**: Desmoglein, Desmocollin (→ [[nonclassical cadherin]])  
 **Intracellular adaptors**: Plakoglobin (γ-catenin, β-catenin의 친척), Plakophilin (p120-catenin의 먼 친척), Desmoplakin  
-**Cytoskeletal attachment**: [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|Intermediate filaments]] (상피 세포에서는 keratin, 심근 세포에서는 desmin)[^기출_기말_2022_20]
+**Cytoskeletal attachment**: [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|Intermediate filaments]] (상피 세포에서는 keratin, 심근 세포에서는 desmin)
 
 ## Intermediate Filament Network
 
@@ -25,4 +25,6 @@ Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 
 - [[nonclassical cadherin]]
 - [[Desmosome disorders]]
 
-[^기출_기말_2022_20]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_20번|2022 기말 20번]] — desmosome이 keratin 중간섬유와 연결되어 기계적 강도를 부여(정답④), desmoglein/desmocollin은 nonclassical cadherin임이 정답 근거로 활용됨.
+[^기출_기말_2022_11]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_11번|2022 기말 11번]] — ⑤번 선지: desmosome은 기계적 강도 제공 기능의 cell-cell anchoring junction으로 채널 개폐 기능 없음 (오답).
+[^기출_기말_2025_23]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_23번|2025 기말 23번]] — junctional complex 그림의 c(intermediate filament 연결) = desmosome 단답형.
+

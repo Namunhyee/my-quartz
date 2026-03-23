@@ -15,7 +15,9 @@
 세포가 분열에 진입하면 세포골격이 급격히 재편된다.
 
 - **Microtubule**: interphase의 방사형 배열이 해체되고, 두 개의 centrosome에서 시작하는 **mitotic spindle**을 형성하여 염색체를 양 극으로 분리한다 (Chapter 17). Motor protein인 [[Cell Biology/내용/16. The Cytoskeleton/Microtubules/Motor Proteins/kinesin|kinesin]]과 [[Cell Biology/내용/16. The Cytoskeleton/Microtubules/Motor Proteins/dynein|dynein]]이 방추사 구성과 염색체 이동을 주도한다.
-- **Actin filament**: 세포질분열(cytokinesis) 시 분열면에 actin과 [[Myosin II|myosin II]]로 구성된 **contractile ring**이 형성되어 수축하면서 세포를 두 딸세포로 물리적으로 분리한다.
+- **Actin filament**: 세포질분열(cytokinesis) 시 분열면에 actin과 [[Myosin II|myosin II]]로 구성된 **contractile ring**이 형성되어 수축하면서 세포를 두 딸세포로 물리적으로 분리한다.[^기출_기말_2025_13]
 - **Intermediate filament**: 유사분열 진입 시 kinase에 의한 인산화로 부분적으로 해체된다. Nuclear lamin의 경우 핵막 붕괴와 함께 해체되었다가 분열 후 재조립된다.
 
 이처럼 세포골격의 역동성(dynamics) 덕분에, 세포는 동일한 단백질 풀을 사용하면서도 세포 상태에 따라 기능적으로 완전히 다른 구조를 신속하게 구축할 수 있다.
+
+[^기출_기말_2025_13]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_13번|2025 기말 13번]] — 세포 분열 시 actin filament가 contractile ring 형성(①), 세포 중앙 위치(②), 세포막 분리(③), 분열 후 해체(④) 모두 옳다는 내용이 정답 ①②③④의 근거로 활용됨.

@@ -1,6 +1,6 @@
 # ER-Associated Degradation (ERAD)
 
-ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 ER에서 cytosol로 retrotranslocation하여 proteasome에서 분해하는 quality control mechanism이다.
+ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 ER에서 cytosol로 retrotranslocation하여 proteasome에서 분해하는 quality control mechanism이다.[^기출_중간_2023_26]
 
 ## 개요
 
@@ -28,7 +28,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 **Recognition factors:**
 
 #### Lectins
-- ER-lumenal lectin이 trimmed oligosaccharide 인식
+- ==ER-lumenal lectin이 trimmed oligosaccharide 인식==
 - Binding site on membrane-embedded translocator
 - Substrate를 retrotranslocation machinery로 guide
 
@@ -65,9 +65,9 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 - Cytosol 측면에서 작용
 
 **Function of ubiquitin:**
-- Proteasome recognition signal
-- Backsliding into ER 방지
-- AAA-ATPase의 binding handle
+- ==Proteasome recognition signal==
+- ==Backsliding into ER 방지==
+- ==AAA-ATPase의 binding handle==
 
 ### 4. Extraction
 **AAA-ATPase:** ^95a85b
@@ -83,7 +83,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 ### 5. Deglycosylation
 **N-glycanase:**
 - Cytosolic enzyme
-- N-linked oligosaccharide를 *en bloc* 제거
+- N-linked oligosaccharide를 *en bloc* 제거[^기출_중간_2023_26]
 - Retrotranslocation 후 작용
 
 ### 6. Proteasomal Degradation
@@ -211,3 +211,5 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
 - [[Calnexin and Calreticulin]]
 - [[Ubiquitin-proteasome system]]
+
+[^기출_중간_2023_26]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_26번|2023 중간 26번]] — ③ 옳음: 올바르게 접히지 않은 단백질은 ER에서 세포질로 retrotranslocation되어 N-linked glycosylation이 제거(N-glycanase)되고 polyubiquitination 후 proteasome에서 분해됨(ERAD 경로).

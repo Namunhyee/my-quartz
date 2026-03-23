@@ -24,7 +24,7 @@ Vesicle이 ER에서 분리된 직후:
 
 ### 3. Homotypic Fusion
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
+![[_page_18_Figure_9.jpeg]]
 
 **[[homotypic fusion vs heterotypic fusion|Homotypic fusion]]**:
 - ER-derived vesicle끼리 fusion

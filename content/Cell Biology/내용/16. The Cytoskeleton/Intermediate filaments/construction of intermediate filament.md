@@ -15,8 +15,11 @@
 
 ## 중요한 특성
 
-Intermediate filament subunit은 ATP나 GTP 결합 부위가 없다. 또한 tetramer subunit은 두 dimer가 반대 방향을 향해 구성되므로 양 끝이 동일하다. 따라서 assembled intermediate filament는 **극성(polarity)이 없다** — actin filament나 microtubule과 근본적으로 다른 점이다.
+Intermediate filament subunit은 ATP나 GTP 결합 부위가 없다.[^기출_기말_2025_21] 또한 tetramer subunit은 두 dimer가 반대 방향을 향해 구성되므로 양 끝이 동일하다. 따라서 assembled intermediate filament는 **극성(polarity)이 없다** — actin filament나 microtubule과 근본적으로 다른 점이다.[^기출_기말_2022_5]
 
 Intermediate filament는 쉽게 구부러지지만(persistence length < 1 μm) 끊기가 매우 어렵고, 원래 길이의 3배 이상 늘어날 수 있다. 이는 rope-like 구조에서 비롯된 기계적 특성이다.
 
 Assembly/disassembly는 actin이나 microtubule보다 덜 이해되어 있다. 단백질 인산화가 분해를 조절하는 것으로 보이며, mitosis 시 nuclear lamin 분해가 대표적 예이다. Vimentin처럼 일부 intermediate filament는 세포 내에서 매우 dynamic하게 remodeling된다.
+
+[^기출_기말_2025_21]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_21번|2025 기말 21번]] — Intermediate filament가 ATP를 이용하지 않음(ATP-driven motor 없음, 인산화/탈인산화로 조절)이 정답 ④의 근거로 활용됨.
+[^기출_기말_2022_5]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_5번|2022 기말 5번]] — ①번 선지: coiled-coil tetramer 8개로 조립되는 cytoskeleton 중 방향성(polarity)이 없는 것이 intermediate filament임을 확인하는 문장.

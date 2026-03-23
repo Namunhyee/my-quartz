@@ -114,7 +114,7 @@ Glycolipid의 위치와 구조는 여러 중요한 기능을 시사한다:
 
 ### 3. Cell-recognition Process
 
-Glycolipid는 cell-recognition process에서 기능한다:[^기출_중간_2022_18]
+Glycolipid는 cell-recognition process에서 기능한다:[^기출_중간_2022_18][^기출_중간_2022_18_③]
 
 **메커니즘:**
 - Membrane-bound carbohydrate-binding protein (lectin)
@@ -187,4 +187,5 @@ Glycolipid는 [[Membrane protein|membrane glycoprotein]]과 함께:
 - [[Asymmetry of the lipid bilayer]]
 - [[Lipid bilayer]]
 
-[^기출_중간_2022_18]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — 당지질(glycolipid)이 cell-recognition process에서 기능하며, 세포 표면에서 당단백질과 함께 세포-세포 상호작용에 기여한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_18]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — 당지질(glycolipid)이 cell-recognition process에서 기능하며, 세포 표면에서 당단백질과 함께 세포-세포 상호작용에 기여 (전반적 맥락)
+[^기출_중간_2022_18_③]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — ③번 선지: 당단백질과 당지질은 세포 인식 및 세포-세포 간 상호작용을 촉진 (정답)

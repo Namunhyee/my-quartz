@@ -13,7 +13,7 @@ Plectin은 다음 요소들을 물리적으로 연결한다:
 
 또한 plectin은 [[Cell Biology/내용/16. The Cytoskeleton/SUN-KASH protein complexes|SUN-KASH protein complexes]]와 연결되어 intermediate filament를 핵 내부와 간접적으로 연결하는 다리 역할도 한다.
 
-![[Cell Biology/출처/md converted/Chapter 16/_page_62_Picture_8.jpeg]]
+![[_page_62_Picture_8.jpeg]]
 *Plectin(녹색)이 intermediate filament(파랑)과 microtubule(빨강) 사이를 cross-link하는 전자현미경 이미지. 노란 점은 anti-plectin 항체에 연결된 금 입자.*
 
 ## 질환

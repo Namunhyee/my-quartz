@@ -1,7 +1,7 @@
 # Protein translocation
 
-Transmembrane protein [[Sec61 complex|translocator]]가 cytosol에서 topologically distinct한 공간(membrane의 반대편 또는 integral membrane protein의 경우 lipid bilayer 내부)으로 특정 단백질을 직접 수송한다. 수송되는 단백질 분자는 일반적으로 [[Sec61 complex|translocator]]를 통과하기 위해 펼쳐져야 한다.
-선택된 단백질의 초기 수송이 cytosol에서 [[Endoplasmic Reticulum]] lumen, [[Endoplasmic Reticulum]] membrane, 또는 mitochondria로 이러한 방식으로 발생한다.
+Transmembrane protein [[Sec61 complex|translocator]]가 cytosol에서 topologically distinct한 공간(membrane의 반대편 또는 integral membrane protein의 경우 lipid bilayer 내부)으로 특정 단백질을 직접 수송한다.[^기출_중간_2023_24] 수송되는 단백질 분자는 일반적으로 [[Sec61 complex|translocator]]를 통과하기 위해 펼쳐져야 한다.[^기출_중간_2023_24]
+선택된 단백질의 초기 수송이 cytosol에서 [[Endoplasmic Reticulum]] lumen, [[Endoplasmic Reticulum]] membrane, 또는 mitochondria로 이러한 방식으로 발생한다.[^기출_중간_2023_24]
 
 ## [[Co-translational translocation|Co-translational translocation]]
 ### 1. 개요
@@ -64,3 +64,5 @@ Bacteria는 에너지를 사용할 수 없는 세포 외 공간으로 직접 단
 - [[Co-translational translocation]]
 
 [^1]: A는 Co-translational translocation으로 에너지적으로 자발적.
+
+[^기출_중간_2023_24]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_24번|2023 중간 24번]] — ③ 정답(틀린 것): 수송될 단백질은 translocator를 통과하기 위해 반드시 펼쳐져야(unfold) 한다; fold된 상태로는 통과 불가. ① 옳음: translocator가 cytosol에서 topologically distinct 공간으로 수송. ④ 옳음: ER lumen/membrane 및 미토콘드리아로의 초기 수송이 이 방식으로 일어남.

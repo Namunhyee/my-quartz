@@ -34,7 +34,7 @@
 
 ## 3. 대비 형성 (Contrast Enhancement)
 염색은 초박절편을 만든 직후.
-생체 구성 원소(C, H, O, N)는 atomic number가 낮다. → 전자 산란이 약하다. → 영상 대비가 낮다.
+생체 구성 원소(C, H, O, N)는 atomic number가 낮다. → 전자 산란이 약하다. → 영상 대비가 낮다(밝게 나타남).[^기출_중간_2023_15]
 해결 방법:
 - heavy metal stain 사용 (Os, U, Pb 등)
 <mark style="background:#fff88f">	- uranyl acetate</mark>
@@ -49,7 +49,7 @@
 - 화학적 고정, 탈수, 레진 embedding 과정이 실제 세포 구조를 왜곡할 수 있다.
 ### Cryo-EM 접근 방식
 - <mark style="background:#fff88f">시료를 급속 동결 (vitrification)</mark>
-- <mark style="background:#fff88f">물을 얼음 결정이 아닌 비결정질 유리질 형태로 유지</mark>
+- <mark style="background:#fff88f">물을 얼음 결정이 아닌 비결정질 유리질 형태로 유지</mark>[^기출_중간_2023_15]
 	- <mark style="background:#fff88f">이로써 전자빔에 의해 얼음이 녹지 않는다.</mark>
 - 화학 고정 없이 구조 보존
 ### Cryo-sectioning
@@ -61,3 +61,5 @@
 - Conventional TEM은 fixation → dehydration → resin embedding → ultrathin section 과정을 거친다.
 - heavy metal staining(<font color="#ff0000">negative</font>)은 영상 대비를 증가시킨다.
 - Cryo-EM은 구조 왜곡을 최소화하기 위한 대안적 방법이다.
+
+[^기출_중간_2023_15]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_15번|2023 중간 15번]] — ②번 오답: 생물학적 조직은 원자번호 낮은 C, H, O, N으로 구성되어 전자 산란이 약해 영상 대비가 낮고 밝게 나타난다("더 어둡게"는 틀림). ⑤번 오답: vitrification(급속동결)은 물의 결정화를 방지하여 비결정질(유리질) 얼음 상태를 유지함으로써 생리적 구조를 보존한다("결정화를 진행"은 틀린 설명).

@@ -10,7 +10,7 @@ Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를
 - 각 Rab이 specific organelle/vesicle에 associate
 
 ### Membrane localization
-각 Rab protein은 특정 compartment에 localize:
+각 Rab protein은 특정 compartment에 localize:[^기출_중간_2023_7][^기출_중간_2025_19]
 
 | Rab protein | Organelle/Vesicle                   |
 | ----------- | ----------------------------------- |
@@ -29,9 +29,9 @@ Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를
 ![[Cell Biology/출처/md converted/Chapter 13/_page_12_Picture_2.jpeg]]
 
 ### GDP-bound state (inactive, cytosolic)
-- Rab-GDP는 cytosol에서 soluble
-- **GDI (GDP Dissociation Inhibitor)**에 binding
-- GDI가 Rab을 soluble하게 유지
+- Rab-GDP는 cytosol에서 soluble[^기출_중간_2023_7][^기출_중간_2025_19]
+- **GDI (GDP Dissociation Inhibitor)**에 binding[^기출_중간_2023_7][^기출_중간_2025_19]
+- GDI가 Rab을 soluble하게 유지[^기출_중간_2023_7]
 
 ### Membrane recruitment and activation
 **Step 1: GEF binding**
@@ -45,7 +45,7 @@ Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를
 **Step 3: Membrane insertion**
 - GTP binding으로 Conformational change
 - Lipid anchor (prenyl group) exposure
-- Membrane에 insert
+- Membrane에 insert[^기출_중간_2025_19]
 - GDI release
 
 ### Active state (GTP-bound, membrane)
@@ -60,7 +60,7 @@ Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를
 
 ### Inactivation and membrane release
 **Step 1: GAP activation**
-- Rab GAP가 GTP hydrolysis 촉진
+- Rab GAP가 GTP hydrolysis 촉진[^기출_중간_2025_19]
 - Often at target membrane
 
 **Step 2: GTP → GDP**
@@ -69,9 +69,9 @@ Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를
 - Lipid anchor retraction
 
 **Step 3: GDI binding**
-- GDI가 Rab-GDP에 binding
-- Membrane에서 extract
-- Cytosol로 return
+- GDI가 Rab-GDP에 binding[^기출_중간_2023_7]
+- Membrane에서 extract[^기출_중간_2023_7]
+- Cytosol로 return[^기출_중간_2023_7]
 
 ## Vesicle에서의 Rab activation
 
@@ -98,14 +98,14 @@ Transport vesicle 형성 시:
 
 ### Rab-associated domain formation
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_12_Figure_9.jpeg]]
+![[_page_12_Figure_9.jpeg]]
 
 **Positive feedback mechanism**
 1. Rab GEF가 membrane에서 Rab activate
 2. Active Rab이 더 많은 같은 Rab GEF recruit
 3. More Rab activation
-4. Rab5 예시: PI 3-kinase activate → PI(3)P production
-5. PI(3)P가 Rab effector (tethering protein 포함) binding stabilize
+4. Rab5 예시: PI 3-kinase activate → PI(3)P production[^기출_중간_2025_18]
+5. PI(3)P가 Rab effector (tethering protein 포함) binding stabilize[^기출_중간_2025_18]
 6. Large, specialized membrane patch 형성
 
 ### Organelle identity 부여
@@ -122,7 +122,7 @@ Rab-associated domain이 organelle의 특성 결정:
 ### Long-range tethering
 - Rab effector (filamentous protein)가 vesicle capture
 - 200 nm까지 reach 가능
-- Vesicle의 Rab-GTP와 target membrane의 Rab effector 상호작용. Rab effector는 target membrane의 Rab-GTP와도 상호작용. 여기서 두 Rab는 같은 종류여야함.
+- Vesicle의 Rab-GTP와 target membrane의 Rab effector 상호작용. Rab effector는 target membrane의 Rab-GTP와도 상호작용. 여기서 두 Rab는 같은 종류여야함.[^기출_중간_2025_19]
 
 ### SNARE-mediated docking
 - Rab effector가 SNARE를 selective하게 binding
@@ -151,4 +151,6 @@ Rab cycle의 dysregulation:
 
 [^기출_중간_2021_미상C]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상C번|2021 중간 미상C번]] — Rab effector(tethering protein, motor protein 등)의 역할이 선지 근거로 활용됨.
 [^기출_중간_2022_25]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_25번|2022 중간 25번]] — Rab cycle에서 Rab-GTP가 effector를 모집하고 tethering protein이 vesicle을 target membrane으로 안내하는 과정이 정답 근거로 활용됨.
-[^기출_중간_2023_7]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_7번|2023 중간 7번]] — Rab protein의 특성(GDI와 결합, GEF/GAP 조절, effector 모집)에 대한 선지 ③이 정답.
+[^기출_중간_2023_7]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_7번|2023 중간 7번]] — ①번 선지: GDI는 활성화된 Rab 단백질을 세포질에 용해시킨다 (틀림, GDI는 Rab-GDP(비활성)를 세포질에서 soluble하게 유지, 활성화 상태 아님); ②번 선지: Rab은 한번 활성화되면 하나의 소기관에만 위치하고 다른 곳으로 이동하지 않는다 (틀림, Rab cascade를 통해 소기관 전환 시 Rab 교체); ③번 선지: Rab 단백질은 각 소기관의 위치 특이성을 주는 '주소지' 역할을 한다 (맞음, 각 소기관에 특정 Rab가 위치하여 identity 부여, 정답); ④번 선지: Rab 단백질이 활성화되면 vesicle에서 분리되고 target membrane에서만 기능한다 (틀림, Rab-GTP는 주로 vesicle에 표시되어 tethering 시작, target membrane의 Rab effector와 상호작용); ⑤번 선지: Rab 단백질은 막 안쪽(lumen)에 soluble 상태로 존재하다가 특정 GEF에 의해 membrane에 결합된다 (틀림, Rab은 막의 cytoplasmic face에 결합, lumen이 아님).
+[^기출_중간_2025_18]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_18번|2025 중간 18번]] — ④번 선지: Rab5가 PI3K를 활성화시켜 정확한 위치의 vesicle이 fusion될 수 있게 한다 (맞음, Rab5-GTP가 PI 3-kinase를 activate → PI(3)P 생성 → tethering protein 안정화 → early endosome fusion 촉진).
+[^기출_중간_2025_19]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_19번|2025 중간 19번]] — ①번 선지: GAP에 의해 가수분해가 이루어져야 Rab 단백질이 활성화된다 (틀림, GAP는 GTP 가수분해로 Rab 비활성화, GEF가 GDP→GTP 교환으로 활성화); ②번 선지: Rab은 한번 활성화되면 하나의 소기관에만 위치하고 다른 곳으로 이동하지 않는다 (틀림, Rab cascade로 Rab5→Rab7 전환 등 소기관 정체성 변화); ③번 선지: Rab5 단백질이 시간이 지남에 따라 정체성이 변화되어 Rab7 단백질이 된다 (틀림, 동일 단백질이 전환되는 것이 아니라 다른 Rab 단백질로 교체); ④번 선지: Rab 단백질은 적어도 특정 Rab이 vesicle에 존재해야 target membrane에 있는 Rab이 활성화되어야 한다 (맞음, Rab effector가 target membrane의 tethering에 관여하며 특정 Rab 조합 필요, 정답); ⑤번 선지: Rab 단백질은 세포질(cytosol)에 soluble 상태로 존재하다가 특정 GEF에 의해 vesicle의 내부(lumen)쪽으로 결합된다 (틀림, Rab은 cytoplasmic face에 결합).

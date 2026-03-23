@@ -1,8 +1,8 @@
 # Extracellular Matrix_MOC
 
-Extracellular matrix(ECM)는 세포가 국소적으로 [[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/secretory pathway|분비 경로(ER → Golgi → 세포 외부)]]를 통해 분비하여 조직화된 meshwork로 조립한 많은 단백질과 다당류로 구성된다.[^기출_기말_2022_11][^기출_기말_2022_25]
+Extracellular matrix(ECM)는 세포가 국소적으로 [[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/secretory pathway|분비 경로(ER → Golgi → 세포 외부)]]를 통해 분비하여 조직화된 meshwork로 조립한 많은 단백질과 다당류로 구성된다.
 
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_3_Picture_3.jpeg]]
+![[_page_3_Picture_3.jpeg]]
 *Fibroblast를 둘러싼 extracellular matrix. Extracellular space는 대부분 ECM의 macromolecule network로 채워진다.*
 
 ![[Pasted image 20260219015632.png]]
@@ -32,5 +32,3 @@ Asparagine-linked oligosaccharide를 포함한다. 대표적으로 **fibronectin
 - [[Glycoproteins_MOC]]
 - [[Basal Lamina_MOC]]
 
-[^기출_기말_2022_11]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_11번|2022 기말 11번]] — ECM 구성 성분(collagen, proteoglycan, fibronectin, laminin 등) 특성 문항이 정답 근거로 활용됨. (선지 미복기)
-[^기출_기말_2022_25]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_25번|2022 기말 25번]] — ECM 리모델링과 암 전이 서술형 문항으로, MMP에 의한 ECM 분해, integrin 기반 세포 이동, EMT 과정이 활용됨. (선지 미복기)

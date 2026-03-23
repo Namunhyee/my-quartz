@@ -1,6 +1,6 @@
 # Types of Intermediate Filament
 
-척추동물 세포의 intermediate filament 단백질은 세포 유형과 위치에 따라 크게 네 그룹으로 분류된다 (Table 16–2).[^기출_기말_2022_17][^기출_기말_2023_13]
+척추동물 세포의 intermediate filament 단백질은 세포 유형과 위치에 따라 크게 네 그룹으로 분류된다 (Table 16–2).[^기출_기말_2023_13][^기출_기말_2025_21]
 
 | 유형            | 구성 단백질                                 | 발현 위치                              |
 | ------------- | -------------------------------------- | ---------------------------------- |
@@ -23,8 +23,8 @@
 
 **Neurofilament**는 뉴런 축삭에 고농도로 존재한다. NF-L, NF-M, NF-H의 세 가지 단백질이 coassemble하여 heteropolymer를 형성하며, NF-H와 NF-M의 긴 C-terminal tail domain이 인접 필라멘트를 cross-link하여 일정한 간격의 정렬된 배열을 만든다. 신경전달속도에 영향을 미치는 축삭 직경은 neurofilament 유전자 발현 수준과 직접적으로 연관된다.
 
-![[Cell Biology/출처/md converted/Chapter 16/_page_61_Figure_6.jpeg]]
+![[_page_61_Figure_6.jpeg]]
 *(A) 뉴런 축삭의 neurofilament — NF-H의 C-terminal extension에 의한 cross-bridge. (B) 신경교세포의 glial filament — 가늘고 cross-bridge가 적다. (C) 축삭 횡단면 — neurofilament가 microtubule보다 훨씬 많이 분포.*
 
-[^기출_기말_2022_17]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_17번|2022 기말 17번]] — IF 문항으로, vimentin이 중배엽 기원(mesenchymal) 세포에서 발현되고(선지 ④), IF는 극성(polarity) 없이 조립되며 nucleotide를 필요로 하지 않는다는 내용이 정답 근거로 활용됨.
 [^기출_기말_2023_13]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_13번|2023 기말 13번]] — keratin intermediate filament의 특성(flexible, 극성 없음, nucleotide 불필요, tensile strength 제공)과 desmosome/hemidesmosome 연결을 통한 상피 조직 강화가 정답 근거로 활용됨.
+[^기출_기말_2025_21]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_21번|2025 기말 21번]] — ⑤번 선지: 중간 필라멘트는 세포 유형에 따라 다른 종류가 발현됨(vimentin=섬유아세포, keratin=상피세포, neurofilament=신경세포 등)을 확인하는 문장.

@@ -20,12 +20,12 @@ Co-translational translocation에서 논의된 것처럼, precursor의 signal pe
 Eukaryotic cell은 [[Sec61 complex|Sec61 translocator]]와 연결되는 [[Sec62-Sec63 complex]]라는 accessory protein을 사용하여 단백질을 [[Endoplasmic Reticulum]] lumen으로 당긴다.
 
 ### BiP의 역할
-[[Sec62-Sec63 complex]]는 translocation channel의 lumenal 개구부 인접 위치에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP]])을 배치한다. [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP]]에 의한 ATP 가수분해 구동 결합 및 방출 주기가 precursor가 [[Sec61 complex|Sec61 translocator]]에 초기 삽입된 후 단백질 import의 구동력을 제공한다.
+==[[Sec62-Sec63 complex]]는 translocation channel의 lumenal 개구부 인접 위치에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP]])을 배치한다. [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP]]에 의한 ATP 가수분해 구동 결합 및 방출 주기가 precursor가 [[Sec61 complex|Sec61 translocator]]에 초기 삽입된 후 단백질 import의 구동력을 제공한다.==
 
 ## Bacteria에서의 기전
 
 ### SecA ATPase 사용
-Bacteria는 에너지를 사용할 수 없는 세포 외 공간으로 직접 단백질을 수송하므로 [[SecA ATPase]]라는 cytosolic accessory protein을 사용한다. SecA는 precursor polypeptide에 결합하고 translocator의 cytosolic 측면에 부착되어 ATP 가수분해에 의해 구동되는 주기적 conformational change를 겪는다.
+==Bacteria는 에너지를 사용할 수 없는 세포 외 공간으로 직접 단백질을 수송하므로 [[SecA ATPase]]라는 cytosolic accessory protein을 사용한다. SecA는 precursor polypeptide에 결합하고 translocator의 cytosolic 측면에 부착되어 ATP 가수분해에 의해 구동되는 주기적 conformational change를 겪는다.==
 
 ## 관련 개념
 - [[001_Protein Translocation]]

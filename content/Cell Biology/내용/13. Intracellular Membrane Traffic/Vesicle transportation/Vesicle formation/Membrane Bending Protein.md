@@ -59,7 +59,7 @@ Budding vesicle neck에서 중요한 역할:
 
 ## Actin Polymerization과의 연결
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_7_Picture_2.jpeg]]
+![[_page_7_Picture_2.jpeg]]
 ![[_page_7_Figure_11.jpeg]]
 BAR-domain protein은 actin cytoskeleton과도 상호작용:
 

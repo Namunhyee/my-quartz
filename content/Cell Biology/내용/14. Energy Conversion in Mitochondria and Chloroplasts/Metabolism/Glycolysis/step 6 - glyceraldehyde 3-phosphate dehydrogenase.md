@@ -2,7 +2,7 @@
 
 ## 반응
 
-**G3P + NAD⁺ + Pᵢ → 1,3-bisphosphoglycerate + NADH + H⁺**
+**G3P + NAD⁺ + Pᵢ → 1,3-bisphosphoglycerate + NADH + H⁺**[^기출_기말_2025_3]
 
 ```
 G3P + NAD⁺ + Pᵢ  ──(G3PDH)──→  1,3-bisphosphoglycerate + NADH
@@ -33,3 +33,5 @@ G3P + NAD⁺ + Pᵢ  ──(G3PDH)──→  1,3-bisphosphoglycerate + NADH
 ## 관련
 
 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/step 5 - triose phosphate isomerase|← Step 5]] | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|Glycolysis_MOC]] | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/step 7 - phosphoglycerate kinase|Step 7 →]]
+
+[^기출_기말_2025_3]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_3번|2025 기말 3번]] — Glycolysis에서 NADH를 생성하는 반응으로 G3P → 1,3-BPG (GAPDH 촉매)가 정답 ③의 근거로 활용됨.

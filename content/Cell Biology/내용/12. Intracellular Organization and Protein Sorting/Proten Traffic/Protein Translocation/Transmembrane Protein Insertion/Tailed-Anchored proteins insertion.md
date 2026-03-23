@@ -21,9 +21,9 @@
 
 ### 근본적인 문제
 1. Tail-anchored protein이 번역될 때
-2. Ribosome이 termination codon에 도달하는 시점에
-3. Transmembrane α-helix가 되어야 할 polypeptide sequence가 여전히 **ribosome exit tunnel 내부**에 존재
-4. [[SRP|SRP]]가 이를 인식할 수 없음
+2. ==Ribosome이 termination codon에 도달하는 시점에==
+3. ==Transmembrane α-helix가 되어야 할 polypeptide sequence가 여전히 **ribosome exit tunnel 내부**에 존재==
+4. ==[[SRP|SRP]]가 이를 인식할 수 없음==
 
 ### 결과
 - 단백질이 ribosome에서 **cytosol로 방출**됨
@@ -31,14 +31,14 @@
 
 ## Tail-Anchored Proteins의 막 삽입 메커니즘
 ### 0단계: 번역 완료 & C-말단 노출
-### 1단계: Cytosol에서의 Chaperone 인식
+### 1단계: Cytosol에서의 pre-targeting complex 인식
 
 ![[Cell Biology/출처/md converted/Chapter 12/_page_29_Picture_2.jpeg]]
 
-**Specialized chaperone complex**=pre-targeting complex
-- Hydrophobic segment가 ribosome에서 나온 후 즉시 인식
-- 단백질이 aggregation되거나 misfolding되는 것을 방지
-- Get3 targeting factor로 전달
+Specialized chaperone complex=**==pre-targeting complex==
+- ==Hydrophobic segment가 ribosome에서 나온 후 즉시 인식==
+- ==단백질이 aggregation되거나 misfolding되는 것을 방지==
+- ==**Get3 targeting factor=Get3 ATPase**로 전달==
 
 ### 2단계: Get3에 의한 인식 및 결합
 
@@ -47,19 +47,16 @@
 ![[Cell Biology/출처/md converted/Chapter 12/_page_29_Picture_2.jpeg]]
 
 - Get3는 SRP와 structurally unrelated
-- **Hydrophobic pocket**을 포함:
-  - 많은 methionine side chain으로 구성
+- ==**Hydrophobic pocket**==을 포함:
+  - ==많은 methionine side chain으로 구성==
   - 유연한 unbranched side chain을 가진 methionine의 특성 활용
-- 다양한 크기와 형태의 hydrophobic segment를 인식할 수 있음
+- ==다양한 크기와 형태의 TMS를 인식할 수 있음==
 
-**Methionine 기반 인식의 장점**:
-- Methionine의 unbranched side chain이 plasticity 제공
-- 정확한 sequence에 무관하게 다양한 hydrophobic segment 수용
-- SRP의 methionine 기반 signal sequence 인식과 유사한 원리
 
 ### 3단계: ER 막으로의 Targeting
 
 ![[Cell Biology/출처/md converted/Chapter 12/_page_29_Picture_2.jpeg]]
+**==Get3-TMS 복합체가 Get1-Get2 receptor complex와 결합==**
 
 **Get1-Get2 receptor complex**:
 - ER 막에 위치한 2개 단백질 (Get1과 Get2)로 구성
@@ -70,15 +67,15 @@
 ### 4단계: 막 삽입 및 재활용
 
 **Insertion 과정**:
-1. Get3-cargo complex가 Get1-Get2와 결합, 이 때 ATP hydrolysis energy로 Get3가 TA protein을 넘겨줌.
+1. Get3-cargo complex가 Get1-Get2와 결합, 이 때 ==ATP hydrolysis energy로 Get3가 TA protein을 넘겨줌==.
 2. Get1-Get2가 hydrophobic segment를 막에 삽입
 3. Tail-anchored protein이 ER 막에 고정
-4. Get3가 방출되어 cytosol로 재활용. ADP 해리되고 ATP가 다시 결합함.
+4. ==Get3가 방출되어 cytosol로 재활용. ADP 해리되고 ATP가 다시 결합함.==
 
 ### 결과
 TMS는 ER 막 이중층에 삽입되고, 단백질의 N-말단은 세포질 쪽에 위치.
 
-## SRP-의존적 경로와의 비교
+## [[Co-translational translocation|SRP-의존적 경로]]와의 비교
 
 ### 유사점
 - **개념적 유사성**:

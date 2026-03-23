@@ -47,7 +47,7 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 ### (A) SMLM의 원리
 **가상의 표본에서**: Sparse subsets의 형광 분자들이 개별적으로 짧게 켜진 후 bleached됨. 이러한 모든 잘 분리된 분자들의 정확한 위치를 점진적으로 함께 추가하여 superresolution에서 이미지로 구축할 수 있다.
 
-**Sequential cycles**: 활성화와 bleaching의 연속적인 cycles가 잘 분리된 단일 형광 분자를 검출할 수 있게 함
+**Sequential cycles**: 활성화와 bleaching의 연속적인 cycles가 잘 분리된 단일 형광 분자를 검출할 수 있게 함[^기출_중간_2023_14]
 
 **Image building**: 수만 개의 연속적인 작은 분자 그룹들의 위치가 map에 추가됨에 따라 형광 구조의 superresolution 이미지가 구축됨
 ![[Pasted image 20260305212402.png]]
@@ -112,3 +112,5 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 
 ## 참고 문헌
 Chapter 9: Visualizing Cells and Their Molecules, Section: "Single-Molecule Localization Microscopy Also Delivers Superresolution", Related Figures: 9-31, 9-32, Related concepts: [[deconvolution]], [[SIM(Structured Illumination Microscopy)]], [[STED(Stimulated Emission Depletion)]], [[Confocal Microscope]]
+
+[^기출_중간_2023_14]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_14번|2023 중간 14번]] — 선지 ①(SMLM은 한 번의 광표백 과정이 필요) 오답 근거: SMLM(PALM/STORM)은 수만~수십만 번의 반복적 activation/bleaching cycles가 필요하며 한 번의 광표백으로 완성되지 않음.

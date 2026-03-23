@@ -65,7 +65,7 @@ Coat assembly는 다음에 의해 조절된다:
 - **Procollagen**: 300 nm 길이의 rod → 큰 tubular COPII vesicle 필요
 - **Membrane tubules**: Retromer coat가 형성, membrane protein enrichment에 유리
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_10_Picture_7.jpeg]]
+![[_page_10_Picture_7.jpeg]]
 
 이러한 size와 shape diversity는 다양한 cargo의 transport 요구를 충족시킨다.
 

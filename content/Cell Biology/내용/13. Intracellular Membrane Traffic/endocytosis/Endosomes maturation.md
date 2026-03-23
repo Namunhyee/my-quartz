@@ -2,7 +2,7 @@
 
 **Endosome maturation**은 early endosome이 시간이 지남에 따라 late endosome으로 변화하는 과정이다.[^기출_중간_2022_34]
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_39_Picture_7.jpeg]]
+![[_page_39_Picture_7.jpeg]]
 
 ## Early Endosome의 형성
 
@@ -11,7 +11,7 @@
 
 ### 구조
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_44_Figure_10.jpeg]]
+![[_page_44_Figure_10.jpeg]]
 
 Early endosome은 tubular와 vacuolar domain을 가진다:
 - 대부분의 막 표면은 tubule에 있음
@@ -45,7 +45,7 @@ Endocytosed signaling receptor가 endosome 내부의 intralumenal vesicle로 격
 
 ### Rab5에서 Rab7으로의 전환
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_13_Picture_2.jpeg]]
+![[_page_13_Picture_2.jpeg]]
 
 시간이 지남에 따라, Rab5-associated membrane patch가 Rab7-associated membrane patch로 대체된다:
 - Early endosome (Rab5로 표시됨)이 late endosome (Rab7으로 표시됨)으로 전환
@@ -99,13 +99,13 @@ pH가 점진적으로 낮아지면서:
 
 ## Retrieval Pathway
 ### Early Endosome에서
-![[Cell Biology/출처/md converted/Chapter 13/_page_39_Picture_7.jpeg]]
+![[_page_39_Picture_7.jpeg]]
 
 Transport vesicle이 early endosome의 tubular extension에서 bud off:
 - 선택된 막 단백질을 회수
 - Plasma membrane으로 직접 또는 recycling endosome을 거쳐 반환
 ### Recycling Endosome
-![[Cell Biology/출처/md converted/Chapter 13/_page_45_Picture_2.jpeg]]
+![[_page_45_Picture_2.jpeg]]
 **Recycling endosome**은:
 - Early endosome과 plasma membrane 사이의 중간 역할
 - 필요할 때까지 특정 plasma membrane 단백질을 저장할 수 있음

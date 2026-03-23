@@ -23,14 +23,14 @@ Lipid droplet은 세포의 lipid 저장소 역할을 한다:
 **Fat cell (adipocyte):**
 - Lipid 저장에 특화됨
 - 거대한 lipid droplet 하나가 cytoplasm 대부분을 차지
-- 다른 대부분의 세포: 많은 작은 lipid droplet 보유
+- 다른 대부분의 세포: 많은 작은 lipid droplet 보유[^기출_중간_2022_14_④]
 - 수와 크기는 세포의 metabolic state에 따라 변화
 
 ## 저장되는 Lipid
 
 ### Neutral Lipid
 
-Lipid droplet은 neutral lipid를 저장한다:
+Lipid droplet은 neutral lipid를 저장한다:[^기출_중간_2022_14_②][^기출_중간_2022_14_⑤]
 
 **주요 구성:**
 1. **Triacylglycerol**
@@ -63,7 +63,7 @@ Lipid droplet은 neutral lipid를 저장한다:
 
 ### 표면 단백질
 
-Lipid droplet의 표면은 다양한 protein을 포함한다:
+Lipid droplet의 표면은 다양한 protein을 포함한다:[^기출_중간_2022_14_③]
 - 일부는 lipid metabolism에 관여하는 enzyme
 - Monolayer에 embedded되거나 associated됨
 
@@ -143,4 +143,8 @@ Lipid droplet은 여러 중요한 역할을 한다:
 - [[Major lipids in cell membrane]]
 - [[Amphiphilic molecule]]
 
-[^기출_중간_2022_14]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — Lipid droplet은 다른 세포내 구획들과 달리 인지질 이중층이 아닌 단일층(monolayer)으로 둘러싸여 있다는 특성이 정답 근거로 활용됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_14]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — ①번 선지: Lipid droplet은 단일 인지질층(monolayer)으로 존재하는 소기관 (정답)
+[^기출_중간_2022_14_②]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — ②번 선지: 지질은 인지질(phospholipid) 형태가 아닌 neutral lipid(triacylglycerol, cholesterol ester) 형태로 저장됨 (오답)
+[^기출_중간_2022_14_③]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — ③번 선지: 지질 방울 표면에는 단백질이 embedded/associated됨 (오답)
+[^기출_중간_2022_14_④]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — ④번 선지: Adipocyte뿐만 아니라 다른 대부분의 세포도 lipid droplet을 보유함 (오답)
+[^기출_중간_2022_14_⑤]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_14번|2022 중간 14번]] — ⑤번 선지: 저장되는 지질은 산성 지질이 아닌 neutral lipid(중성 지질)임 (오답)

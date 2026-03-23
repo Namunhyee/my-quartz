@@ -1,6 +1,6 @@
 # Flippase
 
-Flippase는 특정 phospholipid를 membrane의 한쪽 leaflet에서 다른쪽 leaflet로 선택적으로 그리고 단방향으로 이동시키는 transmembrane protein이다. [[Scramblase]]와 달리 flippase는 ATP hydrolysis를 사용하는 active transporter이며, membrane asymmetry를 확립하고 유지하는 데 핵심적인 역할을 한다.
+Flippase는 특정 phospholipid를 membrane의 한쪽 leaflet에서 다른쪽 leaflet로 선택적으로 그리고 단방향으로 이동시키는 transmembrane protein이다.[^기출_중간_2023_28] [[Scramblase]]와 달리 flippase는 ATP hydrolysis를 사용하는 active transporter이며, membrane asymmetry를 확립하고 유지하는 데 핵심적인 역할을 한다.
 
 ## Flippase의 필요성
 
@@ -41,7 +41,7 @@ Flippase는 단방향으로만 phospholipid를 이동시킨다. Energy input이 
 
 ### 선택성
 각 flippase는 특정 phospholipid에 대해 높은 선택성을 보인다:
-- Aminophospholipid flippase: phosphatidylserine과 phosphatidylethanolamine을 특이적으로 이동[^기출_중간_2021_23][^기출_중간_2023_28]
+- Aminophospholipid flippase: phosphatidylserine과 phosphatidylethanolamine을 특이적으로 이동[^기출_중간_2021_23]
 - P4-ATPase family: 다양한 aminophospholipid와 일부 다른 phospholipid를 이동
 
 ## [[Asymmetry of the lipid bilayer|Plasma Membrane Asymmetry]] 확립
@@ -140,4 +140,4 @@ Bile canaliculus의 flippase 결함은 간 질환을 일으킬 수 있다. Bile 
 - [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphoinositide signaling]]
 
 [^기출_중간_2021_23]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_23번|2021 중간 23번]] — Scramblase(ER, ATP 비의존, 양방향, 비특이적)와 Flippase(plasma membrane, ATP 의존, 단방향, PS·PE 특이적)의 구분
-[^기출_중간_2023_28]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_28번|2023 중간 28번]] — Flippase(outer→inner, ATP 의존, PS·PE 특이), Floppase(inner→outer, ATP 의존, PC·SM 특이), Scramblase(양방향, ATP 비의존, 비특이) 빈칸 채우기
+[^기출_중간_2023_28]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_28번|2023 중간 28번]] — Flippase가 ER 합성 후 다른 세포 소기관에서 작동한다는 것을 기억해야함.

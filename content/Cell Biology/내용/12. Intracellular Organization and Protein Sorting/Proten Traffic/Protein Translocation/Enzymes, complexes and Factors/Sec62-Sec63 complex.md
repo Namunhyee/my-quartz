@@ -1,13 +1,13 @@
-# Sec62-Sec63 complex
-
-<mark style="background:#fff88f">Eukaryotic cell에서</mark> [[Post-translational translocation]]을 매개하는 데 필요한 accessory protein complex.
+# ==Sec62-Sec63 complex==
+![[_page_25_Figure_2.jpeg]]
+==<mark style="background:#fff88f">Eukaryotic cell에서</mark> [[Post-translational translocation]]을 매개하는 데 필요한 accessory protein complex. (두번째)==
 
 ## 구조 및 위치
 [[Sec61 complex|Sec61 translocator]]에 부착되어 있으며, [[Endoplasmic Reticulum]] lumen에서 [[Sec61 complex#Channel과 plug|translocation channel]]로부터 나오는 translocating chain에 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 분자가 결합할 수 있는 위치에 배치한다.
 
 ## 기능
 
-### [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 위치 결정
+### [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 부착
 ER lumen에서 [[Sec61 complex|Sec61 translocator]]에 부착되어 translocation channel의 lumenal 개구부 인접 위치에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]])을 위치시킨다.
 
 ### Post-translational translocation 촉진
@@ -15,7 +15,7 @@ ER lumen에서 [[Sec61 complex|Sec61 translocator]]에 부착되어 translocatio
 ### Molecular ratchet 기전
 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]]에 의한 <mark style="background:#fff88f">ATP 가수분해</mark>는 polypeptide를 방출하여 translocating polypeptide의 새로 나온 segment에 다시 결합할 수 있게 한다. 이 에너지 구동 결합 및 방출 주기는 precursor가 [[Sec61 complex|Sec61 translocator]]에 초기 삽입된 후 단백질 import의 구동력을 제공하는 molecular ratchet 역할을 한다.
 - Sliding back을 막고
--  ATP를 이용해 ER lumen으로 chain을 pull한다.
+-  ==ATP를 이용해 ER lumen으로 chain을 pull한다.==
 
 ## 진화적 특이성
 Sec61 complex|Sec61 translocator, SRP, SRP receptor는 모든 생물체에서 발견되지만, Sec62-Sec63 complex는 eukaryotic cell에서만 발견된다.

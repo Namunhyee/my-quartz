@@ -1,14 +1,14 @@
 # Basal Lamina_MOC
 
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_34_Figure_3.jpeg]]
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_35_Picture_1.jpeg]]
+![[_page_34_Figure_3.jpeg]]
+![[_page_35_Picture_1.jpeg]]
 *Basal lamina의 구조. SEM으로 관찰한 basal lamina.*
 
 **Basal lamina** (또는 **basement membrane**)는 특수화된 형태의 extracellular matrix로, 매우 얇고 (40~120 nm), 질기며, 유연한 sheet이다.
 
 ## 위치와 기능
 
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_36_Picture_1.jpeg]]
+![[_page_36_Picture_1.jpeg]]
 
 Basal lamina는 다음 위치에 존재한다:
 - **상피세포 아래**: 상피를 underlying connective tissue와 분리하고 기계적으로 연결

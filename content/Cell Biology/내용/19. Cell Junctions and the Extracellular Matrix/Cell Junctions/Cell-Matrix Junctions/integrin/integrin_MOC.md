@@ -1,9 +1,9 @@
 # integrin_MOC
 
-![[Cell Biology/출처/md converted/Chapter 19/_page_42_Figure_6.jpeg]]
+![[_page_42_Figure_6.jpeg]]
 *Active integrin 분자의 subunit 구조. Extracellular matrix를 actin cytoskeleton에 연결한다. N-terminal head가 extracellular protein (예: fibronectin)에 부착하고, C-terminal intracellular tail (특히 β subunit)이 adaptor protein과 결합하여 actin filament와 상호작용한다.*
 
-**Integrin**은 동물 세포가 extracellular matrix에 결합하는 데 사용하는 주요 cell-surface receptor이다.[^기출_기말_2022_10] Transmembrane linker로서 ECM과 cytoskeleton을 연결한다.
+**Integrin**은 동물 세포가 extracellular matrix에 결합하는 데 사용하는 주요 cell-surface receptor이다.[^기출_기말_2022_12][^기출_기말_2022_14] Transmembrane linker로서 ECM과 cytoskeleton을 연결한다.
 
 ## 기본 구조
 
@@ -16,7 +16,7 @@
 
 ### Extracellular Binding
 - ECM 단백질의 특정 amino acid sequence motif에 결합
-- **RGD sequence** (Arg-Gly-Asp): [[Fibronectin|fibronectin]] 등에서 발견되는 주요 결합 motif[^기출_기말_2022_22][^기출_기말_2023_28]
+- **RGD sequence** (Arg-Gly-Asp): [[Fibronectin|fibronectin]] 등에서 발견되는 주요 결합 motif[^기출_기말_2023_28]
 - **LDV sequence**: 다른 integrin 결합 motif
 - [[Laminin|Laminin]]과 [[Collagen|collagen]]의 특정 서열
 
@@ -38,7 +38,7 @@ Integrin은 단순한 기계적 linker가 아니라 **양방향 신호 전달** 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_54_Picture_1.jpeg]]
 *Integrin의 active와 inactive conformation. Inactive (folded) 상태에서 active (extended) 상태로 전환되며, 이 conformational change가 extracellular 및 intracellular binding site를 동시에 노출시킨다.*
 
-## 세포-세포 상호작용에서의 Integrin
+## 세포-세포 상호작용에서의 Integrin[^기출_기말_2022_17]
 
 - [[Integrins in Cell-to-Cell interaction]]
 
@@ -69,8 +69,9 @@ Integrin은 단순한 기계적 linker가 아니라 **양방향 신호 전달** 
   - [[vinculin]]
   - [[NCAM and ICAM]]
 
-[^기출_기말_2022_10]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_10번|2022 기말 10번]] — integrin의 구조(α+β heterodimer), inside-out/outside-in signaling, focal adhesion 구성(talin, vinculin, FAK) 내용이 정답 근거로 활용됨. (선지 미복기)
-[^기출_기말_2022_22]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_22번|2022 기말 22번]] — fibronectin RGD 서열이 integrin 세포외 도메인과 결합한다는 내용(정답②)이 정답 근거로 활용됨.
+[^기출_기말_2022_12]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_12번|2022 기말 12번]] — ⑤번 선지: focal adhesion(integrin 기반 cell-ECM adhesion)은 desmoglein-3과 무관 (오답).
+[^기출_기말_2022_14]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_14번|2022 기말 14번]] — ①번 선지: integrin은 세포막의 ECM receptor(transmembrane linker)로 ECM 자체가 아님 (오답).
+[^기출_기말_2022_17]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_17번|2022 기말 17번]] — WBC extravasation에서 P-selectin(lectin domain)이 rolling 단계를 시작. 정답 ②.
 [^기출_기말_2023_28]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_28번|2023 기말 28번]] — fibronectin RGD(Arg-Gly-Asp) → integrin 결합이 정답 근거로 활용됨.
 [^기출_기말_2023_31]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_31번|2023 기말 31번]] — talin이 integrin β-subunit에 직접 결합하여 actin cytoskeleton과 연결하는 내용이 정답 근거로 활용됨.
 [^기출_기말_2023_32]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_32번|2023 기말 32번]] — inactive integrin(bent/closed, α-β clasp) vs active integrin(extended/open, α-β 분리) 구조 차이가 정답 근거로 활용됨.

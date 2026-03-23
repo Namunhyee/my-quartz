@@ -7,14 +7,14 @@
 
 ## Ran의 두 상태
 
-- **Ran-GTP**: 핵에 주로 존재
-- **Ran-GDP**: 세포질에 주로 존재
+- **Ran-GTP**: 핵에 주로 존재[^기출_중간_2025_15]
+- **Ran-GDP**: 세포질에 주로 존재[^기출_중간_2025_15]
 
 이 gradient를 만드는 요인:
-- **Ran GAP** (GTPase-activating protein): 세포질에 위치, Ran-GTP → Ran-GDP 전환 촉진
-- **Ran GEF** (guanine nucleotide exchange factor): 핵 chromatin에 결합, Ran-GDP → Ran-GTP 전환 촉진
+- **Ran GAP** (GTPase-activating protein): 세포질에 위치, Ran-GTP → Ran-GDP 전환 촉진[^기출_중간_2023_25]
+- **Ran GEF** (guanine nucleotide exchange factor): 핵 chromatin에 결합, Ran-GDP → Ran-GTP 전환 촉진[^기출_중간_2023_25]
 
-두 조절 단백질의 위치 차이가 Ran의 상태 gradient를 만들고, 이것이 수송의 방향성을 결정한다.[^기출_중간_2021_18][^기출_중간_2023_25]
+두 조절 단백질의 위치 차이가 Ran의 상태 gradient를 만들고, 이것이 수송의 방향성을 결정한다.[^기출_중간_2021_18][^기출_중간_2025_15]
 
 ## 핵 수입에서의 역할
 ![[_page_58_Figure_6.jpeg]]
@@ -22,7 +22,7 @@
 
 1. Import receptor가 세포질에서 NLS cargo와 결합 (Ran-GDP 상태에서 가능)
 2. Receptor–cargo 복합체가 FG repeat를 이용해 NPC를 통과
-3. 핵 안에서 **Ran-GTP**가 receptor에 결합 → receptor가 cargo를 해리
+3. 핵 안에서 **Ran-GTP**가 receptor에 결합 → receptor가 cargo를 해리[^기출_중간_2023_25][^기출_중간_2025_15]
 4. Cargo는 핵에 방출됨
 5. Ran-GTP와 결합한 empty receptor가 NPC를 통해 세포질로 되돌아감
 6. 세포질의 **Ran GAP**이 Ran-GTP 가수분해 유도 → Ran-GDP 생성
@@ -40,7 +40,8 @@ Import와 반대 방향으로 작동:
 
 ## 에너지 원천
 
-Ran-GTP 가수분해의 자유에너지가 수송의 방향성을 부여하는 에너지원이다. GTP 가수분해는 세포질쪽에서만 일어나므로 수송이 일방향으로 rectify된다.
+Ran-GTP 가수분해의 자유에너지가 수송의 방향성을 부여하는 에너지원이다.[^기출_중간_2025_15] GTP 가수분해는 세포질쪽에서만 일어나므로 수송이 일방향으로 rectify된다.
 
 [^기출_중간_2021_18]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_18번|2021 중간 18번]] — 핵과 세포질 사이 단백질 수송의 방향성을 제공하는 기전: RanGEF는 핵 chromatin에, RanGAP는 세포질에 존재하여 Ran-GTP/GDP 농도 구배를 만들고, 이 구배가 수입·수출의 방향을 결정함. 복기 불완전. (선지 미복기)
-[^기출_중간_2023_25]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_25번|2023 중간 25번]] — 핵과 세포질 사이 물질 교환에서 RanGDP는 핵 안에서 RanGTP로 전환된다(RanGEF의 역할)는 선지 ②가 정답. RanGAP는 세포질에 위치한다는 내용 확인 포함. 복기 완성.
+[^기출_중간_2023_25]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_25번|2023 중간 25번]] — ① 정답(바르게 된 것): 핵막은 이중막이며 외막은 ER과 연속적. ③ 오답: NLS는 negatively charged가 아닌 positively charged(Lys/Arg) 아미노산으로 구성. ⑤ 오답 근거: 세포질 RanGAP가 RanGTP를 가수분해하여 RanGDP로 전환함으로써 importin에서 cargo가 해리되는 것이 아니라 핵 내 Ran-GTP가 importin에서 cargo를 방출시킴.
+[^기출_중간_2025_15]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_15번|2025 중간 15번]] — ③ 틀림(정답): Ran-GTP는 핵 내에서 높고 세포질에서 낮음(선지는 반대로 기술). ④ 옳음: Ran GTP 가수분해로 수송 방향성 에너지 제공. ⑤ 옳음: 핵 내 Ran-GTP가 importin에 결합하면 cargo 방출.

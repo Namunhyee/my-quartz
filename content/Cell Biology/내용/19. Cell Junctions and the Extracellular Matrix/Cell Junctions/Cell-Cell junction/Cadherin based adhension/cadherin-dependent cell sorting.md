@@ -8,7 +8,7 @@ Cadherin은 세포 표면을 무차별적으로 끈끈하게 만드는 접착제
 
 1950년대 실험에서 양서류 초기 배아를 단세포로 분산시킨 뒤 무작위로 혼합하면 세포들이 다시 조직 유래에 맞게 재배열되는 것이 확인되었다.
 
-![[Cell Biology/출처/md converted/Chapter 19/_page_5_Picture_8.jpeg]]
+![[_page_5_Picture_8.jpeg]]
 *Figure 19-7. 초기 양서류 배아의 중배엽(초록), 신경판(파랑), 외배엽(빨강) 세포를 분산 후 무작위로 재집합시켰을 때, 원래 배아와 유사한 배열로 분류된다(신경관이 내부, 표피가 외부).*
 
 ### Cadherin 발현 변화와 발생
@@ -24,7 +24,7 @@ Cadherin은 세포 표면을 무차별적으로 끈끈하게 만드는 접착제
 
 Cadherin을 발현하지 않는 L cell(섬유아세포 계통)에 E-cadherin을 도입하면 cell–cell adhesion이 형성된다. 다른 cadherin을 발현하는 L cell을 혼합하면 각자 응집하여 분리된다.
 
-![[Cell Biology/출처/md converted/Chapter 19/_page_6_Figure_5.jpeg]]
+![[_page_6_Figure_5.jpeg]]
 *Figure 19-9. (A) N-cadherin 발현 세포와 E-cadherin 발현 세포가 서로 분리되어 응집한다. (B) 같은 cadherin이라도 발현 수준이 높은 세포가 내부에, 낮은 세포가 외부에 분포한다.*
 
 따라서 cadherin의 **질적(어떤 종류인가)** 차이뿐 아니라 **양적(얼마나 많은가)** 차이도 조직 조직화에 기여한다.

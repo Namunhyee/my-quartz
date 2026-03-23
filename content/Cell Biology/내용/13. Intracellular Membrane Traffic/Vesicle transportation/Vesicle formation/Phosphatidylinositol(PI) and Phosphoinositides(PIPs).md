@@ -2,14 +2,14 @@
 
 ## 개요
 
-Phosphoinositides (PIPs)는 membrane의 약 10% 미만을 차지[^1]하지만 중요한 regulatory function을 가진다.[^기출_중간_2022_22][^기출_중간_2023_3] 이들은 organelle과 membrane domain의 molecular marker로 작용하며, vesicle transport의 여러 단계를 조절한다.
+Phosphoinositides (PIPs)는 membrane의 약 10% 미만을 차지[^1]하지만 중요한 regulatory function을 가진다.[^기출_중간_2022_22][^기출_중간_2023_3][^기출_중간_2025_2] 이들은 organelle과 membrane domain의 molecular marker로 작용하며, vesicle transport의 여러 단계를 조절한다.
 
 ## 구조와 생성
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_6_Figure_2.jpeg]]
-PI(3,4,5) P3=phosphatidylinositol 3,4,5-trisphosphate[^2]
+PI(3,4,5) P3=phosphatidylinositol 3,4,5-trisphosphate[^2][^기출_중간_2023_3][^기출_중간_2025_2]
 ### Phosphatidylinositol (PI)
-- Inositol sugar head group을 가진 phospholipid[^3]
+- Inositol sugar head group을 가진 phospholipid[^3][^기출_중간_2023_3][^기출_중간_2025_2]
 - Head group의 3', 4', 5' position에 free hydroxyl group 존재
 
 ### Phosphoinositide (PIP) 생성
@@ -31,8 +31,8 @@ Inositol ring의 hydroxyl group이 phosphorylation되어 다양한 PIP 생성:
 - **ER**: PI predominant
 
 ### Enzyme Localization
-- PI and PIP kinase와 PIP phosphatase의 distribution이 highly compartmentalized
-- 이들 enzyme의 distribution, regulation, local balance가 각 PIP species의 steady-state distribution 결정
+- PI and PIP kinase와 PIP phosphatase의 distribution이 highly compartmentalized[^기출_중간_2023_3][^기출_중간_2025_2]
+- 이들 enzyme의 distribution, regulation, local balance가 각 PIP species의 steady-state distribution 결정[^기출_중간_2023_3][^기출_중간_2025_2]
 
 ## PIP-binding Domain을 통한 Protein Recruitment
 
@@ -112,4 +112,5 @@ Vesicle transport 외에도 PIP는 intracellular signaling에 중요:
 [^3]: [[2023 세포생물학 중간고사 문제지.pdf#page=1&selection=336,0,353,2|인지질의 글리세롤 대신 이노시톨 (inositol)이 붙어있는 것이 PI이다.]]
 
 [^기출_중간_2022_22]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_22번|2022 중간 22번]] — 각 compartment의 특이적 PIP 분포(plasma membrane: PI(4,5)P₂, early endosome: PI(3)P 등)와 vesicle transport 조절 기능이 정답 근거로 활용됨.
-[^기출_중간_2023_3]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_3번|2023 중간 3번]] — PI/PIP의 compartment 특이적 분포와 coat assembly 조절에 관한 선지 ⑤가 정답.
+[^기출_중간_2023_3]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_3번|2023 중간 3번]] — ①번 선지: 세포막을 이루는 지질의 50% 정도를 차지한다 (틀림, 막 지질의 약 10% 미만, 소수 성분); ②번 선지: 한번 생성되면 같은 종류로만 전환된다 (틀림, kinase/phosphatase에 의해 다양하게 인산화 위치 변환 가능); ③번 선지: PI(3,4,5)P₃를 phosphatidylinositol 3,4,5-tri-phosphate라고 읽는다 (틀림, trisphosphate가 올바른 명칭); ④번 선지: 인지질의 글리세롤 대신 이노시톨(inositol)이 붙어있는 것이 PI이다 (틀림, inositol은 글리세롤을 대체하는 것이 아니라 phosphate를 통해 glycerol의 세 번째 탄소에 연결됨); ⑤번 선지: 작용하는 각 kinase와 phosphatase의 분포가 각 소기관마다 다르다 (맞음, 소기관별 분포 enzyme 차이가 PIP 위치 특이성 결정, 정답).
+[^기출_중간_2025_2]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_2번|2025 중간 2번]] — ①번 선지: 세포막을 이루는 지질의 50%정도를 차지한다 (틀림, 소수 성분 1~2%); ②번 선지: PI는 한번 생성되면 다른 PIP로 전환될 수 없다 (틀림, kinase/phosphatase에 의해 상호전환 가능); ③번 선지: PI는 인지질의 글리세롤 대신 이노시톨(inositol)이 붙어있는 지질이다 (틀림, 인산기를 통해 글리세롤 세 번째 위치에 연결, 대체 아님); ④번 선지: PI(3,4,5)P₃를 phosphatidylinositol 3,4,5-triphosphate라고 읽는다 (틀림, 올바른 명칭은 trisphosphate); ⑤번 선지: 각 kinase와 phosphatase의 분포가 각 소기관마다 달라 PIPs의 위치 특이성이 생긴다 (맞음, 소기관별 PIP 분포를 결정하는 enzyme 분포가 다름, 정답).

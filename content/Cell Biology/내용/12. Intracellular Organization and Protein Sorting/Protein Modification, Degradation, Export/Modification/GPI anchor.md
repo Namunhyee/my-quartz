@@ -9,10 +9,10 @@
 
 GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipid 구조이다:
 ![[Pasted image 20260204122435.png]]
-- **Inositol**: lipid에 부착되어 있으며, 이로부터 GPI anchor의 이름이 유래
-- **Glucosamine**: Inositol에 연결
-- **3개의 Mannose**: sugar chain 형성
-- **Phosphoethanolamine**: terminal mannose에 연결되어 단백질 부착을 위한 amino group 제공
+- ==**Inositol**: lipid에 부착되어 있으며, 이로부터 GPI anchor의 이름이 유래==
+- ==**Glucosamine**: Inositol에 연결==
+- ==**3개의 Mannose**: sugar chain 형성==
+- ==**Phosphoethanolamine**: terminal mannose에 연결되어 단백질 부착을 위한 amino group 제공==
 - **Lipid 부분**: 막에 anchor를 고정
 
 ## GPI Anchor 부착 메커니즘
@@ -30,8 +30,8 @@ GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipi
 ### 3단계: Transamidase에 의한 GPI anchor 부착
 단백질 합성 완료 직후 (1분 이내), **transamidase** enzyme complex가 다음과 같은 반응을 촉매한다:
 
-1. **절단 반응**: C-말단 hydrophobic sequence를 단백질에서 제거
-2. **부착 반응**: 미리 조립된 GPI intermediate를 새로운 C-말단에 동시에 부착
+1. ==**절단 반응**: C-말단 hydrophobic sequence를 단백질에서 제거==
+2. ==**부착 반응**: 미리 조립된 GPI intermediate를 새로운 C-말단에 동시에 부착==
 
 이 반응은 ER에서 일어나며, GPI intermediate의 phosphoethanolamine에 있는 amino group이 단백질의 새로운 C-말단과 **amide bond**[^1]를 형성한다.
 ![[Cell Biology/출처/md converted/Chapter 12/_page_30_Picture_2.jpeg]]

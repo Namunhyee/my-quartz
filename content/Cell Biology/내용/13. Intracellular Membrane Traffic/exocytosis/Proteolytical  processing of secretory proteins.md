@@ -207,3 +207,5 @@ Proinsulin:
 ## 요약
 
 Secretory protein의 proteolytic processing은 단백질이 적절한 시간과 장소에서 활성을 발휘하도록 하는 중요한 조절 메커니즘이다. Pre-pro-protein이나 polyprotein 형태로 합성된 단백질들은 secretory pathway를 통과하면서 단계적으로 processing되며, 특히 secretory vesicle의 acidic 환경에서 주요 활성화가 일어난다. 이러한 processing은 세포를 보호하고, 짧은 peptide의 합성을 가능하게 하며, 하나의 precursor에서 다양한 최종 산물을 만들어낼 수 있게 한다.
+
+[^기출_중간_2025_30]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_30번|2025 중간 30번]] — ①번 선지: 단백질은 소포체 상태에서는 소포체로부터 분리될 수 없는 단백질이다 (틀림, secretory vesicle에서 processing 후 분비, ER 상태에서는 전구체); ②번 선지: 단백질은 특수한 신호로 전환되어야만 통과 할 수 있기 때문이다 (틀림, proteolytic processing의 주된 이유는 신호 전환이 아닌 활성화 조절); ③번 선지: proteolytic processing은 단백질의 크기를 줄이기 위한 이유이기 때문이다 (틀림, 크기 조절이 주된 이유가 아님); ④번 선지: 일부 단백질은 세포질에서 바로 활성화되면 세포 항상성 유지가 어려울 것이라 때문이다 (맞음, 전구단백질이 secretory vesicle에서만 활성화됨으로써 세포 내부 손상 방지, 정답); ⑤번 선지: 일부 단백질은 나중에 활성화되면 모두 같은 방식으로 바로 활성 형태로 분비되기 때문이다 (틀림, 동일 precursor도 세포 유형별로 다른 최종 산물 생성 가능).

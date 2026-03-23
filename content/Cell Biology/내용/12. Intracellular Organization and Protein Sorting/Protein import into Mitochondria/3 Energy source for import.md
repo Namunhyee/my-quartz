@@ -6,7 +6,7 @@
 ![[Cell Biology/출처/md converted/Chapter 12/_page_46_Figure_6.jpeg]]
 - **위치**: Cytosol
 - **역할**: Precursor protein을 unfolded 상태로 유지
-- Cytosolic hsp70 chaperone이 ATP 결합·가수분해 사이클을 통해 precursor 단백질과 결합/해리를 반복
+- Cytosolic hsp70 chaperone이 ATP 결합·가수분해 사이클을 통해 precursor 단백질과 결합/해리를 반복[^기출_중간_2025_16]
 - Chaperone과의 결합이 단백질의 조기 폴딩이나 aggregation을 방지
 - TOM complex에 결합할 때 chaperone이 해리됨
 
@@ -17,7 +17,7 @@
 - **위치**: Inner mitochondrial membrane을 가로지르는 전기화학적 H⁺ 기울기
 - **역할**: Signal sequence의 TIM23 복합체 통과를 구동
 - Inner membrane을 통해 H⁺을 matrix에서 intermembrane space로 퍼냄으로써 막전위(양전하가 intermembrane space 쪽에 더 높음)가 형성됨 (→ 전자 전달계에 의해 유지)
-- Precursor protein의 N-terminal signal sequence에 있는 **양전하 아미노산**이 이 막전위에 의해 electrophoresis 방식으로 matrix 방향으로 끌려들어감
+- Precursor protein의 N-terminal signal sequence에 있는 **양전하 아미노산**이 이 막전위에 의해 electrophoresis 방식으로 matrix 방향으로 끌려들어감[^기출_중간_2025_16]
 - 이 막전위는 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex V (ATP synthase)|ATP synthase]]가 대부분의 세포 ATP를 합성하는 데 사용하는 동일한 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Chemiosmotic coupling|H⁺ 기울기]]이기도 함
 
 ## 3a. ATP 가수분해 — Mitochondrial hsp70 (Matrix 내에서 끌어당김)
@@ -37,6 +37,8 @@
 - 이 공유결합이 단백질이 cytosol 방향으로 backslide하는 것을 방지
 - 결국 단백질 내에 intrachain disulfide 결합이 형성되면서 폴딩됨 → intermembrane space에 갇힘
 - **Mia40 재생**: 환원된 Mia40이 전자를 전자 전달계에 전달하여 재산화됨
+
+[^기출_중간_2025_16]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_16번|2025 중간 16번]] — ② 옳음: 세포질 hsp70이 unfolded 상태 유지, TOM/TIM23 통과. ③ 옳음: 막전위(ΔΨ)와 mtHsp70 ATP 가수분해로 완전 수입. ⑤ 틀림: matrix targeting sequence는 MPP에 의해 절단됨.
 
 [^기출_중간_2021_20]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_20번|2021 중간 20번]] — 세포질→미토콘드리아 단백질 수송 3가지 경로: ① Matrix (TOM+TIM23, Δψ+ATP), ② Inner membrane (TOM+TIM22, Δψ), ③ IMS (MIA 경로, disulfide 형성)
 [^기출_중간_2021_미상D]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상D번|2021 중간 미상D번]] — 미토콘드리아 Matrix 단백질 수입 3단계: 1) TOM 통과(에너지 불필요), 2) TIM23 통과(막전위 Δψ), 3) mtHsp70 완전 수입(ATP)

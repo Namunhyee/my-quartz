@@ -2,7 +2,7 @@
 
 ## 개요
 
-**미토콘드리아(Mitochondria)**는 진핵세포에서 ATP를 대량 생산하는 핵심 에너지 전환 소기관이다.[^기출_기말_2022_12] 세포질 부피의 최대 20%를 차지하며, 단순히 ATP 공장에 그치지 않고 다양한 대사·신호 기능을 수행한다.
+**미토콘드리아(Mitochondria)**는 진핵세포에서 ATP를 대량 생산하는 핵심 에너지 전환 소기관이다. 세포질 부피의 최대 20%를 차지하며, 단순히 ATP 공장에 그치지 않고 다양한 대사·신호 기능을 수행한다.
 
 ---
 
@@ -73,5 +73,3 @@
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/mtDNA heteroplasmy|mtDNA heteroplasmy]] — 정상 + 돌연변이 mtDNA 혼합 상태
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Segregation of mitochondrial DNA|Segregation of mitochondrial DNA]] — 모계 유전과 mitotic segregation
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Human diseases associated with mtDNA|Human diseases associated with mtDNA]] — mtDNA 돌연변이와 질환
-
-[^기출_기말_2022_12]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_12번|2022 기말 12번]] — 에너지 변환 소기관(미토콘드리아, 엽록체)의 이중막 구조, 리보솜 보유, inner membrane/thylakoid membrane에서 ATP 합성이 이루어진다는 내용이 정답 ④의 근거로 활용됨.

@@ -23,7 +23,7 @@ Specialized fusion protein이 energy barrier 극복:
 
 세포 내 대부분의 membrane fusion은 **[[SNARE|SNARE protein]]**에 의해 매개된다.
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_8.jpeg]]
+![[_page_14_Figure_8.jpeg]]
 
 ### SNARE의 특징
 
@@ -50,7 +50,7 @@ Specialized fusion protein이 energy barrier 극복:
 
 ## Membrane Fusion Process
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_9.jpeg]]
+![[_page_14_Figure_9.jpeg]]
 
 ### 단계별 과정
 
@@ -97,7 +97,7 @@ SNARE pairing은 highly specific:
 
 ## Trans-SNARE Complex Disassembly
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_9.jpeg]]
+![[_page_14_Figure_9.jpeg]]
 
 Fusion 후 SNARE는 재사용을 위해 분리되어야 함:
 
@@ -143,7 +143,7 @@ Fusion 후 destination compartment에서:
 - 같은 종류의 membrane끼리 fusion
 - 양쪽 membrane에 v-SNARE와 t-SNARE 모두 존재
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
+![[_page_18_Figure_9.jpeg]]
 
 **예시**:
 - [[Transportation from the ER Through the Golgi Apparatus_MOC#Vesicular tubular cluster|ER-derived vesicle]]끼리 fusion하여 vesicular tubular cluster 형성

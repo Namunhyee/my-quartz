@@ -19,7 +19,7 @@ $$\Delta G = \Delta G° + RT \ln \frac{[\text{products}]}{[\text{reactants}]}$$
 
 ## 연계 반응 (Coupled Reactions)
 
-비자발적 반응(ΔG > 0)은 자발적 반응(ΔG < 0)과 **coupling**하여 진행될 수 있다.
+비자발적 반응(ΔG > 0)은 자발적 반응(ΔG < 0)과 **coupling**하여 진행될 수 있다.[^기출_기말_2023_1]
 
 예시: ATP 가수분해(ΔG = −46 ~ −54 kJ/mol)를 이용해 에너지 비용이 드는 반응 구동.
 
@@ -40,7 +40,7 @@ $$\Delta G° = -n(0.096)\Delta E'_0$$
 - H₂O/O₂ E'₀ = +820 mV
 - ΔE'₀ = 1140 mV → 매우 자발적 (ΔG° ≈ −219 kJ/mol for 2e⁻)
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_14_Picture_19.jpeg]]
+![[_page_14_Picture_19.jpeg]]
 *Panel 14-1: Redox potential 측정 방법과 ΔG 계산.*
 
 ## 관련 개념
@@ -48,3 +48,5 @@ $$\Delta G° = -n(0.096)\Delta E'_0$$
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Bond Energy|Bond Energy]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Activation energy|Activation energy]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]]
+
+[^기출_기말_2023_1]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_1번|2023 기말 1번]] — ③번 선지: ATP 가수분해(exergonic)와 비자발적 반응(endergonic)을 coupling하면 전체 반응을 자발적으로 만들 수 있다 → 옳은 선지.

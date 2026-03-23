@@ -1,4 +1,4 @@
-# SecA ATPase
+# ==SecA ATPase==
 
 <mark style="background:#fff88f">Bacteria</mark>에서 [[Post-translational translocation]]을 매개하는 cytosolic accessory protein.
 

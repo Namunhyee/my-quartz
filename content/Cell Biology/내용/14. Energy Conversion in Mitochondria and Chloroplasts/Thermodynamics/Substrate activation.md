@@ -12,7 +12,7 @@
 
 ## 예시: ATP를 이용한 기질 활성화
 
-에너지가 필요한 반응에서 기질은 먼저 **phosphorylation**을 통해 활성화된다:
+에너지가 필요한 반응에서 기질은 먼저 **phosphorylation**을 통해 활성화된다:[^기출_기말_2023_1]
 
 $$\text{Substrate} + \text{ATP} \rightarrow \text{Substrate-P} + \text{ADP}$$
 
@@ -33,3 +33,5 @@ $$\text{Fatty acid} + \text{CoA} + \text{ATP} \rightarrow \text{Acyl CoA} + \tex
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Enzyme reactions|Enzyme reactions]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/beta-oxidation_MOC|Beta-oxidation]]
+
+[^기출_기말_2023_1]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_1번|2023 기말 1번]] — ⑤번 선지: Substrate activation은 효소 인산화(enzyme phosphorylation)가 아니라, 기질(substrate) 자체를 인산화하여 활성 중간체를 만드는 방식 → 선지 설명이 틀린 내용으로 지적된 선지.

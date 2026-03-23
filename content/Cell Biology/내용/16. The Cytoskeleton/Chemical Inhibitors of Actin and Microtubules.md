@@ -1,6 +1,6 @@
 # Chemical Inhibitors of Actin and Microtubules
 
-세포골격 필라멘트를 안정화하거나 불안정화하는 화학물질들은 세포 내에서 각 필라멘트의 역할을 연구하는 강력한 도구이다.[^기출_기말_2022_2][^기출_기말_2023_18][^기출_기말_2023_19][^기출_기말_2023_20] 이 약물들은 세포골격 필라멘트가 역동적 평형(dynamic equilibrium) 상태에서 기능한다는 것을 보여주며, 특히 분열 중인 세포를 우선적으로 사멸시키는 특성 때문에 항암 치료에도 응용된다.
+세포골격 필라멘트를 안정화하거나 불안정화하는 화학물질들은 세포 내에서 각 필라멘트의 역할을 연구하는 강력한 도구이다.[^기출_기말_2022_13][^기출_기말_2023_18][^기출_기말_2023_19][^기출_기말_2023_20] 이 약물들은 세포골격 필라멘트가 역동적 평형(dynamic equilibrium) 상태에서 기능한다는 것을 보여주며, 특히 분열 중인 세포를 우선적으로 사멸시키는 특성 때문에 항암 치료에도 응용된다.
 
 ## Table 16–1 Chemical Inhibitors of Actin and Microtubules
 
@@ -27,7 +27,7 @@ Microtubule의 중합 또는 탈중합을 방해하는 약물들은 살아있는
 
 **Colchicine**은 가을 크로커스(autumn crocus)에서 유래하며 tubulin subunit에 결합하여 필라멘트 말단을 cap한다. **Nocodazole**은 합성 약물로 tubulin subunit에 결합하여 중합을 억제한다. **Taxol(paclitaxel)**은 주목나무(yew tree)에서 유래하며 microtubule 측면에 결합하여 탈중합을 방지하고 중합을 촉진한다. Taxol은 특히 유방암과 폐암 치료에 널리 사용되며, 다른 항암제에 저항성을 보이는 종양에도 효과적인 경우가 많다. 단, 골수, 장, 모낭 등 정상적으로 빠르게 분열하는 세포에도 독성을 나타낸다.
 
-[^기출_기말_2022_2]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_2번|2022 기말 2번]] — microtubule dynamics 관련 문항으로, taxol(microtubule 안정화)과 colchicine(불안정화)의 기전이 정답 근거로 활용됨. (선지 미복기)
+[^기출_기말_2022_13]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_13번|2022 기말 13번]] — Taxol, colchicine의 약효 기전: microtubule에 결합하여 세포분열 교란. 정답 ①.
 [^기출_기말_2023_18]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_18번|2023 기말 18번]] — taxol이 microtubule을 과안정화(hyperstabilization)하여 항암 효과와 함께 말초신경병증(peripheral neuropathy) 부작용을 유발한다는 내용이 정답 근거로 활용됨.
 [^기출_기말_2023_19]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_19번|2023 기말 19번]] — cytochalasin D(actin +end capping, 해중합)와 nocodazole(tubulin 단량체 결합, MT 해중합)의 서로 다른 작용 기전 비교가 정답 근거로 활용됨.
 [^기출_기말_2023_20]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_20번|2023 기말 20번]] — colchicine이 β-tubulin에 결합하여 microtubule 중합을 저해한다는 내용이 정답 근거로 활용됨.

@@ -1,3 +1,4 @@
+상세한 내용은 [[SNARE]]에서
 ## SNARE Proteins
 - [[003_Vesicular Transport|Vesicular transport]]에서 [[SNARE|membrane fusion 조절]]
 - 대부분 tail-anchored 구조

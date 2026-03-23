@@ -12,7 +12,7 @@
 
 ## Intralumenal Vesicle 형성
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_47_Picture_9.jpeg]]
+![[_page_47_Picture_9.jpeg]]
 
 ### 목적
 
@@ -29,7 +29,7 @@ Multivesicular body로 분류하려면:
 
 ### ESCRT의 순차적 작용
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_48_Picture_2.jpeg]]
+![[_page_48_Picture_2.jpeg]]
 1. signal에 의해 receptor 활성화
    - 활성화되면서 conformational change나 phosphrylated -> E3 ligase가 uniquitin 부착
 1. **ESCRT-0**
@@ -76,7 +76,7 @@ Docking과 vesicle invagination을 위해 ESCRT 복합체는 둘 다 필요:
 
 ## 보존된 메커니즘
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_48_Figure_9.jpeg]]
+![[_page_48_Figure_9.jpeg]]
 
 ESCRT 기계는 세 가지 topologically equivalent한 과정에서 사용된다:
 
@@ -129,7 +129,7 @@ ESCRT 기능이 손상된 mutant 세포:
 
 ## Cargo 격리 메커니즘
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_48_Picture_2.jpeg]]
+![[_page_48_Picture_2.jpeg]]
 
 복잡한 일련의 binding 이벤트:
 - Ubiquitylated 막 단백질 (예: 신호 수용체와 그 ligand)을 한 ESCRT 복합체에서 다음으로 순차적으로 전달
@@ -163,3 +163,4 @@ SARS-CoV-2 (COVID-19를 일으키는 virus):
 - [[../../23. Pathogens and Infection/Virus entry|Virus 진입]]
 
 [^기출_중간_2022_34]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_34번|2022 중간 34번]] — ESCRT-0→I→II→III 순차적 작용과 ubiquitin tag를 통한 cargo 선별, intralumenal vesicle 형성 메커니즘이 정답 근거로 활용됨.
+[^기출_중간_2025_29]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_29번|2025 중간 29번]] — ①번 선지: PI(4,5)P₂가 ESCRT 복합체의 도킹을 위한 역할을 한다 (틀림, ESCRT docking은 PI(3)P 의존적, endosome에 PI(3)P 풍부); ⑤번 선지: MVB(multivesicular body)의 내부 소포(ILV)에는 ligand/수용체 복합체가 감싸져 lysosome 방향으로 진행된다 (맞음, ESCRT가 ubiquitinated receptor/ligand를 ILV로 격리 → MVB → lysosome 분해, 정답).

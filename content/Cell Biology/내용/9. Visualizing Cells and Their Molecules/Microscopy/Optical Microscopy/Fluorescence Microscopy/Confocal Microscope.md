@@ -38,7 +38,7 @@ Confocal microscope는 일반적으로 fluorescence optics(형광 광학계)와 
 ### Deconvolution의 장점
 (강의노트상 표기. 실제론 'image deconvolution';computational approach)
 - **Photon 수집 효율**: Deconvolution systems에 사용되는 CMOS cameras는 방출되는 거의 모든 photon을 수집하는 데 매우 효율적
-- **약한 표본에 적합**: 너무 약하게 염색되었거나 confocal microscopy에 사용되는 밝은 빛으로 쉽게 손상되는 표본에서 상세한 three-dimensional images를 만드는 데 사용 가능
+- **약한 표본에 적합**: 너무 약하게 염색되었거나 confocal microscopy에 사용되는 밝은 빛으로 쉽게 손상되는 표본에서 상세한 three-dimensional images를 만드는 데 사용 가능[^기출_중간_2023_13]
 
 ## 제한사항
 
@@ -89,4 +89,4 @@ Confocal microscope는 일반적으로 fluorescence optics(형광 광학계)와 
 - Related Movie: Movie 9.1
 
 [^기출_중간_2022_5]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_5번|2022 중간 5번]] — 공초점 현미경의 핀홀(pinhole)을 통한 out-of-focus light 제거 및 optical section 형성 원리가 출제됨. 복기 불완전. (선지 미복기)
-[^기출_중간_2023_13]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_13번|2023 중간 13번]] — Confocal microscope는 약 150 μm까지 이미징 가능하며, 250 μm 깊이 촬영은 불가능하다는 깊이 한계가 정답 근거(선지 ④)로 활용됨.
+[^기출_중간_2023_13]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_13번|2023 중간 13번]] — ④번 선지(정답): Confocal에서 사용하는 고에너지 단광자 빛(가시광선)은 조직에서 산란·흡수되어 250 μm 깊은 곳까지 침투 불가, 형광 들뜸 자체가 안 됨. Confocal microscope 최대 깊이 약 150 μm. ②번 오답: 더 강한 빛 사용은 광독성(phototoxicity) 및 광표백(photobleaching) 악화. ③번 오답: Deconvolution은 이미 얻어진 이미지의 blur를 수학적 처리로 제거하는 방법이며, 빛 자체가 깊이 도달하지 못하는 문제를 해결하지 못함.

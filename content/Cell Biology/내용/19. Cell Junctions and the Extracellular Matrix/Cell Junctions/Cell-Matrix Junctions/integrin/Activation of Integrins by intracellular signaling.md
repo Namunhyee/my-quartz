@@ -1,9 +1,9 @@
 # Activation of Integrins by intracellular signaling
 
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_55_Figure_1.jpeg]]
+![[_page_55_Figure_1.jpeg]]
 *Intracellular signaling에 의한 integrin 활성화. 세포 외부에서 받은 신호가 intracellular signaling protein을 통해 전달되어 integrin 활성화를 자극한다.*
 
-Integrin은 **양방향 신호 전달**이 가능하다.[^기출_기말_2022_10][^기출_기말_2023_32] "Inside-out" signaling은 세포 내부의 신호가 integrin을 활성화시키는 과정이다.
+Integrin은 **양방향 신호 전달**이 가능하다.[^기출_기말_2023_32] "Inside-out" signaling은 세포 내부의 신호가 integrin을 활성화시키는 과정이다.
 
 ## Inside-out Signaling 경로 (혈소판 예시)
 
@@ -49,5 +49,5 @@ Integrin은 **양방향 신호 전달**이 가능하다.[^기출_기말_2022_10]
 
 두 방향의 신호 전달이 모두 가능하여, integrin은 단순한 structural linker가 아니라 **signaling hub**로 기능한다.
 
-[^기출_기말_2022_10]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_10번|2022 기말 10번]] — integrin inside-out signaling(talin→β chain 결합→integrin 활성화)과 focal adhesion 구성 내용이 정답 근거로 활용됨. (선지 미복기)
 [^기출_기말_2023_32]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_32번|2023 기말 32번]] — inside-out signaling에 의해 inactive integrin(bent/closed)이 active integrin(extended/open)으로 전환; talin이 β-chain에 결합하여 α-β clasp 해체, ECM 친화도 ~1000배 증가함이 정답 근거로 활용됨.
+[^기출_기말_2025_32]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_32번|2025 기말 32번]] — inactive integrin(bent/closed, low affinity)과 active integrin(extended/open, high affinity)의 구조적 차이 서술형.

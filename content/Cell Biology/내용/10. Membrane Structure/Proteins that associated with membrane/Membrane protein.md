@@ -62,7 +62,7 @@ Lipid neighbor처럼 membrane protein도 [[Amphiphilic molecule|amphiphilic]]이
 - Cytosolic lipid monolayer에 삽입됨
 
 ==**Multipass transmembrane protein** (예시 2):==
-- Polypeptide chain이 bilayer를 multiple α helix로 횡단[^기출_중간_2023_17]
+- Polypeptide chain이 bilayer를 multiple α helix로 횡단[^기출_중간_2023_17][^기출_중간_2023_17_①]
 
 ==**β barrel transmembrane protein** (예시 5):==
 - Rolled-up β sheet (β barrel)로 bilayer 횡단
@@ -128,7 +128,7 @@ Membrane protein은 membrane의 거의 모든 다른 기능을 매개한다:
 대부분의 transmembrane protein에서:
 - Polypeptide chain이 lipid bilayer를 α-helical conformation으로 횡단
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_15_Picture_7.jpeg]]
+![[_page_15_Picture_7.jpeg]]
 
 위 그림은 membrane-spanning polypeptide chain segment가 lipid bilayer를 α helix로 횡단하는 것을 보여준다. Glycophorin의 일부로 red blood cell plasma membrane에서 풍부하게 발견된다.
 
@@ -147,27 +147,27 @@ Multipass transmembrane protein의 또 다른 방식:
 
 ## ==**Glycosylation**==
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_18_Figure_7.jpeg]]
+![[_page_18_Figure_7.jpeg]]
 
 대부분의 transmembrane protein (동물 세포)은 glycosylate됨:
 - ==Sugar residue가 ER과== [[Golgi apparatus_MOC|Golgi apparatus]]==의 lumen에서== [[N-linked glycosylation|추가됨]]
 	- ==oligosaccharyl transferase에 의해 asparagine으로 옮겨짐==
-- ==Oligosaccharide chain이 항상 membrane의 noncytosolic side에 존재==
+- ==Oligosaccharide chain이 항상 membrane의 noncytosolic side에 존재==[^기출_중간_2022_18][^기출_중간_2022_18_④]
 
 위 그림은 single-pass transmembrane protein을 보여준다:
 - Polypeptide chain이 right-handed α helix로 lipid bilayer 횡단
 - ==[[Oligosaccharides|Oligosaccharide]] chain과 [[Disulfide bond formation|disulfide bond]]가 모두 noncytosolic surface에 위치==
 - Sulfhydryl group이 disulfide bond 형성 (intrachain 또는 interchain)
-- Cytosolic domain의 sulfhydryl group은 정상적으로 disulfide bond 형성 안 함
-- ==Reducing environment in cytosol이 이러한 group을 reduced (–SH) form으로 유지==
+- Cytosolic domain의 sulfhydryl group은 정상적으로 disulfide bond 형성 안 함[^기출_중간_2022_18][^기출_중간_2022_18_⑤]
+- ==Reducing environment in cytosol이 이러한 group을 reduced (–SH) form으로 유지==[^기출_중간_2022_18][^기출_중간_2022_18_①]
 
 ## ==Membrane Protein의 이동성==
 
 많은 membrane protein이 빠르게:
 - 막 평면에 수직인 축을 중심으로 회전 가능 (rotational diffusion)
-- Membrane 내에서 laterally 이동 가능 (lateral diffusion)[^기출_중간_2021_미상E]
+- Membrane 내에서 laterally 이동 가능 (lateral diffusion)[^기출_중간_2021_미상E][^기출_중간_2023_22_①]
 
-그러나 **==세포는 특정 membrane protein을 고정시키거나 특정 domain에 국한시키는 방법을 가지고 있다.==** [[Restricting domain of membrane protein]] ==참조.==
+그러나 **==세포는 특정 membrane protein을 고정시키거나 특정 domain에 국한시키는 방법을 가지고 있다.==**[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_①] [[Restricting domain of membrane protein]] ==참조.==
 
 ## ==Carbohydrate Layer==
 ![[Cell Biology/출처/md converted/Chapter 10/_page_19_Figure_2.jpeg]]
@@ -177,7 +177,7 @@ Glycoprotein과 [[Glycolipid]]의 carbohydrate는:
 - ==모든 진핵세포 표면의 carbohydrate-rich zone 형성==
 - Cell coat 또는 glycocalyx로 불림
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_19_Figure_4.jpeg]]
+![[_page_19_Figure_4.jpeg]]
 
 위 그림 (B)는 carbohydrate layer의 구성을 보여준다:
 - Membrane glycolipid의 oligosaccharide side chain
@@ -204,3 +204,12 @@ Glycoprotein과 [[Glycolipid]]의 carbohydrate는:
 [^기출_중간_2022_17]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_17번|2022 중간 17번]] — β-barrel 막단백질 구조에 관한 내용이 출제됨. 복기 불완전. (선지 미복기)
 [^기출_중간_2023_23]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_23번|2023 중간 23번]] — β-barrel 막단백질에서 격번 아미노산의 소수성 side chain이 지질과 접촉하며, 짧은 β strand로 막을 횡단한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
 [^기출_중간_2021_미상E]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상E번|2021 중간 미상E번]] — 막단백질이 막 평면 내에서 lateral diffusion이 가능하다는 특성이 인간-마우스 세포융합 실험 맥락에서 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2022_18]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — 당 잔기는 ER/Golgi lumen에서 추가되어 noncytosolic side를 향함(선지 ④ 반박); cytosolic 도메인은 환원 환경으로 이황화 결합 형성 안 함(선지 ①⑤ 반박). 선지 ③(당단백질·당지질의 세포 인식 기여, 정답)은 Glycolipid/Carbohydrate layer 섹션 참조.
+[^기출_중간_2022_19]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — 막단백질은 lateral diffusion이 가능하지만, 세포는 이를 domain에 국한시키는 방법을 가짐 → 선지 ①("자유롭게 이동") 반박; 선지 ④(단백질-단백질 상호작용으로 고정, 정답) 근거.
+[^기출_중간_2023_22]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — 막단백질은 lateral diffusion이 가능하지만 제한될 수 있음 (전반적 맥락)
+[^기출_중간_2022_18_①]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — ①번 선지: cytosol은 reducing environment → 세포소기관 외부가 아닌 cytosol만 환원 환경 (오답: "모든 세포소기관 안쪽이 환원"은 틀림)
+[^기출_중간_2022_18_④]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — ④번 선지: 당 잔기는 ER/Golgi lumen에서 추가 → noncytosolic side(세포 외부 방향)를 향함; cytosol 방향이 아님 (오답)
+[^기출_중간_2022_18_⑤]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — ⑤번 선지: cytosolic domain의 sulfhydryl group은 reducing environment로 인해 이황화 결합을 형성하지 않음 (오답: cytosol 쪽 이황화결합 형성은 틀림)
+[^기출_중간_2022_19_①]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — ①번 선지: 막단백질은 lateral diffusion이 가능하지만 자유롭게 이동하는 것은 아님 — 세포는 이를 domain에 국한시키는 방법을 가짐 (오답)
+[^기출_중간_2023_22_①]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — ①번 선지: 막단백질은 완전히 고정된 것이 아니라 lateral diffusion이 가능함 (오답: "이동하지 않는다"는 틀림)
+[^기출_중간_2023_17_①]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_17번|2023 중간 17번]] — ①번 선지: (B) multipass transmembrane protein은 multiple α-helix로 막을 횡단 → 7개 peak = 7 α-helix 예측 가능 (정답)

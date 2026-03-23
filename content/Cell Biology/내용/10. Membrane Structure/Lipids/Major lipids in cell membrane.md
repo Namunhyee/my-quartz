@@ -15,7 +15,7 @@
 
 #### Glycerophospholipid
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_1_Figure_7.jpeg]]
+![[_page_1_Figure_7.jpeg]]
 
 대부분의 동물 세포막에서 주요 phospholipid이다:
 - 3-carbon glycerol backbone
@@ -24,7 +24,7 @@
 
 **주요 glycerophospholipid:**
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_2_Figure_8.jpeg]]
+![[_page_2_Figure_8.jpeg]]
 
 1. **Phosphatidylethanolamine**
    - 포유류 plasma membrane의 주요 phospholipid
@@ -63,7 +63,7 @@ Sterol의 일종으로 동물 세포에서 발견되는 주요 sterol이다:
 
 **Membrane 내 배향:**
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_3_Figure_8.jpeg]]
+![[_page_3_Figure_8.jpeg]]
 
 - Hydroxyl group이 인접한 phospholipid의 polar head group 가까이
 - Rigid platelike steroid ring이 hydrocarbon chain의 polar head group 가까운 영역과 상호작용

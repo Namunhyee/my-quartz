@@ -62,8 +62,8 @@
 1. Hydrophobic segment가 lateral gate를 통해 lipid bilayer로 접근
 2. Hydrophobic segment는 aqueous channel보다 막에서 더 안정적임
 3. Lateral gate를 통해 channel을 **laterally exit**
-4. **Translocation이 정지됨**
-<mark style="background:#fff88f">이를 전이 정지(stop-transfer)라고 부름</mark>
+4. ==**Translocation이 정지됨**==
+==<mark style="background:#fff88f">이를 전이 정지(stop-transfer)라고 부름</mark>==
 
 ### 6단계: C-말단 Domain 합성
 
@@ -114,7 +114,7 @@
 
 ### Quality Control
 - Signal sequence cleavage가 올바른 insertion의 지표
-- 잘못 삽입된 단백질은 [[ERAD]] 경로로 분해
+- 잘못 삽입된 단백질은 [[ER-associated degradation|ERAD]] 경로로 분해
 
 ### 진화적 유연성
 - Secretory protein과 membrane protein 사이의 evolutionary transition 용이

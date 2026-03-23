@@ -9,7 +9,7 @@ $$\text{ATP} + \text{H}_2\text{O} \rightarrow \text{ADP} + P_i \quad \Delta G^\c
 그러나 세포 내 실제 조건(ATP가 ADP, Pᵢ보다 훨씬 높은 농도)에서는:
 $$\Delta G \approx -46 \sim -54 \text{ kJ/mol}$$
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_26_Figure_4.jpeg]]
+![[_page_26_Figure_4.jpeg]]
 *Figure 14-30: ATP 가수분해 반응의 자유에너지와 평형 간 관계.*
 
 - **ΔG** (실제 자유에너지 변화) = ΔG° + RT ln([ADP][Pᵢ]/[ATP])

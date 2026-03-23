@@ -2,7 +2,7 @@
 
 ## 개요
 
-**ATP synthase** (Complex V, F₁F₀ ATP synthase, F-type ATPase)는 미토콘드리아 inner membrane에 내장된 **회전형 분자 기계(nanomachine)**로, electrochemical proton gradient의 에너지를 이용해 ADP + Pᵢ → ATP를 합성한다.[^기출_기말_2022_14][^기출_기말_2023_8]
+**ATP synthase** (Complex V, F₁F₀ ATP synthase, F-type ATPase)는 미토콘드리아 inner membrane에 내장된 **회전형 분자 기계(nanomachine)**로, electrochemical proton gradient의 에너지를 이용해 ADP + Pᵢ → ATP를 합성한다.[^기출_기말_2023_8]
 
 - **위치**: 미토콘드리아 crista membrane (matrix 쪽으로 F₁ head가 돌출)
 - **구성**: ~23개 이상 단백질 소단위, 총 ~600,000 dalton
@@ -69,7 +69,7 @@
 
 ## Cristae에서의 배열
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_29_Figure_7.jpeg]]
+![[_page_29_Figure_7.jpeg]]
 *Figure 14-33: Cristae ridge를 따라 dimers row를 형성하는 ATP synthase.*
 
 ![[Cell Biology/출처/md converted/Chapter 14/_page_29_Picture_2.jpeg]]
@@ -95,5 +95,4 @@
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/ATP synthesis|ATP synthesis]] — ATP 합성의 에너지론과 세포에서의 의미
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Chemiosmotic coupling|Chemiosmotic coupling]] — Proton gradient와 ATP synthesis 연계
 
-[^기출_기말_2022_14]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_14번|2022 기말 14번]] — ATP synthase의 F₀/F₁ 구조(c-ring rotor, γ subunit 회전, β subunit 촉매)와 역방향(ATP 가수분해→H⁺ 펌핑) 작동 가역성이 정답 ⑤의 근거로 활용됨.
 [^기출_기말_2023_8]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_8번|2023 기말 8번]] — ATP synthase(Complex V)가 IMS→matrix H⁺ 농도차를 이용해 ATP를 합성한다는 선지 ⑤가 옳다고 확인됨.

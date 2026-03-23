@@ -35,7 +35,7 @@ title: 🧬AUSOM 세포생물학 노트
 		- 새로 나온 내용 [[Cryo EM_Biological Specimen Preparation for Electron Microscopy]] 을 비롯하여 내용 추가/ 수정
 		- 불필요 내용 일부 제거
 		- superresolution 폴더 위치를 한 단계 올림
-		- [[SMLM (Single-Molecule Localization Microscopy)]]을 superresolution 폴더로 이동
+		- [[SMLM]]을 superresolution 폴더로 이동
 - 2026/03/12
 	- 9과 수업 내용 제외 일부 제거
 	- 수업 내용 강조
@@ -48,6 +48,13 @@ title: 🧬AUSOM 세포생물학 노트
 	- 사진 누락된 기출문제 사진 삽입
 		- 사진과 그림이 첨부된 문제는 해설을 모두 다시써야할 듯. 
 		- 해설이 불완전한 경우 property "해설 불완전"을 true로 부여함
-
+- 2026/03/23
+	- 23년도 기출에 대한 문제 발문, 선지 오류 수정
+	- 25년도 기출 추가, 족붙까지
+	- 족붙 정교화
+	- 이미지가 보이지 않는 문제 수정
+		- 10과 수업 내용 하이라이트 추가`
+	- 챕터별 정리노트 추가 **예정**
+		- 강의노트를 연계할 것 인지?
 ----
 vault organized by 24 CHAE

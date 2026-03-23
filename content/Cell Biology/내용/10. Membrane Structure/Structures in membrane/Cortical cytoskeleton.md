@@ -6,7 +6,7 @@ Cortical cytoskeleton은 대부분의 세포에서 plasma membrane 아래에 존
 
 ### 구조와 기능
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_28_Picture_1.jpeg]]
+![[_page_28_Picture_1.jpeg]]
 
 ==Human red blood cell의 특징적인== ==biconcave shape==은:
 - Plasma membrane protein과 underlying cytoskeleton 사이의 상호작용으로 인함
@@ -20,7 +20,7 @@ Cortical cytoskeleton은 대부분의 세포에서 plasma membrane 아래에 존
 
 ### Spectrin의 구조
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_28_Figure_5.jpeg]]
+![[_page_28_Figure_5.jpeg]]
 
 **Spectrin:**
 - 길고 얇은 flexible rod

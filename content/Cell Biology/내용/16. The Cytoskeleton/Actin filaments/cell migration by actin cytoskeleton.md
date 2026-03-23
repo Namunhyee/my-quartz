@@ -1,8 +1,8 @@
 # Cell Migration by Actin Cytoskeleton
 
-세포 이동(crawling)은 actin cytoskeleton에 의존하며, 핵심 원리는 leading edge에서의 actin 중합을 통한 membrane 밀어냄과 세포 후방에서의 수축이다. 이동 모드는 actin이 조직화되는 방식에 따라 다르게 나타난다.[^기출_기말_2022_7][^기출_기말_2022_24][^기출_기말_2023_23]
+세포 이동(crawling)은 actin cytoskeleton에 의존하며, 핵심 원리는 leading edge에서의 actin 중합을 통한 membrane 밀어냄과 세포 후방에서의 수축이다. 이동 모드는 actin이 조직화되는 방식에 따라 다르게 나타난다.[^기출_기말_2023_23]
 
-![[Cell Biology/출처/md converted/Chapter 16/_page_24_Figure_3.jpeg]]
+![[_page_24_Figure_3.jpeg]]
 *Fig 16–19. 세포 이동의 세 가지 모드. (A) Mesenchymal mode: Arp2/3가 lamellipodia를 만들고 stress fiber가 focal adhesion에 연결. (B) Amoeboid mode: Arp2/3가 3D pseudopod을 만들어 빠른 이동. (C) Blebbing: cortex와 membrane이 분리되어 수압으로 돌출.*
 
 ## 세 가지 이동 모드
@@ -15,7 +15,7 @@
 
 ## Protrusion of the Actin Meshwork at the Leading Edge
 
-![[Cell Biology/출처/md converted/Chapter 16/ppt로부터_figure 16-80.png]]
+![[ppt로부터_figure 16-80.png]]
 *Fig 16–80. Leading edge에서 actin meshwork protrusion 모델. 두 시점에서 lamellipodium 전진을 보여주며, 나중 시점의 새로 조립된 구조는 더 밝은 색으로 표시.*
 
 Leading edge에서 actin meshwork가 앞으로 나아가는 메커니즘은 다음 단계로 이루어진다.
@@ -31,6 +31,4 @@ Cofilin이 분해시키지 못한 일부 actin은 lamellipodium 뒤쪽에 남아
 
 관련 단백질의 기능에 대한 자세한 내용은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/major accessory proteins of the actin cytoskeleton|major accessory proteins of the actin cytoskeleton]] 참조.
 
-[^기출_기말_2022_7]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_7번|2022 기말 7번]] — 세포 이동의 4단계(protrusion→attachment→contraction→retraction) 과정과 각 단계에서의 actin/myosin 역할이 정답 근거로 활용됨. (선지 미복기)
-[^기출_기말_2022_24]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_24번|2022 기말 24번]] — 세포 이동 4단계를 서술하는 문항으로, leading edge에서의 Arp2/3 기반 actin 중합(protrusion), integrin 기반 부착(attachment), myosin II 수축(contraction), 후방 탈착(retraction)이 정답 근거로 활용됨.
 [^기출_기말_2023_23]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_23번|2023 기말 23번]] — 6종류 actin array(lamellipodia, filopodia, stress fiber, cortical actin network 등)와 세포 이동(mesenchymal/amoeboid 모드)에서의 역할이 정답 근거로 활용됨.

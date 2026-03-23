@@ -2,8 +2,8 @@
 
 Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
-![[Cell Biology/출처/md converted/Chapter 12/_page_42_Figure_5.jpeg]]
-*Fig 12-46. Peroxisome 증식 및 신규 생성 모델. 일부 막 단백질(Pex3, Pex15)은 ER에서 유래한 precursor vesicle을 통해 전달되고, 대부분의 peroxisomal 단백질은 cytosol에서 직접 수입된다.*
+![[_page_42_Figure_5.jpeg]]
+*Fig 12-46. Peroxisome 증식 및 신규 생성 모델. 일부 막 단백질(Pex3, Pex15)은 ER에서 유래한 precursor vesicle을 통해 전달되고, 대부분의 peroxisomal 단백질은 cytosol에서 직접 수입된다.*[^기출_중간_2023_30]
 
 ## 경로 1: ER 경유 경로 (일부 막 단백질)
 
@@ -11,7 +11,7 @@ Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
 ## 경로 2: Cytosol에서 직접 수입 (대부분의 단백질)
 
-대부분의 peroxisomal 단백질은 cytosolic ribosome에서 합성된 후 peroxisome 막의 import receptor와 translocator를 통해 직접 수입된다. 이 과정은 ATP 가수분해에 의해 구동된다.
+대부분의 peroxisomal 단백질은 cytosolic ribosome에서 합성된 후 peroxisome 막의 import receptor와 translocator를 통해 직접 수입된다. 이 과정은 ATP 가수분해에 의해 구동된다.[^기출_중간_2025_12]
 
 ### Peroxisomal Sorting Signals
 
@@ -29,7 +29,7 @@ Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 ### 2단계: Peroxisomal 막으로 이동 및 Translocation
 
 - Pex5–cargo 복합체(또는 Pex7 복합체)가 peroxisomal 막의 **protein translocator**에 결합한다.
-- Translocator는 최소 6개의 peroxin으로 구성되어 있으며, 완전히 접힌(folded) 단백질도 막을 통과시킬 수 있다. ER translocator와 달리 가변적인 크기의 cargo를 수용하기 위해 동적으로 크기가 변한다.
+- Translocator는 최소 6개의 peroxin으로 구성되어 있으며, 완전히 접힌(folded) 단백질도 막을 통과시킬 수 있다.[^기출_중간_2025_12] ER translocator와 달리 가변적인 크기의 cargo를 수용하기 위해 동적으로 크기가 변한다.
 - Cargo가 peroxisome 내부로 방출된다.
 
 ### 3단계: Pex5 재순환 (recycling)
@@ -48,6 +48,7 @@ Cargo를 방출한 후, Pex5는 cytosol로 되돌아가야 한다. 이 recycling
 
 이로 인해 뇌, 간, 신장에 심각한 이상이 발생하며 출생 직후 사망한다.
 
-[^기출_중간_2023_30]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_30번|2023 중간 30번]] — 퍼옥시솜 단백질 수입: Pex5가 PTS(A→B)를 인식, Pex14/Pex13(C) 도킹 복합체에 결합, 산화반응(D→O₂) 후 H₂O₂(E)를 catalase로 분해
+[^기출_중간_2023_30]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_30번|2023 중간 30번]] — 퍼옥시좀으로 단백질 import는 두가지 경로. ER에서 vesicular transport 혹은 cytosolic protein의 직접적인 import.
+[^기출_중간_2025_12]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_12번|2025 중간 12번]] — 과산화소체는 자체 DNA·리보솜이 없고 모든 단백질을 세포질 리보솜 합성 후 수입한다는 내용이 틀린 선지 ③으로 출제됨.
 
 [^1]: [[ER-associated degradation#^95a85b|AAA-ATPase]]는 ERAD에서 exported protein을 잡아당기는 역할을 했었음

@@ -23,7 +23,7 @@ Membrane shape는 동적으로 조절된다:
 
 ## ==Membrane-bending Protein의 작용 메커니즘==
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_1.jpeg]]
+![[_page_30_Picture_1.jpeg]]
 
 Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하며, 세 가지 주요 메커니즘 중 하나 이상으로 작용한다:
 
@@ -31,7 +31,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_2.jpeg]]
 
-**메커니즘:**
+**메커니즘:**[^기출_중간_2023_21_③]
 - ==일부 protein이 hydrophobic protein domain 또는 attached lipid anchor를 bilayer의 한 leaflet에 삽입==
 - ==cytosolic leaflet에서 주로 형성==
 - 한 leaflet의 면적만 증가
@@ -45,9 +45,9 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ### 2. Rigid Scaffold Formation (C)
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_3.jpeg]]
+![[_page_30_Picture_3.jpeg]]
 
-**메커니즘:**
+**메커니즘:**[^기출_중간_2023_21_④]
 - ==일부 membrane-bending protein이 rigid scaffold 형성==
 - ==cytosolic leaflet에서 주로 형성==
 - Membrane을 deform하거나 이미 bent된 membrane을 stabilize
@@ -59,7 +59,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ### 3. Lipid Clustering
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_4.jpeg]]
+![[_page_30_Picture_4.jpeg]]
 
 **메커니즘:**
 ==Cone-shaped과 inverted cone-shaped lipid의 비대칭 분포:==
@@ -69,7 +69,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 - 특정 membrane lipid를 cluster하도록 유도
 - Membrane curvature를 induce
 
-위 그림 (D)는 ==protein이 큰 head group을 가진 lipid([[Phospholipid#Sphingomyelin|sphingomyelin]]이 그 예시)에 결합하고 cluster하여 membrane을 bend하는 것을 보여준다.==
+위 그림 (D)는 ==protein이 큰 head group을 가진 lipid([[Phospholipid#Sphingomyelin|sphingomyelin]]이 그 예시)에 결합하고 cluster하여 membrane을 bend하는 것을 보여준다.==[^기출_중간_2023_21_⑤]
 
 **Lipid의 Curvature Induction:**
 Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
@@ -84,7 +84,7 @@ Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
 
 - ==**Phospholipase가 처리한 lipid:**==
   - ![[Pasted image 20260316192026.png]]
-  - ==Lipid head group 제거==
+  - ==Lipid head group 제거==[^기출_중간_2023_21_②]
   - Inversely shaped lipid molecule 생성
   - ==Negative curvature induce==
 
@@ -145,4 +145,8 @@ Membrane-bending protein은 여러 중요한 세포 과정에 필수적이다:
 - [[Phospholipid]]
 - [[Restricting domain of membrane protein]]
 
-[^기출_중간_2023_21]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — Head group이 tail보다 넓은 cone-shape 지질이 한 leaflet에 축적되면 positive membrane curvature를 유도한다는 내용이 정답 근거로 활용됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_21]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — Head group과 hydrocarbon tail의 상대적 cross-sectional area가 membrane curvature 유도 능력을 결정 (전반적 맥락)
+[^기출_중간_2023_21_②]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — ②번 선지: 지질 head group 제거 → inversely shaped molecule → curvature 유도 (맞음)
+[^기출_중간_2023_21_③]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — ③번 선지: 쐐기 모양 단백질(amphipathic helix 등)이 한 leaflet에 삽입되어 막 굽힘 유도 (맞음)
+[^기출_중간_2023_21_④]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — ④번 선지: 곡면을 가진 단백질(BAR domain 등)이 막 표면에 결합하여 rigid scaffold로 막을 변형 (맞음)
+[^기출_중간_2023_21_⑤]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_21번|2023 중간 21번]] — ⑤번 선지: 큰 head group을 가진 지질을 한 leaflet에 집중시켜 막을 휘게 함 (맞음)

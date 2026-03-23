@@ -116,8 +116,8 @@ H⁺/neurotransmitter antiport:
    - Presynaptic plasma membrane에 결합
    - Rab protein과 tethering protein 역할
 
-2. **[[SNARE#Synaptic Vesicle의 특수한 SNARE|SNARE pairing]] 시작**
-   - Synaptobrevin (v-SNARE)
+2. **[[SNARE#Synaptic Vesicle의 특수한 SNARE|SNARE pairing]] 시작**[^기출_중간_2023_12]
+   - Synaptobrevin (v-SNARE)[^기출_중간_2023_12]
    - Syntaxin (t-SNARE)
    - SNAP25 (t-SNARE, 2개의 α-helix 기여)
    - 부분적으로 assemble된 상태
@@ -258,4 +258,4 @@ H⁺/neurotransmitter antiport:
 Synaptic vesicle은 신경세포에서 빠른 신호 전달을 가능하게 하는 특수화된 vesicle이다. 약 50 nm 크기에 다양한 membrane protein과 1,800개의 neurotransmitter molecule을 포함한다. 이들은 nerve terminal에서 local recycling을 통해 형성되며, priming system을 통해 fusion 직전 상태로 대기한다. Action potential에 의한 Ca²⁺ influx가 trigger가 되어 millisecond 내에 neurotransmitter를 방출하며, 연속적인 신경 전달을 위해 매우 빠르게 재활용된다.
 
 [^기출_중간_2022_36]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_36번|2022 중간 36번]] — Regulated secretory pathway에서 Ca²⁺-triggered exocytosis 메커니즘(synaptotagmin, SNARE complex)이 정답 근거로 활용됨.
-[^기출_중간_2023_12]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_12번|2023 중간 12번]] — 신경세포의 regulated exocytosis 특성에 관한 선지 ③이 정답.
+[^기출_중간_2023_12]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_12번|2023 중간 12번]] — ②번 선지: Synaptic 소포체의 막 융합 과정에 SNARE가 필요하지 않다 (틀림, synaptic vesicle fusion에 synaptobrevin(v-SNARE) + syntaxin + SNAP25(t-SNARE) 필수); ③번 선지: 일부 분자들이 사라짐이 일어날 때 분비된 물질의 양이 많아 활성된다 (맞음, Ca²⁺ influx에 의해 synaptotagmin 활성화 → complexin 제거 → SNARE zippering → neurotransmitter 방출, regulated exocytosis 정답).

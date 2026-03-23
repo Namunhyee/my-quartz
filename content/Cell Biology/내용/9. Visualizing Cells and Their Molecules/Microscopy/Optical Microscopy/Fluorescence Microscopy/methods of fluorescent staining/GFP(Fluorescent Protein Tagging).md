@@ -98,7 +98,7 @@
 #### <mark style="background:#fff88f">기능적 특성</mark>
 
 **대부분의 경우**:
-- GFP fusion protein이 원래 단백질과 **동일한 방식으로 작동**
+- GFP fusion protein이 원래 단백질과 **동일한 방식으로 작동**[^기출_중간_2022_6][^기출_중간_2023_6]
 - Genetically encoded fluorescence를 통해:
   - 위치 (Location) 직접 표시
   - 활동 (Activities) 직접 표시
@@ -176,5 +176,5 @@ GFP와 그 변이형들은 다음 장에서 설명될 추가 기술들에 활용
 - Related topics: [[001_Protein Dynamics]], [[FRET]], [[FRAP]]
 
 [^기출_중간_2021_6]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_6번|2021 중간 6번]] — GFP chromophore는 Ser65-Tyr66-Gly67의 자가 촉매적 번역 후 변형으로 형성되며, 분자 산소(O₂)만 필요하고 다른 효소 불필요하다는 메커니즘이 출제됨. (※ 이 노트에는 Tyr과 Ser만 수록; Gly67과 O₂ 요구성은 미수록)
-[^기출_중간_2022_6]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_6번|2022 중간 6번]] — GFP-tagged 단백질이 산성 세포소기관(예: 라이소솜, pH ~5)으로 이동하면 낮은 pH에 의한 chromophore의 protonation으로 형광이 소광된다는 내용이 정답 근거(선지 ④)로 활용됨. (※ 산성 pH에서의 형광 소광 메커니즘은 이 노트에 직접 수록되지 않음)
+[^기출_중간_2022_6]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_6번|2022 중간 6번]] — ②번 선지(정답): A 단백질은 ER에 머무르는 단백질로 역할 수행 후 분해됨 — GFP fusion protein이 처음에는 ER에서 형광이 보이다가 사라진 것은 단백질 자체(ERAD/proteasomal 분해)에 의한 소실. ①번 오답: 처음에는 형광이 보였으므로 GFP 작동 정상. ④번 오답: GFP fusion protein은 ER 이탈 후에도 형광이 보여야 하므로 이동 후 관찰 불가는 설명이 안 됨. ⑤번 오답: GFP는 직접 형광을 발하므로 secondary antibody 불필요.
 [^기출_중간_2023_6]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_6번|2023 중간 6번]] — GFP 융합 단백질을 관찰하려면 형광현미경이 필요하며, 위상차 현미경(phase contrast)으로는 GFP 형광을 볼 수 없다는 내용이 정답 근거(선지 ②)로 활용됨.

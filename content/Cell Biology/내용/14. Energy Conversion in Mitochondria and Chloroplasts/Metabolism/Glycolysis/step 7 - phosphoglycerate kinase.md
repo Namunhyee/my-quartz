@@ -2,7 +2,7 @@
 
 ## 반응
 
-**1,3-bisphosphoglycerate + ADP → 3-phosphoglycerate + ATP**
+**1,3-bisphosphoglycerate + ADP → 3-phosphoglycerate + ATP**[^기출_기말_2025_4]
 
 ```
 1,3-bisphosphoglycerate + ADP  ──(PGK)──→  3-phosphoglycerate + ATP
@@ -27,3 +27,5 @@
 ## 관련
 
 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/step 6 - glyceraldehyde 3-phosphate dehydrogenase|← Step 6]] | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC|Glycolysis_MOC]] | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/step 8 - phosphoglycerate mutase|Step 8 →]]
+
+[^기출_기말_2025_4]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_4번|2025 기말 4번]] — Glycolysis에서 ATP를 생성하는 반응으로 1,3-bisphosphoglycerate → 3-phosphoglycerate (phosphoglycerate kinase, substrate-level phosphorylation)가 정답 ⑤의 근거로 활용됨.

@@ -3,7 +3,7 @@
 ## 개요
 **Multipass transmembrane proteins**는 lipid bilayer를 여러 번 관통하는 단백질로, polypeptide chain이 hydrophobic α-helix 형태의 [[Transmembrane Protein Insertion#Transmembrane segment(막관통 구간)란?|Transmembrane Segment]]를 통해 막을 반복적으로 가로지른다. 이러한 단백질들은 [[Endoplasmic Reticulum|ER]] 막에 삽입되며, 복잡한 topology를 갖는다.
 
-## Multipass 막단백질의 구조적 특징
+## ==Multipass 막단백질의 구조적 특징==
 
 Multipass 막단백질은:
 - 하나 이상의 hydrophobic [[Transmembrane Protein Insertion#Transmembrane segment(막관통 구간)란?|Transmembrane Segment]]를 포함
@@ -12,7 +12,7 @@ Multipass 막단백질은:
 
 ![[Cell Biology/출처/md converted/Chapter 12/_page_28_Picture_2.jpeg]]
 
-## 막 삽입 메커니즘
+## ==막 삽입 메커니즘==
 
 ### 1단계: 초기 합성 및 [[SRP]] 인식
 - Ribosome에서 단백질 합성이 시작된다
@@ -28,7 +28,7 @@ Multipass 막단백질은:
 - Transmembrane segment 주변의 charged amino acid 분포
 - Transmembrane segment의 길이
 
-**두 가지 가능한 방향**:
+==**[[Transmembrane Protein Insertion#starting-transfer sequence의 N/C terminal의 방향 결정|두 가지 가능한 방향]]**:==
 1. **N-말단이 cytosolic 면에 유지**: N-말단 domain이 길거나 folded인 경우, 또는 N-말단 쪽에 positively charged amino acid가 많은 경우
 2. **C-말단이 cytosolic 면에 유지**: C-말단 쪽에 positively charged amino acid가 많은 경우
 
@@ -36,8 +36,7 @@ Multipass 막단백질은:
 
 첫 번째 transmembrane segment가 막에 삽입되면:
 - 이 삽입이 단백질의 **topology**를 효과적으로 고정
-- 이후 나머지 단백질의 topology가 결정됨
-- Ribosome과 Sec61 translocator의 밀접한 결합으로 인해, 각 hydrophobic segment는 lipid bilayer로의 접근을 제공하는 [[Sec61 complex#Lateral gate|Lateral Gate]]에 매우 가깝게 나타남
+- Ribosome과 Sec61 translocator의 밀접한 결합으로 인해, 각 hydrophobic segment는 lipid bilayer로의 접근을 제공하는 [[Sec61 complex#Lateral gate|Lateral Gate]]로 밀려남.
 
 ### 4단계: 후속 Transmembrane Segment의 순차적 삽입
 
@@ -45,12 +44,13 @@ Multipass 막단백질은:
 
 **가장 단순한 경우**:
 - 새로 나타난 hydrophobic segment가 lateral gate와 결합
-- 가장 최근에 삽입된 transmembrane segment와 **반대 방향**으로 lateral gate에 결합
-- Lipid bilayer로 삽입
+- ==가장 최근에 삽입된 transmembrane segment와 **반대 방향**으로 lateral gate에 결합==
+- ==Lipid bilayer로 삽입==
+- ==여기서 각 stop transfer signal, starting signal (둘다 TMS)이 반복되며, 각각이 [[Transmembrane Protein Insertion#starting-transfer sequence의 N/C terminal의 방향 결정|polarity의 차이]]로 방향성을 결정함.==
 
-이 과정이 모든 transmembrane segment가 삽입될 때까지 계속된다.
+==이 과정이 모든 transmembrane segment가 삽입될 때까지 계속된다.==
 
-## 특수한 경우: 부분적으로 Hydrophobic인 Segment
+## ~~특수한 경우: 부분적으로 Hydrophobic인 Segment~~
 
 일부 multipass 단백질의 transmembrane segment는:
 - 부분적으로만 hydrophobic
@@ -67,20 +67,21 @@ Multipass 막단백질은:
 ### Contextual Interpretation
 - 각 새로운 hydrophobic segment는 이전 부분의 topology와 특성을 기반으로 해석됨
 - 첫 번째 transmembrane segment의 방향이 나머지 전체 topology를 결정
+- ==그러나 수업내용 : 각각의 TMS가 polarity를 이용한 방향결정을 하는 경향이 있다.==
 
-### Hydrophilic Loop의 처리
+### ~~Hydrophilic Loop의 처리~~
 - Transmembrane segment 사이의 hydrophilic sequence는:
   - 이전 transmembrane segment의 방향에 따라 cytosol로 합성되거나
   - [[Sec61 complex]]를 통해 통과됨
 
 ## Membrane Protein Asymmetry
 
-![[Cell Biology/출처/md converted/Chapter 12/_page_11_Figure_9.jpeg]]
+![[_page_11_Figure_9.jpeg]]
 
 **중요한 원칙**:
 - Membrane protein은 항상 ER의 cytosolic 면에서 삽입됨
 - 동일한 polypeptide chain의 모든 복사본이 lipid bilayer에서 **동일한 orientation**을 가짐
-- 한 면에 노출된 protein domain은 다른 면에 노출된 것과 다름
+- 한 면에 노출된 protein domain은 다른 면에 노출된 것과 ~~다름~~
 
 **Asymmetry의 유지**:
 - 이 asymmetry는 ER에서 다른 세포 막으로 단백질을 수송하는 많은 membrane budding 및 fusion 과정 동안 유지됨

@@ -2,14 +2,14 @@
 
 ## 개요
 
-FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.[^기출_중간_2022_8]
+FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]에 융합된 관심 단백질을 활용하여 단백질의 dynamics를 연구하는 또 다른 방법이다. 이 기술은 형광을 선택적으로 소멸시킨 후, 그 영역으로 형광 분자가 이동해 들어오는 과정을 분석한다.[^기출_중간_2022_8][^기출_중간_2025_34]
 
 ## FRAP의 원리
 
 ### 기본 개념
 
 **Photobleaching(광표백)**:
-- Laser의 강한 집속 빛(strong focused beam of light)을 사용
+- Laser의 강한 집속 빛(strong focused beam of light)을 사용[^기출_중간_2022_8][^기출_중간_2025_34]
 - 세포의 특정 영역에서 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]] 형광을 소멸(extinguish)시킴
 
 **Recovery(회복) 관찰**:
@@ -74,7 +74,7 @@ FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]
 - Y축: 표백 영역의 형광 강도 (fluorescence intensity)
 
 **정량적 데이터 추출**:
-1. **회복 속도 (Rate of recovery)**
+1. **회복 속도 (Rate of recovery)**[^기출_중간_2022_8][^기출_중간_2025_34]
    - 곡선의 기울기
    - 분자 이동 속도 반영
 
@@ -88,7 +88,7 @@ FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]
 
 ## 측정 가능한 Kinetic Parameters
 
-### 1. Diffusion Coefficients (확산 계수)
+### 1. Diffusion Coefficients (확산 계수)[^기출_중간_2022_8]
 
 **의미**:
 - 단백질이 자유롭게 확산하는 속도
@@ -241,7 +241,7 @@ FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]
 **FRAP**:
 - 단백질의 이동성
 - 결합/해리 kinetics
-- 전체 mobility 평가
+- 전체 mobility 평가 (population 수준 측정; 단일 분자 추적은 SPT 기법 사용)[^기출_중간_2022_8][^기출_중간_2025_34]
 
 ## 데이터 해석
 
@@ -338,4 +338,5 @@ FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]
 - Related techniques: [[FRET]], [[Photoactivation]]
 - Related concept: [[GFP(Fluorescent Protein Tagging)]]
 
-[^기출_중간_2022_8]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_8번|2022 중간 8번]] — FRAP는 photobleaching 후 형광 회복을 분석하여 분자 집단(population)의 이동성을 측정하며, 단일 분자(single molecule)를 추적하는 방법이 아니라는 점이 정답 근거(선지 ④)로 활용됨.
+[^기출_중간_2022_8]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_8번|2022 중간 8번]] — FRAP는 photobleaching 후 형광 회복을 분석하여 분자 집단(population)의 이동성을 측정하며, 단일 분자(single molecule)를 추적하는 방법이 아니라는 점이 정답 근거(선지 ④)로 활용됨. 선지 ①(형광물질 달아 측정) ②(Recovery↑=확산↑) ③(확산계수 추정) ⑤(photobleaching 이용) 정답 근거도 이 노트 내 원리에서 확인됨.
+[^기출_중간_2025_34]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_34번|2025 중간 34번]] — FRAP는 강한 빛으로 형광을 소거한 뒤 fluorescence recovery를 관찰하는 방식이라는 선지 ⑤가 정답. 선지 ①(단일 분자 추적 불가) 오답 근거: population level 측정 방법. 선지 ②(형광 표지 필수) 오답 근거: GFP 등 형광 표지 필요. 선지 ③(Recovery 느림=확산 느림) 오답 근거: recovery 속도 = 분자 이동 속도 반영. 선지 ④(photobleaching 없이 측정) 오답 근거: 강한 레이저로 photobleaching 후 관찰.

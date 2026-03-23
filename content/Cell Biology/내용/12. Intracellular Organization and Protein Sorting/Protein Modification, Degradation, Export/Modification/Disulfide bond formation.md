@@ -23,16 +23,16 @@ Disulfide bond는 주로 [[Endoplasmic Reticulum]] lumen에서 형성된다. Ext
    - PDI가 intramolecular disulfide bond 보유
 
 2. **전자 전달:**
-   - PDI의 disulfide bond가 substrate protein의 free sulfhydryl group으로부터 전자를 받음
-   - 이 과정에서 PDI와 substrate 사이에 intermolecular mixed disulfide bond 형성
+   - ==PDI의 disulfide bond가 substrate protein의 free sulfhydryl group으로부터 전자를 받음==
+   - ==이 과정에서 PDI와 substrate 사이에 intermolecular mixed disulfide bond 형성==
 
 3. **Disulfide bond 형성:**
-   - Substrate의 두 번째 free sulfhydryl group이 전자를 mixed disulfide bond에 기부
-   - 결과: Substrate protein이 산화됨 (disulfide bond 형성)
-   - PDI는 환원됨 (reduced state)
+   - ==Substrate의 두 번째 free sulfhydryl group이 전자를 mixed disulfide bond에 기부==
+   - ==결과: Substrate protein이 산화됨 (disulfide bond 형성)==
+   - ==PDI는 환원됨 (reduced state)==
 
 4. **PDI의 재산화:**
-   - 다른 ER enzyme이 reduced PDI를 reoxidize함 (그림에 표시 안 됨)
+   - ==다른 ER enzyme이 reduced PDI를 reoxidize함==
    - PDI가 다음 cycle을 위해 준비됨
 
 ### Disulfide Bond의 재배열 (Rearrangement)
@@ -85,7 +85,7 @@ Disulfide bond는 folded state of protein을 안정화시킨다:
 
 ### Transmembrane Protein에서의 분포
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_18_Figure_7.jpeg]]
+![[_page_18_Figure_7.jpeg]]
 
 동물 세포의 대부분의 transmembrane protein은 [[N-linked glycosylation]]됨:
 - Oligosaccharide chain과 disulfide bond가 모두 membrane의 noncytosolic surface에 위치

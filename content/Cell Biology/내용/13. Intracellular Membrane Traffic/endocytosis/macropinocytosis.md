@@ -6,10 +6,10 @@
 
 ## 특징
 
-Macropinocytosis는 비선택적 과정이다:
-- 특정 조건 하에서 세포로 fluid를 가져오는 비선택적 과정
-- 세포외 fluid와 그 안에 포함된 거대분자 및 입자를 비특이적으로 trap
-Macropinosome에 receptor가 포함되지 않음. 즉 receptor의 recycling 과정이 필요 없음.
+Macropinocytosis는 비선택적 과정이다:[^기출_중간_2025_23]
+- 특정 조건 하에서 세포로 fluid를 가져오는 비선택적 과정[^기출_중간_2023_10][^기출_중간_2025_23]
+- 세포외 fluid와 그 안에 포함된 거대분자 및 입자를 비특이적으로 trap[^기출_중간_2023_10][^기출_중간_2025_23]
+Macropinosome에 receptor가 포함되지 않음. 즉 receptor의 recycling 과정이 필요 없음.[^기출_중간_2023_10][^기출_중간_2025_23]
 
 ## Phagocytosis와의 차이
 Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocytosis]]와 구별된다.
@@ -40,8 +40,8 @@ Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocyto
 
 ## Actin의 역할
 
-Macropinocytosis는 plasma membrane 아래의 actin polymerization을 이용한다:
-- 큰 입자나 많은 양의 fluid를 둘러싸는 데 필요한 대규모 membrane deformation을 매개
+Macropinocytosis는 plasma membrane 아래의 actin polymerization을 이용한다:[^기출_중간_2023_10]
+- 큰 입자나 많은 양의 fluid를 둘러싸는 데 필요한 대규모 membrane deformation을 매개[^기출_중간_2023_10]
 - [[phagocytosis|Phagocytosis]]와 유사한 메커니즘
 
 ## 전용 분해 경로
@@ -98,4 +98,5 @@ Macropinocytosis는 oncogene *Ras*의 활성화에 의해 자극된다:
 - [[../../15. Cell Signaling/Ras|Ras signaling]]
 
 [^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Macropinocytosis의 비선택적 특성, ruffle 형성, actin polymerization 의존성이 정답 근거로 활용됨.
-[^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — Macropinocytosis와 caveolar endocytosis의 특성에 관한 선지 ④가 정답.
+[^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — ④번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, macropinocytosis는 actin-mediated ruffle 형성 이용, 정답); ⑤번 선지: Macropinocytosis 진행과정에서 흡수 시 특정 cargo를 특이적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적 bulk fluid 섭취, receptor 불필요).
+[^기출_중간_2025_23]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_23번|2025 중간 23번]] — ③번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, actin-mediated ruffle 형성); ④번 선지: Macropinocytosis는 세포 외 큰 입자를 수용체 독립적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적이지만 receptor-independent 맞음, 그러나 '특이적 인식' 부분은 틀림); ⑤번 선지: 모든 clathrin-independent pathway는 receptor-dependent 방식으로만 cargo를 섭취한다 (틀림, macropinocytosis는 receptor-independent).

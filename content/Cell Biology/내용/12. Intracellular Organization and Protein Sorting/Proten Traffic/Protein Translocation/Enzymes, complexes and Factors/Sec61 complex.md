@@ -5,7 +5,7 @@
 
 ## 구조
 
-### 기본 구성
+### ~~기본 구성~~
 - 3개의 subunit로 구성
 - 10개의 α helix가 중앙 channel을 둘러싸고 있음
 - Bacteria에서 eukaryotic cell까지 고도로 보존됨
@@ -15,7 +15,7 @@
 
 *Figure 12-22A: Archaeon Methanococcus jannaschii의 Sec61 translocator 구조(SecY translocator). Sec61 α subunit는 inverted repeat 구조를 가지며 파란색과 주황색으로 pseudosymmetry를 나타낸다. 두 개의 작은 β와 γ subunit는 회색으로 표시된다. 
 - Sec61 α subunit의 일부 영역은 cytosol로 돌출되어 단백질 translocation 중에 ribosome에 결합한다. 
-- 보라색 짧은 helix는 translocator가 닫혀 있을 때 pore를 막는 plug를 형성한다. Translocator가 열릴 때 plug helix가 밖으로 이동한다.*
+- 보라색 짧은 helix는 translocator가 닫혀 있을 때 pore를 막는 plug를 형성한다. Translocator가 열릴 때 plug helix가 밖으로 이동한다.
 ![[Pasted image 20260202213921.png]]
 ### Channel과 plug
 Channel은 translocator가 유휴 상태일 때 유지하는 짧은 α helix에 의해 막혀 있다. [[Endoplasmic Reticulum]]에서 Ca2+와 같은 이온이 누출되는 것을 방지하기 위해 channel을 닫아두는 것이 중요하다. Translocation 중에 plug가 밖으로 이동하여 polypeptide가 channel을 통과할 수 있다.
@@ -24,7 +24,7 @@ Channel은 translocator가 유휴 상태일 때 유지하는 짧은 α helix에 
 ### Lateral gate
 Sec61/SecY translocator는 lateral gate라 불리는 membrane을 향한 측면 개구부도 가질 수 있다. 활성 상태에서 단백질 chain은 translocator의 중앙 channel을 통해 membrane을 가로질러 이동하거나 lateral gate를 통해 lipid bilayer로 측면 이동할 수 있다.
 #### Flexibility
-central channel을 통한 [[001_Protein Translocation|translocation]]과 lateral gate를 통한 이동으로 translocation과 integeration(embedding protein into the membrane)을 선택적으로 다룰 수 있다.
+==central channel을 통한 [[001_Protein Translocation|translocation]]과 lateral gate를 통한 이동으로 **translocation**과 **integeration**(embedding protein into the membrane)을 선택적으로 다룰 수 있다.==
 
 ## Signal sequence 인식
 
@@ -44,11 +44,11 @@ Open translocator는 signal sequence를 따르는 polypeptide의 segment를 chan
 ## Ribosome과의 상호작용
 *Figure 12-23B: Signal sequence에 의해 열린 Sec61 translocator에 결합된 translating ribosome의 단면. Ribosome(녹색)이 Sec61 translocator(파란색)에 결합되어 있고 signal sequence(빨간색)에 의해 열려 있다. Translocating polypeptide가 large ribosomal subunit 내의 tunnel과 Sec61 translocator를 통과하는 것으로 표시된다.*
 
-Signal sequence가 [[Sec61 complex]]를 열고 ensuing polypeptide를 channel에 threading한 후, translocation은 계속되는 translation과 동시에 발생한다. Translocation 중에 ribosomal large subunit 내부의 polypeptide tunnel이 [[Sec61 complex]] 내의 channel과 정렬된다. 이 구성은 새로운 아미노산이 성장하는 단백질 chain에 추가되는 ribosome의 peptidyl-transferase center에서 15nm 떨어진 [[Endoplasmic Reticulum]] lumen까지 polypeptide를 위한 연속적인 경로를 제공한다.
+Signal sequence가 [[Sec61 complex]]를 열고 ensuing polypeptide를 channel에 threading한 후, translocation은 계속되는 translation과 동시에 발생한다. ==Translocation 중에 ribosomal large subunit 내부의 polypeptide tunnel이 [[Sec61 complex]] 내의 channel과 정렬된다==. 이 구성은 새로운 아미노산이 성장하는 단백질 chain에 추가되는 ribosome의 peptidyl-transferase center에서 15nm 떨어진 [[Endoplasmic Reticulum]] lumen까지 polypeptide를 위한 연속적인 경로를 제공한다.
 
 ## Translocation 종료
 
-Translation이 종료되면 polypeptide의 C-terminus가 ribosome에서 방출되고 [[Sec61 complex]]를 통해 미끄러지며, plug가 다시 channel을 닫는다. 따라서 [[SRP]]에 의한 signal sequence 인식부터 [[Sec61 complex]]를 통한 translocation까지의 전체 [[Endoplasmic Reticulum]] import 과정은 polypeptide가 fold할 기회를 갖기 전에 co-translationally 발생한다.
+Translation이 종료되면 polypeptide의 C-terminus가 ribosome에서 방출되고 [[Sec61 complex]]를 통해 미끄러지며, plug가 다시 channel을 닫는다. 따라서 [[SRP]]에 의한 signal sequence 인식부터 [[Sec61 complex]]를 통한 translocation까지의 ==전체 [[Endoplasmic Reticulum]] import 과정은 polypeptide가 fold할 기회를 갖기 전에 co-translationally 발생한다.==
 
 ## 관련 개념
 - [[001_Protein Translocation]]

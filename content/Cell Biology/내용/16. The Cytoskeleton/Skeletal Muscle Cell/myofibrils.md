@@ -1,6 +1,6 @@
 # Myofibrils
 
-![[Cell Biology/출처/md converted/Chapter 16/_page_30_Figure_1.jpeg]]
+![[_page_30_Figure_1.jpeg]]
 *Fig 16–28. 골격근 세포의 구조. 근섬유(muscle fiber)는 여러 myofibril로 구성되고, 각 myofibril은 직렬로 배열된 sarcomere로 이루어진다.*
 
 ## 구조

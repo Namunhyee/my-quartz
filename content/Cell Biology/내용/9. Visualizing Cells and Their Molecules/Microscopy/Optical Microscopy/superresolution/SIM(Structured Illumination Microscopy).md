@@ -21,7 +21,7 @@ Moiré pattern은 서로 다른 각도나 mesh 크기를 가진 두 grids를 겹
 **(B) 정의된 grid pattern**: 알려진 grid pattern
 **(C) Moiré pattern**: 이 둘을 결합하면 resulting moiré pattern이 A(원래 pattern)에서 쉽게 보이는 것보다 더 많은 정보를 포함함
 
-**원리**: 알려진 pattern(B)이 더 높은 spatial frequencies를 가지면 더 나은 resolution을 얻을 수 있음. 그러나 광학적으로 생성할 수 있는 spatial patterns도 회절 제한을 받기 때문에,<mark style="background:rgba(5, 117, 197, 0.2)"> SIM은 resolution을 약 2배 정도만 개선할 수 있다.</mark>
+**원리**: 알려진 pattern(B)이 더 높은 spatial frequencies를 가지면 더 나은 resolution을 얻을 수 있음. 그러나 광학적으로 생성할 수 있는 spatial patterns도 회절 제한을 받기 때문에,<mark style="background:rgba(5, 117, 197, 0.2)"> SIM은 resolution을 약 2배 정도만 개선할 수 있다.</mark>[^기출_중간_2023_14]
 ![[Pasted image 20260130230233.png]]
 ## 작동 메커니즘
 
@@ -34,7 +34,7 @@ Classical limit을 넘어서는 원래 features가 optical system에 의해 imag
 
 **방향성 고려**: Interference effect는 grid bars 방향에 가까운 image components에서 가장 강함. 따라서 모든 방향에서 동등한 enhancement를 얻기 위해 전체 과정을 grid pattern을 일련의 각도로 회전시키며 반복함.
 
-**최종 단계**: 이 모든 개별 이미지들을 computer로 수학적으로 결합하여 enhanced superresolution image 생성
+**최종 단계**: 이 모든 개별 이미지들을 computer로 수학적으로 결합하여 enhanced superresolution image 생성[^기출_중간_2023_14]
 
 ## SIM의 특징
 
@@ -85,3 +85,5 @@ Classical limit을 넘어서는 원래 features가 optical system에 의해 imag
 
 ## 참고 문헌
 Chapter 9: Visualizing Cells and Their Molecules, Section: "Superresolution Fluorescence Techniques Can Overcome Diffraction-limited Resolution", Related Figures: 9-27, 9-28, Related concepts: [[deconvolution]], [[Confocal Microscope]]
+
+[^기출_중간_2023_14]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_14번|2023 중간 14번]] — 선지 ②(SIM은 공간 패턴으로 회절 한계에서 벗어날 수 있다) 오답 근거: SIM은 약 2배 향상에 그치며 회절 한계를 완전히 벗어나지 못함. 선지 ④(SIM은 한 번의 빛 조사로 고해상도 이미지 획득) 오답 근거: 여러 각도/위상으로 반복 촬영 후 수학적 결합이 필요.

@@ -58,7 +58,7 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 **큰 depth of field**: Objects가 near와 far 모두 field of view에서 선명하게 이미지화됨
 **3D appearance**: Surface angle이 beam에 대해 상대적이므로 electron scattering 양이 달라져 highlights와 shadows 생성
 ### 2. Surface Imaging
-**표면만 관찰**: <mark style="background:#fff88f">내부 구조는 볼 수 없음</mark>
+**표면만 관찰**: <mark style="background:#fff88f">내부 구조는 볼 수 없음</mark>[^기출_중간_2023_15]
 **해상도**: 약 10 nm (standard SEM)
 **결과**: 주로 whole cells과 tissues 연구에 사용됨 (subcellular organelles보다)
 
@@ -82,3 +82,5 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 
 ## 참고 문헌
 Chapter 9: Visualizing Cells and Their Molecules, Section: "The Electron Microscope Resolves the Fine Structure of the Cell", Related Figures: 9-45, 9-46, 9-47, Related concepts: [[TEM(Transmission Electron Microscope)]], [[Cryo EM_Biological Specimen Preparation for Electron Microscopy]]
+
+[^기출_중간_2023_15]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_15번|2023 중간 15번]] — 선지 ①(SEM은 내부 관찰에 적합) 오답 근거: SEM은 표면 구조 관찰용이며 내부 구조는 볼 수 없음. TEM이 내부 구조 관찰에 사용됨.

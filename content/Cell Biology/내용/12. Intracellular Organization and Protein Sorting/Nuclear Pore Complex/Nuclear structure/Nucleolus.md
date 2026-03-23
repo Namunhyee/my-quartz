@@ -4,7 +4,7 @@ Nucleolus는 진핵세포의 핵에서 가장 크고 뚜렷한 **biomolecular co
 
 ## Biomolecular Condensate로서의 Nucleolus
 
-Nucleolus는 막으로 둘러싸여 있지 않으며, scaffold macromolecule들 간의 약한 다가 상호작용으로 형성된 condensate이다. Biomolecular condensate의 일반적 원리는 Chapter 12의 초반부에 설명되어 있다.
+Nucleolus는 막으로 둘러싸여 있지 않으며, scaffold macromolecule들 간의 약한 다가 상호작용으로 형성된 condensate이다. [[Biomolecular Condensates]]의 일반적 원리는 Chapter 12의 초반부에 설명되어 있다.
 
 **Scaffold 역할**: rRNA 유전자 배열에서 활발히 전사되는 **nascent pre-rRNA**가 nucleolus의 중심 scaffold이다.
 
@@ -16,8 +16,8 @@ Nucleolus는 막으로 둘러싸여 있지 않으며, scaffold macromolecule들 
 
 Nucleolus는 서로 다른 scaffold macromolecule을 가진 3개의 형태적·기능적으로 구별되는 동심 구획으로 이루어져 있다:
 - 각 구획의 scaffold 간 약간 높은 친화력이 구획 내 condensate를 형성
-- 예: **Fibrillarin** (fibrillar component의 scaffold), **Nucleophosmin** (granular component의 scaffold)
-- 두 단백질을 RNA와 함께 시험관 내에서 혼합하면 각각 별도의 condensate를 형성하지만, 함께 혼합하면 하나의 condensate 안에 다른 condensate가 포함된 다층 구조를 형성
+- 예: ==**Fibrillarin** (fibrillar component의 scaffold), **Nucleophosmin** (granular component의 scaffold)==
+- ==두 단백질을 RNA와 함께 시험관 내에서 혼합하면 각각 별도의 condensate를 형성하지만, 함께 혼합하면 하나의 condensate 안에 다른 condensate가 포함된 다층 구조를 형성==
 
 ## 기능
 

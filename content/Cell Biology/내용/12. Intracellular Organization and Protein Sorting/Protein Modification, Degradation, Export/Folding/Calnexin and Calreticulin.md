@@ -1,6 +1,6 @@
 # Calnexin and Calreticulin
 
-Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-dependent chaperone protein이다. 이들은 carbohydrate-binding protein (lectin)으로서 불완전하게 접힌 단백질을 인식하고 ER에 retention시킨다.[^기출_중간_2023_19]
+Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-dependent chaperone protein이다. 이들은 carbohydrate-binding protein (lectin)으로서 불완전하게 접힌 단백질을 인식하고 ER에 retention시킨다.
 
 ## 구조와 특성
 
@@ -48,7 +48,7 @@ Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-depende
 
 #### Step 4: Folding check
 **완전히 접힌 경우:**
-- ER을 빠져나갈 수 있음
+- ER을 빠져나갈 수 있음[^기출_중간_2023_19]
 - Golgi로 transport
 
 **불완전하게 접힌 경우:**
@@ -139,4 +139,4 @@ Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-depende
 - [[Disulfide bond formation]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
 
-[^기출_중간_2023_19]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_19번|2023 중간 19번]] — Glycosylation의 순차적 변형(glucose 잔기 수 3→2→1→0)이 단백질 접힘 진행 정도를 나타내는 타이머 역할을 함; Calnexin/Calreticulin이 monoglucosylated glycoprotein에 결합하여 ER retention 유도
+[^기출_중간_2023_19]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_19번|2023 중간 19번]] — ⑤ 정답: 올바르게 접힌 단백질만 glucose 재부착 없이 ER을 빠져나감. Calnexin/Calreticulin이 monoglucosylated glycoprotein에 결합하여 ER retention 유도. ③ 오답: calnexin/calreticulin은 aggregation을 방지하는 역할(응집 억제).

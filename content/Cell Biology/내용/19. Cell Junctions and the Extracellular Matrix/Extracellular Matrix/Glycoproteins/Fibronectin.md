@@ -3,7 +3,7 @@
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_28_Figure_1.jpeg]]
 *Fibronectin (FN)의 구조. 여러 domain을 가진 대형 glycoprotein으로, 각 domain이 특정 분자(collagen, proteoglycan, integrin 등)에 결합한다.*
 
-**Fibronectin (FN)**은 모든 척추동물에서 발견되며 cell-matrix 상호작용에 중요한 대형 glycoprotein이다.
+**Fibronectin (FN)**은 모든 척추동물에서 발견되며 cell-matrix 상호작용에 중요한 대형 glycoprotein이다.[^기출_기말_2022_14]
 
 ## 구조와 기능
 - 항상 extracellular space에서 상호작용
@@ -16,7 +16,7 @@
 ![[Pasted image 20260219015616.png]]
 ## RGD Sequence
 
-한 type III repeat에 있는 **RGD sequence** (Arg-Gly-Asp)가 세포 표면의 integrin과 결합하는 핵심 motif이다.[^기출_기말_2022_22][^기출_기말_2023_28]
+한 type III repeat에 있는 **RGD sequence** (Arg-Gly-Asp)가 세포 표면의 integrin과 결합하는 핵심 motif이다.[^기출_기말_2022_16][^기출_기말_2023_28]
 
 - RGD sequence를 포함한 짧은 peptide도 fibronectin과 경쟁하여 integrin 결합 부위를 차단할 수 있다.
 - 이를 응용하여 **RGD sequence를 포함한 항응고제(anti-clotting drug)**가 개발됨
@@ -29,7 +29,7 @@
 
 ## FN Fibril 형성과 Tension
 
-![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_29_Figure_3.jpeg]]
+![[_page_29_Figure_3.jpeg]]
 *Type III FN domain의 tension에 의한 unfolding. FN이 신장되면 일부 type III fibronectin repeat이 펼쳐져서(unfold) 숨겨진 결합 부위(cryptic binding site)가 노출되고, 이것이 다른 FN 분자와 상호작용하여 FN filament를 형성한다.*
 
 FN fibril은 **세포 표면에서만** 조립된다:
@@ -53,5 +53,6 @@ FN fibril은 **세포 표면에서만** 조립된다:
 	-  
 - [[scleroderma]]에서 FN 침착 증가가 관찰된다.
 
-[^기출_기말_2022_22]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_22번|2022 기말 22번]] — fibronectin의 RGD(Arg-Gly-Asp) 서열이 integrin 세포외 도메인과 결합(정답②), FN은 이황화결합 이합체(dimer)임이 정답 근거로 활용됨.
+[^기출_기말_2022_14]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_14번|2022 기말 14번]] — ④번 선지: fibronectin은 세포 부착/이동 관련 glycoprotein으로 Osteogenesis imperfecta와 무관 (오답).
+[^기출_기말_2022_16]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_16번|2022 기말 16번]] — ②번 선지: fibronectin integrin binding domain의 핵심 아미노산 서열 RGD(Arg-Gly-Asp). 정답 ②. ④번 REDV는 fibronectin의 부차적 motif로 일부 α4β1 integrin에만 결합하여 RGD보다 중요도가 낮음 (오답).
 [^기출_기말_2023_28]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_28번|2023 기말 28번]] — fibronectin의 RGD(Arg-Gly-Asp) 서열이 integrin과 결합하여 세포-ECM 부착을 매개한다는 내용이 정답 근거로 활용됨.

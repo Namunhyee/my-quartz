@@ -4,7 +4,7 @@
 
 **Endocytosis**는 세포가 plasma membrane 성분, fluid, 용질, 거대분자, 입자 물질을 흡수하는 과정이다. Plasma membrane의 작은 부분이 점진적으로 들어가는 물질을 둘러싸고, 먼저 invagination한 다음 pinch off하여 섭취된 물질이나 입자를 포함하는 **endocytic vesicle**을 형성한다.
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_0_Figure_14.jpeg]]
+![[_page_0_Figure_14.jpeg]]
 
 ## Endocytosis의 종류
 
@@ -58,7 +58,7 @@ Endocytosis와 exocytosis는 연결된 과정으로 **endocytic–exocytic cycle
 
 ## Clathrin-coated Pit과 Vesicle
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_40_Picture_10.jpeg]]
+![[_page_40_Picture_10.jpeg]]
 
 ### Clathrin-coated Pit
 

@@ -12,7 +12,7 @@ Sphingomyelin: <font color="#974806">brown</font>
 Glycolipid: <font color="#00b0f0">blue</font>
 ### Outer Monolayer (==Noncytosolic==)
 
-**Choline-containing phospholipid가 거의 모두 위치:**
+**Choline-containing phospholipid가 거의 모두 위치:**[^기출_중간_2023_1_③][^기출_중간_2025_1_④]
 - **Phosphatidylcholine**: Choline이 head group에 있음 - (CH₃)₃N⁺CH₂CH₂OH
 - **Sphingomyelin**: Choline이 head group에 있음
 
@@ -24,7 +24,7 @@ Glycolipid: <font color="#00b0f0">blue</font>
 
 ### ==Charge 차이==
 
-==Negatively charged phosphatidylserine이 inner monolayer에 위치하기 때문에==:[^기출_중간_2023_1]
+==Negatively charged phosphatidylserine이 inner monolayer에 위치하기 때문에==:[^기출_중간_2023_1][^기출_중간_2025_1][^기출_중간_2023_1_④]
 - Bilayer의 두 half 사이에 significant charge difference 존재
 - Inner monolayer가 net negative charge를 가짐
 
@@ -32,9 +32,9 @@ Glycolipid: <font color="#00b0f0">blue</font>
 
 ![](_page_9_Figure_7.jpeg)
 
-==[[Glycolipid]]의 분포는 가장 극단적인 asymmetry를 보인다==:[^기출_중간_2022_18]
+==[[Glycolipid]]의 분포는 가장 극단적인 asymmetry를 보인다==:
 - Plasma membrane 또는 intracellular membrane에서
-- ==Noncytosolic monolayer에서만 독점적으로 발견됨==
+- ==Noncytosolic monolayer에서만 독점적으로 발견됨==[^기출_중간_2022_18][^기출_중간_2022_18_④]
 - Animal cell에서 sphingosine으로부터 만들어짐 (sphingomyelin처럼)
 
 위 그림은 human red blood cell의 lipid bilayer에서 phospholipid와 glycolipid의 비대칭 분포를 보여준다. Glycolipid는 hexagonal polar head group (파란색)으로 그려져 있다. [[Cholesterol]]은 양쪽 monolayer에 대략 균등하게 분포한다.
@@ -121,8 +121,8 @@ Plasma membrane의 phospholipid가 또 다른 방식으로 사용된다:
 
 동물 세포가 apoptosis를 겪을 때:
 
-**Phosphatidylserine translocation:**[^기출_중간_2022_15]
-1. ==정상적으로 plasma membrane lipid bilayer의 cytosolic (inner) monolayer에 국한됨==
+**Phosphatidylserine translocation:**
+1. ==정상적으로 plasma membrane lipid bilayer의 cytosolic (inner) monolayer에 국한됨==[^기출_중간_2022_15][^기출_중간_2025_1_②]
 2. ==[[Flippase]] 비활성화로 Apoptosis 동안 빠르게 extracellular (outer) monolayer로 translocation==
 3. ==Cell surface에 phosphatidylserine 노출==
 
@@ -147,6 +147,12 @@ Apoptotic cell에서 phosphatidylserine의 translocation이 발생하는 이유:
 - [[Fluidity of a lipid bilayer]]
 - [[Membrane protein]]
 
-[^기출_중간_2023_1]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_1번|2023 중간 1번]] — ==GSDMD==는 음이온성 인지질(PS 등)에 결합하여 구멍을 형성하며, 정상 세포의 외엽에는 PS가 없어 보호됨; 박테리아 내막의 음이온성 인지질에도 작용한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
-[^기출_중간_2022_15]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_15번|2022 중간 15번]] — Apoptosis 시 phosphatidylserine이 inner monolayer에서 outer monolayer로 이동하여 macrophage에 의한 phagocytosis 신호로 작용한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
-[^기출_중간_2022_18]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — 당지질이 cytosol을 등지는 외엽에만 독점적으로 위치하며, 당지질과 당단백질이 세포 인식 및 세포-세포 상호작용에 기여한다는 내용이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_1]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_1번|2023 중간 1번]] — PS가 inner monolayer에 위치하기 때문에 동물 세포 outer leaflet에는 음전하 인지질이 없음 → 선지 ③(이웃 세포 outer leaflet 결합) 불가; 선지 ④(박테리아 외막 직접 결합 → pore 형성)가 정답. 선지 ②(박테리아에는 콜레스테롤 없음)도 이 노트 맥락에서 확인됨.
+[^기출_중간_2022_15]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_15번|2022 중간 15번]] — 정상 세포에서 PS는 inner (cytosolic) monolayer에 국한되며, apoptosis 시 Flippase 비활성화로 outer monolayer로 노출되어 macrophage의 eat-me 신호로 작용한다는 내용이 서술형으로 출제됨. (서술형)
+[^기출_중간_2022_18]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — 당지질은 noncytosolic monolayer에서만 발견됨 → 선지 ④("cytosol을 향하게 된다") 직접 반박. 선지 ③(당단백질·당지질이 세포 인식·상호작용 촉진, 정답)은 Glycolipid 노트 cell-recognition 섹션에서 확인됨.
+[^기출_중간_2025_1]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_1번|2025 중간 1번]] — PS가 inner (cytosolic) monolayer에 위치하므로, LL-37이 세포질에 발현되면 inner leaflet의 음극성 인지질(PS, PE)에 결합하여 구멍을 형성(선지 ②, 정답). 선지 ④⑤는 outer leaflet에 음전하 인지질 없음으로 불가.
+[^기출_중간_2023_1_③]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_1번|2023 중간 1번]] — ③번 선지: 이웃한 동물 세포의 outer leaflet에는 음전하 인지질이 거의 없으므로 GSDMD가 결합해 구멍을 형성할 수 없음 (오답)
+[^기출_중간_2025_1_②]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_1번|2025 중간 1번]] — ②번 선지: LL-37이 세포질에 발현되면 inner leaflet의 음극성 인지질(PS)에 결합하여 구멍을 형성 → 세포 용해 (정답)
+[^기출_중간_2025_1_④]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_1번|2025 중간 1번]] — ④번 선지: 동물 세포막 outer leaflet은 choline계 중성 인지질(PC, SM)이 대부분으로 음전하 표적이 없어 LL-37이 외부로 나가도 결합 불가 (오답)
+[^기출_중간_2022_18_④]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_18번|2022 중간 18번]] — ④번 선지: 당 잔기(glycolipid 포함)는 noncytosolic monolayer에만 위치 → "cytosol을 향하게 된다"는 틀림 (오답)
+[^기출_중간_2023_1_④]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_1번|2023 중간 1번]] — ④번 선지: 동물 세포의 PS는 inner monolayer에 국한 → outer leaflet은 중성 → 대비: 박테리아 외막에는 음전하 인지질이 노출되어 있어 GSDMD 결합 및 pore 형성 가능 (정답)

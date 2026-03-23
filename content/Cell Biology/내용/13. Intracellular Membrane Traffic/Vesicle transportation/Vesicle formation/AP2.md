@@ -24,9 +24,9 @@ AP2는 [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|phosphoinositide]]
 
 ### Active State (Open)
 **Activation 과정**:
-1. AP2가 plasma membrane의 PI(4,5)P₂와 상호작용
-2. Conformational change 발생
-3. Cargo receptor binding site가 exposed됨
+1. AP2가 plasma membrane의 PI(4,5)P₂와 상호작용[^기출_중간_2022_21][^기출_중간_2023_4]
+2. Conformational change 발생[^기출_중간_2022_21][^기출_중간_2023_4]
+3. Cargo receptor binding site가 exposed됨[^기출_중간_2022_21]
 4. 각 AP2 complex는 4개의 PI(4,5)P₂ molecule과 결합
 
 **결과**:
@@ -36,9 +36,9 @@ AP2는 [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|phosphoinositide]]
 
 ## Cooperative Assembly
 
-AP2의 membrane binding은 highly cooperative하다:
+AP2의 membrane binding은 highly cooperative하다:[^기출_중간_2025_18]
 
-1. **Lipid-protein interaction**: PI(4,5)P₂ binding
+1. **Lipid-protein interaction**: PI(4,5)P₂ binding[^기출_중간_2025_18]
 2. **Protein-protein interaction**: Cargo receptor cytosolic tail binding
 3. **Membrane curvature induction**: Curved membrane이 추가 AP2 binding 촉진
 4. **Clathrin recruitment**: AP2가 [[Clathrin coat|clathrin]] binding site 제공
@@ -71,12 +71,13 @@ AP2는 transmembrane cargo와 cargo receptor를 선택적으로 인식한다:
 
 ### Specificity
 각 adaptor protein은 특이성을 가진다:
-- **Phosphoinositide specificity**: 다른 type의 PIP 인식
+- **Phosphoinositide specificity**: 다른 type의 PIP 인식[^기출_중간_2022_21][^기출_중간_2023_4]
 - **Sequence motif specificity**: 다른 amino acid sequence 인식
 
 이러한 specificity로 인해:
 - 각 adaptor protein은 특정 membrane에서만 coat assembly 유도
-- 특정 subset의 cargo만 특정 vesicle에 packaging
+- 특정 subset의 cargo만 특정 vesicle에 packaging[^기출_중간_2022_21][^기출_중간_2023_4]
 
-[^기출_중간_2022_21]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_21번|2022 중간 21번]] — AP2가 PI(4,5)P₂ 결합 시 conformational change로 cargo binding site를 노출시키고 clathrin을 모집한다는 내용이 정답 근거로 활용됨.
-[^기출_중간_2023_4]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_4번|2023 중간 4번]] — AP2의 PI(4,5)P₂ 의존적 활성화와 cargo receptor 인식 메커니즘이 선지 ②의 정답 근거로 활용됨.
+[^기출_중간_2022_21]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_21번|2022 중간 21번]] — ②번 선지: AP2 단백질은 특정 단백질(PI(4,5)P₂)과 결합으로 구조가 변형된다 (맞음, PI(4,5)P₂와 결합 시 conformational change로 cargo binding site가 노출됨, 정답); ④번 선지: 같은 clathrin으로 코팅된 vesicle은 같은 cargo receptor를 가진다 (틀림, adaptor 종류(AP1 vs AP2)에 따라 서로 다른 cargo receptor 포장).
+[^기출_중간_2023_4]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_4번|2023 중간 4번]] — ③번 선지: AP1 단백질은 G 단백질과의 상호작용으로 구조가 변형된다 (정답, AP1은 PI(4)P 및 Arf1-GTP(ARF family GTPase)에 의해 conformational change 유도, 'G 단백질과 상호작용'은 기술적으로 맞음); ④번 선지: Clathrin으로부터 형성된 vesicle은 같은 cargo receptor를 갖게 된다 (틀림, adaptor 종류 차이로 다른 cargo).
+[^기출_중간_2025_18]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_18번|2025 중간 18번]] — ③번 선지: AP2/clathrin이 세포막으로부터 분리되어 clathrin이 탈락된다 (맞음, PI(4,5)P₂ 분해 phosphatase 활성화 → AP2의 막 결합력 감소 → clathrin coat 탈락, 정답).

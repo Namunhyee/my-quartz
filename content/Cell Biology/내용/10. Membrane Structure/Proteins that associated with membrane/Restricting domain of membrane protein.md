@@ -37,8 +37,8 @@ Mitochondria inner membrane의 ATP synthase complex:
 
 위 그림은 epithelial cell에서 membrane molecule이 특정 membrane domain에 어떻게 제한될 수 있는지 보여준다:
 - Protein A (apical domain)와 protein B (basal/lateral domain)는 자신의 domain에서 laterally diffuse 가능
-- Tight junction에 의해 다른 domain으로 들어가는 것이 방지됨
-- Outer (extracellular) monolayer의 lipid molecule도 두 domain 사이를 확산할 수 없음
+- Tight junction에 의해 다른 domain으로 들어가는 것이 방지됨[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_②][^기출_중간_2023_22_②][^기출_중간_2023_22_④]
+- Outer (extracellular) monolayer의 lipid molecule도 두 domain 사이를 확산할 수 없음[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_⑤][^기출_중간_2023_22_⑤]
 - Inner (cytosolic) monolayer의 lipid는 확산 가능
 
 **기능적 중요성:**
@@ -83,7 +83,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 ## ==Membrane Protein 고정 메커니즘==
 ==이건 구역 설정 정도가 아니라 아예 이동이 제한된 경우==
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_27_Picture_8.jpeg]]
+![[_page_27_Picture_8.jpeg]]
 
 위 그림은 특정 plasma membrane protein의 lateral mobility를 제한하는 네 가지 일반적인 방법을 보여준다:[^기출_중간_2023_22]
 
@@ -101,7 +101,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 ### 3. Tethering to Intracellular Macromolecule
 
 **(C) 세포 내부의 Macromolecule Assembly에 Tether:**
-- Membrane protein이 세포 내부의 macromolecule assembly와 상호작용으로 tether됨
+- Membrane protein이 세포 내부의 macromolecule assembly와 상호작용으로 tether됨[^기출_중간_2022_19_④]
 - [[Cortical cytoskeleton]]==이 주요 역할==
 
 ### 4. Interaction with Another Cell
@@ -162,5 +162,11 @@ Transmembrane protein이 corral 내에 국한되는 정도는 다음에 의존:
 - [[Raft domain]]
 - [[Lipid anchor]]
 
-[^기출_중간_2023_22]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — 막단백질의 이동 제한 메커니즘 4가지(self-assembly, 세포외 macromolecule tether, 세포내 macromolecule tether, 다른 세포 단백질 상호작용) 중 단백질-단백질 상호작용이 핵심 정답 근거로 활용됨. 복기 불완전. (선지 미복기)
-[^기출_중간_2022_19]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — Cortical cytoskeleton이 막의 cytosolic surface에 밀착하여 막단백질의 이동을 corral 내로 제한하는 메커니즘이 출제됨. 복기 불완전. (선지 미복기)
+[^기출_중간_2023_22]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — Tight junction이 막단백질·인지질(outer leaflet) 모두의 domain 간 이동을 제한 (전반적 맥락)
+[^기출_중간_2022_19]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — Tight junction/cortical cytoskeleton이 막 구성요소의 도메인 간 이동을 제한 (전반적 맥락)
+[^기출_중간_2023_22_④]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — ④번 선지: Tight junction으로 막단백질과 인지질(outer leaflet)의 이동이 제한될 수 있음 (정답)
+[^기출_중간_2023_22_⑤]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — ⑤번 선지: Outer leaflet 지질도 domain 간 확산 불가 — "지질은 계속 확산 가능"은 틀림 (오답)
+[^기출_중간_2022_19_④]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — ④번 선지: 단백질이 세포 내부 macromolecule assembly(세포골격 등)와의 상호작용으로 특정 지역에 고정될 수 있음 (정답)
+[^기출_중간_2022_19_⑤]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — ⑤번 선지: Outer monolayer 지질도 두 domain 사이를 확산할 수 없음 — "지질은 계속 확산 가능"은 틀림 (오답)
+[^기출_중간_2022_19_②]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_19번|2022 중간 19번]] — ②번 선지: Tight junction이 막단백질의 도메인 간 이동을 방지함 — "특정 도메인을 건너서 이동할 수 있다"는 틀림 (오답)
+[^기출_중간_2023_22_②]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_22번|2023 중간 22번]] — ②번 선지: Tight junction이 막단백질의 도메인 간 이동을 방지함 — "특정 도메인을 건너서 이동할 수 있다"는 틀림 (오답)

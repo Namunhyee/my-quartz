@@ -4,15 +4,15 @@ Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전
 
 ## M6P Receptor System
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_29_Figure_8.jpeg]]
+![[_page_29_Figure_8.jpeg]]
 
 ### M6P Receptor의 역할
 
-**Mannose 6-phosphate (M6P) receptor**는 transmembrane 단백질로:
-- TGN에 존재
-- Lumen 쪽에서 M6P group을 인식하고 lysosomal hydrolase에 결합
-- Cytosolic 쪽에서 assembling clathrin coat의 adaptor 단백질에 결합
-- Hydrolase를 TGN에서 budding하는 clathrin-coated vesicle로 포장하는 것을 돕음
+**Mannose 6-phosphate (M6P) receptor**는 transmembrane 단백질로:[^기출_중간_2022_32]
+- TGN에 존재[^기출_중간_2022_32]
+- Lumen 쪽에서 M6P group을 인식하고 lysosomal hydrolase에 결합[^기출_중간_2022_32]
+- Cytosolic 쪽에서 assembling clathrin coat의 adaptor 단백질에 결합[^기출_중간_2022_32]
+- Hydrolase를 TGN에서 budding하는 clathrin-coated vesicle로 포장하는 것을 돕음[^기출_중간_2022_32]
 
 ### pH 의존적 결합
 
@@ -41,15 +41,15 @@ Clathrin-coated vesicle:
 
 ### 3. Receptor 재활용
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
+![[_page_19_Figure_10.jpeg]]
 
 Early endosome에서:
-1. 낮은 pH 환경 (pH 6.0)
-2. Lysosomal hydrolase가 M6P receptor로부터 dissociate
-3. Phosphate가 M6P에서 제거됨 (hydrolase가 receptor와 함께 TGN으로 돌아가지 않도록 추가로 보장)
-4. 빈 M6P receptor가 **retromer-coated vesicle**로 회수됨
-5. Retromer-coated vesicle이 TGN으로 돌아감
-6. M6P receptor가 재사용됨
+1. 낮은 pH 환경 (pH 6.0)[^기출_중간_2022_32]
+2. Lysosomal hydrolase가 M6P receptor로부터 dissociate[^기출_중간_2022_32]
+3. Phosphate가 M6P에서 제거됨 (hydrolase가 receptor와 함께 TGN으로 돌아가지 않도록 추가로 보장)[^기출_중간_2022_32]
+4. 빈 M6P receptor가 **retromer-coated vesicle**로 회수됨[^기출_중간_2022_32]
+5. Retromer-coated vesicle이 TGN으로 돌아감[^기출_중간_2022_32]
+6. M6P receptor가 재사용됨[^기출_중간_2022_32]
 
 ### Retromer Coat
 
@@ -65,7 +65,7 @@ Retromer는 endosome에서 TGN으로의 transport에 특화된 coat 단백질 co
 
 ## Escape Mechanism
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_29_Figure_8.jpeg]]
+![[_page_29_Figure_8.jpeg]]
 
 모든 hydrolase 분자가 lysosome에 도달하는 것은 아니다:
 - 일부 M6P-tagged hydrolase가 정상 packaging process를 벗어남

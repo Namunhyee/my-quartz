@@ -10,7 +10,7 @@ Organelle contact site는 두 organelle의 membrane이 10-30 nm 거리 내에서
 ![[Cell Biology/출처/md converted/Chapter 12/_page_39_Picture_8.jpeg]]
 
 ### ER의 광범위한 Contact Network
-![[Cell Biology/출처/md converted/Chapter 12/_page_39_Figure_7.jpeg]]
+![[_page_39_Figure_7.jpeg]]
 
 ER network는 거의 모든 다른 cellular organelle과 contact site를 형성한다:
 - Mitochondria
@@ -24,7 +24,7 @@ ER network는 거의 모든 다른 cellular organelle과 contact site를 형성�
 ## Contact Site의 구조
 
 ### Junction Complex
-![[Cell Biology/출처/md converted/Chapter 12/_page_42_Figure_5.jpeg]]
+![[_page_42_Figure_5.jpeg]]
 
 두 organelle membrane 사이의 contact site는 junction complex에 의해 유지된다:
 

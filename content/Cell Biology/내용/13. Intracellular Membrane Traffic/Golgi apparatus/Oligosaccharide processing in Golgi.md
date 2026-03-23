@@ -46,7 +46,7 @@ Oligosaccharide processing은 다음과 같이 순차적으로 진행된다:
 
 ## 두 가지 Oligosaccharide 클래스
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_22_Figure_9.jpeg]]
+![[_page_22_Figure_9.jpeg]]
 
 포유류 glycoprotein에 부착되는 N-linked oligosaccharide의 두 가지 broad class:
 
@@ -124,7 +124,7 @@ Glycosylation은 중요한 조절 역할을 할 수 있다. 예를 들어, Notch
 
 - [[functional compartmentalization of the Golgi apparatus|Golgi apparatus의 기능적 구획화]]
 - [[Golgi apparatus_MOC|Golgi apparatus]]
-- [[../../12. Intracellular Organization and Protein Sorting/N-linked glycosylation|N-linked glycosylation]]
-- [[../../12. Intracellular Organization and Protein Sorting/Quality control in ER|ER에서의 품질 관리]]
+- [[N-linked glycosylation]]
+- [[Quality control of ER protein folding]]
 
 [^기출_중간_2022_28]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_28번|2022 중간 28번]] — Golgi에서 N-linked oligosaccharide의 cis→medial→trans 순차적 처리(mannose 제거, sugar 추가)가 정답 근거로 활용됨.

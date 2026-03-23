@@ -2,7 +2,7 @@
 
 ## 개요
 
-**Succinate dehydrogenase** (Complex II)는 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Citric Acid Cycle/Citric Acid Cycle_MOC|Citric Acid Cycle]]의 한 단계(succinate → fumarate)를 촉매하는 동시에, 전자를 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Electron Transport Chain_MOC|ETC]]에 공급하는 이중 역할을 가진 유일한 효소이다.
+**Succinate dehydrogenase** (Complex II)는 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Citric Acid Cycle/Citric Acid Cycle_MOC|Citric Acid Cycle]]의 한 단계(succinate → fumarate)를 촉매하는 동시에, 전자를 [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Electron Transport Chain_MOC|ETC]]에 공급하는 이중 역할을 가진 유일한 효소이다.[^기출_기말_2023_8]
 
 - **위치**: 미토콘드리아 crista membrane에 embedded
 - **기능**: succinate 산화 시 포획한 전자를 ubiquinone으로 전달
@@ -12,7 +12,7 @@
 
 ## 구조
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_22_Figure_8.jpeg]]
+![[_page_22_Figure_8.jpeg]]
 *Figure 14-26: Succinate dehydrogenase 구조. Sdh1(FAD 포함), Sdh2(3개의 iron-sulfur cluster), 막 내 구성요소(heme 포함) 4개 소단위로 구성.*
 
 4개의 소단위로 구성:
@@ -55,5 +55,8 @@ Ubiquinol (QH₂) → Complex III로 이동
 
 ## 질환과의 관련성
 
-- 다른 3개의 respiratory complex와 달리, Complex II의 활성 감소를 유발하는 돌연변이는 **특정 유형의 암(cancer)**과 연관됨
+- 다른 3개의 respiratory complex와 달리, Complex II의 활성 감소를 유발하는 돌연변이는 **특정 유형의 암(cancer)**과 연관됨[^기출_기말_2025_22]
 - Assembly factor 결손 돌연변이도 Complex II 결함을 일으킬 수 있음
+
+[^기출_기말_2025_22]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_22번|2025 기말 22번]] — Complex II의 이중 역할(TCA cycle 효소 + ETC 구성 요소) 및 기능 상실 시 ATP 합성 급감 원인 설명.
+[^기출_기말_2023_8]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_8번|2023 기말 8번]] — ③번 선지: Complex II(succinate dehydrogenase)는 FADH₂로부터 전자를 전달받는다 → 옳음.

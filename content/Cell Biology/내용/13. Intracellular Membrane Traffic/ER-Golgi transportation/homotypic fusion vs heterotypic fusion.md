@@ -30,7 +30,7 @@ Membrane fusion은 두 가지 category로 분류된다: homotypic fusion과 hete
 
 ## Homotypic Fusion
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
+![[_page_18_Figure_9.jpeg]]
 
 ### 정의
 **Homotypic fusion**은 같은 compartment의 membrane끼리 fusion하는 과정이다.

@@ -10,11 +10,11 @@
 - 단백질의 folding 상태를 안정화
 - 세포외 환경이나 organelle lumen에 노출되는 단백질에 필수적
 
-### 2. [[Glycosylation]]
+### 2. Glycosylation
 - ER에서 처리되는 단백질의 약 절반에 일어나는 변형
 - 주요 유형:
-  - N-linked glycosylation: ER에서 시작
-  - O-linked glycosylation: ER에서 첫 번째 sugar 추가 시작
+  - [[N-linked glycosylation]]: ER에서 시작
+  - [[Oligosaccharides#O-linked Oligosaccharide|O-linked glycosylation]]: ER에서 첫 번째 sugar 추가 시작
 - [[Oligosaccharides]]가 단백질에 부착됨
 - 단백질 folding 상태를 표시하는 tag 역할
 

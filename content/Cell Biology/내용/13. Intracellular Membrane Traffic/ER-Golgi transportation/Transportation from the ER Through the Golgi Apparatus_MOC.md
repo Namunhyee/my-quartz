@@ -61,7 +61,7 @@ ER exit step은 secretory pathway의 major checkpoint.
 
 ### Formation
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
+![[_page_18_Figure_9.jpeg]]
 
 ER-derived transport vesicle이 coat shed 후:
 
@@ -175,7 +175,7 @@ Golgi 도달 후에도 retrieval 계속되어 더욱 mature.
 
 **KDEL Receptor**:
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
+![[_page_19_Figure_10.jpeg]]
 
 - Multipass transmembrane protein
 - KDEL sequence 인식

@@ -135,19 +135,19 @@ others in the cytoplasm), a variety of different signaling protein clusters that
 
 As illustrated by the nucleolus, each type of condensate is enriched for a characteristic complement of proteins (and in many cases, nucleic acids) that interact with each other to maintain the condensate's identity and integrity. The specificity of at least a subset of macromolecular interactions within the condensate ensures that it remains distinct in its composition and function. Thus, biomolecular condensates and membrane-enclosed compartments represent two different mechanisms that are used by eukaryotic cells to segregate subsets of macromolecules that execute specialized biochemistry (see Table 3–3). Because of this conceptual similarity, condensates are sometimes referred to as **membraneless** 
 
-| TABLE 12–3 Examples of Eukaryotic Biomolecular Condensates |             |                                                                         |  |
-|------------------------------------------------------------|-------------|-------------------------------------------------------------------------|--|
-| Biomolecular condensate                                    | Location    | Proposed associated function(s)                                         |  |
-| Nucleolus                                                  | Nucleus     | rRNA transcription and ribosome assembly                                |  |
-| Pyrenoid                                                   | Chloroplast | Carbon fixation from CO2 in algae                                       |  |
-| Stress granules                                            | Cytosol     | Temporary storage, particularly of translation-related components       |  |
-| P-granules                                                 | Cytosol     | RNA metabolism and inheritance                                          |  |
-| Balbiani body                                              | Cytosol     | Localization and inheritance of mRNAs and organelles                    |  |
-| Cajal body                                                 | Nucleus     | mRNA processing                                                         |  |
-| Paraspeckles                                               | Nucleus     | Regulation of gene expression                                           |  |
-| RNA transport granule                                      | Neuron      | RNA localization to subcellular locations in development and in neurons |  |
-| PML body                                                   | Nucleus     | Storage of nuclear factors; regulation of gene expression               |  |
-| Postsynaptic density                                       | Dendrite    | Organization of macromolecules needed for neuronal transmission         |  |
+| TABLE 12–3 Examples of Eukaryotic Biomolecular Condensates |             |                                                                         |     |
+| ---------------------------------------------------------- | ----------- | ----------------------------------------------------------------------- | --- |
+| Biomolecular condensate                                    | Location    | Proposed associated function(s)                                         |     |
+| Nucleolus                                                  | Nucleus     | rRNA transcription and ribosome assembly                                |     |
+| Pyrenoid                                                   | Chloroplast | Carbon fixation from CO2 in algae                                       |     |
+| Stress granules                                            | Cytosol     | Temporary storage, particularly of translation-related components       |     |
+| P-granules                                                 | Cytosol     | RNA metabolism and inheritance                                          |     |
+| Balbiani body                                              | Cytosol     | Localization and inheritance of mRNAs and organelles                    |     |
+| Cajal body                                                 | Nucleus     | mRNA processing                                                         |     |
+| Paraspeckles                                               | Nucleus     | Regulation of gene expression                                           |     |
+| RNA transport granule                                      | Neuron      | RNA localization to subcellular locations in development and in neurons |     |
+| PML body                                                   | Nucleus     | Storage of nuclear factors; regulation of gene expression               |     |
+| Postsynaptic density                                       | Dendrite    | Organization of macromolecules needed for neuronal transmission         |     |
 
 **organelles**. Historically, organelles were intracellular structures that could be directly visualized in the light or electron microscope. This is why the nucleolus and centrosome are called organelles. Most condensates are not organelles by this historical definition; nevertheless, they are cellular structures that segregate and concentrate specific macromolecules.
 

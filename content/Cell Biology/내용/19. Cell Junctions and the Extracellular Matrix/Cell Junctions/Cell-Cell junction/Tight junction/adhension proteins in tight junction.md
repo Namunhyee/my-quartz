@@ -14,8 +14,9 @@
 ![[Cell Biology/출처/md converted/Chapter 19/_page_16_Figure_1.jpeg]]
 *Figure 19-22. ZO-1, ZO-2, ZO-3는 plasma membrane 아래에서 tight junction을 지지하는 scaffold protein이다. 각 단백질은 여러 protein-binding domain(PDZ domain × 3, SH3 domain, GK domain, proline-rich domain 등)이 구슬처럼 이어져 있어 서로 및 다른 단백질들과 상호작용하는 촘촘한 단백질 네트워크를 형성하고, sealing strand를 actin cytoskeleton에 연결한다.*
 
-**ZO-1, ZO-2, ZO-3**(Zonula Occludens proteins)는 tight junction의 핵심 조직 단백질이다.[^기출_기말_2023_25] 이들은 PDZ domain을 포함한 여러 protein-binding domain을 가지며, claudin과 occludin의 C-terminal tail에 결합하고, actin cytoskeleton과도 연결된다. ZO 단백질들이 형성하는 세포질 쪽 단백질 network가 sealing strand를 조직하고 위치시킨다.
+**ZO-1, ZO-2, ZO-3**(Zonula Occludens proteins)는 tight junction의 핵심 조직 단백질이다.[^기출_기말_2022_10][^기출_기말_2023_25] 이들은 PDZ domain을 포함한 여러 protein-binding domain을 가지며, claudin과 occludin의 C-terminal tail에 결합하고, actin cytoskeleton과도 연결된다. ZO 단백질들이 형성하는 세포질 쪽 단백질 network가 sealing strand를 조직하고 위치시킨다.
 
 Tight junction의 sealing strand 형성도 adherens junction 형성에 의존하는 측면이 있다: cadherin 형성을 차단하는 항체는 tight junction 형성도 억제한다.
 
+[^기출_기말_2022_10]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_10번|2022 기말 10번]] — scaffold protein(ZO-1)이 occludin/claudin을 고정시키는 junction: tight junction. 정답 ④.
 [^기출_기말_2023_25]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_25번|2023 기말 25번]] — tight junction의 ZO scaffold 단백질(PDZ domain 보유), claudin(24가지 isoform), occludin의 구성과 역할이 정답 근거로 활용됨.

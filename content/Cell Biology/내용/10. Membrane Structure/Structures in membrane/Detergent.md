@@ -11,7 +11,7 @@ Detergent는 ==hydrophobic association을 파괴하고 lipid bilayer를 disassem
 
 ## ==detergent 의 종류==
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_20_Figure_1.jpeg]]
+![[_page_20_Figure_1.jpeg]]
 
 Polar (hydrophilic) end는 두 가지 type이 있다:
 

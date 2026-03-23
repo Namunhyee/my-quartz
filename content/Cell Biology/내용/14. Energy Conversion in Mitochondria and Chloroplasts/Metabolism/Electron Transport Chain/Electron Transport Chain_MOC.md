@@ -2,7 +2,7 @@
 
 ## 개요
 
-Electron Transport Chain (ETC, 전자전달계) = **Respiratory chain**은 미토콘드리아 inner membrane의 crista에 위치하며, NADH와 FADH₂의 전자를 O₂로 전달하면서 proton gradient를 형성하는 계이다.[^기출_기말_2022_12][^기출_기말_2022_13][^기출_기말_2023_8]
+Electron Transport Chain (ETC, 전자전달계) = **Respiratory chain**은 미토콘드리아 inner membrane의 crista에 위치하며, NADH와 FADH₂의 전자를 O₂로 전달하면서 proton gradient를 형성하는 계이다.[^기출_기말_2023_8][^기출_기말_2025_1]
 
 > "The respiratory chain is embedded in the crista membrane portion of the inner mitochondrial membrane. It contains three respiratory enzyme complexes through which electrons pass on their way from NADH to O₂." — Chapter 14
 
@@ -34,7 +34,7 @@ NADH
 ## Mobile Electron Carriers
 
 - **Ubiquinone (Coenzyme Q, Q)**: 지질 이중층 내에서 자유롭게 이동. Complex I 또는 II에서 Complex III로 전자 운반
-- **Cytochrome c**: crista space의 작은 수용성 단백질. Complex III에서 Complex IV로 전자 운반 (1개씩)
+- **Cytochrome c**: crista space의 작은 수용성 단백질. Complex III에서 Complex IV로 전자 운반 (1개씩)[^기출_기말_2023_8]
 
 ## Redox Potential과 에너지
 
@@ -66,6 +66,5 @@ NADH
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex V (ATP synthase)|Complex V (ATP synthase)]]
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/ATP synthesis|ATP synthesis]]
 
-[^기출_기말_2022_12]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_12번|2022 기말 12번]] — ETC가 mitochondrial crista membrane(inner membrane)에 위치하며 ATP 합성이 이루어진다는 내용이 정답 근거로 활용됨.
-[^기출_기말_2022_13]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_13번|2022 기말 13번]] — Complex I(NADH→CoQ), III→IV 경로(cytochrome c), ATP synthase에서 IMS→matrix 방향 H⁺ 유입으로 ATP 합성이 이루어짐이 정답 ⑤의 근거로 활용됨.
-[^기출_기말_2023_8]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_8번|2023 기말 8번]] — Cytochrome c는 Complex III로부터 전자를 받아 Complex IV로 전달하므로, 선지 ④("Complex I·II로부터 전자를 받아 Complex III에 전달")가 옳지 않음이 정답 근거로 활용됨.
+[^기출_기말_2023_8]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_8번|2023 기말 8번]] — ①번: ETC는 미토콘드리아 inner membrane에 존재 → 옳음. ④번(정답): Cytochrome c는 Complex III에서 전자를 받아 Complex IV로 전달 — "Complex I·II로부터 전자를 받아 Complex III에 전달"은 틀림 → 정답.
+[^기출_기말_2025_1]: [[Cell Biology/기출 DB/기말고사/2025년/final_2025_1번|2025 기말 1번]] — ①번 선지: ETC는 "독립적으로" ATP를 합성하지 않음 — proton gradient(chemiosmotic coupling)를 경유해 ATP synthase가 합성함 → 선지 "세 과정 모두 독립적으로 ATP 합성"은 틀림.

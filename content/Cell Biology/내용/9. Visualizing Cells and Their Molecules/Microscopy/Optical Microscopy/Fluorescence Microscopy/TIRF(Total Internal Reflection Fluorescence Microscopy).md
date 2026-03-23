@@ -29,7 +29,7 @@
 **Evanescent wave**:
 - 일부 전자기 에너지가 interface를 가로질러 짧은 거리로 확장
 - Cover slip에 부착되었거나 표면에 매우 가까운 분자들만 여기
-- <mark style="background:#fff88f">약 **200 nm** 깊이까지만 효과적</mark>
+- <mark style="background:#fff88f">약 **200 nm** 깊이까지만 효과적</mark>[^기출_중간_2022_9][^기출_중간_2025_33]
 
 #### (B)[[Clathrin coat|Clathrin-coated Pit]] 형성 추적
 **실험 시스템**:
@@ -48,8 +48,8 @@
 
 ### 제한된 깊이
 **현재 기술**:
-- <mark style="background:#fff88f">세포 표면 아래 약 200 nm 층으로 제한(일반세포 두께 10um의 1~2%)</mark>
-- <mark style="background:#fff88f">membrane protein이 존재하는 영역 관찰 가능</mark>
+- <mark style="background:#fff88f">세포 표면 아래 약 200 nm 층으로 제한(일반세포 두께 10um의 1~2%)</mark>[^기출_중간_2025_33]
+- <mark style="background:#fff88f">membrane protein이 존재하는 영역 관찰 가능</mark>[^기출_중간_2025_33]
 **이유**:
 - Evanescent wave의 침투 깊이가 매우 짧음
 - Exponentially decay함
@@ -101,7 +101,7 @@
 ### <mark style="background:#fff88f">1. 극도로 감소된 Background</mark>
 **최소화된 배경 형광**:
 - Out-of-focus light 거의 완전 제거하여 <mark style="background:#fff88f">noise가 거의 없음</mark>
-- 매우 높은 signal-to-noise ratio[^기출_중간_2022_9]
+- 매우 높은 signal-to-noise ratio[^기출_중간_2022_9][^기출_중간_2025_33]
 - Single-molecule detection 가능
 ### 2. 높은 시간 해상도
 **빠른 Imaging**:
@@ -134,6 +134,7 @@
 ### 3. 샘플 준비
 **Cover slip 의존성**:
 - 세포가 cover slip에 부착되어야 함
+- Total internal reflection을 위해 매우 얇은(thin) cover slip 사용 필수 — 두꺼운 cover glass는 임계각 조절을 방해하여 오히려 불리하다.[^기출_중간_2022_9][^기출_중간_2025_33]
 - Floating cells는 관찰 어려움
 - 조직 절편은 적용 불가
 
@@ -163,4 +164,5 @@
 - Related Figures: 9-38
 - Related techniques: [[Confocal Microscope]], [[FRAP]], [[Fluorescent Protein Tagging in Living Cells]]
 
-[^기출_중간_2022_9]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_9번|2022 중간 9번]] — TIRF는 evanescent wave로 cover slip 표면 ~100-200 nm 범위만 조명하여 out-of-focus background를 거의 완전히 제거함으로써 매우 높은 S/N ratio를 달성한다는 특성이 정답 근거(선지 ④)로 활용됨.
+[^기출_중간_2022_9]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_9번|2022 중간 9번]] — TIRF는 evanescent wave로 cover slip 표면 ~100-200 nm 범위만 조명하여 out-of-focus background를 거의 완전히 제거함으로써 매우 높은 S/N ratio를 달성한다는 특성이 정답 근거(선지 ④)로 활용됨. 선지 ①(세포 내부 관찰 목적) 오답 근거: 세포막 근처 ~200nm만 관찰. 선지 ②(두꺼운 cover glass) 오답 근거: 얇은 cover glass 필요. 선지 ③(여러 tagging 단백질) 오답 근거: 막 근처 단일 분자 이벤트 관찰이 주목적. 선지 ⑤(안쪽까지 도달) 오답 근거: ~200nm 깊이 한계.
+[^기출_중간_2025_33]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_33번|2025 중간 33번]] — TIRF가 세포막 근처 형광 표지 단백질을 선택적으로 관찰하기 위해 고안되었다는 선지 ④가 정답. 선지 ①(세포 내부 관찰) 오답. 선지 ②(S/N ratio 낮음) 오답: 매우 높은 S/N ratio. 선지 ③(두꺼운 cover glass) 오답. 선지 ⑤(수백 μm 깊이) 오답: ~200nm 깊이 한계.

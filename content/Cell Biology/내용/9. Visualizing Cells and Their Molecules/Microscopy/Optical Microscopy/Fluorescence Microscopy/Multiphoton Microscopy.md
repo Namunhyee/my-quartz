@@ -11,7 +11,7 @@
 
 **장점**:
 1. **Background noise 감소**: <mark style="background:#fff88f">광자 밀도가 높은 초점지역에서만 의미있는 흡수가 일어나기 때문에 그 외의 지역은 형광이 발생하지 않음</mark>
-2. **더 깊은 침투**: <mark style="background:#fff88f">Red 또는 near-infrared light는 산란이 덜하고 투과가 좋아 표본 내 더 깊이 침투 가능</mark>
+2. **더 깊은 침투**: <mark style="background:#fff88f">Red 또는 near-infrared light는 산란이 덜하고 투과가 좋아 표본 내 더 깊이 침투 가능</mark>[^기출_중간_2023_13]
 3. **세포 손상 감소**: Infrared laser light는 visible light보다 살아있는 세포에 덜 손상을 줌[^기출_중간_2021_5]
 
 **성능**:
@@ -30,3 +30,4 @@
 
 [^기출_중간_2021_미상A]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_미상A번|2021 중간 미상A번]] — 두 광자 현미경(two-photon/multiphoton)의 정의(NIR 사용, 더 깊은 조직 침투)가 여러 현미경 정의 문항에서 출제됨. 복기 불완전. (선지 미복기)
 [^기출_중간_2021_5]: [[Cell Biology/기출 DB/중간고사/2021년/mid_2021_5번|2021 중간 5번]] — 두 광자 현미경의 특성: NIR/적외선 사용, 가시광보다 더 깊은 조직 침투(~0.5 mm), 가시광 대비 낮은 phototoxicity가 정답 근거로 활용됨.
+[^기출_중간_2023_13]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_13번|2023 중간 13번]] — ④번 선지(정답): Confocal 현미경에서 고에너지 단광자 빛이 250 μm 깊은 조직에서 산란·흡수되어 형광 들뜸 자체가 불가능하다. 이를 해결하려면 NIR/적외선을 이용하는 multiphoton microscopy가 필요하다. ①번 오답 근거: 더 긴 파장(낮은 에너지)은 형광 들뜸에 불리하다.
