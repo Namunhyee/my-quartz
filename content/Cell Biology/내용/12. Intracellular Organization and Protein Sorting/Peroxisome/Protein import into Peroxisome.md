@@ -15,7 +15,7 @@ Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
 ### Peroxisomal Sorting Signals
 
-두 종류의 신호 서열이 있다 (→ [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Sorting Signal|Sorting Signal]] 참조):
+두 종류의 신호 서열이 있다 (→ [[Sorting Signal|Sorting Signal]] 참조):
 - **PTS1 (Peroxisome Targeting Signal 1)**: 대부분의 peroxisomal 단백질의 C-terminus에 있는 3개 아미노산 서열 (Ser-Lys-Leu)
 - **PTS2**: 일부 단백질의 N-terminus 근처에 있는 부분적으로 소수성인 더 긴 서열
 

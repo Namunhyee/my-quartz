@@ -1,4 +1,4 @@
-# [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Traffic in a Cell.canvas|도식]]
+# [[Protein Traffic in a Cell.canvas|도식]]
 # Protein Traffic
 ## Proteins Can Move Between Compartments in Different Ways
 거의 모든 단백질은 [[Mitochondria]]와 plastids 내부의 일부 단백질을 제외하고 [[Medical Terminology/Terminology/Terms/세포학/cytoplasm|cytosol]]의 ribosomes에서 합성을 시작한다.[^기출_중간_2025_13] 각 단백질의 최종 위치는 아미노산 서열에 포함된 하나 이상의 [[Sorting Signal|sorting signals]]에 의해 결정되며, 이 신호들은 단백질을 세포의 다른 부분으로 전달하도록 지시한다.

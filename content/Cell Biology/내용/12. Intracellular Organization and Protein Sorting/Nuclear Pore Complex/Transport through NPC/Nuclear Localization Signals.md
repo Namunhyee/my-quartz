@@ -1,8 +1,8 @@
 # Nuclear Localization Signals (NLS)
 
 NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting signal이다.
+![[_page_55_Figure_2.jpeg]]
 
-![[_page_55_Figure_10.jpeg]]
 *Fig 12-56. NLS의 기능. SV40 바이러스 T-antigen이 정상적인 lysine-rich NLS를 포함할 때는 핵에 축적되지만(A), 하나의 lysine이 threonine으로 교체된 변형된 NLS를 가질 때는 세포질에 머문다(B).*
 
 ## 특징
@@ -17,7 +17,7 @@ NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting
 **양전하 NLS**: **lysine**과 **arginine**이 풍부한 짧은 서열 하나 또는 두 개로 구성.[^기출_중간_2025_15]
 
 예시 (SV40 T-antigen): `...Pro–Pro–Lys–Lys–Lys–Arg–Lys–Val...`
-(→ [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
+(→ [[Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
 
 다른 유형의 NLS도 존재하지만 아직 완전히 규명되지 않았다.
 

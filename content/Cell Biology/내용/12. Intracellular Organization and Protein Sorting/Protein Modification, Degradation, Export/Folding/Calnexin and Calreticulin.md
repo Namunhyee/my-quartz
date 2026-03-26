@@ -75,7 +75,7 @@ Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-depende
 ## Folding Timer 기능
 
 ### Prolonged Retention의 결과
-**Mannosidase의 역할:**
+**[[Mannosidase Timer|Mannosidase]]의 역할:**
 - 단백질이 cycle에서 오래 머무를수록
 - ER-resident mannosidase가 terminal mannose 제거
 - Trimmed oligosaccharide 생성
@@ -126,7 +126,7 @@ Calnexin과 calreticulin은 ER에서 단백질 folding을 돕는 Ca²⁺-depende
 
 ### ER Stress
 - Unfolded protein 축적
-- [[Unfolded protein response]] 활성화
+- [[Unfolded Protein Response]] 활성화
 - Calnexin/calreticulin의 upregulation
 
 ## 관련 개념

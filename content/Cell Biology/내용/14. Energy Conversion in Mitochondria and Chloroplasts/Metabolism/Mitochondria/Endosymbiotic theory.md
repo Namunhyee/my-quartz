@@ -41,7 +41,7 @@
 - 내부공생 후 시간이 지나면서 organelle 유전자 상당수가 **핵 genome으로 이전**
 - 성공적 gene transfer 조건:
   1. 핵 전사 시스템에 맞게 적응
-  2. 세포질에서 번역 후 소기관으로 import할 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Sorting Signal|**signal sequence**]] 획득 (→ [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondrial DNA|Mitochondrial DNA]] 참조)
+  2. 세포질에서 번역 후 소기관으로 import할 [[Sorting Signal|**signal sequence**]] 획득 (→ [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondrial DNA|Mitochondrial DNA]] 참조)
 - 현재 인간 미토콘드리아 단백질 약 **1200–1600종** 중 압도적 다수가 핵 encoding
 - 미토콘드리아 자체 genome은 **13개 단백질 coding 유전자**만 잔류
 

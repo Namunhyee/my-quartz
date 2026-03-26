@@ -47,17 +47,17 @@ IRE1은 transmembrane protein kinase이자 endoribonuclease이다.
 
 ### Unique mRNA Splicing Mechanism
 
-IRE1 pathway의 가장 독특한 특징은 <mark style="background:#fff88f">cytosolic mRNA를 splicing</mark>한다는 것이다. 이는 nuclear splicing과 완전히 독립적이며 spliceosome을 사용하지 않는다.
+IRE1 pathway의 가장 독특한 특징은 ==cytosolic mRNA를 splicing==한다는 것이다. 이는 nuclear splicing과 완전히 독립적이며 spliceosome을 사용하지 않는다.
 
 **Mechanism:**
-1. ==Activated IRE1이 특정 mRNA의 두 위치를 인식==
-2. ==Endoribonuclease가 두 지점을 절단==
+1. ==Activated IRE1이 **XBP1 mRNA**의 두 위치를 인식==
+2. Endoribonuclease가 두 지점을 절단
 3. ==Intron이 제거됨==[^1]
 4. RNA ligase가 남은 exon들을 연결
 5. Spliced mRNA 생성
 
 **결과:**
-- ==Spliced mRNA가 active transcription factor를 encode==
+- ==Spliced **XBP1 mRNA**가 **XBP1s transcription factor**를 encode==
 - ==이 전사인자가 핵으로 들어감==
 - ==UPR target gene의 transcription 증가==
 - ==ER chaperone, [[ER-associated degradation|ERAD]] component, lipid synthesis enzyme 등 발현==

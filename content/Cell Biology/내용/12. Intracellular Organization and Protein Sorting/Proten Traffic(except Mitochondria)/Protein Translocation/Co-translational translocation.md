@@ -14,7 +14,7 @@
 	- ==SRP는 signal sequence를 방출하고, 이것이 translocator에 삽입되어 lipid bilayer를 가로지르는 polypeptide chain 전달을 시작한다.==
 4. Recycling for the next round
 	- ==SRP와 SRP receptor는 서로 분리되어 다음 라운드의 단백질 targeting을 위해 재활용된다.==
-	- SRP와 SRP receptor는 GTP binding domain을 갖는데,
+	- SRP와 SRP receptor는 **GTP** binding domain을 갖는데,
 		- sequence binding으로 일어난 conformational change-> GTP bound SRP와 GTP bound SRP Receptor의 결합을 가능하게 한다.
 		-  ==GTP hydrolysis energy는 여기에 이용된다.==
 			- ER membrane과 연결 후 오직 signal sequence만 분리하도록

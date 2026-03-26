@@ -41,9 +41,9 @@ Transmembrane protein [[Sec61 complex|translocator]]가 cytosol에서 topologica
 
 ![[_page_25_Figure_2.jpeg]]
 
-Figure 12-25B[^1]: Eukaryotic cell에서의 post-translational translocation. [[Sec62-Sec63 complex]]가 필요하다. 이 complex는 [[Sec61 complex|Sec61 translocator]]에 부착되어 있으며, ER lumen에서 translocator로부터 나오는 translocating chain에 결합할 수 있는 위치에 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 분자를 배치한다. ATP 구동 BiP 결합 및 방출 주기가 단백질을 lumen으로 끌어당긴다.
+Figure 12-25B[^1]: Eukaryotic cell에서의 post-translational translocation. [[Sec62-Sec63 complex]]가 필요하다. 이 complex는 [[Sec61 complex|Sec61 translocator]]에 부착되어 있으며, ER lumen에서 translocator로부터 나오는 translocating chain에 결합할 수 있는 위치에 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 분자를 배치한다. ATP 구동 BiP 결합 및 방출 주기가 단백질을 lumen으로 끌어당긴다.
 
-[[Sec62-Sec63 complex]]는 [[Sec61 complex|Sec61 translocator]]에 부착되어 ER lumen의 translocation channel 개구부 근처에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]])을 위치시킨다. [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]]는 펼쳐진 polypeptide chain에 높은 친화력을 가지며, ER lumen에서 [[Sec61 complex|Sec61 translocator]]로부터 나오는 즉시 import된 단백질 chain에 단단히 결합한다.
+[[Sec62-Sec63 complex]]는 [[Sec61 complex|Sec61 translocator]]에 부착되어 ER lumen의 translocation channel 개구부 근처에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]])을 위치시킨다. [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]]는 펼쳐진 polypeptide chain에 높은 친화력을 가지며, ER lumen에서 [[Sec61 complex|Sec61 translocator]]로부터 나오는 즉시 import된 단백질 chain에 단단히 결합한다.
 
 ### Bacteria에서의 기전
 
@@ -58,7 +58,7 @@ Bacteria는 에너지를 사용할 수 없는 세포 외 공간으로 직접 단
 - [[SRP receptor]]
 - [[Sec61 complex]]
 - [[Sec62-Sec63 complex]]
-- [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Protein Translocation/Enzymes, complexes and Factors/BiP]]
+- [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP]]
 - [[SecA ATPase]]
 - [[Post-translational translocation]]
 - [[Co-translational translocation]]

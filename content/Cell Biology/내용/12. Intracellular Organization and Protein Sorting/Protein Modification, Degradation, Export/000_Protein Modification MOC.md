@@ -66,7 +66,7 @@
 ### 대응 시스템
 - **성공적 folding**: ER export
 - **Misfolding**: [[ER-associated degradation]]
-- **Persistent stress**: [[Unfolded protein response]]
+- **Persistent stress**: [[Unfolded Protein Response]]
 
 ## ER-Associated Degradation (ERAD)
 
@@ -78,7 +78,7 @@
 
 ## Unfolded Protein Response (UPR)
 
-[[Unfolded protein response]]는 ER stress에 대한 adaptive response:
+[[Unfolded Protein Response]]는 ER stress에 대한 adaptive response:
 - IRE1 pathway: mRNA splicing
 - PERK pathway: Translation 조절
 - ATF6 pathway: Transcription factor 활성화
@@ -88,7 +88,7 @@
 - [[ER lumen]]
 - [[Protein folding in ER]]
 - [[Quality control system]]
-- [[Unfolded protein response]]
+- [[Unfolded Protein Response]]
 - [[ER-associated degradation]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
 - [[Protein disulfide isomerase]]

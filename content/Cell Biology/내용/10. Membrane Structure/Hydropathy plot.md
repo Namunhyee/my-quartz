@@ -64,7 +64,7 @@ Hydropathy plot 생성 과정:
 
 ## 한계
 
-### β Barrel의 경우
+### ==β Barrel의 경우==
 
 ==Hydropathy plot은 membrane-spanning β barrel의 segment를 식별할 수 없다:==[^기출_중간_2023_17_④][^기출_중간_2025_5_③]
 
@@ -73,28 +73,30 @@ Hydropathy plot 생성 과정:
 - Extended β strand로서
 - 번갈아가며 나타나는 amino acid side chain만 hydrophobic하면 됨
 - ==따라서 hydropathy plot에서 명확한 peak를 형성하지 않음==[^기출_중간_2022_17][^기출_중간_2023_23]
-
+### ==옆의 helix와 붙어있는 경우==
+![[Pasted image 20260325235417.png]]
+끼어있는 helix는 모든 AA가 hydrophobic일 필요가 없음.
 ### Partial Membrane Insertion
 
-==Multipass transmembrane protein==은:
+Multipass transmembrane protein은:
 - Membrane을 완전히 span하지 않는 region도 포함 가능
 - Membrane의 양쪽에서 folding하여 들어감
 - Transmembrane α helix 사이의 공간으로 squeeze됨
 - Bilayer의 hydrophobic core와 접촉하지 않음
 
 **이러한 region의 특성:**
-- ==다른 polypeptide region과만 상호작용==
+- 다른 polypeptide region과만 상호작용
 - Hydrogen-bonding을 maximize할 필요 없음
 - 다양한 secondary structure 가질 수 있음
 - Partway across bilayer만 확장하는 helix 포함 가능
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_16_Picture_9.jpeg]]
 
-위 그림은 aquaporin water channel의 두 short α helix를 보여준다. ==각각이 lipid bilayer를 halfway만 span한다. 이러한 colored helix는 protein-protein interaction에 의해 형성된 interface에 묻혀 있다.==
+위 그림은 aquaporin water channel의 두 short α helix를 보여준다. 각각이 lipid bilayer를 halfway만 span한다. 이러한 colored helix는 protein-protein interaction에 의해 형성된 interface에 묻혀 있다.
 
 **결과:**
-- 이러한 region은 ==hydropathy plot에서 식별될 수 **없음**==
-- ==Protein의 3차원 구조 결정으로만 밝혀짐==
+- 이러한 region은 hydropathy plot에서 식별될 수 **없음**
+- Protein의 3차원 구조 결정으로만 밝혀짐
 - 또는 구조가 알려진 homologous protein과의 sequence alignment로
 
 

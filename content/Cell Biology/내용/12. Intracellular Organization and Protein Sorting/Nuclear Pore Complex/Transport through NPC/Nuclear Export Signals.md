@@ -7,7 +7,7 @@ NES는 핵에서 세포질로 수출되어야 하는 단백질 또는 RNA에 존
 NES는 **nuclear export receptor (karyopherin)** 에 의해 인식된다.[^기출_중간_2025_15] Export receptor는 NES를 가진 cargo와 결합하여 NPC를 통해 세포질로 운반한다.
 
 예시 서열: `Met–Glu–Glu–Leu–Ser–Gln–Ala–Leu–Ala–Ser–Ser–Phe–` (소수성 잔기 포함)
-(→ [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic/Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
+(→ [[Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
 
 ## NLS와의 비교
 

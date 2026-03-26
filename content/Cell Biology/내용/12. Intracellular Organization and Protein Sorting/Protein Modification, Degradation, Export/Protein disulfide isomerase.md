@@ -219,7 +219,7 @@ PDI는 [[Quality control of ER protein folding|quality control system]]의 핵�
 
 ### ER Stress Response
 
-[[Unfolded protein response|Unfolded protein response (UPR)]] 동안 PDI 발현이 증가한다:
+[[Unfolded Protein Response|Unfolded protein response (UPR)]] 동안 PDI 발현이 증가한다:
 
 **Transcriptional upregulation:**
 - Misfolded protein이 ER에 축적되면 UPR 활성화
@@ -250,6 +250,6 @@ PDI activity는 [[Cell Biology/내용/12. Intracellular Organization and Protein
 ## 관련 개념
 - [[Disulfide bond formation]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP|BiP]]
-- [[Unfolded protein response]]
+- [[Unfolded Protein Response]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Modification/N-linked glycosylation|N-linked Glycosylation]]
 - [[Cell Biology/내용/10. Membrane Structure/Proteins that associated with membrane/Membrane protein|Membrane Protein]]

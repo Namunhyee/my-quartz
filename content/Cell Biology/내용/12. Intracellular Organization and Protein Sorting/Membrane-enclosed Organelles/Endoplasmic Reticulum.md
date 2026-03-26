@@ -1,23 +1,23 @@
 # ER Network
 # 분류 : SER, RER
-s==mooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 nucleic envelope의 내외막과 연결되어 있음.[^기출_중간_2021_21] ER은 단일막(single membrane)으로 이루어진 소기관이다.[^기출_중간_2025_6]==
+==smooth ER과 rough ER은 서로 연속적으로 연결되어 있음. 나아가 nucleic envelope의 내외막과 연결되어 있음.[^기출_중간_2021_21] ER은 단일막(single membrane)으로 이루어진 소기관이다.[^기출_중간_2025_6]==
 ==따라서 내부는 세포질 외부와 topologically identical.==
-## Rough ER
-- 표면에 리보솜이 결합되어 있음.
-- ==Sheet 형태가 cisternae를 이룸==. 20-30nm width lumenal space
-- 단백질 분비 기능이 활발한 세포에서 매우 발달
-	- e.g. Exocrine cells of the pancreas는 전체 막의 60%가 Rough ER
-- Stacks of flattened cisternae.
-- Lumenal space has 20-30nm width
+## ==Rough ER==
+- ==표면에 리보솜이 결합되어 있음.==
+- ==Sheet 형태가 cisternae를 이룸==. ==그래서 ribosome 결합에 유리함.== 20-30nm width lumenal space
+- ==단백질 분비 기능이 활발한 세포에서 매우 발달==
+	- e.g. ==Exocrine cells of the pancreas는 전체 막의 60%가 Rough ER==
+- ==Nucleus 근처에 위치==
 ### 기능
-1. protein synthesis(특히 secreted proteins)
+1. ==protein synthesis(특히 secreted proteins)==
 2. membrane synthesis(SER에서 합성된 lipid가 합쳐져 membrane 생성되어 소낭 형태로 단백질 배출)
 
 ## Smooth ER
-- 리보솜이 없어 매끈한 모양
-- ==fine tubule network==. diameter 30-60nm
+- ==리보솜이 없어 매끈한 모양==
+- ==fine tubule network==. ==표면적 확장으로 lipid metabolism에 유리.== diameter 30-60nm
 - ==지질 합성 및 대사를 담당==[^기출_중간_2023_26]
-- 모든 세포에는 RER에서 [[Golgi apparatus_MOC]]로 proteins와 lipids를 운반하는 소낭이 출아하는 'Transitional ER'형태의 Smooth ER이 존재함.
+- 모든 세포에는 RER에서 [[Golgi apparatus_MOC|Golgi apparatus]]로 proteins와 lipids를 운반하는 소낭이 출아하는 'Transitional ER'형태의 Smooth ER이 존재함.
+- ==세포 전체에 분포함.==
 ### 기능
 1. ==steroid hormone synthesis==
 2. Hepatocyte(간세포)에서

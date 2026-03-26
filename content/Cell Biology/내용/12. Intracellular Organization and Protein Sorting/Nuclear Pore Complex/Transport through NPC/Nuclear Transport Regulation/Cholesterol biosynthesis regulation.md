@@ -22,6 +22,6 @@
 
 ## 다른 조절과의 유사성
 
-이 조절 메커니즘은 unfolded protein response의 **[[Unfolded protein response#3. ATF6 Pathway|ATF6]]** 활성화와 유사하다. ATF6도 ER에서 Golgi로 이동하여 Golgi의 protease에 의해 세포질 도메인이 절단되고, 이 도메인이 핵으로 이동하여 전사를 활성화한다.
+이 조절 메커니즘은 unfolded protein response의 **[[Unfolded Protein Response#3. ATF6 Pathway|ATF6]]** 활성화와 유사하다. ATF6도 ER에서 Golgi로 이동하여 Golgi의 protease에 의해 세포질 도메인이 절단되고, 이 도메인이 핵으로 이동하여 전사를 활성화한다.
 
 콜레스테롤이 충분히 합성되면 증가한 콜레스테롤이 다시 SCAP에 결합하여 SREBP를 ER에 붙잡아 두는 **음성 피드백**이 완성된다.

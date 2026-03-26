@@ -146,12 +146,12 @@ BiP (Binding Protein)는 ER lumen의 major chaperone protein으로, hsp70 family
 
 ## BiP와 다른 Chaperone의 협력
 
-### PDI
+### [[Protein disulfide isomerase|PDI]]
 - Disulfide bond formation
 - BiP와 sequential action
 - Coordinated folding
 
-### Calnexin/Calreticulin
+### [[Calnexin and Calreticulin|Calnexin/Calreticulin]]
 - Glycoprotein-specific
 - Parallel pathway
 - Complementary recognition
@@ -212,7 +212,7 @@ BiP (Binding Protein)는 ER lumen의 major chaperone protein으로, hsp70 family
 
 ## 관련 개념
 - [[Protein folding in ER]]
-- [[Unfolded protein response]]
+- [[Unfolded Protein Response]]
 - [[ER-associated degradation]]
 - [[Calnexin and Calreticulin]]
 - [[Post-translational translocation]]

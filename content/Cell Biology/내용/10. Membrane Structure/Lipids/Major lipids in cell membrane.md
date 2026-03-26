@@ -82,7 +82,17 @@ Sugar를 포함하는 lipid molecule로 [[Glycolipid]] 노트 참조.
 
 ## Lipid 조성의 다양성
 
-![[Pasted image 20260312213444.png]]
+| TABLE 10–1 Approximate Lipid Compositions of Different Cell Membranes |                                     |                                      |        |                                                    |                          |                                      |
+| --------------------------------------------------------------------- | ----------------------------------- | ------------------------------------ | ------ | -------------------------------------------------- | ------------------------ | ------------------------------------ |
+|                                                                       | Percentage of total lipid by weight |                                      |        |                                                    |                          |                                      |
+| Lipid                                                                 | Liver cell<br>plasma<br>membrane    | Red blood<br>cell plasma<br>membrane | Myelin | Mitochondrion<br>(inner<br>and outer<br>membranes) | Endoplasmic<br>reticulum | ==Escherichia<br>coli<br>bacterium== |
+| Cholesterol                                                           | 17                                  | 23                                   | 22     | 3                                                  | 6                        | 0                                    |
+| Phosphatidylethanolamine                                              | 7                                   | 18                                   | 15     | 28                                                 | 17                       | ==70==                               |
+| Phosphatidylserine                                                    | 4                                   | 7                                    | 9      | 2                                                  | 5                        | ==Trace==                            |
+| Phosphatidylcholine                                                   | 24                                  | 17                                   | 10     | 44                                                 | 40                       | 0                                    |
+| Sphingomyelin                                                         | 19                                  | 18                                   | 8      | 0                                                  | 5                        | 0                                    |
+| Glycolipids                                                           | 7                                   | 3                                    | 28     | Trace                                              | Trace                    | 0                                    |
+| Others                                                                | 22                                  | 14                                   | 8      | 23                                                 | 27                       | ==30==                               |
 
 ### 세포막별 차이
 

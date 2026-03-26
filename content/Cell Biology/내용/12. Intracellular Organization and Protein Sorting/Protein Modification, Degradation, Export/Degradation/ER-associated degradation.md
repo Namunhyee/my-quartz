@@ -175,7 +175,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 - MHC class I molecule을 degradation
 - Immune evasion
 
-## ERAD와 [[Unfolded protein response|UPR]]의 연결
+## ERAD와 [[Unfolded Protein Response|UPR]]의 연결
 
 ### Coordinated Response
 **UPR activation:**
@@ -206,7 +206,7 @@ ER-associated degradation (ERAD)은 misfolded되거나 unassembled 단백질을 
 ## 관련 개념
 - [[Protein folding in ER]]
 - [[Oligosaccharides]]
-- [[Unfolded protein response]]
+- [[Unfolded Protein Response]]
 - [[Mannosidase]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
 - [[Calnexin and Calreticulin]]

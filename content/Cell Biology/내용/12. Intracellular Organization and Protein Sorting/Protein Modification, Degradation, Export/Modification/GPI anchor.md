@@ -5,29 +5,27 @@
 
 ## GPI Anchor의 구조
 
-
-
 GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipid 구조이다:
 ![[Pasted image 20260204122435.png]]
-- ==**Inositol**: lipid에 부착되어 있으며, 이로부터 GPI anchor의 이름이 유래==
-- ==**Glucosamine**: Inositol에 연결==
-- ==**3개의 Mannose**: sugar chain 형성==
-- ==**Phosphoethanolamine**: terminal mannose에 연결되어 단백질 부착을 위한 amino group 제공==
+- **Inositol**: lipid에 부착되어 있으며, 이로부터 GPI anchor의 이름이 유래
+- **Glucosamine**: Inositol에 연결
+- **3개의 Mannose**: sugar chain 형성
+- **Phosphoethanolamine**: terminal mannose에 연결되어 단백질 부착을 위한 amino group 제공
 - **Lipid 부분**: 막에 anchor를 고정
 
-## GPI Anchor 부착 메커니즘
+## ==GPI Anchor 부착 메커니즘==
 
-### 1단계: 초기 단백질 합성 및 ER Signal Sequence 인식
-- GPI-anchored protein은 N-말단에 [[Sorting Signal#Signal Sequences|ER signal sequence]]를 가지고 합성된다
+### ==1단계: 초기 단백질 합성 및 ER Signal Sequence 인식==
+- GPI-anchored protein은 ==N-말단==에 [[Sorting Signal#Signal Sequences|ER signal sequence]]를 가지고 합성된다
 - 이 signal sequence가 단백질을 [[Endoplasmic Reticulum|ER]]로 유도한다
 - [[Co-translational translocation#^47ed92|Signal peptidase]]가 signal sequence를 제거한다
 
-### 2단계: ER 막 통합
+### ==2단계: ER 막 고정==
 - 단백질은 single-pass transmembrane protein처럼 ER 막에 통합된다
-- C-말단 근처의 **hydrophobic sequence** (15-20개 amino acid)이 단백질을 막에 고정
-- 나머지 단백질 부분은 ER lumen에 위치
+- ==C-말단 근처의 **hydrophobic sequence** (15-20개 amino acid)이 단백질을 막에 고정==
+- ==나머지 단백질 부분은 ER lumen에 위치==
 
-### 3단계: Transamidase에 의한 GPI anchor 부착
+### ==3단계: Transamidase에 의한 GPI anchor 부착==
 단백질 합성 완료 직후 (1분 이내), **transamidase** enzyme complex가 다음과 같은 반응을 촉매한다:
 
 1. ==**절단 반응**: C-말단 hydrophobic sequence를 단백질에서 제거==
@@ -48,7 +46,9 @@ GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipi
 - 이 signal을 다른 단백질에 추가하면, 그 단백질도 GPI anchor modification을 받는다
 
 ## 기능적 의미
+==효소, 수용체, 세포 접착 단백질 등 다양한 기능을 한다.==
 
+==예시 : Prion preotein, alkaline phsphatase, Thy-1 glycoprotein==
 ### 1. 막으로부터의 방출
 - Plasma membrane의 특정 **phospholipase**가 활성화되면 GPI anchor가 절단될 수 있다
 - 이를 통해 단백질이 soluble form으로 세포에서 방출된다

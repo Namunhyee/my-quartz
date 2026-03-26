@@ -26,4 +26,4 @@
 
 ## 임상적 의의
 
-<mark style="background:#fff88f">강력한 면역억제제인 cyclosporin A와 FK506이 calcineurin의 NF-AT 탈인산화 능력을 억제한다</mark>. 이를 통해 NF-AT의 핵 축적이 차단되고, T 세포 활성화가 억제되어 장기 이식 후 거부 반응을 방지한다.
+==강력한 면역억제제인 cyclosporin A와 FK506이 calcineurin의 NF-AT 탈인산화 능력을 억제한다.== 이를 통해 ==NF-AT의 핵 축적이 차단되고, T 세포 활성화가 억제==되어 장기 이식 후 거부 반응을 방지한다.

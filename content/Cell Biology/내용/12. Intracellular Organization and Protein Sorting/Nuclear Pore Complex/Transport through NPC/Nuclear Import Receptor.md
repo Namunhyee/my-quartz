@@ -17,10 +17,6 @@ Nuclear import receptor는 **karyopherin** 단백질 계열에 속하는 soluble
 - Cargo의 NLS를 인식하는 부위를 가짐
 - Cargo를 결합할 때만 노출되는 자체 NLS를 가져 import receptor에 결합
 
-## Karyopherin 계열
-
-효모에 14개, 동물 세포에는 더 많은 karyopherin 유전자가 존재한다. 각 import receptor는 특정 NLS를 가진 cargo 단백질 군을 수송한다. 다양한 import receptor와 adaptor의 조합으로 광범위한 핵 단백질 수송이 가능하다.
-
 ## Import 메커니즘의 중요한 특성
 
 - Import receptor는 단순히 확산을 **가속**할 뿐이며 확산 방향 자체를 결정하지 않음

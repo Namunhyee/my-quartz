@@ -101,7 +101,7 @@ Asn-X-Ser/Thr
 - Folding 전에 완료
 - Aggregation 방지
 
-## Processing in the ER
+## ==Processing in the ER==
 ### Glucose Trimming
 ![[Cell Biology/출처/md converted/Chapter 12/_page_33_Picture_2.jpeg]]
 #### **단계:**
@@ -138,53 +138,39 @@ ER을 벗어난 후:
   
 (자세한 내용은 [[Oligosaccharide processing in Golgi|Golgi에서의 N-linked 당화 processing]] 참조)
 
-## N-linked Glycosylation의 기능
+## ==N-linked Glycosylation의 기능==
 
-### 1. Quality Control Tag
+### 1. [[Quality control of ER protein folding|Quality Control Tag]]
 - Glucose의 presence/absence가 folding state 표시
-- Calnexin/calreticulin recruitment
+- [[Calnexin and Calreticulin|Calnexin/calreticulin]] recruitment
 - ER retention of misfolded proteins
-### 2. Protein Stability
+=> ==proper protein folding in ER==
+### 2. Protein ==Stability and Solubility==
+- 당의 극성으로 solubility 증가, 안정화
 - 올바른 folding 촉진
 - Aggregation 방지[^기출_중간_2023_19]
 - Proteolysis로부터 보호[^기출_중간_2023_19]
-### 3. Molecular Recognition
-- Lectin binding[^기출_중간_2023_19]
+### 3. Cell-Cell Recognition
+- [[ER-associated degradation#Lectins|Lectin]] binding[^기출_중간_2023_19]
 - Receptor recognition
 - Protein sorting
+- ==immune system==
 ### 4. 필수성
 일부 단백질에서:
 - Proper folding에 필수적
 - 위치는 중요하지 않음 (어느 Asn-X-Ser/Thr이든 가능)
 - Glycosylation 자체가 중요
 
-## 예시: Why Glycosylation Location Doesn't Always Matter
-
-**실험적 증거:**
-- 한 glycosylation site를 다른 위치로 옮김
-- 단백질은 여전히 properly fold됨
-- **해석:** [[Oligosaccharides]]가 일반적인 "folding helper"로 작용
-## Congenital Disorders
-
-### CDG (Congenital Disorders of Glycosylation)
-**Type I**: [[Oligosaccharides]] 조립 결함
-- Dolichol pathway enzyme 결핍
-- Incomplete precursor 생성
-
-**Type II**: [[Oligosaccharides]] processing 결함
-- ER/Golgi glucosidase/mannosidase 결핍
-- Abnormal trimming
-
 ## vs O-linked glycosylation
 ### 주요 차이점 비교 테이블
 
-| **특징**      | **N-연결 당화 (N-linked)**        | **O-연결 당화 (O-linked)**                          |
-| ----------- | ----------------------------- | ----------------------------------------------- |
-| **결합 아미노산** | **아스파라긴(Asn, N)**의 측쇄 질소($N$) | **세린(Ser, S)** 또는 **트레오닌(Thr, T)**의 수산기 산소($O$) |
-| **발생 장소**   | **소포체(ER)**에서 시작 (골지에서 수정)    | 주로 **골지체(Golgi)**에서 발생                          |
-| **전달 방식**   | 14개의 당 덩어리를 **한꺼번에** 전달       | 당을 **하나씩** 차례대로 붙임                              |
-| **지질 운반체**  | 돌리콜(Dolichol) 사용              | 사용 안 함                                          |
-| **인식 서열**   | Asn-X-Ser/Thr (X는 Pro 제외)     | 특정 공통 서열이 명확하지 않음                               |
+| **특징**      | **N-연결 당화 (N-linked)**        | **O-연결 당화 (O-linked)**                              |
+| ----------- | ----------------------------- | --------------------------------------------------- |
+| **결합 아미노산** | **아스파라긴(Asn, N)**의 측쇄 질소($N$) | ==**세린(Ser, S)** 또는 **트레오닌(Thr, T)**의 수산기 산소($O$)== |
+| **발생 장소**   | **소포체(ER)**에서 시작 (골지에서 수정)    | 주로 **골지체(Golgi)**에서 발생                              |
+| **전달 방식**   | 14개의 당 덩어리를 **한꺼번에** 전달       | 당을 **하나씩** 차례대로 붙임                                  |
+| **지질 운반체**  | 돌리콜(Dolichol) 사용              | 사용 안 함                                              |
+| **인식 서열**   | Asn-X-Ser/Thr (X는 Pro 제외)     | 특정 공통 서열이 명확하지 않음                                   |
 ### O-연결 당화 (O-linked Glycosylation)
 
 단백질의 소수성 부위나 특정 구조가 완성된 후, 골지체에서 당 전이효소(Glycosyltransferase)들이 하나씩 당을 추가합니다.

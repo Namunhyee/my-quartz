@@ -177,6 +177,6 @@ ER lumen으로 translocation된 단백질은 unfolded polypeptide chain 상태�
 - [[Oligosaccharides]]
 - [[Calnexin and Calreticulin]]
 - [[ER-associated degradation]]
-- [[Unfolded protein response]]
+- [[Unfolded Protein Response]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein Modification, Degradation, Export/Folding/BiP]]
 - [[Protein disulfide isomerase]]
