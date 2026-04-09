@@ -2,7 +2,7 @@
 
 ## 개요
 
-많은 secretory protein들은 inactive precursor 형태로 합성되어 [[secretory pathway|secretory vesicle]]이 형성되고 성숙하는 과정에서 proteolytic cleavage를 거쳐 활성화된다. 이러한 processing은 세포를 보호하고 단백질의 기능을 적절한 시기와 장소에서 발휘하도록 조절한다.
+==많은 secretory protein들은 inactive precursor 형태로 합성되어 [[secretory pathway|secretory vesicle]]이 형성되고 성숙하는 과정에서 proteolytic cleavage를 거쳐 활성화된다. 이러한 processing은 세포를 보호하고 단백질의 기능을 적절한 시기와 장소에서 발휘하도록 조절한다.==
 
 ## Precursor Protein의 종류
 
@@ -21,7 +21,7 @@
    - 단백질 folding이나 inactive 상태 유지에 관여
 
 ### Polyprotein
-여러 개의 활성 peptide를 하나의 polypeptide chain에 포함한다.
+==여러 개의 활성 peptide를 하나의 polypeptide chain에 포함한다.==
 
 **유형:**
 
@@ -35,7 +35,7 @@
    - 다른 세포로 옮겨가며 다른 enzyme에 의해 다음 processing step을 밟을 수 있음
 
 ![[Pasted image 20260210215431.png]]
-*Figure 13-44: Proopiomelanocortin <font color="#ff0000">polyprotein</font>의 processing pathway. 동일한 precursor가 서로 다른 세포에서 다른 processing enzyme에 의해 다른 최종 산물을 생성한다.*
+*Figure 13-44: Proopiomelanocortin polyprotein의 processing pathway. ==동일한 precursor가 서로 다른 세포에서 다른 processing enzyme에 의해 다른 최종 산물을 생성한다.==*
 
 ## Processing이 일어나는 장소
 
@@ -117,15 +117,15 @@ Proinsulin:
 
 **Proopiomelanocortin의 예:**
 
-**Anterior pituitary:**
-- Corticotropin (ACTH)
-- β-lipotropin
+==**Anterior pituitary:**==
+- ==Corticotropin (ACTH)==
+- ==β-lipotropin==
 
-**Intermediate pituitary:**
-- α-MSH (from ACTH)
-- γ-lipotropin (from β-lipotropin)
-- β-MSH
-- β-endorphin
+==**Intermediate pituitary:**==
+- ==α-MSH (from ACTH)==
+- ==γ-lipotropin (from β-lipotropin)==
+- ==β-MSH==
+- ==β-endorphin==
 
 **이유:**
 - 각 세포 타입이 다른 processing enzyme 발현

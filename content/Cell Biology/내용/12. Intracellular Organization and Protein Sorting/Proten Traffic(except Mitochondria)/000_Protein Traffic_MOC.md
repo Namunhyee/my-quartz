@@ -25,7 +25,7 @@
 - 특정 macromolecules와 macromolecular assemblies의 능동 수송 지원
 - 두 topologically different한 공간 사이의 이동
 - 단백질이 folded 상태로 이동 가능
-## 3. [[003_Vesicular Transport]]
+## 3. [[Vesicle transportation_MOC|003_Vesicular Transport]]
 ==Membrane-enclosed transport intermediates가 topologically identical한 구획으로로 단백질을 운반한다.==
 
 **Transport intermediates의 형태:**

@@ -8,7 +8,7 @@
 
 ## 구조
 
-Lysosome은 내부 pH가 약 4.5-5.0으로 유지되는 산성 환경을 제공한다.[^기출_중간_2022_30][^기출_중간_2025_28] 이는 vacuolar H+ ATPase (V-type ATPase)에 의해 유지되며, 이 펌프는 ATP 가수분해의 에너지를 사용하여 H+를 lysosome으로 펌핑한다.[^기출_중간_2022_30]
+==Lysosome은 내부 pH가 약 4.5-5.0으로 유지되는 산성 환경을 제공한다.==[^기출_중간_2022_30][^기출_중간_2025_28] 이는 vacuolar ==H+ ATPase (V-type ATPase)에 의해 유지==되며, 이 펌프는 ATP 가수분해의 에너지를 사용하여 H+를 lysosome으로 펌핑한다.[^기출_중간_2022_30]
 
 ### Lysosome 막
 
@@ -20,7 +20,7 @@ Lysosome 막 단백질의 특징:
 ## Lysosomal Hydrolase
 
 [[Lysosomal hydrolase|Lysosomal 가수분해 효소]]를 참조하라.
-
+산성환경에서 활성을 띈다.
 ## 형태학적 다양성
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_50_Picture_11.jpeg]]
@@ -37,7 +37,7 @@ Lysosome의 이질적인 형태는 다음을 반영한다:
 
 ### 1. Endocytic Pathway
 
-[[../endocytosis/endocytosis_MOC|Endocytosis]]를 통해 plasma membrane과 세포외 공간에서 물질이 endosome으로 전달되고, endosome이 성숙하여 lysosome과 융합한다.
+[[_endocytosis_MOC|Endocytosis]]를 통해 plasma membrane과 세포외 공간에서 물질이 endosome으로 전달되고, endosome이 성숙하여 lysosome과 융합한다.
 
 ### 2. Biosynthetic Pathway
 

@@ -3,7 +3,7 @@
 NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting signal이다.
 ![[_page_55_Figure_2.jpeg]]
 
-*Fig 12-56. NLS의 기능. SV40 바이러스 T-antigen이 정상적인 lysine-rich NLS를 포함할 때는 핵에 축적되지만(A), 하나의 lysine이 threonine으로 교체된 변형된 NLS를 가질 때는 세포질에 머문다(B).*
+*Fig 12-56. NLS의 기능. SV40 바이러스 T-antigen이 ==정상적인 lysine-rich NLS를 포함할 때는 핵에 축적되지만(A), 하나의 lysine이 threonine으로 교체된 변형된 NLS를 가질 때는 세포질에 머문다(B).*==
 
 ## 특징
 
@@ -14,13 +14,14 @@ NLS는 핵으로 능동 수입되어야 하는 단백질에 존재하는 sorting
 
 ## 가장 일반적인 유형
 
-**양전하 NLS**: **lysine**과 **arginine**이 풍부한 짧은 서열 하나 또는 두 개로 구성.[^기출_중간_2025_15]
+==**양전하 NLS**: **lysine(K)**과 **arginine(R)**이 풍부한 짧은 서열 하나 또는 두 개로 구성==.[^기출_중간_2025_15]
 
 예시 (SV40 T-antigen): `...Pro–Pro–Lys–Lys–Lys–Arg–Lys–Val...`
 (→ [[Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
 
 다른 유형의 NLS도 존재하지만 아직 완전히 규명되지 않았다.
 
+[[Nuclear Export Signals]]은 여기 참조.
 ## NLS는 제거되지 않음
 
 [[Co-translational translocation|ER signal sequence]]와 달리, NLS는 수입 완료 후에도 제거되지 않고 단백질에 남아 있다.[^기출_중간_2025_15] 따라서 유사분열 후 핵이 재조립될 때마다 핵 단백질을 반복적으로 수입할 수 있다.

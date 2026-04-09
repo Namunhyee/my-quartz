@@ -1,6 +1,6 @@
 # Proteoglycan Assembly
 
-## Proteoglycan이란
+## [[Proteoglycan]]이란
 
 **Proteoglycan**은 core 단백질에 하나 이상의 glycosaminoglycan chain이 공유적으로 부착된 분자이다. Glycosaminoglycan은 반복되는 disaccharide unit으로 구성된 길고 가지가 없는 중합체이다.
 
@@ -54,7 +54,7 @@ Glycosaminoglycan의 당 황산화는:
 
 ## O-linked Glycosylation과의 관계
 
-Proteoglycan 조립은 O-linked glycosylation의 특수한 형태로 볼 수 있다. 
+==Proteoglycan 조립은 O-linked glycosylation의 특수한 형태로 볼 수 있다.== 
 
 일반적인 O-linked glycosylation:
 - Selected serine 또는 threonine의 hydroxyl group에 당 추가

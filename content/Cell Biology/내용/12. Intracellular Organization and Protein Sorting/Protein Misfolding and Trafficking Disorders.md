@@ -2,15 +2,15 @@
 
 단백질의 잘못된 접힘(misfolding), 세포 소기관 생합성 결함, 또는 막 지질 수송 이상으로 인해 발생하는 유전 질환들이다. 각 질환은 특정 세포 소기관의 기능과 직접 연결되어 있어, 세포 생물학 연구 모델로도 중요하게 활용된다.
 
-## [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Protein import into Peroxisome#Zellweger Syndrome|Zellweger Syndrome]]
+## [[Zellweger Syndrome]]
 ==강의노트에 출현==
 
 | 항목             | 내용                                                                                                                                                                                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ==**병태생리**==   | [[Protein import into Peroxisome#Peroxin(Pex) 단백질들의 역할 — 수입 사이클 순서\|PEX gene]] mutation → peroxisome assembly 장애, 효소 import defect → peroxisome 없음 또는 비정상 → [[000_Peroxisome_MOC\|β-oxidation]] 및 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Plasmalogen\|plasmalogen synthesis]] 소실 |
 | ==**임상적 결과**== | - Severe hypotonia<br> - Seizures<br> - Hepatomegaly / liver dysfunction<br> - Craniofacial dysmorphism (high forehead, flat face) 로 대부분 신생아기 사망                                                                                                                                                                          |
-| ==**분자 기전**==  | - PEX mutation → peroxisome protein targeting 장애 → Peroxisomal [[beta-oxidation_MOC\|β oxidation]] 감소 → VLCFA (very-long-chain fatty acid) accumulation<br>- H₂O₂ detox 문제로 oxidative stress 증가                                                                                                                           |
-| ~~**임상적 의의**~~ | 대표적 Peroxisome Biogenesis Disorder (PBD); lipid metabolism 및 neurodevelopment 연구 모델                                                                                                                                                                                                                                       |
+| **분자 기전**      | - PEX mutation → peroxisome protein targeting 장애 → ==Peroxisomal [[beta-oxidation_MOC\|β oxidation]] 감소== → VLCFA (very-long-chain fatty acid) accumulation<br>- ==H₂O₂ detox 문제로 oxidative stress 증가==                                                                                                                   |
+
 
 → 상세 기전: [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Peroxisome/Protein import into Peroxisome#Zellweger Syndrome|Protein import into Peroxisome — Zellweger Syndrome]]
 
@@ -26,7 +26,8 @@
 | **분자 기전**  | 가장 흔한 돌연변이: **ΔF508** → 단백질 misfolding → ER retention → ion imbalance → mucociliary clearance defect       |
 | **임상적 의의** | 전형적 single-gene disorder 모델; CFTR modulators (ivacaftor, lumacaftor)로 표적 치료 가능                             |
 
-CFTR 단백질 자체가 chloride channel이며, ΔF508 돌연변이는 단백질이 ER에서 올바르게 접히지 못하게 만든다. [[Quality control of ER protein folding|ER quality control 시스템]]이 이를 감지하여 단백질을 분해하므로 channel이 세포막에 도달하지 못한다.
+==CFTR 단백질 자체가 chloride channel이며, ΔF508 돌연변이는 단백질이 ER에서 올바르게 접히지 못하게 만든다.== [[Quality control of ER protein folding|ER quality control 시스템]]==이 이를 감지하여 단백질을 분해하므로 channel이 세포막에 도달하지 못한다.==
+==도달하면 기능할 수 있지만 도달 자체를 못 함.==
 
 ---
 

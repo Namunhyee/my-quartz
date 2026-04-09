@@ -8,27 +8,27 @@
 
 ![[_page_1_Figure_5.jpeg]]
 
-### Secretory pathway (적색 화살표)
+### <font color="#ff0000">Secretory pathway</font> (적색 화살표)
 - [[Endoplasmic Reticulum|ER]]에서 시작
 - [[Golgi apparatus_MOC|Golgi apparatus]]를 거침
 - Plasma membrane 또는 endosome으로 전달
 - [[exocytosis_MOC|Exocytosis]]를 통해 세포 표면으로 물질 분비
 
-### Endocytic pathway (녹색 화살표)
+### <font color="#00b050">Endocytic pathway</font> (녹색 화살표)
 - Plasma membrane에서 시작
-- [[endocytosis_MOC|Endocytosis]]를 통해 물질 흡수
+- [[_endocytosis_MOC|Endocytosis]]를 통해 물질 흡수
 - Early endosome으로 전달
 - Late endosome을 거쳐 [[Lysosome_MOC|lysosome]]으로 전달
 
-### Retrieval pathway (청색 화살표)
+### <font color="#00b0f0">Retrieval pathway</font> (청색 화살표)
 - 각 compartment에서 escaped protein이나 재사용할 component를 원래 위치로 회수
 - ER로의 retrieval: [[Transportation from the ER Through the Golgi Apparatus_MOC#Retrieval Pathway to the ER|COPI-coated vesicle 이용]]
 - Golgi apparatus로의 retrieval: endosome에서 retromer-coated vesicle 이용
 
-### Autophagy pathway (회색 화살표)
+### <font color="#a5a5a5">Autophagy pathway</font> (회색 화살표)
 - Cytoplasm의 일부나 organelle을 autophagosome으로 포획
 - [[Lysosome_MOC|Lysosome]]과 fusion하여 내용물 분해
-- [[endocytosis_MOC#Autophagy|Autophagy]] 참조
+- [[_endocytosis_MOC#Autophagy|Autophagy]] 참조
 
 ## Vesicle transport의 주요 단계
 
@@ -43,7 +43,7 @@
 - [[310_Motor Proteins_MOC|Motor protein]]을 통한 이동 ([[kinesin]], [[dynein]])
 - Target membrane 인식
 
-### 3. [[Vesicle Fusion_MOC|Vesicle fusion]]
+### 3. [[Vesicle Fusion by SNARE_MOC|Vesicle fusion]]
 - Tethering
 - Docking
 - Membrane fusion
@@ -66,10 +66,10 @@
 ## 관련 항목
 - [[Vesicle formation_MOC]]
 - [[Transportation Mechanism_MOC]]
-- [[Vesicle Fusion_MOC]]
+- [[Vesicle Fusion by SNARE_MOC]]
 - [[Transportation from the ER Through the Golgi Apparatus_MOC]]
 - [[Golgi apparatus_MOC]]
-- [[endocytosis_MOC]]
+- [[_endocytosis_MOC]]
 - [[exocytosis_MOC]]
 - [[Lysosome_MOC]]
 

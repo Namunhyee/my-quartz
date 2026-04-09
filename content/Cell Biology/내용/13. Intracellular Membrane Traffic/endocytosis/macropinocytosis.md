@@ -1,15 +1,17 @@
 # Macropinocytosis
 
-**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.[^기출_중간_2022_33][^기출_중간_2023_10]
+**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.
+==clathrin-independent endocytosis이다.==[^기출_중간_2022_33][^기출_중간_2023_10]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_53_Picture_2.jpeg]]
-
+![[Pasted image 20260409182210.png]]
 ## 특징
 
-Macropinocytosis는 비선택적 과정이다:[^기출_중간_2025_23]
+Macropinocytosis는 ==비선택적 과정==이다:[^기출_중간_2025_23]
 - 특정 조건 하에서 세포로 fluid를 가져오는 비선택적 과정[^기출_중간_2023_10][^기출_중간_2025_23]
 - 세포외 fluid와 그 안에 포함된 거대분자 및 입자를 비특이적으로 trap[^기출_중간_2023_10][^기출_중간_2025_23]
-Macropinosome에 receptor가 포함되지 않음. 즉 receptor의 recycling 과정이 필요 없음.[^기출_중간_2023_10][^기출_중간_2025_23]
+==Macropinosome에 receptor가 포함되지 않음. 즉 receptor의 recycling 과정이 필요 없음==.[^기출_중간_2023_10][^기출_중간_2025_23]
+==Actin reorganization으로 membrane ruffling이 일어나며 exosome들을 삼킴==.[^기출_중간_2023_10][^기출_중간_2025_23]
 
 ## Phagocytosis와의 차이
 Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocytosis]]와 구별된다.
@@ -40,7 +42,7 @@ Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocyto
 
 ## Actin의 역할
 
-Macropinocytosis는 plasma membrane 아래의 actin polymerization을 이용한다:[^기출_중간_2023_10]
+==Macropinocytosis는 plasma membrane 아래의 actin polymerization을 이용한다==:[^기출_중간_2023_10]
 - 큰 입자나 많은 양의 fluid를 둘러싸는 데 필요한 대규모 membrane deformation을 매개[^기출_중간_2023_10]
 - [[phagocytosis|Phagocytosis]]와 유사한 메커니즘
 
@@ -91,7 +93,7 @@ Macropinocytosis는 oncogene *Ras*의 활성화에 의해 자극된다:
 
 ## 관련 주제
 
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - [[phagocytosis|Phagocytosis]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../16. The Cytoskeleton/Actin filaments|Actin filament]]

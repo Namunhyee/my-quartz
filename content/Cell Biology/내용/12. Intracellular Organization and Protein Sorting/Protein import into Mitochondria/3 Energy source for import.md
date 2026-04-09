@@ -26,7 +26,7 @@
 
 ## 3a. ==ATP 가수분해== — ==Mitochondrial hsp70== (Matrix 내에서 끌어당김)
 
-- **위치**: Matrix (TIM23 복합체의 matrix 쪽에 결합)
+- **위치**: Matrix ([[Translocators in mitochondrial membrane#==TIM23 complex==|TIM23]] 복합체의 matrix 쪽에 결합)
 - **역할**: ==Translocator를 통해 단백질을 끌어당김==
 - TIM23에서 ==polypeptide chain의 N-terminal 부분이 matrix에 노출되면 **mitochondrial hsp70**이 결합==
 - ATP 가수분해에 의한 구조 변화가 단백질을 ==matrix 방향으로 당기는 힘을 발생, 동시에 unfolding 유지됨==
@@ -37,7 +37,7 @@
 
 - **위치**: ==Intermembrane space== 및 inner membrane의 [[Electron Transport Chain_MOC|전자 전달계]]
 - **역할**: ==Cysteine을 가진 intermembrane space 단백질의 수입에 사용==
-- **TOM**을 통해 intermembrane space로 진입한 단백질이 ==**Mia40**과 일시적인 **disulfide 결합**을 형성==
+- **[[Translocators in mitochondrial membrane#==TOM complex== (Translocator of the Outer Membrane)|TOM]]**을 통해 intermembrane space로 진입한 단백질이 ==**Mia40**과 일시적인 **disulfide 결합**을 형성==
 - ==이 공유결합이 단백질이 cytosol 방향으로 backslide하는 것을 방지==
 - 결국 단백질 내에 ==intrachain disulfide 결합이 형성되면서 폴딩됨, 안정화== → intermembrane space에 갇힘
 - ==**Mia40 재생**: 환원된 Mia40이 전자를 전자 전달계에 전달하여 재산화됨==

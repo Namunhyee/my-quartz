@@ -4,19 +4,22 @@ NES는 핵에서 세포질로 수출되어야 하는 단백질 또는 RNA에 존
 
 ## 기능
 
-NES는 **nuclear export receptor (karyopherin)** 에 의해 인식된다.[^기출_중간_2025_15] Export receptor는 NES를 가진 cargo와 결합하여 NPC를 통해 세포질로 운반한다.
+==NES는 **nuclear export receptor** 에 의해 인식된다.[^기출_중간_2025_15] Export receptor는 NES를 가진 cargo와 결합하여 NPC를 통해 세포질로 운반한다.==
 
-예시 서열: `Met–Glu–Glu–Leu–Ser–Gln–Ala–Leu–Ala–Ser–Ser–Phe–` (소수성 잔기 포함)
+hydrophobic한 <font color="#9bbb59">Leucine</font> rich signal이다.
+
+예시 서열: `Met–Glu–Glu–Leu–Ser–Gln–Ala–Leu–Ala–Ser–Ser–Phe–` (**소수성** 잔기 포함)
 (→ [[Sorting Signal#Signal Sequences의 예시|Sorting Signal 노트의 표]] 참조)
 
-## NLS와의 비교
+## ==NLS와의 비교==
 
-| | NLS | NES |
-|---|---|---|
-| 역할 | 세포질 → 핵 | 핵 → 세포질 |
-| 인식 | Nuclear import receptor | Nuclear export receptor |
-| Ran-GTP 효과 | Cargo 해리 촉진 | Cargo 결합 촉진 |
-| 제거 여부 | 제거 안 됨 | 제거 안 됨 |
+|            | NLS                                               | NES                              |
+| ---------- | ------------------------------------------------- | -------------------------------- |
+| 역할         | 세포질 → 핵                                           | 핵 → 세포질                          |
+| 인식         | Nuclear import receptor                           | Nuclear export receptor          |
+| Ran-GTP 효과 | Cargo 해리 촉진                                       | Cargo 결합 촉진                      |
+| 제거 여부      | 제거 안 됨                                            | 제거 안 됨                           |
+| 아미노산 잔기    | lysine(K), arginine(R) 풍부한 양전하, 염기성 아미노산 sequence | Leucine(L) 풍부한 소수성 아미노산 sequence |
 
 [^기출_중간_2025_15]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_15번|2025 중간 15번]] — ② 옳음: NES는 류신(Leu) 등 소수성 아미노산이 풍부한 서열로 exportin에 의해 인식되어 핵 밖으로의 수출을 매개함.
 

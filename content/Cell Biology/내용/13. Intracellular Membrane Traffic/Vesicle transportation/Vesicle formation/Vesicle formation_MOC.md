@@ -12,8 +12,8 @@ Transport vesicle의 형성은 donor membrane의 특정 영역에서 coat protei
 
 - **[[Clathrin coat|Clathrin-coated vesicles]]**: Golgi, endosome, plasma membrane에서 출발
 - **COPI-coated vesicles**: Golgi cisternae 사이 transport
-- **COPII-coated vesicles**: ER에서 Golgi로 transport
-- **Retromer-coated vesicles**: Endosome에서 Golgi로 retrieval
+- **COPII-coated vesicles**: [[Transportation from the ER Through the Golgi Apparatus_MOC|ER에서 Golgi로 transport]]
+- ~~**Retromer-coated vesicles**: Endosome에서 Golgi로 retrieval~~
 
 각 coat type은 서로 다른 transport step에 사용된다:
 

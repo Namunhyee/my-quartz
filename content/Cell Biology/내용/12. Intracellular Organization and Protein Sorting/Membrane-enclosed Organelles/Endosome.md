@@ -1,1 +1,1 @@
-[[endocytosis_MOC]]
+[[_endocytosis_MOC]]

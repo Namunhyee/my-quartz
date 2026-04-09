@@ -13,11 +13,11 @@ Autophagy 동안:
 
 ## Autophagy의 종류
 
-### 1. Nonselective Autophagy
+### ==1. Nonselective Autophagy==
 
 starvation 상태에서 아미노산과 에너지원 확보를 위해 cytoplasm의 일부 bulk portion이 autophagosome에 격리되어 분해된다.
 
-### 2. Selective Autophagy
+### ==2. Selective Autophagy==
 
 Autophagosome이 표식이 붙은 특정 cargo를 단단히 둘러싸고 주변 세포질을 대부분 제외한다.[^기출_중간_2025_27]
 e.g. mitophagy
@@ -58,8 +58,9 @@ e.g. mitophagy
 Autophagosome은 알려지지 않은 기원의 작은 vesicle의 융합으로 조립된다.
 
 ### 시작 단계
+==mTOR같은 단백질들이 이상 신호 전달.==
 
-과정은 **phosphoinositide lipid kinase complex (<font color="#9bbb59">ATG1 complex</font>)가 국소적으로 <font color="#548dd4">PI(3)P</font>를 생성**할 때 시작된다:
+과정은 **[[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|phosphoinositide]] lipid kinase complex (<font color="#9bbb59">ATG1 complex</font>)가 국소적으로 <font color="#548dd4">PI(3)P</font>를 생성**할 때 시작된다:
 - 여러 <font color="#ff0000">autophagy-related factor</font>의 모집을 위한 잠재적 막 site를 표시
 
 ### <font color="#8064a2">ATG8</font>의 역할
@@ -73,22 +74,23 @@ ATG8-marked vesicle은:
 - ATG8과 다른 autophagy-related 단백질에 의해 identity가 제공되는 막의 확장이 발생
 
 ### 막 구조의 형성
-#### Nucleation and extension
+#### ==Nucleation and extension==
 
 알려지지 않은 이유로, vesicle 융합에 의해 형성된 성장하는 막 구조는 구형이 아니다:
 - Golgi apparatus cisterna와 유사한 납작한 disc
 - Cup-shaped 구조로 말림
 - 이 cup의 입술이 융합하여 내용물을 이제 두 개의 막으로 둘러싸인 구획 안에 포함
 
-###  Fusion of the autophagosome with lysosome
+###  ==Fusion of the autophagosome with lysosome==
 Autophagosome의 외막은:
-- [[SNARE|SNARE-mediated process]]로 lysosome과 융합[^기출_중간_2022_31][^기출_중간_2023_9][^기출_중간_2025_27]
-- 내막과 포획된 cargo가 lysosome으로 방출됨[^기출_중간_2023_9][^기출_중간_2025_27]
-- Acid hydrolase에 의해 분해됨
+- **[[SNARE|SNARE-mediated process]]**==로 lysosome과 융합==[^기출_중간_2022_31][^기출_중간_2023_9][^기출_중간_2025_27]
+
+### ==Digestion of inner membrane and the lumenal contents==
+- 내막과 포획된 cargo가 lysosomal hydrolases에의해 가수분해됨. [^기출_중간_2023_9][^기출_중간_2025_27]
 
 ## Nonselective Autophagy의 조절
 
-### <mark style="background:#fff88f">mTOR Complex 1</mark>에 의한 조절
+### ==mTOR Complex 1에 의한 조절==
 
 ATG1 kinase complex의 활성은 엄격하게 조절된다.
 
@@ -97,10 +99,10 @@ ATG1 kinase complex의 활성은 엄격하게 조절된다.
 - mTOR complex 1의 활성은 lysosome에서 단백질 재활용에 의해 생성된 특정 amino acid의 가용성에 의존
 
 특정 amino acid가 제한적일 때:
-1. mTOR complex 1 활성 감소
+1. ==mTOR complex 1 활성 감소==
 2. ATG1 complex에 대한 억제 해제
 3. ATG1 complex 활성화
-4. Nonselective autophagy 시작
+4. ==Nonselective autophagy 시작==
 5. Lysosome에서 bulk 세포질 분해
 6. Amino acid 생성
 7. mTOR complex 1 활성화
@@ -201,7 +203,7 @@ Autophagosome은 이중막으로 둘러싸여 있다:[^기출_중간_2025_27]
 
 ## 관련 주제
 
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../14. Energy Conversion: Mitochondria and Chloroplasts/Mitochondria|Mitochondria]]
 - [[../../6. How Cells Read the Genome: From DNA to Protein/Protein degradation|단백질 분해]]

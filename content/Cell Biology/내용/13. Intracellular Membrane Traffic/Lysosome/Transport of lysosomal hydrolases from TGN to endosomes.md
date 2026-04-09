@@ -5,7 +5,7 @@ Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전
 ## M6P Receptor System
 
 ![[_page_29_Figure_8.jpeg]]
-
+==강의노트에는 early endosome으로 전달된다고 그림에 써 있음. 실제로는 endosome에 전달된다고 함.==
 ### M6P Receptor의 역할
 
 **Mannose 6-phosphate (M6P) receptor**는 transmembrane 단백질로:[^기출_중간_2022_32]
@@ -40,8 +40,6 @@ Clathrin-coated vesicle:
 - Hydrolase를 endosome 내강으로 전달
 
 ### 3. Receptor 재활용
-
-![[_page_19_Figure_10.jpeg]]
 
 Early endosome에서:
 1. 낮은 pH 환경 (pH 6.0)[^기출_중간_2022_32]
@@ -99,7 +97,7 @@ Retromer는 endosome에서 TGN으로의 transport에 특화된 coat 단백질 co
 
 M6P receptor의 재활용은 [[../../12. Intracellular Organization and Protein Sorting/ER retention signal|KDEL receptor의 재활용]]과 유사하지만, 운반을 매개하는 coated vesicle 유형이 다르다:
 - **KDEL receptor**: COPI-coated vesicle
-- **M6P receptor**: Clathrin-coated vesicle (forward) 및 retromer-coated vesicle (retrieval)
+- **M6P receptor**: [[vesicle formation_MOC#Coated Vesicle의 종류와 경로|Clathrin-coated vesicle (forward) 및 retromer-coated vesicle (retrieval)]]
 
 ## 관련 주제
 

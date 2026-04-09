@@ -1,4 +1,5 @@
 # Retrieval Pathway to the ER
+#KDEL #COPI
 
 ## 개요
 
@@ -6,9 +7,9 @@ Retrieval pathway는 [[Cell Biology/내용/12. Intracellular Organization and Pr
 
 ![[_page_19_Figure_10.jpeg]]
 
-## COPI-coated Vesicle
+## ==COPI-coated Vesicle==
 
-Retrieval pathway는 **COPI-coated vesicle**에 의해 매개된다.[^기출_중간_2023_5][^기출_중간_2025_20][^기출_중간_2025_18]
+==Retrieval pathway는 **COPI-coated vesicle**에 의해 매개된다.==[^기출_중간_2023_5][^기출_중간_2025_20][^기출_중간_2025_18]
 
 ### Budding Sites
 
@@ -35,11 +36,11 @@ COPI vesicle이 운반하는 cargo:
    - 다음 cisterna로 잘못 이동한 경우
    - Appropriate cisterna로 return
 
-## ER Retrieval Signal
+## Signals
 
 Retrieval pathway는 specific signal에 의존한다.
 
-### Membrane Protein Signal: KKXX
+### ==Membrane Protein Signal: KKXX==
 =ER resident membrane protein[^기출_중간_2023_5][^기출_중간_2025_20]
 **Structure**:
 - C-terminal end에 위치
@@ -47,7 +48,7 @@ Retrieval pathway는 specific signal에 의존한다.
 - Single-letter code 사용
 
 **Mechanism**:
-1. KKXX sequence가 COPI coat에 directly bind[^기출_중간_2023_5][^기출_중간_2025_20]
+1. ==KKXX sequence가 COPI coat에 directly bind==[^기출_중간_2023_5][^기출_중간_2025_20]
 2. Protein이 COPI-coated vesicle에 package
 3. ER로 retrograde delivery
 4. ER에 도달하여 release
@@ -57,16 +58,16 @@ Retrieval pathway는 specific signal에 의존한다.
 - v-SNARE와 t-SNARE (ER-Golgi interface에서 기능)
 - Some cargo receptor
 
-### Soluble ER resident Protein Signal: KDEL
+### ==Soluble ER resident Protein Signal: KDEL==
 
 **Structure**:
 - C-terminal end에 위치[^기출_중간_2023_5][^기출_중간_2025_20]
-- **K-D-E-L**: Lys-Asp-Glu-Leu
+- ==**K-D-E-L**: Lys-Asp-Glu-Leu==
 - 또는 유사한 sequence
 
 **Protein examples**:
-- BiP ([[Cell Biology/내용/06. How Cells Obtain Energy from Food|ER chaperone]])
-- Other soluble ER resident protein
+- [[BiP]] (ER chaperone)
+- Other ==soluble ER resident protein==
 
 **Genetic engineering evidence**:
 - KDEL 제거: Protein slowly secreted
@@ -85,31 +86,31 @@ Soluble protein의 retrieval은 **KDEL receptor** 필요.
 
 ### Cycling Mechanism
 
-**ER → Golgi**:
+==**ER → Golgi**:==
 1. KDEL receptor가 ER membrane에 위치[^기출_중간_2023_5]
-2. Forward transport pathway로 Golgi에 도달[^기출_중간_2023_5]
-3. Low pH in Golgi
+2. Forward transport pathway로 ==Golgi에 도달==[^기출_중간_2023_5]
+3. ==Low pH in Golgi==
 
-**Golgi에서**:
-1. KDEL-bearing protein 인식
-2. Receptor–ligand complex 형성
-3. COPI coat recruitment
+==**Golgi에서**:==
+1. ==KDEL-bearing protein 인식==
+2. ==Receptor–ligand complex 형성==
+3. ==COPI coat recruitment==
 4. COPI vesicle에 package
 
-**Golgi → ER**:
-1. COPI vesicle이 ER로 이동
-2. ER에 fusion
-3. Higher pH in ER
-4. Ligand release
-5. Free receptor는 다시 Golgi로
+==**Golgi → ER**:==
+1. ==COPI vesicle이 ER로 이동==
+2. ==ER에 fusion==
+3. ==Higher pH in ER==
+4. ==Ligand release==
+5. ==Free receptor는 다시 Golgi로==
 
-### pH-dependent Affinity
+### ==pH-dependent Affinity==
 
 ![[_page_19_Figure_10.jpeg]]
 
 **Key feature**:
-- Golgi (pH ~6.5-6.7): High affinity for KDEL[^기출_중간_2023_5][^기출_중간_2025_20]
-- ER (pH ~7.2): Low affinity for KDEL[^기출_중간_2023_5][^기출_중간_2025_20]
+- ==Golgi (pH ~6.5-6.7): High affinity for KDEL[^기출_중간_2023_5][^기출_중간_2025_20]==
+- ==ER (pH ~7.2): Low affinity for KDEL[^기출_중간_2023_5][^기출_중간_2025_20]==
 
 **Molecular basis**:
 - Critical histidine in KDEL receptor
@@ -121,96 +122,6 @@ Soluble protein의 retrieval은 **KDEL receptor** 필요.
 - Directional transport
 - Unidirectional retrieval
 - Efficient cycling
-
-### V-type H⁺-ATPase
-
-pH gradient maintenance:
-- Golgi membrane의 V-type ATPase
-- ATP hydrolysis로 H⁺ pump
-- Golgi lumen acidification
-- Retrieval system의 driving force 제공
-
-## Two-tier Retention System
-
-ER resident protein retention은 두 mechanism 결합:
-
-### Primary: Aggregation-based Retention
-
-**Mechanism**:
-- ER resident protein끊끼리 결합
-- Large complex 형성
-- Too big to enter transport vesicle efficiently
-
-**Rationale**:
-- ER resident protein은 매우 high concentration (millimolar)
-- Relatively low-affinity interaction으로도 충분
-- 대부분의 protein을 complex로 retain
-
-### Secondary: Signal-based Retrieval
-
-**Mechanism**:
-- Aggregation escape한 일부 protein
-- KDEL 또는 KKXX signal로 capture
-- COPI vesicle로 return
-
-**Efficiency**:
-- Complete retention 불가능
-- 일부 ER protein은 천천히 leak
-- Retrieval system이 대부분 recover
-
-## pH-sensitive Sorting
-
-KDEL receptor는 pH-sensitive protein–protein interaction 사용:
-- 많은 protein-sorting step에서 유사 mechanism
-- Compartment간 pH difference 이용
-- Directional transport 제공
-
-**Other examples**:
-- [[Lysosome_MOC#Transport of lysosomal hydrolases to endosomes|M6P receptor]] (TGN ↔ endosome)
-- Transferrin receptor (endosome ↔ plasma membrane)
-- Various cargo receptor
-
-## Continuous Retrieval
-
-Retrieval은 continuous process:
-
-### Vesicular Tubular Cluster
-- ER vesicle fusion 직후 시작
-- Initial protein sorting
-- Major ER protein return
-
-### Golgi Apparatus
-- Each cisterna에서 retrieval
-- Progressive protein sorting
-- Golgi enzyme도 이전 cisterna로 return
-
-### Maturation
-- Vesicular tubular cluster가 Golgi로 이동하면서
-- Continuous COPI budding
-- Selected protein return
-- Composition 점진적 변화
-
-## Functional Significance
-
-### Compartment Identity
-- 각 compartment의 unique protein composition 유지
-- Constant membrane exchange에도 불구하고
-- Identity preservation
-
-### Machinery Recycling
-- Cargo receptor, SNARE 등 재사용
-- Efficient vesicle transport
-- Resource conservation
-
-### Quality Control
-- Incorrectly localized protein correction
-- Protein sorting error recovery
-- System robustness
-
-### Balance Maintenance
-- Forward와 retrograde transport balance
-- Compartment size와 composition steady-state
-- Homeostasis
 
 ## 관련 내용
 

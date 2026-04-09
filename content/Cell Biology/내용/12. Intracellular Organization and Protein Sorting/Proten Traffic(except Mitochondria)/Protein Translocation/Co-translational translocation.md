@@ -5,14 +5,14 @@
 ![[_page_21_Picture_6.jpeg]]
 
 *Figure 12-20: ER signal sequence와 SRP가 ribosome을 ER membrane으로 향하게 하는 방법. [[SRP]]와 [[SRP receptor]]가 협력하여 작동한다. 
-1. SRP detects the signal ^d3e123
+1. **SRP detects the signal** ^d3e123
 	- ==SRP는 노출된 [[Sorting Signal#Signal Sequences|ER signal sequence]]와 ribosome 모두에 결합하여 [[SRP#^2f59af|translation을 느리게 한다.]]==[^기출_중간_2023_26]
-2. SRP finds the docking site
+2. **SRP finds the docking site**
 	- ==ER membrane의 SRP receptor는 동물 세포에서 두 개의 서로 다른 polypeptide chain으로 구성되며, SRP-ribosome complex에 결합하여 [[Sec61 complex|translocator]]로 향하게 한다.==
-3. Handoff to the translocator
+3. **Handoff to the translocator**
 	- ==SRP(SRP receptor와 complex를 이룬)가 ribosome의 결합 부위에서 멀어지고, 이 위치는 ER membrane의 translocator가 차지하게 된다.==
 	- ==SRP는 signal sequence를 방출하고, 이것이 translocator에 삽입되어 lipid bilayer를 가로지르는 polypeptide chain 전달을 시작한다.==
-4. Recycling for the next round
+4. **Recycling for the next round**
 	- ==SRP와 SRP receptor는 서로 분리되어 다음 라운드의 단백질 targeting을 위해 재활용된다.==
 	- SRP와 SRP receptor는 **GTP** binding domain을 갖는데,
 		- sequence binding으로 일어난 conformational change-> GTP bound SRP와 GTP bound SRP Receptor의 결합을 가능하게 한다.

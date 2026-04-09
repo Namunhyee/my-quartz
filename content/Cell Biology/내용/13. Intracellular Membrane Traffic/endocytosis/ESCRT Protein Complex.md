@@ -33,7 +33,7 @@ Multivesicular body로 분류하려면:
 1. signal에 의해 receptor 활성화
    - 활성화되면서 conformational change나 phosphrylated -> E3 ligase가 uniquitin 부착
 1. **ESCRT-0**
-   - Ubiquitin tag를 인식
+   - ==**Ubiquitin tag**를 인식, **PI(3)P** 인식==
    - 막에 처음으로 결합
    - Cargo 단백질을 다음 ESCRT로 전달
 
@@ -62,7 +62,7 @@ ESCRT 기계가 추진하는 막의 내부 budding은:
 - Endosome 막에서 intralumenal vesicle을 형성하기 위해
 - 막의 cytosolic 표면에서 멀어지는 방향으로 budding이 발생
 
-## PI(3)P의 역할
+## [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|PI(3)P]]의 역할
 
 Multivesicular body로의 막 invagination은 lipid kinase에도 의존한다:
 - [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)#Phosphatidylinositol (PI)|Phosphatidylinositol]]을 phosphorylate하여 PI(3)P 생성
@@ -157,7 +157,7 @@ SARS-CoV-2 (COVID-19를 일으키는 virus):
 ## 관련 주제
 
 - [[Endosomes maturation|Endosome 성숙]]
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../17. The Cell Cycle/Cytokinesis|Cytokinesis]]
 - [[../../23. Pathogens and Infection/Virus entry|Virus 진입]]

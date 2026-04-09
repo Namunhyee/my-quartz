@@ -151,14 +151,14 @@
 - [[Nuclear Export Signals]]
 - [[Nuclear Import Receptor]]
 - [[Nuclear Export Receptor]]
-- [[Ran-GTP cycle]]
+- [[Ran-GTP cycle & Transport Through NPC]]
 
 ### 5-3. 핵 수송 조절 사례
 
 - [[021_Nuclear Transport Regulation_MOC]]
 - [[Dorsal protein production control]]
 - [[Nuclear import control during T-cell activation]]
-- [[Cholesterol biosynthesis regulation]]
+- [[Cholesterol biosynthesis regulation(수업 안함)]]
 
 ---
 
@@ -185,7 +185,7 @@
 | [[Biochemical Roles of Membranes]] | 막 기원 |
 | [[Biomolecular Condensates]] | Condensates |
 | [[Calnexin and Calreticulin]] | ER QC |
-| [[Cholesterol biosynthesis regulation]] | 핵 수송 조절 |
+| [[Cholesterol biosynthesis regulation(수업 안함)]] | 핵 수송 조절 |
 | [[chloroplasts]] | 소기관 |
 | [[Co-translational translocation]] | ER Translocation |
 | [[Cytoplasm]] | 소기관 |
@@ -225,7 +225,7 @@
 | [[Protein import into Peroxisome]] | Peroxisome |
 | [[Protein Misfolding and Trafficking Disorders]] | 질환 |
 | [[Quality control of ER protein folding]] | ER QC |
-| [[Ran-GTP cycle]] | NPC 수송 |
+| [[Ran-GTP cycle & Transport Through NPC]] | NPC 수송 |
 | [[Scramblase]] | 막 합성 |
 | [[Sec61 complex]] | ER Translocation |
 | [[Sec62-Sec63 complex]] | ER Translocation |

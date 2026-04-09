@@ -12,8 +12,8 @@
 ### 구조
 
 ![[_page_44_Figure_10.jpeg]]
-
-Early endosome은 tubular와 vacuolar domain을 가진다:
+==위는 early endosome==
+==Early endosome은 tubular와 vacuolar domain을 가진다:==
 - 대부분의 막 표면은 tubule에 있음
 - 대부분의 부피는 vacuolar domain에 있음
 
@@ -47,7 +47,7 @@ Endocytosed signaling receptor가 endosome 내부의 intralumenal vesicle로 격
 
 ![[_page_13_Picture_2.jpeg]]
 
-시간이 지남에 따라, Rab5-associated membrane patch가 Rab7-associated membrane patch로 대체된다:
+시간이 지남에 따라, ==Rab5-associated membrane patch가 Rab7-associated membrane patch로 대체된다:==
 - Early endosome (Rab5로 표시됨)이 late endosome (Rab7으로 표시됨)으로 전환
 - Rab7에 의해 recruit되는 Rab effector 세트는 Rab5에 의해 recruit되는 것과 다름
 
@@ -63,14 +63,15 @@ Early endosome에서 재활용되지 않은 모든 cargo:
 
 ## Late Endosome의 특징
 
-### Multivesicular Body
+### ==Multivesicular Body==
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_47_Picture_2.jpeg]]
-
-Endosome이 성숙함에 따라:
-- 막의 patch가 endosome lumen으로 invaginate
-- Pinch off하여 intralumenal vesicle 형성
-- 이러한 성숙하는 endosome은 **multivesicular body**라고도 불림
+![[Pasted image 20260409173717.png]]
+==Endosome이 성숙함에 따라:==
+- ==막의 patch가 endosome lumen으로 invaginate==
+- ==Pinch off하여 intralumenal vesicle 형성==
+- ==이러한 성숙하는 endosome은 **multivesicular body**라고도 불림==
+- ==이는== [[ESCRT Protein Complex]]==에 의해 생성됨==.
 
 ### 재활용 중단
 
@@ -81,8 +82,8 @@ Late endosome은:
 ## TGN과의 연결
 
 각 endosome maturation 단계는 TGN과 transport vesicle을 통해 연결된다:
-- 새로 합성된 lysosomal 단백질의 지속적인 공급 제공
-- M6P receptor와 같은 구성요소의 회수
+- ==새로 합성된 lysosomal 단백질의 지속적인 공급 제공==
+- ==M6P receptor와 같은 구성요소의 회수==
 
 ## pH의 역할
 
@@ -133,7 +134,7 @@ Maturation 과정은 lysosome 유지보수에 중요하다:
 
 ## 관련 주제
 
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[Transport of lysosomal hydrolases from TGN to endosomes|Lysosomal hydrolase의 endosome으로의 운반]]
 - [[ESCRT Protein Complex|ESCRT 단백질 복합체]]

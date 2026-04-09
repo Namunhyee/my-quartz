@@ -40,13 +40,23 @@ Cargo를 방출한 후, Pex5는 cytosol로 되돌아가야 한다. 이 recycling
 - **Pex1–Pex6 AAA-ATPase[^1] 복합체**: ATP 가수분해 에너지를 이용해 ubiquitin이 부착된 Pex5를 peroxisome에서 cytosol로 꺼낸다. 이것이 import 사이클의 에너지 구동 단계이다.
 - 재순환된 Pex5는 다음 cargo 분자를 위해 재사용된다.
 
-## Zellweger Syndrome
+## ==Zellweger Syndrome==
 
-**Zellweger syndrome**은 peroxin 유전자, 가장 흔하게는 **Pex1** 돌연변이로 인해 발생하는 유전 질환이다. 세포는 "빈" peroxisome(막은 있으나 효소가 없는)을 포함하며, 다음과 같은 대사 이상이 나타난다:
+**Zellweger syndrome**은 peroxin 유전자, 가장 흔하게는 ==**Pex1** 돌연변이==로 인해 발생하는 유전 질환이다. 세포는 "빈" peroxisome(막은 있으나 효소가 없는)을 포함하며, 다음과 같은 대사 이상이 나타난다:
 - 매우 긴 사슬(very-long-chain) 및 분지형 지방산 축적 (peroxisome의 β-oxidation 불가)
 - [[Plasmalogen]] 결핍
+### ==3 Metabolic Consequences== 
+- Peroxisomal β-oxidation 감소 = Very long-chain fatty acids (VLCFA) 축적 
+- plasmalogen 감소 = Membrane structure/function 이상 
+- H₂O₂ detox 문제 = Oxidative stress 증가
 
-이로 인해 뇌, 간, 신장에 심각한 이상이 발생하며 출생 직후 사망한다.
+### ==Clinical Features==
+- Severe hypotonia
+- Seizures 
+- Hepatomegaly / liver dysfunction
+- Craniofacial dysmorphism (high forehead, flat face)
+- 대부분 infancy에 사망
+
 
 [^기출_중간_2023_30]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_30번|2023 중간 30번]] — 퍼옥시좀으로 단백질 import는 두가지 경로. ER에서 vesicular transport 혹은 cytosolic protein의 직접적인 import.
 [^기출_중간_2025_12]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_12번|2025 중간 12번]] — 과산화소체는 자체 DNA·리보솜이 없고 모든 단백질을 세포질 리보솜 합성 후 수입한다는 내용이 틀린 선지 ③으로 출제됨.

@@ -15,11 +15,12 @@
 
 두 종류의 TIM 복합체가 inner membrane에서 작동한다:
 
-### TIM23 complex
+### ==TIM23 complex==
 - ==Matrix 단백질 수송에 사용==[^기출_중간_2021_20][^기출_중간_2021_미상D][^기출_중간_2023_ver2_39]
 - N-terminal signal sequence를 인식하여 matrix로 전달[^기출_중간_2025_16]
 - ==Inner membrane 단백질 삽입에도 사용(측면 방출)==
-- ==Matrix 쪽에 mitochondrial hsp70이 결합되어 있어 단백질을 끌어당김==
+- ==Matrix 쪽에 mitochondrial hsp70이 결합되어 있어 단백질을 끌어당김==([[3 Energy source for import#3a. ==ATP 가수분해== — ==Mitochondrial hsp70== (Matrix 내에서 끌어당김)|ATPase]])
+- **==막전위**를 이용해서도 당김==
 
 ### ==**TIM22 complex**==
 - 대사물질 transporter 등 ==**multipass inner membrane**== 단백질에 특화==[^기출_중간_2021_19]

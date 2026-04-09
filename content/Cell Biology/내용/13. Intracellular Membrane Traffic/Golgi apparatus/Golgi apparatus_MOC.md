@@ -33,33 +33,31 @@ Golgi apparatus는 세포에서 다당류를 합성하는 주요 장소이다:
 - 식물 세포벽의 pectin과 hemicellulose
 - 동물 세포외기질의 glycosaminoglycan
 
-### 2. Oligosaccharide 가공
+### 2. ==Oligosaccharide 가공==
 
 [[Oligosaccharide processing in Golgi|Golgi에서의 Oligosaccharide 가공]]을 참조하라.
 
-### 3. Proteoglycan 조립
+### 3. ==Proteoglycan 조립==
 
 [[Proteoglycan Assembly|Proteoglycan 조립]]을 참조하라.
 
 ### 4. 황산화
-
 Golgi apparatus에서 glycosaminoglycan의 당과 단백질의 일부 tyrosine이 황산화된다. 황산 donor는 3'-phosphoadenosine-5'-phosphosulfate (PAPS)이며, 이는 세포질에서 trans Golgi network의 내강으로 운반된다.
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_25_Picture_2.jpeg]]
 
 ## Golgi 막 단백질
 
 ER 내강이 가용성 resident 단백질과 효소로 가득 차 있는 것과 달리, Golgi apparatus의 resident 단백질은 모두 막에 결합되어 있다. 모든 Golgi glycosidase와 glycosyl transferase는 single-pass transmembrane 단백질이며, 많은 경우 multienzyme complex로 조직되어 있다.
 
-## Transport 메커니즘
+## ==Transport 메커니즘==
 
 Golgi apparatus를 통한 transport는 여러 메커니즘을 통해 발생할 수 있다:
 
-### 1. Vesicle transport 메커니즘
+### ==1. Vesicle transport 메커니즘==
 
 한 구획에서 다음 구획으로 cargo를 운반하는 transport vesicle을 사용한다.[^기출_중간_2022_29][^기출_중간_2025_21] COPI-coated vesicle이 forward 및 backward transport 모두에 사용될 수 있다.[^기출_중간_2022_29][^기출_중간_2025_21]
 
-### 2. Cisternal maturation 메커니즘
+### ==2. Cisternal maturation 메커니즘==
 
 새로운 cis cisterna가 ER에서 온 vesicular tubular cluster의 융합으로 지속적으로 형성된다.[^기출_중간_2025_21] Cargo가 cisterna 내에서 수정됨에 따라, 효소는 transport vesicle로 떠나 새로 도착하는 vesicular tubular cluster와 융합한다.[^기출_중간_2022_29][^기출_중간_2025_21] 동시에, cisterna는 나중 Golgi cisternae에서 온 효소를 포함하는 transport vesicle을 받아들여 medial cisterna로 전환된다.[^기출_중간_2022_29][^기출_중간_2025_21]
 

@@ -88,7 +88,7 @@ Cholesterol은 다른 lipid와 다른 flip-flop 행동을 보인다:
 - 각각의 sterol은 해당 유기체의 membrane 특성에 맞게 조절됨
 
 ## 조절 mechanism
-[[Cholesterol biosynthesis regulation]]
+[[Cholesterol biosynthesis regulation(수업 안함)]]
 
 ## 생물학적 중요성
 

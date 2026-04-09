@@ -1,6 +1,6 @@
 # Phagocytosis
 
-**Phagocytosis** ("cell eating")는 세포가 **phagosome**이라고 불리는 큰 endocytic vesicle을 사용하여 큰 입자(미생물, 죽은 세포 등)를 섭취하는 endocytosis의 특수한 형태이다.[^기출_중간_2022_35][^기출_중간_2023_11]
+==**Phagocytosis** ("cell eating")는 세포가 **phagosome**이라고 불리는 큰 endocytic vesicle을 사용하여 큰 입자(미생물, 죽은 세포 등)를 섭취하는 endocytosis의 특수한 형태이다.==[^기출_중간_2022_35][^기출_중간_2023_11]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_54_Figure_2.jpeg]]
 
@@ -25,16 +25,16 @@ Phagocytosis는 목적과 메커니즘 모두에서 [[macropinocytosis|macropino
 
 다세포 동물에서 phagocytosis는 주로 **전문적 phagocyte**라고 불리는 특화된 세포에 의해 수행된다:[^기출_중간_2025_26]
 
-#### 포유류의 두 가지 중요한 white blood cell 부류:
+#### ==포유류의 두 가지 중요한 white blood cell 부류==:
 
-1. **Macrophage**
-2. **Neutrophil**
+1. ==**Macrophage**==
+2. ==**Neutrophil**==
 
 이들은 hemopoietic stem cell에서 발달하며, 침입하는 미생물을 섭취하여 감염으로부터 우리를 방어한다.
 미생물 특유의 물질을 인식하는 receptor가 있고, 이에 더해
-**Opsonization**을 통한 식균작용을 수행함.
-	이는 항원에 항체가 결합하여 덩어리를 만들고, 항체를 인식하는 receptor에 의해 유도된 phagocytosis가 항원들을 한꺼번에 제거하는 것.
-	![[_page_45_Picture_2.jpeg]]
+==**Opsonization**을 통한 식균작용을 수행함.==[^기출_중간_2023_11]
+	==이는 항원에 항체가 결합하여 덩어리를 만들고, 항체를 인식하는 receptor에 의해 유도된 phagocytosis가 항원들을 한꺼번에 제거하는 것.==
+![[Pasted image 20260409185021.png]]
 
 ### 노화 및 사멸 세포의 제거
 
@@ -59,33 +59,32 @@ Phagosome은 lysosome과 융합하고, 섭취된 물질이 분해된다:[^기출
 - Plasma membrane으로 반환됨
 
 
-# 메커니즘
-## Cargo Recognition으로 시작
+# ==메커니즘==
 
 ![[_page_55_Picture_2.jpeg]]
+[[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)#PIP-binding Domain을 통한 Protein Recruitment|메커니즘 별로 다른 PIP의 종류]]
 
-1. Phagocytosis는 cargo-triggered process이다:
-- Cell-surface receptor의 활성화 필요
+1. ==Phagocytosis는 cargo-triggered process이다:==
+- ==Cell-surface receptor의 활성화 필요==
 - Receptor가 세포 내부로 신호 전달
 - 입자는 먼저 phagocyte 표면에 결합해야 함
 - 그러나 결합하는 모든 입자가 섭취되는 것은 아님
 2. 이후 
-	FcR clustering → Syk → **PIP5K 활성화 → <font color="#ff0000">PIP₂ 생성</font>** → WASP → Arp2/3 → actin → pseudopod
-	동시에 Syk → PI3K →<font color="#ff0000"> PIP₂ → PIP₃</font> → Rac1 추가 활성화 (양성 피드백)
+	FcR clustering → Syk → ==**PIP5K 활성화== → ==PI(4,5)P₂ 생성**== → WASP → Arp2/3 → ==actin== → pseudopod[^기출_중간_2023_12]
+	동시에 Syk → ==PI3K== →==PIP₂ → PIP₃== → Rac1 추가 활성화 (양성 피드백)
 	과정을 통해 PIP 생성
 3. phosphoinositide 축적이 
-	```
-	PIP₂ (cup 전체)
+	==PIP₂ (cup 전체)==
   → WASP/Arp2/3 → actin branching → pseudopod 확장
   
-PIP₃ (cup 가장자리)
+==PIP₃ (cup 가장자리)==
   → Rac1/WAVE → 추가 actin 중합 → cup이 타겟 감쌈
 
 tip에서 SHIP1 활성화
-  → PIP₃ 소멸 → 신호 꺼짐 → actin depolymerization
-  → closure → PI(3)P 생성 → maturation
-	```
-	경로를 통해 actin polymerization,  depolymerization, maturation 조절하여 phagosome 생성 완료
+  ==→ PIP₃ 소멸 → 신호 꺼짐 → actin depolymerization==
+  ==→ closure → PI(3)P 생성 → maturation==
+	
+경로를 통해 actin polymerization,  depolymerization, maturation 조절하여 phagosome 생성 완료
 
 ### Phagocytic Receptor의 종류
 
@@ -180,7 +179,7 @@ Legionnaires' disease를 일으키는 세균:
 - 숙주의 adaptive immune system으로부터 보호됨
 ## 관련 주제
 
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - [[macropinocytosis|Macropinocytosis]]
 - [[../Lysosome/Lysosome_MOC|Lysosome]]
 - [[../../24. The Innate and Adaptive Immune Systems/Macrophages|Macrophage]]

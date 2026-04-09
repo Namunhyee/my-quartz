@@ -13,4 +13,4 @@
 
 - [[Dorsal protein production control]] — 초파리 발생에서의 핵 수입 조절
 - [[Nuclear import control during T-cell activation]] — NF-AT의 탈인산화에 의한 핵 수입
-- [[Cholesterol biosynthesis regulation]] — SREBP의 단백질 가수분해 처리에 의한 핵 수입
+- [[Cholesterol biosynthesis regulation(수업 안함)]] — SREBP의 단백질 가수분해 처리에 의한 핵 수입

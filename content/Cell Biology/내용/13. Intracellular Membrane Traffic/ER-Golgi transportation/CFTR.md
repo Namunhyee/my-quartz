@@ -15,7 +15,7 @@
   - 소화기 상피
   - 땀샘
 
-### 단백질 품질 관리
+### [[Quality control of ER protein folding|단백질 품질 관리]]
 
 CFTR은 ER quality control system의 중요한 예시:
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]에서 synthesis
@@ -35,9 +35,9 @@ CFTR은 ER quality control system의 중요한 예시:
 
 ### Functional Capacity
 
-Mutant CFTR의 paradox:
-- **만약 plasma membrane에 도달하면**:
-  - 거의 정상적으로 기능
+==Mutant CFTR의 paradox:==
+- ==**만약 plasma membrane에 도달하면**:==
+  - ==거의 정상적으로 기능==
   - Cl⁻ transport 수행 가능
 - **실제로는**:
   - ==ER quality control에 의해 detected==

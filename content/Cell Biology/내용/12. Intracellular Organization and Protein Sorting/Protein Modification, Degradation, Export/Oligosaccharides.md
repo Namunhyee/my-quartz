@@ -77,7 +77,7 @@ Oligosaccharide는 단백질의 상태를 표시하는 tag로 작용:
 ## O-linked Oligosaccharide
 
 ### 특징
-- Serine, threonine의 hydroxyl 그룹에 부착
+- ==Serine, threonine==의 hydroxyl 그룹에 부착
 - N-linked보다 덜 흔함
 - 첫 번째 sugar는 ER에서 추가
 - 이후 처리는 Golgi에서

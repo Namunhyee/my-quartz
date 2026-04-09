@@ -22,8 +22,8 @@
 염색체 분리 후 Cdk가 불활성화되어 nucleoporin, lamin, 핵막 단백질의 탈인산화가 일어난다.
 
 재조립의 위치 표지:
-- **[[Ran-GTP cycle|Ran GEF]]**는 유사분열 중에도 chromatin에 결합된 상태 유지
-- 따라서 염색체 주변에 **[[Ran-GTP cycle|Ran-GTP]] 구름(cloud)**이 형성됨
+- **[[Ran-GTP cycle & Transport Through NPC|Ran GEF]]**는 유사분열 중에도 chromatin에 결합된 상태 유지
+- 따라서 염색체 주변에 **[[Ran-GTP cycle & Transport Through NPC|Ran-GTP]] 구름(cloud)**이 형성됨
 - Ran-GTP가 염색체 표면으로 NPC 단백질과 lamin 모집의 위치 표지 역할
 
 재조립 순서:

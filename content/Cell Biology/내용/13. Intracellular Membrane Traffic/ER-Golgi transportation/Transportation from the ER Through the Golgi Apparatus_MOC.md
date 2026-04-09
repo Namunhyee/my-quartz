@@ -4,7 +4,7 @@
 
 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]에서 합성된 단백질은 [[Golgi apparatus_MOC|Golgi apparatus]]를 거쳐 최종 목적지로 이동한다. 이 과정은 vesicular transport와 retrieval pathway의 정교한 균형으로 이루어지며, 각 compartment의 identity를 유지하면서도 지속적인 cargo 이동을 가능하게 한다.[^기출_중간_2021_13]
 
-## ER Exit: COPII-coated Vesicle Formation
+## ER Exit: [[COPII]]-coated Vesicle Formation
 
 ### ER Exit Site
 
@@ -59,15 +59,15 @@ ER exit step은 secretory pathway의 major checkpoint.
 
 ## Vesicular Tubular Cluster
 
-### Formation
+### ==Formation==
 
 ![[_page_18_Figure_9.jpeg]]
 
 ER-derived transport vesicle이 coat shed 후:
 
-1. **Homotypic fusion**:
-   - COPII-coated vesicle이 서로 fusion
-   - [[Vesicle Fusion_MOC#Homotypic vs Heterotypic Fusion|Homotypic fusion]]은 symmetrical SNARE interaction 사용
+1. ==**Homotypic fusion**==:
+   - [[COPII]]-coated vesicle이 서로 fusion
+   - [[Vesicle Fusion by SNARE_MOC#Homotypic vs Heterotypic Fusion|Homotypic fusion]]은 symmetrical SNARE interaction 사용
    - 양쪽 membrane에 v-SNARE와 t-SNARE 모두 존재
 
 2. **Vesicular tubular cluster 형성**:
@@ -239,7 +239,7 @@ KDEL 제거된 ER resident protein:
 - [[Retrieval Pathway to the ER|ER retrieval mechanism]]
 - [[Vesicular tubular cluster|Vesicular tubular cluster]]
 - [[Vesicle formation_MOC|Vesicle formation]]
-- [[Vesicle Fusion_MOC|Vesicle fusion]]
+- [[Vesicle Fusion by SNARE_MOC|Vesicle fusion]]
 - [[Golgi apparatus_MOC|Golgi apparatus]]
 - [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER protein synthesis]]
 

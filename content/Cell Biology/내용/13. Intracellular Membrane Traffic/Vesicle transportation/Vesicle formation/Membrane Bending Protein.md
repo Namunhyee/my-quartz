@@ -18,10 +18,10 @@ Plasma membrane은 다른 membrane에 비해 vesicle budding이 어렵다:
 - 추가 membrane-bending과 force-generating protein 필요
 - Vesicle formation의 every stage에 참여
 
-## BAR Domain Protein
+## ==BAR Domain Protein==
 
 ![[_page_7_Picture_2.jpeg]]
-**BAR domain**은 대표적인 membrane-bending module이다:
+==**BAR domain**은 대표적인 membrane-bending module이다==:
 
 ### 구조
 - Coiled coil로 구성
@@ -44,13 +44,13 @@ Plasma membrane은 다른 membrane에 비해 vesicle budding이 어렵다:
 
 ## Vesicle Budding 과정에서의 역할
 
-### AP2와의 협력
+### ==AP2와의 협력==
 BAR-domain protein이 curved membrane 생성:
 1. Membrane에 initial curvature 생성
 2. [[AP2]] adaptor protein의 nucleation 촉진
 3. [[Clathrin coat|Clathrin-coated bud]] 형성 도움
 
-### Vesicle Neck에서의 기능
+### ==Vesicle Neck에서의 기능==
 Budding vesicle neck에서 중요한 역할:
 1. **Sharp membrane bend 안정화**
 2. **Clathrin machinery와 함께 local [[100_Actin filaments_MOC|actin]] assembly 자극**
@@ -73,34 +73,6 @@ BAR-domain protein은 actin cytoskeleton과도 상호작용:
 - Actin polymerization이 additional force 제공
 - Vesicle budding 과정 가속
 
-## BAR Domain의 다양성
-
-BAR-domain protein은 다양하며 cell의 많은 membrane-bending process 가능하게 함:
-
-### 종류
-- **N-BAR**: N-terminal amphiphilic helix 포함
-- **F-BAR**: 다른 curvature preference
-- **I-BAR**: Inverse BAR, opposite curvature 유도
-
-### 적용 범위
-- Vesicle budding
-- Membrane tubulation
-- Endocytosis
-- Membrane fusion
-- Organelle morphology maintenance
-
-## Other Membrane-bending Mechanism
-
-BAR domain 외에도 다른 mechanism 존재:
-
-### Amphipathic Helix Insertion
-- Protein의 partially hydrophobic region
-- Cytoplasmic leaflet에 wedge로 insert
-- Local membrane asymmetry 생성하여 bending 유도
-
-### Protein Scaffold
-- Multiple protein이 organized complex 형성
-- Specific geometry로 membrane shape 제한
 
 ## 관련 내용
 

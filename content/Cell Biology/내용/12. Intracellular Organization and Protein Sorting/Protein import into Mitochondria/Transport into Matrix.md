@@ -1,13 +1,13 @@
 ![[Cell Biology/출처/md converted/Chapter 12/_page_46_Figure_6.jpeg]]
-## Mitochondrial Protein Import의 주요 단계
+## ==Mitochondrial Protein Import의 주요 단계==
 
 1. **Precursor proteins 합성** Cytosol에서 N-terminal signal sequence를 가진 Precursor proteins가 합성된다.
     
 2. **Unfolded state 유지** 단백질이 접히지 않은 상태를 유지하도록 cytosolic Hsp70 chaperones가 결합한다.[^기출_중간_2025_16]
     
-3. **TOM complex 인식** Signal sequence가 외막의 TOM complex에 의해 인식된다.
+3. **[[Translocators in mitochondrial membrane#==TOM complex== (Translocator of the Outer Membrane)|TOM complex]] 인식** Signal sequence가 외막의 TOM complex에 의해 인식된다.
     
-4. **Membrane transloctaion** 단백질이 외막과 내막을 가로질러 내막의 TIM23 complex를 통해 이동한다.
+4. **Membrane transloctaion** 단백질이 외막과 내막을 가로질러 내막의 [[Translocators in mitochondrial membrane#TIM23 complex|TIM23 complex]]를 통해 이동한다.
     
 5. **Matrix 내부로 견인** Mitochondrial Hsp70가 ATP를 사용하여 단백질을 Matrix 안으로 끌어당긴다.
     

@@ -59,7 +59,7 @@ Mice와 human에서 spectrin의 유전적 이상:
 Cortical actin network의 dynamic remodeling은:
 - 많은 필수 세포 기능을 위한 driving force 제공
 - [[cell migration by actin cytoskeleton|Cell movement]]
-- [[endocytosis_MOC|Endocytosis]]
+- [[_endocytosis_MOC|Endocytosis]]
 - Transient, mobile plasma membrane structure 형성:
   - [[actin arrays|Filopodia]]
   - [[actin arrays|Lamellipodia]]

@@ -2,63 +2,63 @@
 
 ## 개요
 
-각 compartment에서 적절한 coated vesicle이 형성되려면 coat assembly가 언제, 어디서 시작될지 정밀하게 제어되어야 한다.[^기출_중간_2022_24][^기출_중간_2023_18] 이 제어에서 핵심적인 역할을 하는 것이 **coat-recruitment GTPase**이다. Coat-recruitment GTPase는 특정 compartment의 membrane에서 활성화되어 해당 membrane에 맞는 coat protein을 불러들이는 분자 스위치로 작동한다.
+각 compartment에서 적절한 coated vesicle이 형성되려면 coat assembly가 언제, 어디서 시작될지 정밀하게 제어되어야 한다.[^기출_중간_2022_24][^기출_중간_2023_18] 이 제어에서 핵심적인 역할을 하는 것이 **coat-recruitment GTPase**이다. ==Coat-recruitment GTPase는 특정 compartment의 membrane에서 활성화되어 해당 membrane에 맞는 coat protein을 불러들이는 분자 스위치로 작동한다.==
 
-이들은 [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)]]와 함께 coat assembly의 위치 특이성을 결정하는 두 가지 주요 메커니즘 중 하나이다. 
-- PIP가 [[Vesicle formation_MOC#Coated Vesicle의 종류와 경로|plasma membrane과 Golgi, endosome에서 clathrin coat를 조절]]하는 반면
-- coat-recruitment GTPase는 Golgi, ER, endosome 모두에서 COPI, COPII, retromer coat assembly를 주도적으로 조절한다.
+이들은 [[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)]]와 함께 ==coat assembly의 위치 특이성을 결정하는 두 가지 주요 메커니즘 중 하나==이다. 
+- ==PIP==가 [[Vesicle formation_MOC#Coated Vesicle의 종류와 경로|plasma membrane과 Golgi, endosome에서 clathrin coat를 조절]]하는 반면
+- ==coat-recruitment GTPase는 Golgi, ER, endosome 모두에서== ==COPI, COPII==, retromer coat assembly를 주도적으로 ==조절한다.==
 
-## Coat-recruitment GTPase의 종류
+## ==Coat-recruitment GTPase의 종류==
 
-| GTPase           | 작동 compartment    | 조절하는 coat                |
-| ---------------- | ----------------- | ------------------------ |
-| **Sar1**         | ER membrane       | COPII coat               |
-| **ARF proteins** | Golgi membrane    | COPI coat, Clathrin coat |
-| **Rab7**         | Endosome membrane | Retromer coat            |
+| GTPase               | 작동 compartment     | 조절하는 coat                    |
+| -------------------- | ------------------ | ---------------------------- |
+| ==**Sar1**==         | ==ER membrane==    | ==COPII coat==               |
+| ==**ARF proteins**== | ==Golgi membrane== | ==COPI coat, Clathrin coat== |
+| ~~**Rab7**~~         | Endosome membrane  | Retromer coat                |
 
 각각은 서로 다른 GEF에 의해 특정 compartment에서 활성화되며, 이 GEF의 위치 자체가 coat assembly의 공간적 조절을 결정한다.
 
-## 분자 스위치 메커니즘: GDP/GTP Cycle
+## ==분자 스위치 메커니즘: GDP/GTP Cycle==
 
 Coat-recruitment GTPase는 [[12. Protein Targeting and Transport#GTP-binding Proteins|monomeric GTPase]]의 일반적인 작동 원리를 따른다. GTP-bound 상태에서 활성, GDP-bound 상태에서 비활성 상태로 전환된다.
 
 **두 가지 조절 단백질:**
-- **GEF (Guanine nucleotide exchange factor)**: GDP → GTP 교환을 촉매하여 활성화
-- **GAP (GTPase-activating protein)**: GTP hydrolysis를 촉진하여 불활성화
+- ==**GEF (Guanine nucleotide exchange factor)**: GDP → GTP 교환을 촉매하여 활성화==
+- ==**GAP (GTPase-activating protein)**: GTP hydrolysis를 촉진하여 불활성화==
 ![[Pasted image 20260212122359.png]]
 **주요 특징:**
 - 세포질 내 GTP 농도가 GDP 농도보다 훨씬 높기 때문에, GDP가 방출되면 즉시 GTP가 결합됨
 - 따라서 GEF가 GDP를 방출시키는 것만으로도 활성화가 일어남
-- GAP는 GTPase의 가수분해 기능을 활성화 -> GTPase가 자기자신에게 붙은 GTP를 분해.->GTPase의 lipid anchor 기능 불활성화
+- ==GAP는 GTPase의 가수분해 기능을 활성화 -> GTPase가 자기자신에게 붙은 GTP를 분해.->GTPase의 lipid anchor 기능 불활성화==
 
 ## 핵심 예시: Sar1에 의한 COPII Coat Assembly
 
-<mark style="background:#fff88f">COPII coat의 형성 과정</mark>은 coat-recruitment GTPase의 작동 방식을 잘 보여준다.
+COPII coat의 형성 과정은 coat-recruitment GTPase의 작동 방식을 잘 보여준다.
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_9_Picture_2.jpeg]]
 *Figure 13-15: COPII-coated vesicle의 형성. (A) Sar1 GEF가 ER membrane에서 Sar1-GDP를 활성화시킨다. (B) Sar1-GTP가 inner coat인 Sec23/Sec24 복합체를 recruitment한다. (C) Outer coat인 Sec13/Sec31 복합체가 Sec23/Sec24 위에 조립된다. (D) 전체 과정의 모식도.*
 
-### 단계별 과정
+### ==단계별 과정==
 
 **1단계: Sar1 활성화**
-- Sar1은 평소 세포질에 Sar1-GDP 상태로 존재[^기출_중간_2023_18]
+- ==**Sar1**은 평소 세포질에 **Sar1-GDP** 상태로 존재==[^기출_중간_2023_18]
 - ER membrane에 embedded된 Sar1 GEF(Sec12, 이건 Sar1이 아님.)가 세포질의 Sar1-GDP와 결합[^기출_중간_2023_18]
-- GEF가 GDP를 방출시키고, 세포질에 풍부한 GTP가 즉시 결합[^기출_중간_2022_24][^기출_중간_2023_18]
-- Sar1-GTP 형성[^기출_중간_2022_24][^기출_중간_2023_18]
+- ==**GEF**가 GDP를 방출==시키고, ==세포질에 풍부한 GTP가 즉시 결합==[^기출_중간_2022_24][^기출_중간_2023_18]
+- ==**Sar1-GTP** 형성==[^기출_중간_2022_24][^기출_중간_2023_18]
 
 **2단계: ER membrane에 anchor**
-- GTP 결합으로 Sar1의 conformational change
-- N-terminal의 **amphiphilic(양친매성) helix**가 노출
-- 이 helix가 ER membrane의 cytoplasmic leaflet에 wedge처럼 삽입
+- ==GTP 결합으로 Sar1의 conformational change==
+- ==N-terminal의 **amphiphilic(양친매성) helix**가 노출==
+- ==이 helix가 ER membrane의 cytoplasmic leaflet에 wedge처럼 삽입==
 - Sar1이 ER membrane에 단단히 결합되고, 동시에 membrane curvature 유도 시작
 
 **3단계: Inner coat 조립**
-- Membrane-bound Sar1-GTP가 COPII adaptor coat protein인 **Sec23/Sec24 복합체** 모집
+- ==Membrane-bound Sar1-GTP가 COPII adaptor coat protein인 **Sec23/Sec24 복합체** 모집==
 - Sec24는 ER exit signal을 가진 cargo receptor의 cytosolic tail에 대한 여러 binding site 보유
 - Sec23/Sec24 전체 복합체의 membrane-접촉면은 완만하게 굽은 형태로, COPII vesicle의 곡률과 일치
 
 **4단계: Outer coat 조립**
-- Sec23/Sec24 위에 outer coat protein인 **Sec13/Sec31 복합체** 모집
+- ==Sec23/Sec24 위에 outer coat protein인 **Sec13/Sec31 복합체** 모집==
 - Sec13/Sec31은 독립적으로 삼각형, 사각형, 오각형의 cage를 형성 가능
 - 적절한 크기의 vesicle을 감쌀 수 있는 symmetric cage 형성
 
@@ -83,11 +83,7 @@ Sar1과 마찬가지로 ARF protein도:
 **GEF의 위치가 곧 coat assembly의 위치:**
 ER의 Sar1 GEF는 COPII를 ER에서만, Golgi의 ARF GEF는 COPI/Clathrin을 Golgi에서만 활성화시킨다. 각기 다른 compartment에 위치한 GEF가 coat assembly의 공간적 특이성을 보장한다.
 
-## Rab7에 의한 Retromer Coat Assembly
-
-Endosome에서 Golgi로 가는 retrieval pathway에서는 **Rab7**이 coat-recruitment GTPase로 작동하여 retromer coat를 조립시킨다. Rab7은 late endosome에서 우세하게 활성화되며, retromer의 조립을 개시한다. Rab7은 동시에 endosome의 identity marker이기도 하기 때문에, 올바른 compartment에서만 retromer coat가 형성된다.
-
-## Coat Disassembly의 제어
+## ~~Coat Disassembly의 제어~~
 
 Vesicle이 donor membrane에서 떨어지고 나면 coat를 빠르게 제거해야 target membrane과 융합이 가능하다. Coat disassembly 역시 coat-recruitment GTPase에 의해 시작된다.
 
