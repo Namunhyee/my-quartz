@@ -28,7 +28,7 @@
 ### 4단계: Extravasation
 - 백혈구가 내피세포 사이를 기어서 혈관 밖 조직으로 빠져나간다 (crawl out).
 
-## ICAM과 VCAM
+## [[ICAM|ICAM과 VCAM]]
 
 ![[_page_51_Picture_3.jpeg]]
 *Ig superfamily의 cell-cell adhesion molecule. NCAM과 ICAM의 구조.*

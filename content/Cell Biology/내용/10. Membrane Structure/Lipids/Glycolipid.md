@@ -12,10 +12,10 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 1. **Lipid portion**: Sphingosine 기반 (동물 세포에서)
 2. **Sugar portion**: Oligosaccharide chain
 
-### [[Phospholipid#Sphingolipid|Sphingosine]] 기반
+### [[Phospholipid#Sphingolipid|Sphingosine]] ==기반==
 
-동물 세포에서 glycolipid는:
-- Sphingosine으로부터 만들어짐
+==동물 세포에서 glycolipid는:==
+- ==Sphingosine으로부터 만들어짐==
 - Sphingomyelin과 유사한 구조 ([[Phospholipid]] 참조)
 - Phosphate-linked head group 대신 sugar가 부착됨
 

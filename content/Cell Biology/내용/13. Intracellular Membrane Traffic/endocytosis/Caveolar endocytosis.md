@@ -24,14 +24,15 @@ Caveolae는 다음과 같은 성분이 풍부하다:
 ### ==Caveolin(Coat protein)==
 
 주요 구조 단백질은 **caveolin** family이다:[^기출_중간_2025_23]
-- 특이한 integral membrane 단백질[^기출_중간_2025_23]
-- 각각 hydrophobic loop을 cytosolic 쪽에서 막에 삽입[^기출_중간_2025_23]
-- 막을 가로지르지 않음
+- 특이한 ==integral membrane 단백질==[^기출_중간_2025_23]
+- 각각 ==hydrophobic loop을 cytosolic 쪽에서 막에 삽입==[^기출_중간_2025_23]
+- ==막을 가로지르지 않는 막단백질.==
+- ==clathrin과 차이점 중 하나가 막단백질이라는 점.==
 
 ### ==Cavin(adaptor protein)== Protein Complex
 
 Cytosolic 쪽에서 caveolin은 **cavin 단백질**의 큰 단백질 복합체에 결합된다:[^기출_중간_2023_10]
-- adaptor protein으로 역할[^기출_중간_2023_10]
+- ==adaptor protein으로 역할[^기출_중간_2023_10]. 엄밀히 말하면 안정화하는 역할임.==
 
 ## 기능: 막 저장소
 
@@ -42,7 +43,6 @@ Clathrin-coated 및 COPI-coated 또는 COPII-coated vesicle과 대조적으로, 
 
 ### 기계적 힘에 대한 반응
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_41_Picture_2.jpeg]]
 
 세포가 기계적 힘을 받을 때:
 1. Cavin 단백질 scaffold의 빠른 disassembly
@@ -51,7 +51,7 @@ Clathrin-coated 및 COPI-coated 또는 COPII-coated vesicle과 대조적으로, 
 
 이 능력은 뇌의 다른 부분으로 가는 혈류의 동적 변화를 수용하는 데 중요하다고 생각된다.
 
-## Lipid Raft와의 관계
+## [[Raft domain|Lipid Raft]]와의 관계
 
 ==Caveolae의 막 구성은 lipid raft의 특성을 나타낸다:==[^기출_중간_2023_10][^기출_중간_2025_23]
 - Cholesterol과 glycosphingolipid가 풍부[^기출_중간_2025_23]

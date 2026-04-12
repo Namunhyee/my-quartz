@@ -15,7 +15,7 @@ Autophagy 동안:
 
 ### ==1. Nonselective Autophagy==
 
-starvation 상태에서 아미노산과 에너지원 확보를 위해 cytoplasm의 일부 bulk portion이 autophagosome에 격리되어 분해된다.
+==starvation 상태에서 아미노산과 에너지원 확보를 위해== cytoplasm의 일부 bulk portion이 autophagosome에 격리되어 분해된다.
 
 ### ==2. Selective Autophagy==
 
@@ -73,7 +73,7 @@ ATG8-marked vesicle은:
 - ATG9를 포함하는 vesicle과 heterotypic fusion[^2]을 겪음
 - ATG8과 다른 autophagy-related 단백질에 의해 identity가 제공되는 막의 확장이 발생
 
-### 막 구조의 형성
+### ==막 구조의 형성==
 #### ==Nucleation and extension==
 
 알려지지 않은 이유로, vesicle 융합에 의해 형성된 성장하는 막 구조는 구형이 아니다:

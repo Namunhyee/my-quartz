@@ -117,11 +117,11 @@ Proinsulin:
 
 **Proopiomelanocortin의 예:**
 
-==**Anterior pituitary:**==
+==**Anterior pituitary(뇌하수체 전엽):**==
 - ==Corticotropin (ACTH)==
 - ==β-lipotropin==
 
-==**Intermediate pituitary:**==
+==**Intermediate pituitary(뇌하수체 중엽):**==
 - ==α-MSH (from ACTH)==
 - ==γ-lipotropin (from β-lipotropin)==
 - ==β-MSH==
@@ -134,7 +134,7 @@ Proinsulin:
 
 ## Processing의 생물학적 의의
 
-### 1. 보호 기능
+### ==1. 보호 기능(Harmful inside)==
 
 **세포 보호:**
 - Hydrolytic enzyme의 premature activation 방지
@@ -146,26 +146,19 @@ Proinsulin:
 - Trypsinogen → Trypsin (small intestine)
 - Secretory vesicle이나 extracellular space에서만 활성
 
-### 2. 크기 제한 극복
+### ==2. 크기 제한 극복(mautre form is too small)==
 
 **짧은 peptide의 합성:**
 - Enkephalin (5 amino acid) 같은 짧은 neuropeptide
 - Co-translational ER entry에 필요한 최소 길이 미달
 - Polyprotein으로 합성 후 cleavage
 
-### 3. 효율적 조절
+### ==3. Tissue specific enzyme 조절 가능==
 
-**다중 조절 지점:**
-- 유전자 발현 수준
-- Processing enzyme 활성
-- Vesicle trafficking 조절
-- 최종 activation 조절
+### ==4. 다양성 생성==
 
-### 4. 다양성 생성
-
-**하나의 유전자에서 여러 산물:**
+==**하나의 유전자에서 다양한 polypeptide 생성==:**
 - Alternative processing
-- Tissue-specific enzyme
 - 경제적인 유전자 사용
 
 ## 특수한 Processing 사례

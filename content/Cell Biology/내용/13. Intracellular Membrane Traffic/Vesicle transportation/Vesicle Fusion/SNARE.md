@@ -3,6 +3,7 @@
 ## 개요
 
 **SNARE protein** (SNAREs)은 vesicle transport에서 membrane fusion reaction을 catalyze하는 fusion protein이다.[^기출_중간_2022_26][^기출_중간_2023_8][^기출_중간_2023_ver2_36] SNARE는 "SNAP receptor"의 약자로, 원래 NSF attachment protein (SNAP)과 상호작용하는 receptor로 발견되었다.
+세부 메커니즘 : [[Vesicle Fusion by SNARE_MOC]]
 
 ## SNARE의 종류와 분포
 

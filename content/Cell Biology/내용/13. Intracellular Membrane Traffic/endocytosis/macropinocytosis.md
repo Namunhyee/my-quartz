@@ -1,6 +1,6 @@
 # Macropinocytosis
 
-**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.
+==**Macropinocytosis**는 세포가 plasma membrane이 돌출하여 주변 세포외 fluid의 일부를 **macropinosome**으로 둘러싸는 과정이다.pinocytosis의 일종==
 ==clathrin-independent endocytosis이다.==[^기출_중간_2022_33][^기출_중간_2023_10]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_53_Picture_2.jpeg]]
@@ -47,7 +47,7 @@ Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocyto
 - [[phagocytosis|Phagocytosis]]와 유사한 메커니즘
 
 ## 전용 분해 경로
-
+==Macropinocytosome은 재활용 없이 오직 분해만을 진행한다.==
 Macropinocytosis는 전용 degradative pathway이다:
 - Macropinosome이 acidify됨
 - Late endosome 또는 endolysosome과 융합

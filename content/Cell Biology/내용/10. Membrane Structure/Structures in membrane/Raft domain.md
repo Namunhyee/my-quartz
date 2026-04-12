@@ -19,14 +19,14 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_1.jpeg]]
 
-<mark style="background:#fff88f">위 그림은 artificial lipid bilayer에서의 lateral phase separation을 보여준다:</mark>
+==위 그림은 artificial lipid bilayer에서의 lateral phase separation을 보여준다:==
 
-**<mark style="background:#fff88f">(A) 균일한 bilayer:</mark>**
-- 1:1 혼합의 phosphatidylcholine과 sphingomyelin
-- 균일한 bilayer 형성
+**==(A) 균일한 bilayer:==**
+- 1==:1 혼합의 phosphatidylcholine과 sphingomyelin==
+- ==균일한 bilayer 형성==
 
 **==(B) 분리된 phase:==**
-- 1:1:1 혼합의 phosphatidylcholine, sphingomyelin, [[Cholesterol]]
+- ==1:1:1 혼합==의 phosphatidylcholine, **sphingomyelin, [[Cholesterol]]**
 - 두 개의 분리된 phase를 가진 bilayer 형성
 - Liposome은 한 phase로 우선적으로 분할되는 fluorescent dye의 trace concentration으로 염색됨
 
@@ -51,9 +51,9 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 **대규모 lipid phase segregation:**
 - 살아있는 세포 membrane에서 드물게 관찰됨
 
-**<mark style="background:#fff88f">실제 양상</mark>:**
+**실제 양상:**
 - 많은 lipid와 membrane protein이 균일하게 분포하지 않음
-- 특정 membrane protein과 lipid가 <mark style="background:#fff88f">더 일시적이고 동적인 방식으로 집중</mark>됨
+- ==특정 membrane protein과 lipid가 더 일시적이고 동적인 방식으로 집중됨==
 - Protein-protein interaction에 의해 촉진됨
 - Specialized membrane region의 일시적 형성 허용
 ### Raft Domain의 특성
@@ -68,8 +68,8 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 **구성 성분:**
 Weak protein-protein, protein-lipid, lipid-lipid interaction이 서로 강화하여:
 - Interacting component를 raft domain으로 분할
-- [[Cholesterol]] 농축
-- Sphingolipid 농축
+- **[[Cholesterol]] 농축**
+- **Sphingolipid 농축**
 - [[Glycolipid]] 농축
 - Glycosylphosphatidylinositol (GPI)-anchored protein 농축[^기출_중간_2021_10]
 - 일부 transmembrane protein 농축

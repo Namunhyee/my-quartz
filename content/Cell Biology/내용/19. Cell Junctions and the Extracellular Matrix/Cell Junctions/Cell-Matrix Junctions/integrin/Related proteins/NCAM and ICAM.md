@@ -26,7 +26,7 @@
 1. 염증 반응 시 내피세포가 **ICAM1** (및 VCAM) 발현을 증가시킨다.[^기출_기말_2022_17]
 2. 백혈구 표면의 integrin (αLβ2)이 ICAM1에 결합한다.
 3. 백혈구가 내피에 **단단히 부착**한다.
-4. 백혈구가 내피세포 사이를 기어서 조직으로 이동한다 (diapedesis).
+4. 백혈구가 내피세포 사이를 기어서 조직으로 이동한다 (diapedesis).[[Integrins in Cell-to-Cell interaction]
 
 ## Ig Superfamily의 특징
 

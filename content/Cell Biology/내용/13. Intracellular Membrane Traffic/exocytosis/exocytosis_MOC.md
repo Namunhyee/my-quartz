@@ -61,17 +61,21 @@ Exocytosis로 plasma membrane에 추가된 membrane은 [[_endocytosis_MOC|endocy
 ![[Cell Biology/출처/md converted/Chapter 13/_page_37_Picture_2.jpeg]]
 ### ==4 examples==
 - ==Cytokinesis 중 세포 분열==
-- ==Phagocytosis[^기출_중간_2023_12]==
+- ==[[Phagocytosis]][^기출_중간_2023_12]==
 - ==Membrane 손상 시 repair[^기출_중간_2023_12]==
 - ==Fly embryo의 cellularization==
 
 
-## 극성 세포에서의 Exocytosis
-
+## ==극성 세포에서의 Exocytosis==
+### ==Epithelial cell==
+![[Cell Biology/출처/md converted/Chapter 13/_page_38_Figure_2.jpeg]]
 Epithelial cell과 같은 극성 세포에서는:
-- Apical domain과 basolateral domain으로 selective delivery
-- [[direct sorting in TGN|TGN에서의 sorting signal]]에 의해 조절
-- Tight junction이 두 domain 사이의 경계 유지
+- ==Apical domain과 basolateral domain으로 selective delivery==
+- ==[[direct sorting in TGN|TGN에서의 sorting signal]]에 의해 조절==
+- ==Tight junction이 두 domain 사이의 경계 유지==
+- ==A는 direct한 sorting, B는 transcytosis를 이용한 indirect sorting.==
+### ==동물 난세포==
+동물극과 식물극이 나눠져 있음. 여기에도 다른 경로의 sorting과 exocytosis가 일어남.
 
 ## 요약
 

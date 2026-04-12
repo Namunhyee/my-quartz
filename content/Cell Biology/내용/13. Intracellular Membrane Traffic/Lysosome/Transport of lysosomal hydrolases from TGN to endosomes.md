@@ -1,22 +1,22 @@
 # Transport of Lysosomal Hydrolases to Endosomes
 
-Lysosomal hydrolase는 TGN에서 선택적으로 포장되어 endosome으로 전달된다. 이는 TGN에서 가장 잘 이해된 [[Sorting Signal|sorting 메커니즘]]이다.[^기출_중간_2022_32]
+[[Lysosomal hydrolase]]는 TGN에서 선택적으로 포장되어 endosome으로 전달된다. 이는 TGN에서 가장 잘 이해된 [[Sorting Signal|sorting 메커니즘]]이다.[^기출_중간_2022_32]
 
 ## M6P Receptor System
 
-![[_page_29_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_30_Figure_2.jpeg]]
 ==강의노트에는 early endosome으로 전달된다고 그림에 써 있음. 실제로는 endosome에 전달된다고 함.==
 ### M6P Receptor의 역할
 
 **Mannose 6-phosphate (M6P) receptor**는 transmembrane 단백질로:[^기출_중간_2022_32]
 - TGN에 존재[^기출_중간_2022_32]
-- Lumen 쪽에서 M6P group을 인식하고 lysosomal hydrolase에 결합[^기출_중간_2022_32]
-- Cytosolic 쪽에서 assembling clathrin coat의 adaptor 단백질에 결합[^기출_중간_2022_32]
+- ==Lumen 쪽에서 M6P group을 인식==하고 lysosomal hydrolase에 결합[^기출_중간_2022_32]
+- Cytosolic 쪽에서 a==ssembling clathrin coat의 adaptor 단백질에 결합==[^기출_중간_2022_32]
 - Hydrolase를 TGN에서 budding하는 clathrin-coated vesicle로 포장하는 것을 돕음[^기출_중간_2022_32]
 
 ### pH 의존적 결합
 
-M6P receptor 단백질은 pH에 따라 ligand와의 결합 affinity가 변한다:
+==M6P receptor 단백질은 pH에 따라 ligand와의 결합 affinity가 변한다:==
 - **pH 6.5-6.7 (TGN)**: M6P에 결합
 - **pH 6.0 (Early endosome)**: M6P로부터 방출
 
@@ -95,9 +95,9 @@ Retromer는 endosome에서 TGN으로의 transport에 특화된 coat 단백질 co
 
 ## KDEL Receptor와의 비교
 
-M6P receptor의 재활용은 [[../../12. Intracellular Organization and Protein Sorting/ER retention signal|KDEL receptor의 재활용]]과 유사하지만, 운반을 매개하는 coated vesicle 유형이 다르다:
-- **KDEL receptor**: COPI-coated vesicle
-- **M6P receptor**: [[vesicle formation_MOC#Coated Vesicle의 종류와 경로|Clathrin-coated vesicle (forward) 및 retromer-coated vesicle (retrieval)]]
+M6P receptor의 재활용은 [[Retrieval Pathway to the ER|KDEL receptor의 재활용]]과 유사하지만, 운반을 매개하는 coated vesicle 유형이 다르다:
+- ==**KDEL receptor**: COPI-coated vesicle==
+- ==**M6P receptor**==: [[vesicle formation_MOC#Coated Vesicle의 종류와 경로|Clathrin-coated vesicle (forward) 및 retromer-coated vesicle (retrieval)]]
 
 ## 관련 주제
 

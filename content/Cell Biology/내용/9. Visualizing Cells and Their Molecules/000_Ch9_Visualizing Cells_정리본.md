@@ -313,8 +313,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - ==**두 단백질이 약 1–5 nm 이내**로 근접 시, donor의 형광 에너지가 acceptor로 **비방사적(nonradiatively)**으로 전달 (resonance)==
 - 상호작용 없으면: violet 여기 → blue emission만 / 상호작용 있으면: violet 여기 → ==**green emission 검출**==
 - FRET 효율은 거리의 **6제곱에 반비례(1/r⁶)** → 극도로 민감
-- **단백질-단백질 상호작용 실시간 모니터링**에 활용 (살아있는 세포에서)
-- ==FRET는 **비방사적 에너지 전달** 이용 → photobleaching(FRAP)과 **근본적으로 다른 원리**==
+- **단백질-단백질 상호작용 실시간 모니터링**에 활용 ==(살아있는 세포에서)==
 
 ### (2) Photoactivation (광활성화)
 

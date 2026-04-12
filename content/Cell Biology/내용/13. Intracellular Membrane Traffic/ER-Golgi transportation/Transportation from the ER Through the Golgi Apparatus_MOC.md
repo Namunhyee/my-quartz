@@ -13,20 +13,6 @@
 - 대부분의 animal cell은 ER network 전체에 exit site 분산
 - COPII coat assembly가 이곳에서 발생
 
-### Protein Selection
-
-ER을 떠나는 protein은 두 가지 방식으로 선택:
-
-**1. Active recruitment (selective)**:
-- Transmembrane protein의 cytosolic surface에 **exit (transport) signal** 보유
-- COPII coat의 adaptor protein이 인식
-- Vesicle에 concentrated
-
-**2. Bulk flow (default)**:
-- Exit signal 없는 protein도 포함 가능
-- Efficiency는 낮지만 일부 운반됨
-- ER resident protein도 소량 escape
-
 ### Quality Control: [[CFTR]]
 
 **Protein folding 검증**:
@@ -116,7 +102,7 @@ COPI-coated vesicle의 unique feature:
 
 ### Retrieval Function
 
-COPI-coated vesicle은 **retrieval pathway** 기능:
+==COPI-coated vesicle은 **retrieval pathway** 기능:==
 
 **Cargo**:
 1. **Escaped ER resident protein**:

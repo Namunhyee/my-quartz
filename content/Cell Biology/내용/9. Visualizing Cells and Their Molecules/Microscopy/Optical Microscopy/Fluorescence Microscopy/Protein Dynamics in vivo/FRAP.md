@@ -10,7 +10,8 @@ FRAP는 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]]
 
 **Photobleaching(광표백)**:
 - Laser의 강한 집속 빛(strong focused beam of light)을 사용[^기출_중간_2022_8][^기출_중간_2025_34]
-- 세포의 특정 영역에서 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]] 형광을 소멸(extinguish)시킴
+- ==세포의 특정 영역에서 [[GFP(Fluorescent Protein Tagging)#Green Fluorescent Protein (GFP)|GFP]] 형광을 소멸(extinguish)시킴==
+- ==Photoactivation에서 켜고 끄는 것과는 다른 것임. Photobleaching은 영구적으로 소멸시키는 것.==
 
 **Recovery(회복) 관찰**:
 - <mark style="background:#fff88f">소멸되지 않은 나머지 형광 단백질 분자들의 이동</mark> 분석

@@ -1,7 +1,14 @@
 # Endosomes Maturation
 
 **Endosome maturation**은 early endosome이 시간이 지남에 따라 late endosome으로 변화하는 과정이다.[^기출_중간_2022_34]
+- early endosome부터 late endosome으로 성숙해가며 계속 TGN으로부터 lysosomal hydrolase와 H+pump를 전달받음.
+- late endosome은 intralumenal vesicle과 hydrolase를 보유하고 있는 상태. 여기에 lysosome의 융합 혹은 pH의 계속된 하락이 가수분해를 촉진한다. 가수분해가 완료된 endolysosome은 비로소 [[Lysosome_MOC|lysosome]]이 되며 다른 endosome과의 융합을 기다린다.
+- ==**lysosome은 late endosome과 융합, endolysosome이 되고 분해가 끝나면 lysosome이 되는 cycle이 형성된다**.==
+- ==따라서 lysosome과 late lysosome은 명확히 구분하기 어렵고 연속적인 변화 과정이라고 봐도 무방하다.== [[Lysosome_MOC#형태학적 다양성|그리고 이에따라 형태적으로 heterogenous하다.]]
+- ==내부 물질이 분해 되고 말고는 pH차이==
 
+
+![[Cell Biology/출처/md converted/Chapter 13/_page_51_Figure_2.jpeg]]
 ![[_page_39_Picture_7.jpeg]]
 
 ## Early Endosome의 형성
@@ -17,38 +24,38 @@
 - 대부분의 막 표면은 tubule에 있음
 - 대부분의 부피는 vacuolar domain에 있음
 
-## Maturation 과정의 변화
+## ==Maturation 과정의 변화==
 
 ### 1. 형태와 위치 변화
 - Tubular domain이 대부분 plasma membrane으로 재활용됨
 - Vacuolar domain이 철저하게 수정됨
-- Endosome이 [[300_Microtubules_MOC|microtubule]]을 따라 [[dynein|dynein motor]]에 의해 핵 쪽으로 이동
+- ==Endosome이 [[300_Microtubules_MOC|microtubule]]을 따라 [[dynein|dynein motor]]에 의해 핵 쪽으로 이동==
 ### 2. Rab 단백질 주도 변화
 Rab 단백질이 다음의 변화를 주도한다:
 - Endosome 막의 cytosolic face에서 phosphoinositide lipid의 변화
 - Fusion machinery (SNARE와 tether) 변화
 - Organelle의 기능적 특성 변화
-### 3. Lysosome 단백질 전달
+### ==3. Lysosome 단백질 전달==
 [[Cell Biology/내용/13. Intracellular Membrane Traffic/Lysosome/Transport of lysosomal hydrolases from TGN to endosomes|Lysosome 단백질이 TGN에서 성숙하는 endosome으로 전달된다:]]
 - Lumenal hydrolase
 - Membrane-embedded V-type ATPase
-### 4. Acidification
+### ==4. Acidification==
 V-type ATPase가 세포질에서 endosome lumen으로 H+를 펌핑하여:
 - Organelle을 더욱 acidify함
 - Maturation에 수반되는 산도 증가는 lysosomal hydrolase를 점점 더 활성화시킴
 - 많은 receptor-ligand 상호작용에 영향을 미쳐 receptor loading과 unloading을 제어
-### 5. [[ESCRT Protein Complex|Intralumenal Vesicle 형성]]
-Endocytosed signaling receptor가 endosome 내부의 intralumenal vesicle로 격리되어:
-- Receptor signaling 활성을 정지시킴
+### ==5.== [[ESCRT Protein Complex|Intralumenal Vesicle 형성]]
+==Endocytosed signaling receptor가 endosome 내부의 intralumenal vesicle로 격리되어:==
+- ==Receptor signaling 활성을 정지시킴==
 
 ## [[Rab Cascades]]
 
-### Rab5에서 Rab7으로의 전환
+### ==Rab5에서 Rab7으로의 전환==
 
 ![[_page_13_Picture_2.jpeg]]
 
 시간이 지남에 따라, ==Rab5-associated membrane patch가 Rab7-associated membrane patch로 대체된다:==
-- Early endosome (Rab5로 표시됨)이 late endosome (Rab7으로 표시됨)으로 전환
+- ==Early endosome (Rab5로 표시됨)이 late endosome (Rab7으로 표시됨)으로 전환==
 - Rab7에 의해 recruit되는 Rab effector 세트는 Rab5에 의해 recruit되는 것과 다름
 
 결과:
@@ -69,7 +76,9 @@ Early endosome에서 재활용되지 않은 모든 cargo:
 ![[Pasted image 20260409173717.png]]
 ==Endosome이 성숙함에 따라:==
 - ==막의 patch가 endosome lumen으로 invaginate==
-- ==Pinch off하여 intralumenal vesicle 형성==
+- ==Pinch off하여 **intralumenal vesicle** 형성. **exosome**이라고도 불림==
+	- ==이는 세포간 신호로 작용하거나, 약물의 pathway에 쓰이기도 함==
+- ==receptor의 cytosolic face의 signal을 차단하기 위함.==
 - ==이러한 성숙하는 endosome은 **multivesicular body**라고도 불림==
 - ==이는== [[ESCRT Protein Complex]]==에 의해 생성됨==.
 
@@ -106,7 +115,6 @@ Transport vesicle이 early endosome의 tubular extension에서 bud off:
 - 선택된 막 단백질을 회수
 - Plasma membrane으로 직접 또는 recycling endosome을 거쳐 반환
 ### Recycling Endosome
-![[_page_45_Picture_2.jpeg]]
 **Recycling endosome**은:
 - Early endosome과 plasma membrane 사이의 중간 역할
 - 필요할 때까지 특정 plasma membrane 단백질을 저장할 수 있음

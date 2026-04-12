@@ -32,8 +32,8 @@ PI(3,4,5) P3=phosphatidylinositol 3,4,5-trisphosphate[^2][^기출_중간_2023_3]
 
 ### Distribution Pattern
 - ==**Plasma membrane**: PI(4,5)P₂ enriched==
-- **Early endosome**: PI(3)P enriched
-- **Late endosome**: PI(3)P와 PI(3,5)P₂
+- ==**Early endosome**: PI(3)P enriched==
+- ==**Late endosome**: PI(3)P와 PI(3,5)P₂==
 - **Golgi apparatus**: PI(4)P
 - **ER**: PI predominant
 
@@ -62,13 +62,13 @@ Local PIP kinase와 phosphatase 조절을 통해:
 
 ### Coat Assembly 개시
 
-**[[Clathrin coat]] at plasma membrane**:
-1. PI 5-kinase가 PI(4)P → PI(4,5)P₂ 전환
-2. [[AP2]] adaptor protein이 PI(4,5)P₂ 인식
+==**[[Clathrin coat]] at plasma membrane**:==
+1. ==PI 5-kinase가 PI(4)P → PI(4,5)P₂ 전환==
+2. [[AP2]] ==adaptor protein이 PI(4,5)P₂ 인식==
 3. AP2가 conformational change하여 cargo binding site expose
 4. [[Clathrin coat]] assembly 시작
 
-**COPII coat at ER**:
+**[[COPII]] coat at ER**:
 - Sar1 GEF는 ER membrane에 embedded
 - Local PIP가 Sar1 activation site 표시
 

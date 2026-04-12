@@ -29,7 +29,7 @@ Lysosome의 이질적인 형태는 다음을 반영한다:
 - 산성 가수분해 효소가 매개하는 다양한 소화 기능
 - Lysosome이 형성되는 방식
 
-전형적으로 더 밀도가 높고, 둥글며, 작은 "classical" lysosome은 천천히 소화되는 잔류물만 남을 때까지 내용물이 대부분 소화된 후의 형태이다.
+==전형적으로 더 밀도가 높고, 둥글며, 작은 "classical" lysosome은 천천히 소화되는 잔류물만 남을 때까지 내용물이 대부분 소화된 후의 형태이다.==
 
 ## Lysosome으로의 전달 경로
 
@@ -51,15 +51,15 @@ Lysosome의 이질적인 형태는 다음을 반영한다:
 
 [[../endocytosis/Autophagy|Autophagy]]로 세포질 성분이 autophagosome으로 포획되어 lysosome으로 전달된다.[^기출_중간_2022_31][^기출_중간_2023_9][^기출_중간_2025_28]
 
-## Endolysosome과 Lysosome
+## ==Endolysosome과 Lysosome==
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_51_Figure_2.jpeg]]
 
-Plasma membrane에서 endocytosis로 받은 물질을 포함하는 late endosome과 ER에서 새로 합성된 lysosomal hydrolase를 포함하는 late endosome은 기존 lysosome과 융합하여 **endolysosome**을 형성한다.[^기출_중간_2025_28]
+==Plasma membrane에서 endocytosis로 받은 물질을 포함하는 late endosome과 ER에서 새로 합성된 lysosomal hydrolase를 포함하는 late endosome은 기존 lysosome과 융합하여 **endolysosome**을 형성한다.[^기출_중간_2025_28]==
 
-Endolysosome 내에서 내용물의 대부분이 소화되어 저항성 또는 천천히 소화되는 잔류물만 남으면, 이러한 기관소는 "classical" lysosome이 된다.
+==Endolysosome 내에서 내용물의 대부분이 소화되어 저항성 또는 천천히 소화되는 잔류물만 남으면, 이러한 기관소는 "classical" lysosome이 된다.==
 
-Endolysosome과 lysosome 사이에 실질적인 구별은 없다. 둘 다 maturation cycle의 다른 단계에 있다는 점을 제외하고는 동일하다.
+==Endolysosome과 lysosome 사이에 실질적인 구별은 없다. 둘 다 maturation cycle의 다른 단계에 있다는 점을 제외하고는 동일하다.==
 
 ## 기능
 

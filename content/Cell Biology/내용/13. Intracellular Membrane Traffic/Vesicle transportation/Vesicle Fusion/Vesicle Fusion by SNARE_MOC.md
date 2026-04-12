@@ -69,8 +69,7 @@ Specialized fusion protein이 energy barrier 극복:
    - ==New bilayer 형성== (hemifusion 또는 half-fusion)
    - Fusion zone 확장
 
-5. ==**Complete Fusion**:==
-   - New bilayer rupture
+1. ==**New bilayer rupture**:==
    - Complete fusion reaction
    - Content mixing
 

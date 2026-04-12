@@ -65,7 +65,7 @@
 ### ==Oligosaccharyl Transferase(OST)에 의해==
 #### **위치와 구조:**
 - ER membrane의 transmembrane enzyme complex
-- [[Sec61 complex]]==와 결합==
+- [[Sec61 complex]]==와 결합== : **==Co-translational하다!==**
 - 13개의 transmembrane α-helix
 - 큰 ER lumenal domain
 #### **기능적 배치:**
