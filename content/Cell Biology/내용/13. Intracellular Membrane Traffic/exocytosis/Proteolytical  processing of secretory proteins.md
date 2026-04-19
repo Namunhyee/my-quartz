@@ -34,7 +34,7 @@
    - 세포 특이적 processing으로 다른 최종 산물
    - 다른 세포로 옮겨가며 다른 enzyme에 의해 다음 processing step을 밟을 수 있음
 
-![[Pasted image 20260210215431.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260210215431.png]]
 *Figure 13-44: Proopiomelanocortin polyprotein의 processing pathway. ==동일한 precursor가 서로 다른 세포에서 다른 processing enzyme에 의해 다른 최종 산물을 생성한다.==*
 
 ## Processing이 일어나는 장소

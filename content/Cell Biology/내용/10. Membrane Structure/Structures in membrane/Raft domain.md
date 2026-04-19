@@ -57,7 +57,7 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 - Protein-protein interaction에 의해 촉진됨
 - Specialized membrane region의 일시적 형성 허용
 ### Raft Domain의 특성
-![[_page_8_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_6.jpeg]]
 
 위 그림은 raft domain의 model을 보여준다:
 

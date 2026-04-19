@@ -1,6 +1,6 @@
 # Dynein
 
-![[_page_52_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_52_Figure_5.jpeg]]
 *Fig 16–54. Cytoplasmic dynein. (A) cryoEM 재구성. (B) 두 heavy chain이 motor head, stalk, tail domain으로 구성. (C) Heavy chain의 domain 구성: 6개의 AAA domain 중 하나가 주요 ATPase 활성.*
 
 **Dynein**은 minus end 방향으로 이동하는 motor protein 계열로, kinesin과는 구조적으로 무관하다.[^기출_기말_2023_17] Dynein의 두 major branch는 cytoplasmic dynein과 axonemal dynein이다.
@@ -11,7 +11,7 @@
 
 Cytoplasmic dynein은 카고에 결합하기 위해 **dynactin** 복합체와 adaptor protein이 필요하다.
 
-![[_page_54_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_54_Figure_5.jpeg]]
 *Fig 16–56. Dynactin과 adaptor protein이 dynein을 organelle에 연결하는 방식. Dynactin은 Arp1로 이루어진 짧은 actin-like 필라멘트를 포함한다.*
 
 Dynactin 복합체는 actin-related protein인 Arp1로 이루어진 짧은 filament를 포함하며, microtubule에 약하게 결합하는 요소, dynein 자체에 결합하는 요소, adaptor protein을 통해 cargo에 연결된다.

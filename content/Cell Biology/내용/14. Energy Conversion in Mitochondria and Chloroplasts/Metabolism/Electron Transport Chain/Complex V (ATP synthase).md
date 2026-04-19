@@ -69,7 +69,7 @@
 
 ## Cristae에서의 배열
 
-![[_page_29_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_29_Figure_7.jpeg]]
 *Figure 14-33: Cristae ridge를 따라 dimers row를 형성하는 ATP synthase.*
 
 ![[Cell Biology/출처/md converted/Chapter 14/_page_29_Picture_2.jpeg]]

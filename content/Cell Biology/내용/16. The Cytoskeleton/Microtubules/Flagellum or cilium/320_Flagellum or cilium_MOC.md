@@ -1,6 +1,6 @@
 # Flagellum or Cilium_MOC
 
-![[_page_55_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_55_Figure_7.jpeg]]
 *Fig 16–58. 편모/섬모의 microtubule 배열. (A) Chlamydomonas 편모 단면: 특징적인 "9+2" microtubule 배열. (B) 편모/섬모 부분별 구조 모식도. (C) 외부 microtubule doublet 고해상 tomography.*
 
 **Flagella**와 **cilia**는 hairlike 세포 돌출물로, 핵심에 **axoneme**이라 불리는 microtubule 기반 구조를 공유한다.[^기출_기말_2023_21]

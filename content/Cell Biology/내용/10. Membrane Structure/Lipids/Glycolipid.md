@@ -23,7 +23,7 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 
 ### Neutral Glycolipid
 
-![[Pasted image 20260312184823.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312184823.png]]
 
 ==**Galactocerebroside:**==
 - Head group을 형성하는 sugar가 uncharged
@@ -32,7 +32,7 @@ Glycolipid는 두 가지 주요 성분으로 구성된다:
 
 ### ==Ganglioside==
 
-![[Pasted image 20260312184931.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312184931.png]]
 
 Glycolipid 중 가장 복잡한 형태이다.
 
@@ -63,7 +63,7 @@ Glycolipid 중 가장 복잡한 형태이다.
 ## Membrane 분포
 
 ### 극단적 Asymmetry
-![[_page_8_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_8_Figure_6.jpeg]]
 
 Sugar-containing lipid molecule로서 glycolipid는:
 - Membrane 분포에서 가장 극단적인 asymmetry 보임

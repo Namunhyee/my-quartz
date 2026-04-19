@@ -28,7 +28,7 @@
 - ultramicrotome를 사용하여 수십 nm 두께로 절단
 - 절편은 metal grid 위에 올려 관찰
 #### TEM grid
-![[_page_26_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_26_Figure_8.jpeg]]
 - copper grid 위에 carbon film 또는 plastic film 코팅
 - 얇은 절편을 지지하는 역할
 

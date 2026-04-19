@@ -46,7 +46,7 @@ Oligosaccharide processing은 다음과 같이 순차적으로 진행된다:
 
 ## 두 가지 Oligosaccharide 클래스
 
-![[_page_22_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_22_Figure_9.jpeg]]
 
 포유류 glycoprotein에 부착되는 N-linked oligosaccharide의 두 가지 broad class:
 

@@ -10,7 +10,7 @@
 ### 구성요소
 위상차용 대물렌즈와 위상차 콘덴서가 있음
 # 원리
-![[Pasted image 20260305142931.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305142931.png]]
 ## positive phase contrast
 - 회절광은 대략  λ/4정도 지연.(시료 통과)
 - 직진광은 위상판 통과에 의해 3λ/4 지연

@@ -43,7 +43,7 @@ Channel nucleoporin의 비구조적 영역은 수많은 **FG (phenylalanine–gl
 ## 수송 메커니즘과의 관계
 
 ==FG repeat mesh를 통한 수동 확산으로는 큰 거대분자의 수송이 불가능==하므로, nuclear transport receptor (karyopherin)가 FG repeat에 결합하여 ==mesh를 국소적으로 녹여(melt) 확산을 가속화한다==.[^기출_중간_2025_14] NPC를 통과하는 단백질은 접힌(folded) 상태로 통과하며, 미토콘드리아 수입 경로와 달리 unfold가 요구되지 않는다.[^기출_중간_2025_14]
-![[_page_56_Picture_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_56_Picture_7.jpeg]]
 
 → [[020_Transport through NPC_MOC]] 참조
 

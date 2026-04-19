@@ -26,7 +26,7 @@ Proteoglycan은 거의 무한한 heterogeneity를 가질 수 있다:
 
 ### Decorin
 
-![[_page_9_Figure_5.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_9_Figure_5.jpeg]]
 *Small proteoglycan인 decorin의 예시.*
 
 - 작은 proteoglycan으로 **단 1개의 GAG chain**을 가진다.
@@ -36,7 +36,7 @@ Proteoglycan은 거의 무한한 heterogeneity를 가질 수 있다:
 
 ### Aggrecan
 
-![[_page_9_Figure_6.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_9_Figure_6.jpeg]]
 *Large proteoglycan인 aggrecan의 예시.*
 
 - 연골(cartilage)의 주요 구성요소
@@ -48,7 +48,7 @@ Proteoglycan은 거의 무한한 heterogeneity를 가질 수 있다:
 
 **Perlecan**은 [[Basal Lamina_MOC|basal lamina]]의 주요 proteoglycan이다.
 
-![[_page_38_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_38_Figure_9.jpeg]]
 *Basal lamina의 분자 구조 모델. Perlecan이 laminin, type IV collagen, nidogen과 함께 고도로 cross-linked된 단백질 및 proteoglycan network를 형성한다.*
 
 Perlecan은 [[Laminin|laminin]]과 type IV collagen 사이를 연결하고, [[Basal Lamina_MOC|basal lamina]]의 구조적 integrity에 기여한다.

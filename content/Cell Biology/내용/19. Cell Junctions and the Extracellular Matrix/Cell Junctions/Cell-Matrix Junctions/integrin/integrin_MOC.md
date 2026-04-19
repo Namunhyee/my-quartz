@@ -1,6 +1,6 @@
 # integrin_MOC
 
-![[_page_42_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_42_Figure_6.jpeg]]
 *Active integrin 분자의 subunit 구조. Extracellular matrix를 actin cytoskeleton에 연결한다. N-terminal head가 extracellular protein (예: fibronectin)에 부착하고, C-terminal intracellular tail (특히 β subunit)이 adaptor protein과 결합하여 actin filament와 상호작용한다.*
 
 **Integrin**은 동물 세포가 extracellular matrix에 결합하는 데 사용하는 주요 cell-surface receptor이다.[^기출_기말_2022_12][^기출_기말_2022_14] Transmembrane linker로서 ECM과 cytoskeleton을 연결한다.
@@ -21,8 +21,8 @@
 - [[Laminin|Laminin]]과 [[Collagen|collagen]]의 특정 서열
 
 ### Intracellular Attachment
-- 대부분의 integrin: [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/100_Actin filaments_MOC|**Actin filament**]]에 연결 (adaptor protein을 통해)
-- 특수 integrin (α6β4): [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|**Intermediate filament**]]에 연결 ([[hemidesmosomes]])
+- 대부분의 integrin: [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/100_Actin filaments_MOC|Actin filament]]에 연결 (adaptor protein을 통해)
+- 특수 integrin (α6β4): [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|Intermediate filament]]에 연결 ([[hemidesmosomes]])
 
 ## 다양성과 특이성
 

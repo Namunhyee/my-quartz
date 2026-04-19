@@ -29,7 +29,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 
 ### 3. ==Epithelial Cell의 Domain==
 
-![[_page_26_Figure_6.jpeg]]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_26_Figure_6.jpeg]]]
 
 **Epithelial cell (장이나 신장 tubule을 lining):**
 - 특정 plasma membrane enzyme과 transport protein이 apical surface에 국한됨
@@ -83,7 +83,7 @@ Mitochondria inner membrane의 ATP synthase complex:
 ## ==Membrane Protein 고정 메커니즘==
 ==이건 구역 설정 정도가 아니라 아예 이동이 제한된 경우==
 
-![[_page_27_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_27_Picture_8.jpeg]]
 
 위 그림은 특정 plasma membrane protein의 lateral mobility를 제한하는 네 가지 일반적인 방법을 보여준다:[^기출_중간_2023_22]
 

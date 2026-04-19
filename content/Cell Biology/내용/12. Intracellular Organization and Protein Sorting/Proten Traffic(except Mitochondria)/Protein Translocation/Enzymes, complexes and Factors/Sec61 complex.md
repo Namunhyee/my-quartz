@@ -17,7 +17,7 @@
 - Sec61 α subunit의 일부 영역은 cytosol로 돌출되어 단백질 translocation 중에 ribosome에 결합
 - 보라색 짧은 helix: translocator가 닫혀 있을 때 pore를 막는 plug를 형성 → translocator가 열릴 때 밖으로 이동
 
-![[Pasted image 20260202213921.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260202213921.png]]
 
 ### Channel과 plug
 - ==Channel은 translocator가 유휴 상태일 때 유지하는 짧은 α helix에 의해 막혀 있다==
@@ -51,7 +51,7 @@
 
 - Cryo-EM 구조: signal sequence는 N-terminus가 cytosol을 향하도록 [[Sec61 complex#Lateral gate|lateral gate]](seam)에 wedge됨
 - Lateral gate에서 signal sequence 삽입 → 중앙 channel 확장 + plug 방출
-![[_page_21_Picture_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_21_Picture_6.jpeg]]
 ### Polypeptide 수용
 - Open translocator는 signal sequence를 따르는 polypeptide segment를 channel 내부에 쉽게 수용
 - Hydrophobic한 signal sequence는 membrane에서 절단되어 빠르게 분해되기 전에 lateral gate를 통해 측면으로 membrane에 빠져나감

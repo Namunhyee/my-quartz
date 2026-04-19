@@ -22,7 +22,7 @@ Moiré pattern은 서로 다른 각도나 mesh 크기를 가진 두 grids를 겹
 **(C) Moiré pattern**: 이 둘을 결합하면 resulting moiré pattern이 A(원래 pattern)에서 쉽게 보이는 것보다 더 많은 정보를 포함함
 
 **원리**: 알려진 pattern(B)이 더 높은 spatial frequencies를 가지면 더 나은 resolution을 얻을 수 있음. 그러나 광학적으로 생성할 수 있는 spatial patterns도 회절 제한을 받기 때문에,<mark style="background:rgba(5, 117, 197, 0.2)"> SIM은 resolution을 약 2배 정도만 개선할 수 있다.</mark>[^기출_중간_2023_14]
-![[Pasted image 20260130230233.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260130230233.png]]
 ## 작동 메커니즘
 
 ### Image Acquisition
@@ -47,7 +47,7 @@ Classical limit을 넘어서는 원래 features가 optical system에 의해 imag
 **한계**: 광학적으로 생성 가능한 spatial patterns도 회절 제한을 받음
 
 ## Figure 9-28: SIM을 이용한 3D 데이터 생성
-![[_page_18_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_18_Figure_6.jpeg]]
 
 **표본**: Maize cell의 pachytene 단계 meiotic chromosomes의 three-dimensional projections
 **염색**: Synaptonemal complexes의 paired lateral elements를 보여줌

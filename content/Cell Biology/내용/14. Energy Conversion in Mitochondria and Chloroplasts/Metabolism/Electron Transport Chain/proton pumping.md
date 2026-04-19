@@ -8,7 +8,7 @@ Proton pumping은 전자전달 에너지를 이용하여 H⁺를 미토콘드리
 
 각 respiratory complex는 전자 전달과 연동된 conformational change를 통해 H⁺를 vectorial하게 이동시킨다.
 
-![[_page_24_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_24_Picture_2.jpeg]]
 *Figure 14-29: H⁺ pumping의 일반 모델. 세 가지 conformation 전환으로 proton을 한 방향으로만 이동.*
 
 ### 3개의 Conformation 필요
@@ -23,7 +23,7 @@ Proton pumping은 전자전달 에너지를 이용하여 H⁺를 미토콘드리
 
 > "Proton-translocating proteins contain so-called proton wires, which are rows of polar or ionic side chains or water molecules spaced at short distances, so that the protons can jump from one to the next." — Chapter 14
 
-![[_page_23_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_23_Picture_8.jpeg]]
 *Figure 14-28: 물과 단백질에서의 proton 이동 비교. Proton wire를 통한 이동은 40배 빠름.*
 
 - 극성/이온성 아미노산 잔기 (Asp, Glu, Ser, Thr)와 trapped water molecules

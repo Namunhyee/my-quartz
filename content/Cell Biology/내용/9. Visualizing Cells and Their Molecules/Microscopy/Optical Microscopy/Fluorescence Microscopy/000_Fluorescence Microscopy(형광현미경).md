@@ -1,4 +1,4 @@
-![[_page_7_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_7_Figure_7.jpeg]]
 ## <mark style="background:#fff88f">Filters와 mirror</mark>
 1. Exitation filter
 	- 450~490nm 필터 통과
@@ -8,7 +8,7 @@
 3. second barrier filter
 	-  520~560nm(형광 emmision) 필터 통과
 
-> ![[_page_7_Figure_7.jpeg]]
+> ![[Cell Biology/출처/md converted/Chapter 9/_page_7_Figure_7.jpeg]]
 > 
 >## Figure 9-10 형광과 형광현미경(Fluorescence and the Fluorescence Microscope)
 **(A)** 형광색소(fluorochrome) 분자의 궤도 전자(orbital electron)는 광자(photon)의 흡수 후 여기 상태(excited state)로 올라갈 수 있다. 형광(fluorescence)은 전자가 바닥 상태(ground state)로 돌아가면서 더 긴 파장의 광자를 방출할 때 발생한다. 빛에 너무 많이 노출되거나 너무 밝은 빛은 광표백(photobleaching)이라는 과정에서 형광색소 분자를 파괴할 수 있다.
@@ -17,7 +17,7 @@
 
 
 
-> ![[_page_8_Figure_7.jpeg]]
+> ![[Cell Biology/출처/md converted/Chapter 9/_page_8_Figure_7.jpeg]]
 ><mark style="background:#b1ffff">DAPI</mark>
 ><mark style="background:#d3f8b6">GFP</mark>
 ><mark style="background:rgba(205, 244, 105, 0.55)">FITC</mark>

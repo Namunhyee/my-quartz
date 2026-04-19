@@ -7,7 +7,7 @@ views:
             - file.inFolder("Cell Biology/기출 DB/기말고사")
             - file.inFolder("Cell Biology/기출 DB/중간고사")
         - and:
-            - 연도 == 2023
+            - 연도 == 2025
             - 시험 == "중간고사"
     order:
       - file.name
@@ -22,13 +22,11 @@ views:
       - 해설 불완전
       - 정답 오류
     sort:
-      - property: 복기_완성
-        direction: DESC
       - property: 번호
         direction: ASC
+      - property: 복기_완성
+        direction: DESC
       - property: 시험
         direction: ASC
       - property: 연도
-        direction: DESC
-      - property: 유형
         direction: DESC

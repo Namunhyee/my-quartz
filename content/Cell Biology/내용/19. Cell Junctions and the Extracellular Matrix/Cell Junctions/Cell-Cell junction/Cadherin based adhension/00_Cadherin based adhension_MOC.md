@@ -5,7 +5,7 @@ Cadherin은 모든 multicellular animal에 존재하며, choanoflagellate(동물
 
 ## Cadherin Superfamily 개요
 
-![[_page_4_Figure_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_4_Figure_1.jpeg]]
 *Figure 19-4. Cadherin superfamily. 모든 구성원은 여러 개의 extracellular cadherin (EC) domain(초록 타원)을 포함한다. Classical cadherin은 5개, desmoglein/desmocollin은 4~5개, 일부 nonclassical cadherin은 30개 이상을 가진다. Intracellular 영역은 다양한 signaling 분자 및 cytoskeleton 연결 단백질과 상호작용한다.*
 
 Cadherin superfamily는 인간에서 180개 이상의 구성원을 갖는다.

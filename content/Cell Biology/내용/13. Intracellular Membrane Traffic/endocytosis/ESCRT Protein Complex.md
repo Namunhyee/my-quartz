@@ -12,7 +12,7 @@
 
 ## Intralumenal Vesicle 형성
 
-![[_page_47_Picture_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_47_Picture_9.jpeg]]
 
 ### 목적
 
@@ -29,7 +29,7 @@ Multivesicular body로 분류하려면:
 
 ### ESCRT의 순차적 작용
 
-![[_page_48_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_48_Picture_2.jpeg]]
 1. signal에 의해 receptor 활성화
    - 활성화되면서 conformational change나 phosphrylated -> E3 ligase가 uniquitin 부착
 1. ==**ESCRT-0**==

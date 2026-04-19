@@ -17,7 +17,7 @@ Transmembrane segment를 식별하기 위한 기준:
 
 ### Free Energy 계산
 
-![[_page_15_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_15_Figure_6.jpeg]]
 
 Hydropathy plot 생성 과정:
 
@@ -40,7 +40,7 @@ Hydropathy plot 생성 과정:
 
 ## 예시
 
-![[_page_15_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_15_Figure_6.jpeg]]
 
 위 그림은 두 membrane protein의 hydropathy plot을 보여준다:
 
@@ -74,7 +74,7 @@ Hydropathy plot 생성 과정:
 - 번갈아가며 나타나는 amino acid side chain만 hydrophobic하면 됨
 - ==따라서 hydropathy plot에서 명확한 peak를 형성하지 않음==[^기출_중간_2022_17][^기출_중간_2023_23]
 ### ==옆의 helix와 붙어있는 경우==
-![[Pasted image 20260325235417.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260325235417.png]]
 끼어있는 helix는 모든 AA가 hydrophobic일 필요가 없음.
 ### Partial Membrane Insertion
 

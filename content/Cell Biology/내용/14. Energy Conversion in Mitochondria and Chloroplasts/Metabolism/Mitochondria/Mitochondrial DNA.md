@@ -11,7 +11,7 @@
 
 ## 인간 mtDNA의 구조와 구성
 
-![[_page_52_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_52_Figure_2.jpeg]]
 *Figure 14-59: 인간 미토콘드리아 genome (~16,600 bp). rRNA, tRNA, 13개 단백질 coding 유전자.*
 
 - **크기**: ~16,600 nucleotide pairs (원형 DNA)
@@ -28,7 +28,7 @@
 
 나머지 ~1,200–1,600종의 미토콘드리아 단백질은 **핵 genome encoding** → 세포질에서 합성 → [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Protein import into Mitochondria/000_Protein import into Mitochondria_MOC|TOM/TIM 복합체를 통해 미토콘드리아로 수입]]됨
 
-![[_page_52_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_52_Figure_6.jpeg]]
 *Figure 14-60: 미토콘드리아 respiratory chain 단백질의 이중 genome 기원과 조립.*
 
 ---

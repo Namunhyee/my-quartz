@@ -30,7 +30,7 @@
 ### ~~GFP의 구조~~
 
 #### Figure 9-16: Green Fluorescent Protein (GFP)
-![[Pasted image 20260305162204.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305162204.png]]
 
 **(A) GFP의 구조적 특징**
 - 개략적 구조도
@@ -65,7 +65,7 @@
 - Recombinant DNA techniques 사용
 - <mark style="background:#fff88f">GFP 유전자를 초파리 promoter에 연결</mark>
 - 특수한 neurons 세트에서만 활성화되는 promoter 사용
-![[Pasted image 20260312165002.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312165002.png]]
 **수업내용(?)** : 엽록소 빨간색 염색
 녹색 형광 염색은 mitochondrian protein에 붙은 gfp
 ### 2. Organelle Targeting
@@ -94,7 +94,7 @@
 **결과물**:
 - **Chimeric product(키메라 산물)** 생성
 - 원래 단백질 + 새로운 GFP domain 부착
-![[Pasted image 20260305172013.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305172013.png]]
 #### <mark style="background:#fff88f">기능적 특성</mark>
 
 **대부분의 경우**:

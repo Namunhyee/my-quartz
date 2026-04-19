@@ -4,7 +4,7 @@
 ==clathrin-independent endocytosis이다.==[^기출_중간_2022_33][^기출_중간_2023_10]
 
 ![[Cell Biology/출처/md converted/Chapter 13/_page_53_Picture_2.jpeg]]
-![[Pasted image 20260409182210.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260409182210.png]]
 ## 특징
 
 Macropinocytosis는 ==비선택적 과정==이다:[^기출_중간_2025_23]

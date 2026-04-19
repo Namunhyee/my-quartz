@@ -1,7 +1,7 @@
 # Cholesterol Biosynthesis Regulation
 
 콜레스테롤 농도가 낮아질 때 콜레스테롤 합성 효소들의 전사를 활성화하는 **SREBP (Sterol Response Element Binding Protein)**의 핵 이동은, ER 막 단백질의 단백질 가수분해 처리에 의해 조절된다.
-![[_page_60_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_60_Figure_6.jpeg]]
 
 *Fig 12-64. 콜레스테롤 합성의 피드백 조절. (A) SREBP는 처음에 ER 막 단백질로 합성되며, 충분한 콜레스테롤이 있을 때는 INSIG–SCAP 복합체가 콜레스테롤과 결합하여 SREBP를 ER에 붙잡아 둔다. (B) 콜레스테롤이 부족하면 SCAP가 INSIG에서 해리되어 SCAP–SREBP 복합체가 Golgi apparatus로 이동하고, Golgi의 proteases가 SREBP의 세포질 도메인을 절단한다. 이 도메인이 핵으로 이동하여 콜레스테롤 합성에 관여하는 유전자들을 활성화한다.*
 

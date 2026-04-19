@@ -23,7 +23,7 @@ BiP (Binding Protein)는 ER lumen의 major chaperone protein으로, hsp70 family
 ## 기능적 역할
 
 ### 1. Post-Translational Translocation
-![[_page_25_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_25_Figure_2.jpeg]]
 
 **Pulling motor:**
 - TIM23 complex와 결합

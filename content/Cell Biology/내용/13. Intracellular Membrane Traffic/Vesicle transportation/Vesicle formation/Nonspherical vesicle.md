@@ -8,7 +8,7 @@
 
 ### Procollagen Transport
 
-![[_page_10_Picture_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_10_Picture_7.jpeg]]
 
 **Procollagen**은 특별한 transport mechanism 필요:
 

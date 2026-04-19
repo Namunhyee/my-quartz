@@ -2,7 +2,7 @@
 
 **Centrosome**은 동물 세포에서 가장 중요한 **MTOC (microtubule-organizing center)**로, 핵 옆 세포질에 위치한다.
 
-![[_page_43_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_43_Figure_6.jpeg]]
 *Fig 16–42. (A) 핵 옆에 위치한 centrosome 구조. (B) Microtubule이 부착된 centrosome — minus end는 centrosome에, plus end는 세포질 쪽으로 뻗는다. (C) C. elegans MTOC에서 방사상으로 뻗은 microtubule thicket.*
 
 - Minus end를 고정하고 plus end를 세포 바깥쪽으로 향하게 하여 microtubule을 nucleate
@@ -13,7 +13,7 @@
 
 ## Centriole
 
-![[_page_44_Picture_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_44_Picture_1.jpeg]]
 *Fig 16–43. (A) Mother centriole(distal appendage 포함)과 daughter centriole 단면. (B) Protozoan centriole 단면: 9세트 microtubule triplet. (C) Triplet 구성(A, B, C microtubule). (D) SAS-6 단백질이 만드는 cartwheel의 9중 대칭.*
 
 **구조**
@@ -72,7 +72,7 @@
 
 ## [[Primary Cilia]]의 Basal Body
 
-![[_page_57_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_57_Picture_2.jpeg]]
 *Fig 16–61. (A) Mouse neuron primary cilium의 basal body. (B) Centriole의 기능 전환 — interphase: primary cilium basal body / 분열기: mitotic spindle centrosome.*
 
 Interphase에서 mother centriole은 세포막 근처로 이동하여 **primary cilium의 basal body**로 기능한다.
@@ -94,7 +94,7 @@ Interphase에서 mother centriole은 세포막 근처로 이동하여 **primary 
 
 ## 세포 유형별 MTOC(microtubule organaizing center) 비교
 
-![[_page_44_Picture_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_44_Picture_6.jpeg]]
 *Fig 16–44. 다양한 세포 유형에서의 microtubule 조직화.*
 
 | 세포 유형 | MTOC | Centriole | Microtubule 배열 |

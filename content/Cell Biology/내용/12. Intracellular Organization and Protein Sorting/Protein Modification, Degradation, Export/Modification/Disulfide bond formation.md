@@ -85,7 +85,7 @@ Disulfide bond는 folded state of protein을 안정화시킨다:
 
 ### Transmembrane Protein에서의 분포
 
-![[_page_18_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_18_Figure_7.jpeg]]
 
 동물 세포의 대부분의 transmembrane protein은 [[N-linked glycosylation]]됨:
 - Oligosaccharide chain과 disulfide bond가 모두 membrane의 noncytosolic surface에 위치

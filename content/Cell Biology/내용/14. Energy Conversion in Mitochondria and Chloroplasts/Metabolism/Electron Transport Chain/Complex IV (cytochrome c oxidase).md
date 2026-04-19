@@ -30,7 +30,7 @@
 
 ## 반응 메커니즘
 
-![[_page_23_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_23_Picture_8.jpeg]]
 *Figure 14-25: Cytochrome c oxidase에서 O₂와 전자의 반응. 전자 경로와 bimetallic center가 표시됨.*
 
 ### 전자 흐름

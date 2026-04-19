@@ -12,7 +12,7 @@
 
 ## 구조
 
-![[_page_22_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_22_Figure_8.jpeg]]
 *Figure 14-26: Succinate dehydrogenase 구조. Sdh1(FAD 포함), Sdh2(3개의 iron-sulfur cluster), 막 내 구성요소(heme 포함) 4개 소단위로 구성.*
 
 4개의 소단위로 구성:

@@ -26,7 +26,7 @@ NADH는 두 전자를 **covalent bond** 형태로 저장한다:
 
 > "If hydrogen were simply burned, nearly all of the energy would be released in the form of heat. In biological oxidation, about half of the released energy is stored in a form useful to the cell by means of the electron-transport chain." — Chapter 14
 
-![[_page_10_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_10_Figure_8.jpeg]]
 *Figure 14-13: 수소의 연소(A)와 생물학적 산화(B) 비교. 단계적 전자 전달로 에너지를 보존.*
 
 ## 관련 개념

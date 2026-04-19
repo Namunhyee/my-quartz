@@ -41,7 +41,7 @@
   - ==Smooth ER: Connected to rough ER cisternae; fine tubule network, diameter 30–60 nm.==
   - ==ER lumen shown in green.==  ^5cd609
   
-  ![[Pasted image 20260202193248.png]] ^971b52
+  ![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260202193248.png]] ^971b52
 ### (D) Tomographic Reconstruction in Yeast Cell
   - Membrane‐bound ribosomes visible on both flat sheets and tubular regions of varying diameter. 
   - Demonstrates ribosome binding to ER membranes of different curvatures.
@@ -92,6 +92,6 @@ The isolation of purified rough and smooth microsomes from the ER.
 [^기출_중간_2023_26]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_26번|2023 중간 26번]] — ① 옳음: ER network는 모든 세포의 지질 합성 공장 역할. ④ 정답(틀린 것): ER signal sequence를 SRP가 인식하면 복합체 해체가 아닌 번역 일시 중지(pause) 후 SRP receptor 도킹을 유도함. ⑤ 옳음: ER에서 막 단백질 삽입·당화 비대칭성이 하위 소기관 막의 sidedness를 확립.
 
 [^1]: **지질단백질**(脂質蛋白質, [영어](https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%B4 "영어"): lipoprotein) 또는 **리포단백질**은 중심에 [지질](https://ko.wikipedia.org/wiki/%EC%A7%80%EC%A7%88_\(%EC%83%9D%EB%AC%BC%ED%95%99\) "지질 (생물학)")과 [단백질](https://ko.wikipedia.org/wiki/%EB%8B%A8%EB%B0%B1%EC%A7%88 "단백질")을 함께 포함하고 있는 [생화학](https://ko.wikipedia.org/wiki/%EC%83%9D%ED%99%94%ED%95%99 "생화학") 물질이다.
-![[Pasted image 20260202165809.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260202165809.png]]
 
 [^2]: 물리적인 힘을 가해 세포막을 깨고 내부 성분들을 균일한 혼합물 상태로 만드는 과정

@@ -32,7 +32,7 @@
 - → ER lumen은 세포 외 공간과 위상학적으로 동일
 
 ## Figure 12-3 요약
-![[_page_4_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_4_Picture_2.jpeg]]
 
 | 막 구조 | 기원 |
 |---------|------|

@@ -5,7 +5,7 @@
 세포 대사(metabolism)는 에너지를 생산하고 생체분자를 합성하는 모든 화학반응의 총합이다.
 Chapter 14의 핵심: 음식물의 화학 에너지 → [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]]로의 전환.
 
-![[_page_7_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_7_Figure_2.jpeg]]
 *Figure 14-10: 미토콘드리아에서의 에너지 변환 대사 요약.*
 
 ## 각 과정의 위치 (Cellular Location)

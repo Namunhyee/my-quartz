@@ -221,7 +221,7 @@ Entropic free-energy cost는 다음과 같이 최소화된다:
 
 **Critical Micelle Concentration (CMC):**
 
-![[_page_20_Figure_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_20_Figure_1.jpeg]]
 
 위 그림 (B)는 detergent concentration과 micelle 형성의 관계를 보여준다:
 - 낮은 농도: 단량체로 용액에 존재

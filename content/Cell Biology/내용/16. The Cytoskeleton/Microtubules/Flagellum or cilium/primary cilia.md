@@ -1,6 +1,6 @@
 # Primary Cilia
 
-![[_page_57_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_57_Picture_2.jpeg]]
 *Fig 16–61. Primary cilia. (A) 마우스 뉴런의 primary cilium basal body와 axoneme 전자현미경 및 도식. (B) Centriole이 basal body와 centrosome core로 번갈아 기능하는 주기.*
 
 **Primary cilium**은 거의 모든 세포 유형의 표면에서 발견되는 짧고 비운동성인 감각 organelle이다.[^기출_기말_2025_20] Motile cilia와 달리 9+2가 아닌 9+0 배열(중앙 pair 없음)을 갖는 경우가 많다.

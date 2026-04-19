@@ -2,7 +2,7 @@
 
 AFM은 나노스케일에서 표면의 형태와 <mark style="background:#fff88f">물성(Topology·마찰·정전 상호 작용·도전률·자력 등의 재질 특성을 Image화)</mark>을 측정하는 주사탐침현미경(SPM) 기술
 
-![[Pasted image 20260305204124.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305204124.png]]
 ## 기본 구조
 
 **주요 구성요소:**
@@ -23,7 +23,7 @@ AFM은 나노스케일에서 표면의 형태와 <mark style="background:#fff88f
 ## 응용
 
 - <mark style="background:#fff88f">생물학적 시료 (DNA, 단백질, 세포) 관찰</mark>
-- ![[Pasted image 20260305204124.png]]<mark style="background:#fff88f">사진</mark>
+- ![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305204124.png]]<mark style="background:#fff88f">사진</mark>
 <mark style="background:#fff88f">	DNA 가는 선</mark>
 <mark style="background:#fff88f">	MUTs 밝은 점</mark>
 <mark style="background:#fff88f">	DNA damage가 있는 부분에만 MUTs 단백질이 검출됨</mark>

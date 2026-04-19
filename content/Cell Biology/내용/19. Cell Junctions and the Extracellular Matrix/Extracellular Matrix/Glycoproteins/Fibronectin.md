@@ -13,7 +13,7 @@
   - Collagen 결합 domain
   - Proteoglycan 결합 domain
   - **Integrin 결합 domain**: RGD sequence 포함
-![[Pasted image 20260219015616.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260219015616.png]]
 ## RGD Sequence
 
 한 type III repeat에 있는 **RGD sequence** (Arg-Gly-Asp)가 세포 표면의 integrin과 결합하는 핵심 motif이다.[^기출_기말_2022_16][^기출_기말_2023_28]
@@ -29,7 +29,7 @@
 
 ## FN Fibril 형성과 Tension
 
-![[_page_29_Figure_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_29_Figure_3.jpeg]]
 *Type III FN domain의 tension에 의한 unfolding. FN이 신장되면 일부 type III fibronectin repeat이 펼쳐져서(unfold) 숨겨진 결합 부위(cryptic binding site)가 노출되고, 이것이 다른 FN 분자와 상호작용하여 FN filament를 형성한다.*
 
 FN fibril은 **세포 표면에서만** 조립된다:

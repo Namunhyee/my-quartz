@@ -1,6 +1,6 @@
 # Activation of Integrins by intracellular signaling
 
-![[_page_55_Figure_1.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_55_Figure_1.jpeg]]
 *Intracellular signaling에 의한 integrin 활성화. 세포 외부에서 받은 신호가 intracellular signaling protein을 통해 전달되어 integrin 활성화를 자극한다.*
 
 Integrin은 **양방향 신호 전달**이 가능하다.[^기출_기말_2023_32] "Inside-out" signaling은 세포 내부의 신호가 integrin을 활성화시키는 과정이다.

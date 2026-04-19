@@ -1,6 +1,6 @@
 
 # 원리
-![[Pasted image 20260305142458.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305142458.png]]
 
 ### 박교수님 왈)
 접안렌즈는 대물렌즈 확대상을 한번 더 확대한 것.

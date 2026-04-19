@@ -15,7 +15,7 @@ Trans Golgi Network (TGN)은 [[Sorting Signal#Golgi Apparatus|Golgi apparatus]]�
 
 #### ==M6P Tag의 부착==
 
-![[_page_29_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_29_Figure_8.jpeg]]
 *Figure 13-40: Lysosomal hydrolase의 M6P tagging과 transport. Cis Golgi network에서 M6P가 부착되고, TGN에서 M6P receptor에 의해 선별된다.*
 
 **과정:**

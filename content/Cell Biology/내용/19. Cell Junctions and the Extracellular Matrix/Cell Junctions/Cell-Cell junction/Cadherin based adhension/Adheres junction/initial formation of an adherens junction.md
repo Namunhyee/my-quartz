@@ -4,7 +4,7 @@
 
 강한 adherens junction이 형성되려면 단순히 cadherin을 추가하는 것 이상의 과정이 필요하다. 핵심은 접촉 부위에서 **cortical tension**이 국소적으로 감소해야 한다는 것이다.
 
-![[_page_7_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_7_Figure_6.jpeg]]
 *Figure 19-10. (A) 물방울의 표면장력처럼, (B) 세포도 cortex의 actin-myosin bundle 수축에 의한 cortical tension으로 구형을 유지한다. (C) 두 상피세포 전구체가 처음 만나면 소규모 cadherin cluster가 형성되지만, cortical tension이 부착 면적의 확장을 막는다. Cadherin이 신호를 보내 Rho를 억제하고 Rac을 활성화하면 actin-myosin fiber가 국소적으로 해체되어 cortical tension이 감소하고, 더 많은 cadherin이 모여 junction이 넓은 면적으로 확장된다.*
 
 ## 단계별 과정

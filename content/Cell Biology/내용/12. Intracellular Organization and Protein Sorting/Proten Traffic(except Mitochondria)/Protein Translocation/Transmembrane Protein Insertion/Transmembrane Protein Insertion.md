@@ -1,6 +1,6 @@
 # Transmembrane Protein Processing in [[Co-translational translocation]]
 ### Figure 12-26
-![[_page_26_Picture_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_26_Picture_7.jpeg]]
 #### Transmembrane segment(막관통 구간, TMS)란?
 polypeptide chain에 있는 소수성이 강한 영역. [[Sec61 complex#Lateral gate|Sec61 complex의 Lateral gate]] 쪽으로 밀려나기 쉬움.
 > [!note] Transmembrane segment vs Signal sequence

@@ -1,9 +1,13 @@
 # Microtubules_MOC
 
-![[_page_1_Figure_4.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_1_Figure_4.jpeg]]
 *(i) 단일 microtubule; (ii) 세 개의 cilia 기저부 단면 (triplet microtubule); (iii) interphase microtubule array(초록)와 organelle(빨강); (iv) ciliated protozoan.*
 
-Microtubule은 tubulin 단백질로 만들어진 길고 속이 빈 원통형 구조체이다.[^기출_기말_2023_22] 외경 25 nm로 actin filament보다 훨씬 단단하다. 길고 곧으며, 한쪽 끝이 보통 centrosome이라고 불리는 MTOC (microtubule-organizing center)에 연결된다. Microtubule은 [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle transportation_MOC|vesicle/organelle 세포 내 수송]]의 rail 역할을 하며, [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Golgi apparatus_MOC|Golgi apparatus]]의 핵 근방 위치도 microtubule-centrosome 연계에 의존한다.
+- Microtubule은 tubulin 단백질로 만들어진 길고 속이 빈 원통형 구조체이다.[^기출_기말_2023_22] 
+- 외경 25 nm로 [[100_Actin filaments_MOC|actin filament]]보다 훨씬 단단하다. 
+- 길고 곧으며, 한쪽 끝이 보통 [[centrosome]]이라고 불리는 MTOC (microtubule-organizing center)에 연결된다. 
+- Microtubule은 [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle transportation_MOC|세포 내 수송]]의 rail 역할을 하며, 
+- [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Golgi apparatus_MOC|Golgi apparatus]]의 핵 근방 위치도 [[Golgi apparatus_MOC#==동물세포에서의 Golgi의 위치를 결정하는 것==|microtubule-centrosome 연계에 의존한다]].
 
 ## 목차
 

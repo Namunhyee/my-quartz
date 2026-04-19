@@ -1,7 +1,7 @@
 # Nuclear Import Receptor
 
 Nuclear import receptor는 **karyopherin** 단백질 계열에 속하는 ==soluble cytosolic 단백질==로, NLS를 인식하고 cargo를 핵으로 수송한다.
-![[_page_56_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_56_Picture_2.jpeg]]
 *Fig 12-58. 핵 수입 receptor들. (A) 서로 다른 nuclear import receptor들이 서로 다른 NLS를 인식하여 서로 다른 cargo 단백질을 수송한다. (B) Cargo 단백질 4는 adaptor 단백질을 통해 import receptor에 결합한다. Adaptor는 nuclear import receptor와 구조적으로 유사하며 cargo의 NLS를 인식하고, adaptor 자신도 import receptor에 결합하는 NLS를 포함한다 (cargo가 결합될 때만 NLS가 노출됨).*
 
 ## ==기능==

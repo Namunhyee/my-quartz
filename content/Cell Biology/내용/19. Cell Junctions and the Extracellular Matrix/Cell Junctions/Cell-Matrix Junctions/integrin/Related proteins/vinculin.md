@@ -1,6 +1,6 @@
 # vinculin
 
-![[_page_56_Figure_1.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_56_Figure_1.jpeg]]
 *Cell-matrix adhesion에서 mechanical force에 대한 반응. Talin이 tension sensor로 작용하며, vinculin이 이 과정에 중요한 역할을 한다.*
 
 **Vinculin**은 cell-matrix junction에서 actin cytoskeleton과 integrin 사이의 연결을 강화하는 adaptor protein이다.

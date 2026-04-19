@@ -2,7 +2,7 @@
 
 Peroxisome의 단백질들은 두 가지 경로로 전달된다.
 
-![[_page_42_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_42_Figure_5.jpeg]]
 *Fig 12-46. Peroxisome 증식 및 신규 생성 모델. 일부 막 단백질(Pex3, Pex15)은 ER에서 유래한 precursor vesicle을 통해 전달되고, 대부분의 peroxisomal 단백질은 cytosol에서 직접 수입된다.*[^기출_중간_2023_30]
 
 ## 경로 1: ER 경유 경로 (일부 막 단백질)

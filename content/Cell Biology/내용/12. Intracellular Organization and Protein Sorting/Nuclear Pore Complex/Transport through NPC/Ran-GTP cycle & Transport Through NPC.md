@@ -18,10 +18,10 @@
 
 # ==NPC를 통한 수송==
 ## ==핵 수입에서의 역할==
-![[Pasted image 20260409202923.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260409202923.png]]
 *Fig 12-61. 핵 수입과 수출 모두 Ran GTPase 사이클을 사용한다. 핵 수입(A)에서는 Ran-GTP가 cargo를 receptor에서 해리시키고, 핵 수출(B)에서는 Ran-GTP가 cargo-receptor 결합을 촉진한다. 두 경우 모두 세포질의 Ran GAP이 GTP 가수분해를 유도하여 사이클을 완성한다.*
 
-1. Import receptor가 세포질에서 NLS cargo와 결합 (Ran-GDP 상태에서 가능)
+1. [[Nuclear Import Receptor|Import receptor]]가 세포질에서 [[Nuclear Localization Signals|NLS]] cargo와 결합 (Ran-GDP 상태에서 가능)
 2. Receptor–cargo 복합체가 FG repeat를 이용해 NPC를 통과
 3. 핵 안에서 **Ran-GTP**가 receptor에 결합 → receptor가 cargo를 해리[^기출_중간_2023_25][^기출_중간_2025_15]
 4. Cargo는 핵에 방출됨
@@ -31,10 +31,10 @@
 
 ## ==핵 수출에서의 역할==
 
-![[Pasted image 20260409202948.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260409202948.png]]
 Import와 반대 방향으로 작동:
 
-1. 핵 안에서 **Ran-GTP**가 export receptor–NES cargo 복합체 결합을 **촉진**
+1. 핵 안에서 **Ran-GTP**가 [[Nuclear Export Receptor|export receptor]]–[[Nuclear Export Signals|NES]] cargo 복합체 결합을 **촉진**
 2. Export receptor–cargo–Ran-GTP 삼중 복합체가 NPC를 통해 세포질로 이동
 3. 세포질에서 **Ran GAP**이 Ran-GTP 가수분해 유도
 4. 가수분해 후 export receptor가 구조 변화 → cargo와 Ran-GDP 모두 세포질에 방출

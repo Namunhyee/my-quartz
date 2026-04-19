@@ -1,7 +1,7 @@
 # Homophilic vs Heterophilic Binding
 
-![[_page_4_Picture_7.jpeg]]
-![[_page_4_Picture_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_4_Picture_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_4_Picture_9.jpeg]]
 *Figure 19-5. Homophilic binding(위): 같은 종류의 분자끼리 결합. Heterophilic binding(아래): 서로 다른 종류의 분자끼리 결합.*
 
 **Homophilic binding**은 특정 subtype의 cadherin 분자가 인접 세포의 동일 또는 유사 subtype cadherin에 결합하는 방식이다. "Like-to-like" 결합이라고도 한다. 대부분의 cadherin이 이 방식으로 작동하며, 이것이 세포 분류(cell sorting)의 분자적 기반이 된다 (→ [[cadherin-dependent cell sorting]]).

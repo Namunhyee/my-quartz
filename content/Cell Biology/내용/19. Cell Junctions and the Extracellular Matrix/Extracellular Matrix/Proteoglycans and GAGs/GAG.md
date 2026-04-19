@@ -19,7 +19,7 @@ glycosamino는 -OH기 하나가 -NH<sub>2</sub>로 바뀌어 있는 아미노당
 
 ## Hyaluronan
 
-![[_page_7_Figure_5.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_7_Figure_5.jpeg]]
 *Hyaluronan (=hyaluronic acid, hyaluronate)의 반복 disaccharide 서열.*
 
 **Hyaluronan**은 가장 단순한 GAG이다:

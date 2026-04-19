@@ -34,7 +34,7 @@
 
 → [[optical microscope]]
 
-![[Pasted image 20260305142458.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305142458.png]]
 
 ### 원리 요약
 - **접안렌즈**(eyepiece): 대물렌즈가 만든 상을 한 번 더 확대
@@ -81,7 +81,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 
 → [[phase contrast microscopy(위상차 현미경)]]
 
-![[Pasted image 20260305142931.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305142931.png]]
 
 - **무색 투명한 시료도 관찰 가능** (Live cell imaging / No staining)
 - ==빛의 위상차를 명암 차이로 변환==: 세포의 밀도 차이로 생긴 보이지 않는 빛의 시간차를 특수 렌즈로 **눈에 보이는 밝기 차이**로 증폭
@@ -106,7 +106,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 
 → [[Sectioning]]
 
-![[Pasted image 20260120125550.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260120125550.png]]
 
 조직은 너무 두꺼워 고해상도 직접 검사 불가 → 절편(section) 필요 (임상에서 중요한 부분)
 
@@ -140,7 +140,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 
 ### ==형광현미경 필터 시스템 (3단계)==
 
-![[_page_7_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_7_Figure_7.jpeg]]
 
 ==1. **Excitation filter** (1st barrier filter)==
 - 특정 파장만 통과 (예: 450~490 nm 파란빛만)
@@ -168,7 +168,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 
 → [[Immunofluorescence Staining]]
 
-![[_page_10_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_10_Picture_2.jpeg]]
 
 #### <mark style="background:#fff88f">Direct vs Indirect Immunocytochemistry</mark>
 
@@ -198,7 +198,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 - ==**Barrel 구조** (11개의 β-strand) 내부에 chromophore 보호==
 - 번역 직후에는 형광 없음 → 약 1시간 이내 자가촉매적 번역 후 변형으로 성숙
 
-![[Pasted image 20260305162204.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305162204.png]]
 
 ### GFP 활용 방법
 
@@ -206,7 +206,7 @@ $$d = \frac{\lambda}{2\text{NA}}$$
 
 ==**(A) 초파리 실험 예시**==: GFP 유전자를 초파리 신경세포 특이적 promoter에 연결 → 신경세포만 형광 발현
 
-![[Pasted image 20260312165002.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312165002.png]]
 
 **2. GFP Fusion Protein** (가장 중요):
 
@@ -216,7 +216,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
         Fusion protein
 ```
 
-![[Pasted image 20260305172013.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305172013.png]]
 
 - ==살아있는 생물에서 단백질의 **distribution(분포)**과 **dynamics(역학)**를 표시하는 가장 명확한 방법==
 - ==GFP fusion protein이 untagged protein과 **기능적으로 동등함을 증명**해야 함== (예: mutant rescue로 확인)
@@ -253,7 +253,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 일반 형광현미경: 시료 전체에 빛 조사 → out-of-focus 빛으로 blur
 **Confocal**: ==매우 작은 선택 영역만 선택적으로 빛 조사==
 
-![[_page_16_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_16_Picture_2.jpeg]]
 
 ### 원리
 - **Laser** → pinhole A 통과 → 표본의 **단일 focal point**에 집속
@@ -306,7 +306,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 
 → [[FRET]]
 
-![[_page_12_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_12_Figure_7.jpeg]]
 
 - ==관심 있는 **두 분자를 각각 다른 fluorochrome으로 표지**==
 - 선택 기준: ==donor의 **emission spectrum**과 acceptor의 **absorption spectrum**이 **overlap(겹침)**해야 함==
@@ -328,7 +328,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 	1. **활성화**: 강한 빛 (자외선 or 청색광)으로 photoactivatable probe 활성화
 	2. **확인**: 형광을 확인할 수 있는 빛으로 이동 추적
 
-![[Pasted image 20260312170832.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312170832.png]]
 
 ==가운데 tubulin 단백질들에만 UV로 광활성화 → 2.5분간 광활성이 줄어드는 동시에 단백질의 이동을 관측 → ==Spindle dynamics== 확인==
 
@@ -356,7 +356,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - 0.5~10 μM 범위의 Ca²⁺ 농도 변화에 반응
 - 발광은 형광보다 신호가 약해 실험적으로 **형광 물질이 더 많이 사용**됨
 
-![[Pasted image 20260312171513.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312171513.png]]
 
 **형광 Ca²⁺ indicator**:
 - ==모든 indicator가 Ca²⁺에 결합하는 게 아니라, **결합한 것과 안 한 것이 나뉘어** 농도에 의해 색 차이 형성==
@@ -368,7 +368,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 
 → [[TIRF(Total Internal Reflection Fluorescence Microscopy)]]
 
-![[_page_24_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_24_Figure_9.jpeg]]
 
 ### 원리
 - 레이저를 임계각 이상으로 cover-slip에 입사 → **전반사(Total Internal Reflection)** 발생
@@ -382,7 +382,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - **광독성 감소** / **광표백 최소화**: 제한된 영역만 조명
 
 강의노트: ==**myosin, actin filament** 관찰==
-![[Pasted image 20260305203627.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305203627.png]]
 
 ---
 
@@ -392,7 +392,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 
 힘(force)을 이용해 **표면 구조와 물성(topology·마찰·정전 상호작용·도전률·자력)**을 image화
 
-![[Pasted image 20260305204124.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305204124.png]]
 
 ### 구성요소
 - ==**Tip (탐침)**: 원자 수준으로 매우 날카로운 구조로 시료 표면 스캔==
@@ -423,7 +423,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - ==회절한계에 의해 얻을 수 없는 **샘플의 고분해능 정보**가 관찰 가능한 **저분해능 모아레 무늬**에 반영==
 - Known 레이저 패턴과 Unknown 샘플 구조가 결합 → moiré 패턴 생성
 
-![[Pasted image 20260130230233.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260130230233.png]]
 
 - ==조명 패턴 각도를 바꾸면서 여러 장 촬영 → **컴퓨터로 역계산** → 숨겨진 고해상도 구조 복원==
 
@@ -497,7 +497,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 
 **빛 대신 전자를 사용** — 전자도 파동의 성질을 가짐
 
-![[_page_26_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_26_Picture_2.jpeg]]
 
 - ==전자의 파장은 **속도가 빠를수록 짧아짐** (드브로이 파장: λ = h/mv)==
 - ==100–300 keV 가속 시 파장 **0.0037 nm** (가시광선 대비 약 10만배 짧음)==
@@ -505,7 +505,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - 실용적 분해능: ==**~0.05 nm**== (렌즈 수차 때문)
 - 생물학적 표본 유효 분해능: ~1 nm (시료 준비 문제, contrast 한계 등)
 
-![[_page_25_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_25_Figure_9.jpeg]]
 
 #### ==수차 (Aberration)==
 렌즈를 통과한 빛이 한 점에 모이지 못해 색이나 상이 왜곡되는 현상
@@ -539,7 +539,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - **포매**: 레진 침투 → 블록화
 - **초박절편**: ultramicrotome으로 수십 nm 두께로 절단 → **metal grid 위에 올려 관찰**
 
-![[_page_26_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_26_Figure_8.jpeg]]
 
 - 대비 염색: ==**uranyl acetate** / **phosphotungstic acid** / **ammonium molybdate**== (원자번호 높은 물질)
 
@@ -575,7 +575,7 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 - **단일 입자 재구성**: ==동일한 분자를 낮은 전자 밀도로 매우 많이 촬영 → 정렬(alignment) + 평균화(averaging) → **평균 이미지 생성** → SNR 향상==
 - 예: ==HIV 캡시드 내부 단백질 구조 → **216개의 6량체(hexamer, 파란색)**와 **12개의 5량체(pentamer, 노란색)**==
 
-![[Pasted image 20260305224559.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305224559.png]]
 
 ---
 

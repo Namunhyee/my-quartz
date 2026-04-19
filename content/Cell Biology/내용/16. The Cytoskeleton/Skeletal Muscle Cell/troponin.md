@@ -1,6 +1,6 @@
 # Troponin
 
-![[Pasted image 20260219142536.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260219142536.png]]
 *Fig 16–31. Troponin에 의한 골격근 수축 조절. (A) Tropomyosin과 troponin의 배치. (B) Ca²⁺ 존재(짙은 보라)와 부재(옅은 보라) 시 tropomyosin 위치 변화.*
 
 **Troponin**은 세 가지 폴리펩타이드로 구성된 복합체로, Ca²⁺에 의해 골격근 수축을 조절한다.

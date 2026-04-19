@@ -6,7 +6,7 @@
 
 ## Vesicle transport의 전체 경로
 
-![[_page_1_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_1_Figure_5.jpeg]]
 
 ### <font color="#ff0000">Secretory pathway</font> (적색 화살표)
 - [[Endoplasmic Reticulum|ER]]에서 시작

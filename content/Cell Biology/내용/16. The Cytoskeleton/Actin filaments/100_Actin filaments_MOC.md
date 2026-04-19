@@ -3,7 +3,12 @@
 ![[Cell Biology/출처/md converted/Chapter 16/_page_1_Figure_2.jpeg]]
 *(i) 단일 actin filament; (ii) microvilli; (iii) focal adhesion(green)으로 끝나는 stress fibers(red); (iv) striated muscle.*
 
-Actin filament은 protein actin의 helical polymer로, microfilament라고도 불린다. 직경 8 nm의 flexible한 구조체로, linear bundle, 2차원 network, 3차원 gel 등 다양한 형태로 조직화된다. 세포 전체에 분산되어 있지만, plasma membrane 바로 아래 cortex에 가장 고농도로 집중되어 있다. Actin filament는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin 기반 focal adhesion]]과 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Adheres junction/Adheres junction_MOC|adherens junction]]을 통해 ECM 및 인접 세포와 기계적으로 연결된다.
+Actin filament
+- protein actin의 helical polymer
+- =microfilament
+- 직경 8 nm의 flexible한 구조체로
+- linear bundle, 2차원 network, 3차원 gel 등 다양한 형태로 조직화된다
+- 세포 전체에 분산되어 있지만, plasma membrane 바로 아래 cortex에 가장 고농도로 집중되어 있다. Actin filament는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin ]]기반 [[Cell-Matrix Junctions_MOC|focal adhension]]과 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Adheres junction/Adheres junction_MOC|adherens junction]]을 통해 ECM 및 인접 세포와 기계적으로 연결된다.
 
 ## 목차
 

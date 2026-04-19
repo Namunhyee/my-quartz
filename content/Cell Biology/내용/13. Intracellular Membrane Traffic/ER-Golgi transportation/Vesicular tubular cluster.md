@@ -6,7 +6,7 @@
 
 ## 형성 과정
 
-![[_page_18_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
 
 ### 1. [[COPII]] Vesicle Budding
 

@@ -1,6 +1,6 @@
 # Hemidesmosomes
 
-![[_page_45_Picture_1.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_45_Picture_1.jpeg]]
 *Hemidesmosome의 구조. 상피세포를 basal lamina에 고정하며, laminin을 세포 외부에서 keratin filament에 세포 내부에서 연결한다.*
 
 **Hemidesmosome**은 상피세포를 [[Basal Lamina_MOC|basal lamina]]에 부착시키는 특수화된 cell-matrix junction이다.[^기출_기말_2022_11]

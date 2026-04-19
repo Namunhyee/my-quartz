@@ -25,7 +25,7 @@ Succinate dehydrogenase는 **이중 역할**:
 
 > "There is an unusual additional respiratory chain complex that is an important component of the citric acid cycle, where it is known as succinate dehydrogenase. This membrane-embedded enzyme captures electrons during the conversion of succinate to fumarate and passes these electrons directly into the electron-transport chain via a flavin electron carrier (FAD)." — Chapter 14
 
-![[_page_22_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_22_Figure_8.jpeg]]
 *Figure 14-26: Succinate dehydrogenase 구조. FAD 포함 4개의 서브유닛.*
 
 ## 특징

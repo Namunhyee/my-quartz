@@ -2,7 +2,7 @@
 
 세포 이동(crawling)은 actin cytoskeleton에 의존하며, 핵심 원리는 leading edge에서의 actin 중합을 통한 membrane 밀어냄과 세포 후방에서의 수축이다. 이동 모드는 actin이 조직화되는 방식에 따라 다르게 나타난다.[^기출_기말_2023_23]
 
-![[_page_24_Figure_3.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_24_Figure_3.jpeg]]
 *Fig 16–19. 세포 이동의 세 가지 모드. (A) Mesenchymal mode: Arp2/3가 lamellipodia를 만들고 stress fiber가 focal adhesion에 연결. (B) Amoeboid mode: Arp2/3가 3D pseudopod을 만들어 빠른 이동. (C) Blebbing: cortex와 membrane이 분리되어 수압으로 돌출.*
 
 ## 세 가지 이동 모드
@@ -13,12 +13,26 @@
 
 **Blebbing**은 plasma membrane이 actin cortex에서 국소적으로 분리되어 세포 후방의 actin-myosin 수축이 만드는 수압으로 돌출을 형성하는 방식이다. 돌출 후 안쪽 표면에 새 actin cortex가 재형성된다.
 
+## lamellipodium의 형성과 이동
+**Mesenchymal cell migration**.
+![[Pasted image 20260416154635.png]]
+
+### 1️. 앞쪽에서 밀기 (Protrusion)
+- 액틴 중합 → 막을 앞으로 밀어냄
+- lamellipodium 형성
+### 2️. 앞쪽 고정 (Attachment)
+- 새 **focal adhesion** 형성 → 바닥에 붙음
+### 3️. 뒤쪽 끌기 (Contraction)
+- 뒤쪽 액틴-마이오신 수축 → 세포 몸통을 앞으로 당김
+### 4️. 뒤쪽 떼기 (Detachment)
+- 뒤쪽 adhesion 해체 → 앞으로 이동 가능
+
 ## Protrusion of the Actin Meshwork at the Leading Edge
 
-![[ppt로부터_figure 16-80.png]]
+![[Cell Biology/출처/md converted/Chapter 16/ppt로부터_figure 16-80.png]]
 *Fig 16–80. Leading edge에서 actin meshwork protrusion 모델. 두 시점에서 lamellipodium 전진을 보여주며, 나중 시점의 새로 조립된 구조는 더 밝은 색으로 표시.*
 
-Leading edge에서 actin meshwork가 앞으로 나아가는 메커니즘은 다음 단계로 이루어진다.
+Leading edge에서 [[actin arrays#dendritic network (lamellipodium)|actin meshwork]]가 앞으로 나아가는 메커니즘은 다음 단계로 이루어진다.
 
 1. **Nucleation**: Arp2/3 complex가 leading edge front에서 기존 필라멘트 측면에 새 필라멘트를 nucleate한다. 주로 70° 각도로 가지를 뻗는다.
 2. **Elongation**: 새로 생긴 필라멘트의 plus end가 길어지면서 plasma membrane을 앞으로 민다. 이 힘이 가능한 이유는 network 뒤쪽에 어떤 형태의 고정(anchorage)이 있기 때문이다.

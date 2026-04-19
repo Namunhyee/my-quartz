@@ -1,5 +1,5 @@
 # α-helix의 구조
-![[Pasted image 20260312203343.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312203343.png]]
  한 바퀴(360°) 완전히 회전하는 데 약 3.6개의 아미노산이 필요. 대략 아미노산 1개 = 100°
 # ==막 관통 α-helix==
 - ==펩타이드 결합 자체는 친수성이지만==
@@ -11,7 +11,7 @@
 특히 pore는 중앙부는 친수성이어야 함. 
 ==따라서 이때 [[hydropathy plot]]으로 alpha helix의 관통 개수를 측정할 수는 없음.==
 # ==Pore 형성을 위한 [[Amphiphilic molecule|amphiphilic]] helix conformation==
-![[Pasted image 20260312203753.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312203753.png]]
 Pore 형성을 위한 헬릭스는 한쪽 면은 친수성, 반대쪽 면 (lipid와 접촉하는 쪽)은 소수성 
 Ex>  1번 아미노산: 구멍 안쪽(친수성) 
  2번 아미노산: 100° 회전 (여전히 안쪽 또는 측면)

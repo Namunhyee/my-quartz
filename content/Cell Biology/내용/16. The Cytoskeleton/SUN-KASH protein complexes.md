@@ -4,7 +4,7 @@ SUN-KASH protein complex(LINC complex: Linker of Nucleoskeleton and Cytoskeleton
 
 ## 구조
 
-![[_page_63_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_63_Picture_2.jpeg]]
 *SUN-KASH 복합체가 핵막을 통해 세포질 세포골격과 핵 내부를 연결하는 모식도. SUN(주황)은 내핵막, KASH(보라)는 외핵막에 위치하며, 두 단백질의 결합 domain이 핵막 내강(lumen)에서 맞닿는다.*
 
 복합체는 두 종류의 단백질로 구성된다:

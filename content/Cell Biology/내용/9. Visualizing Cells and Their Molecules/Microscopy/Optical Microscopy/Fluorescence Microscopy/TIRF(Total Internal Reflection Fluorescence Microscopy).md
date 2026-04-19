@@ -20,7 +20,7 @@
 
 ### Figure 9-38: TIRF Microscopy
 
-![[_page_24_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_24_Figure_9.jpeg]]
 
 #### (A) TIRF의 광학적 원리
 **Excitatory laser light**:
@@ -63,7 +63,7 @@
 
 ## TIRF의 주요 응용
 ### 0. <mark style="background:#fff88f">강의노트 : myosin, actin filament 관찰</mark>
-![[Pasted image 20260305203627.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305203627.png]]
 
 ### 1. Single Motor Proteins
 **극적인 실험 예시**:

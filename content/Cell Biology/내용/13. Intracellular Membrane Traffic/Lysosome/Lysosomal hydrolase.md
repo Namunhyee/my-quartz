@@ -55,7 +55,7 @@ Lysosome은 다양한 hydrolytic 효소를 포함한다:
 대부분의 lysosomal hydrolase는 여러 개의 oligosaccharide를 포함하므로, 많은 M6P group을 획득하여 M6P receptor에 대한 high-affinity 신호를 제공한다.
 
 ## [[Transport of lysosomal hydrolases from TGN to endosomes|Lysosomal hydrolase의 endosome으로의 운반]]
-![[_page_29_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_29_Figure_8.jpeg]]
 다음은 M6P receptor에 의한 인식과 endosome으로의 운반이다.
 이 endosome이 lysosome으로 성숙함.
 

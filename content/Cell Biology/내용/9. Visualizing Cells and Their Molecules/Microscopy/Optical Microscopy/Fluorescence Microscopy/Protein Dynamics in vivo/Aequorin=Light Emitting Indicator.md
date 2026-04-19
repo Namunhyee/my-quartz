@@ -2,4 +2,4 @@
 Ca2+ 이온이 있을 때만 발광함. <font color="#ff0000">형광이 아님.</font>
 0.5~10μM 범위의 농도 변화에 반응함.
 형광보다 신호가 약해서 실험적으로는 형광물질이 더 많이 사용됨.
-![[Pasted image 20260312171513.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312171513.png]]

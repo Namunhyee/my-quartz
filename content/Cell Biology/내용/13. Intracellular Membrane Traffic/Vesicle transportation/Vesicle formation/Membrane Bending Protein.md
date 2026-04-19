@@ -20,7 +20,7 @@ Plasma membrane은 다른 membrane에 비해 vesicle budding이 어렵다:
 
 ## ==BAR Domain Protein==
 
-![[_page_7_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_7_Picture_2.jpeg]]
 ==**BAR domain**은 대표적인 membrane-bending module이다==:
 
 ### 구조
@@ -59,8 +59,8 @@ Budding vesicle neck에서 중요한 역할:
 
 ## Actin Polymerization과의 연결
 
-![[_page_7_Picture_2.jpeg]]
-![[_page_7_Figure_11.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_7_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_7_Figure_11.jpeg]]
 BAR-domain protein은 actin cytoskeleton과도 상호작용:
 
 ### Mechanism

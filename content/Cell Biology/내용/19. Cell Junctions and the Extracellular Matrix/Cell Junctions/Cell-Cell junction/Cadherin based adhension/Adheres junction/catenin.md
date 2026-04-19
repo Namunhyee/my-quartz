@@ -2,7 +2,7 @@
 
 Catenin은 adherens junction에서 classical cadherin의 intracellular tail에 결합하는 adaptor protein으로, cadherin과 actin cytoskeleton 사이의 연결을 매개한다.
 
-![[_page_8_Picture_11.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_8_Picture_11.jpeg]]
 *Figure 19-11. Cadherin–catenin–actin 연결. p120-catenin과 β-catenin이 cadherin tail에 직접 결합하고, α-catenin이 β-catenin에 결합하여 actin filament와의 동적 연결을 제공한다. Vinculin은 α-catenin과 결합해 actin 연결을 강화한다.*
 
 ## 주요 Catenin들

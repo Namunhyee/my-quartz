@@ -2,7 +2,7 @@
 
 Peroxisome은 사실상 모든 진핵세포에 존재하는 세포 소기관으로, 산소를 이용한 산화 반응의 주요 장소이다. 기본 구조와 개요는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Membrane-enclosed Organelles/Peroxisome|Peroxisome]] 노트를 참조.
 
-![[_page_40_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_40_Picture_8.jpeg]]
 *Fig 12-43. 간 세포의 peroxisome 전자현미경 사진. 진한 결정성 봉입체는 주로 urate oxidase로 이루어진다.*
 
 ## 주요 기능 요약

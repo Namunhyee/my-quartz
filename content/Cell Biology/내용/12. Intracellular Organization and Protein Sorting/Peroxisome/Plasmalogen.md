@@ -3,7 +3,7 @@
 Plasmalogen은 모든 인간 세포에 존재하는 풍부한 인지질의 한 종류로, 특히 뇌에서 농도가 높아 ==myelin sheath(수초)의 주요 성분==이다(==myelin 막 인지질의 약 80–90%).==
 이외에도 ==심장, 면역세포에 풍부함.==
 
-![[_page_41_Picture_13.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_41_Picture_13.jpeg]]
 *Fig 12-44. Plasmalogen의 구조. Ethanolamine head group과 장쇄 지방산 외에, ether 결합(노란색 강조)을 통해 연결된 특이한 fatty alcohol을 포함한다.*
 
 ## 구조적 특징

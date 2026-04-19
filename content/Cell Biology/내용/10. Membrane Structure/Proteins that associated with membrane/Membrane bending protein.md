@@ -23,7 +23,7 @@ Membrane shape는 동적으로 조절된다:
 
 ## ==Membrane-bending Protein의 작용 메커니즘==
 
-![[_page_30_Picture_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_1.jpeg]]
 
 Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하며, 세 가지 주요 메커니즘 중 하나 이상으로 작용한다:
 
@@ -45,7 +45,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ### 2. Rigid Scaffold Formation (C)
 
-![[_page_30_Picture_3.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_3.jpeg]]
 
 **메커니즘:**[^기출_중간_2023_21_④]
 - ==일부 membrane-bending protein이 rigid scaffold 형성==
@@ -59,7 +59,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ### 3. Lipid Clustering
 
-![[_page_30_Picture_4.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_4.jpeg]]
 
 **메커니즘:**
 ==Cone-shaped과 inverted cone-shaped lipid의 비대칭 분포:==
@@ -83,7 +83,7 @@ Lipid가 positive 또는 negative membrane curvature를 induce하는 능력은:
   - Positive curvature induce
 
 - ==**Phospholipase가 처리한 lipid:**==
-  - ![[Pasted image 20260316192026.png]]
+  - ![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260316192026.png]]
   - ==Lipid head group 제거==[^기출_중간_2023_21_②]
   - Inversely shaped lipid molecule 생성
   - ==Negative curvature induce==

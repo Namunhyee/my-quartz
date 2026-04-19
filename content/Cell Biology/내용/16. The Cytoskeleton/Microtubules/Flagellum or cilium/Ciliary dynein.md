@@ -1,10 +1,10 @@
 # Ciliary Dynein
-![[_page_56_Picture_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_56_Picture_1.jpeg]]
 
 *Fig 16–59. Axonemal dynein. 바다성게 정자 편모의 cryoEM 재구성. Dynein arm이 한 doublet의 A microtubule과 인접 doublet의 B microtubule을 규칙적 간격으로 연결한다.*
 
 **Axonemal dynein** (섬모 dynein)은 axoneme 내 인접한 microtubule doublet을 연결하는 minus end 방향 motor이다.[^기출_기말_2023_21] Cytoplasmic dynein과 구조적으로 관련이 있으며, ciliary/flagellar beating에 특화되어 있다.
-![[_page_57_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_57_Picture_2.jpeg]]
 ## 구조
 
 Axonemal dynein은 dimeric 또는 trimeric 구조를 가지며, 1–3개의 motor-containing heavy chain으로 구성된다. Sperm axonemal dynein은 dimeric으로, 분자의 tail은 A microtubule에 단단히 결합하며, 두 개의 globular head는 각각 stalk을 통해 인접 B microtubule에 ATP-의존적으로 결합한다.

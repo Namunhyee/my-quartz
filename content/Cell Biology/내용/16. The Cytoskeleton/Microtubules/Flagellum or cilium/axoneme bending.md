@@ -1,6 +1,6 @@
 # Axoneme Bending
 
-![[_page_56_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_56_Figure_7.jpeg]]
 *Fig 16–60. Axoneme의 bending. (A) Trypsin 처리로 cross-link를 끊으면 ATP 추가 시 doublet 간 실제 sliding이 일어난다. (B) Intact axoneme에서는 flexible protein link들이 sliding을 막아 dynein 힘이 bending으로 전환된다.*
 
 ## Sliding에서 Bending으로의 변환

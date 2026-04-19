@@ -2,7 +2,7 @@
 
 **Centrosome**은 동물 세포에서 가장 중요한 MTOC (microtubule-organizing center)로, 핵 옆 세포질에 위치한다.[^기출_기말_2025_18] Minus end를 고정하고 plus end를 세포 바깥쪽으로 향하게 하여 microtubule을 nucleate하며, 세포 내 organelle 배치의 전체적인 좌표계를 제공한다.[^기출_기말_2023_22]
 
-![[_page_43_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_43_Figure_6.jpeg]]
 *Fig 16–42. Centrosome의 구조. (A) 핵 옆에 위치하며, centriole 쌍을 pericentriolar material이 둘러싸는 구조. (B) Microtubule이 부착된 centrosome. Minus end는 centrosome에 묻히고 plus end는 세포질 쪽으로 자유롭게 뻗는다. (C) C. elegans 세포 MTOC에서 방사상으로 뻗은 microtubule thicket.*
 
 ---
@@ -30,7 +30,7 @@ Centriole 주변을 감싸는 **PCM (pericentriolar material)**은 섬유성 단
 
 ## Centriole
 
-![[_page_44_Picture_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_44_Picture_1.jpeg]]
 *Fig 16–43. Centriole 쌍. (A) Distal appendage를 가진 mother centriole과 인접한 daughter centriole 단면. (B) Protozoan centriole 단면: 9세트의 microtubule triplet이 원통형 배열. (C) Triplet 구성. (D) SAS-6 단백질이 cartwheel의 9중 대칭을 형성.*
 
 Centrosome 내부에는 **L자형으로 배치된 한 쌍의 centriole**이 있다. 각 centriole은 **9세트의 microtubule triplet**이 원통형으로 배열된 구조로 9중 대칭을 갖는다. 각 triplet은 하나의 완전한 microtubule (A microtubule)에 두 개의 불완전한 microtubule (B, C microtubule)이 융합된 구조다. 중앙 cartwheel 구조의 9중 대칭은 **SAS-6** 단백질이 coiled-coil dimer를 이루어 9개가 자기조립하여 링을 형성함으로써 만들어진다.
@@ -55,7 +55,7 @@ Centrosome은 **S phase에 복제**되어 각 centriole 옆에 새로운 딸 cen
 
 ## 세포 유형별 Microtubule 조직화의 다양성
 
-![[_page_44_Picture_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_44_Picture_6.jpeg]]
 *Fig 16–44. 다양한 세포 유형에서의 microtubule 조직화. Fibroblast와 yeast는 단일 MTOC에서 방사형으로 뻗는 microtubule을 갖는 반면, 분화된 세포들은 더 복잡한 plus/minus end 분포를 보인다.*
 
 세포 유형에 따라 MTOC의 구조와 microtubule의 배열이 크게 다르다.
@@ -77,7 +77,7 @@ Centrosome은 **S phase에 복제**되어 각 centriole 옆에 새로운 딸 cen
 
 Interphase에서 mother centriole은 세포막 근처로 이동하여 **primary cilia의 basal body**로 기능한다.
 
-![[_page_57_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_57_Picture_2.jpeg]]
 *Fig 16–61. Primary cilia. (A) Mouse neuron primary cilium의 basal body. Mother centriole이 basal body가 되어 axoneme nucleation을 담당. (B) Centriole의 기능적 전환 — interphase에서는 primary cilium의 basal body, 분열기에는 mitotic spindle의 centrosome.*
 
 이 전환 과정은 세포 주기와 연동된다.

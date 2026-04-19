@@ -1,5 +1,5 @@
 # ==Sec62-Sec63 complex==
-![[_page_25_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_25_Figure_2.jpeg]]
 ==<mark style="background:#fff88f">Eukaryotic cell에서</mark> [[Post-translational translocation]]을 매개하는 데 필요한 accessory protein complex. (두번째)==
 
 ## 구조 및 위치

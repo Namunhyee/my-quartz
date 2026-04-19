@@ -76,7 +76,7 @@ Multipass 막단백질은:
 
 ## Membrane Protein Asymmetry
 
-![[_page_11_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_11_Figure_9.jpeg]]
 
 **중요한 원칙**:
 - Membrane protein은 항상 ER의 cytosolic 면에서 삽입됨

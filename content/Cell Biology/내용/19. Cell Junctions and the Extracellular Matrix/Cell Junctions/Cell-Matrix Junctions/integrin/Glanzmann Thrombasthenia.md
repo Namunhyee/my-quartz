@@ -1,7 +1,7 @@
 # Glanzmann Thrombasthenia
 
-![[_page_53_Picture_3.jpeg]]
-![[_page_53_Picture_6.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_53_Picture_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_53_Picture_6.jpeg]]
 
 **Glanzmann Thrombasthenia** (Glanzmann disease)는 **αIIbβ3 integrin**의 유전적 결함으로 인한 출혈 질환이다.
 

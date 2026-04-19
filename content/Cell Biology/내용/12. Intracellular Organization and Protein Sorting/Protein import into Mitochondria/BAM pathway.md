@@ -2,7 +2,7 @@
 
 미토콘드리아의 outer membrane과 그람 음성 세균의 outer membrane은 **β-barrel 단백질**을 공통적인 메커니즘으로 삽입한다. 이는 미토콘드리아의 내공생 기원을 뒷받침하는 강력한 증거이다.
 
-![[_page_50_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_50_Picture_2.jpeg]]
 *Fig 12-52. (A) 미토콘드리아 outer membrane의 β-barrel 단백질 삽입. TOM complex를 통과한 후 intermembrane space chaperone이 aggregation을 방지하고, SAM complex가 outer membrane에 삽입·폴딩을 수행한다. (B) 그람 음성 세균의 outer membrane에서 BAM complex가 동일한 역할을 담당한다.*
 
 ## β-Barrel 단백질의 특성

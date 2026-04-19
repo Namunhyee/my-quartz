@@ -1,7 +1,8 @@
 # Protein import into Mitochondria
 
 ==미토콘드리아의 단백질 대부분(약 99%)은 핵 유전자로 암호화되어 cytosol에서 합성된 후 수입==된다. ==나머지 소수만이 미토콘드리아 내부 ribosome에서 합성==된다.[^기출_중간_2021_20][^기출_중간_2021_미상D][^기출_중간_2025_16]
-![[Cell Biology/출처/md converted/Chapter 12/_page_47_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_46_Figure_6.jpeg]]
+
 ## 기본 원리
 
 - 모든 mitochondrial precursor protein은 하나 이상의 [[Sorting Signal|signal sequence]]를 포함한다.

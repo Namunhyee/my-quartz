@@ -18,7 +18,7 @@ Trans-SNARE complex가 membrane fusion drive:
 - 여전히 매우 stable
 
 ### 4. ==NSF-mediated Disassembly==
-![[_page_14_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_8.jpeg]]
 **NSF** (N-ethylmaleimide-sensitive fusion protein):
 - Hexameric ==AAA-ATPase== = ==Unfoldase==
 - Cis-SNARE complex 인식

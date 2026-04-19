@@ -54,7 +54,7 @@ Fatty acid chain을 통한 membrane attachment는 두 가지 형태가 있다:
 - ==Thio**ether** linkage를 통해 cysteine residue에 부착==[^기출_중간_2023_20][^기출_중간_2022_16]
 - Cysteine는 처음에 protein의 C-terminus로부터 4번째 residue에 위치
 #### <mark style="background:#fff88f">2주차 형성평가</mark>
-![[_page_1_Figure_25.jpeg]]
+![[Cell Biology/출처/족보/md converted/2022 세포생물학 중간고사 문제지/_page_1_Figure_25.jpeg]]
 MKD(mevalonate kinase deficiency)라는 병은 mevalonate kinase에 돌연변이가 발생해 farnesyl을 만들어낼 수 없게 된다. MKD의 발병 원인을 추론하라
 
 > [!NOTE] Title

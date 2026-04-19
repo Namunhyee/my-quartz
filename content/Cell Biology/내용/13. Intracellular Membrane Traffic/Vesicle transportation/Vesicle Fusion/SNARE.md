@@ -54,7 +54,7 @@
 
 ## Trans-SNARE Complex Formation
 
-![[Ch13-1.pdf#page=19]]
+![[Pasted image 20260419171627.png]]
 ### Zippering Mechanism
 
 1. **Initial Contact**:
@@ -156,7 +156,7 @@ Synaptic vesicle fusion은 특수한 SNARE set 사용:
 - **Influenza virus**: Endosome에서 low pH로 활성화
 - **SARS-CoV-2**: Host protease cleavage로 활성화
 
-![[_page_48_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_48_Figure_9.jpeg]]
 
 Viral fusion은 SNARE와 유사한 원리지만 다른 molecular detail을 사용.
 

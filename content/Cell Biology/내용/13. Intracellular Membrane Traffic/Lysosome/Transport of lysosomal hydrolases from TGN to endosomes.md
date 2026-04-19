@@ -63,7 +63,7 @@ Retromer는 endosome에서 TGN으로의 transport에 특화된 coat 단백질 co
 
 ## Escape Mechanism
 
-![[_page_29_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_29_Figure_8.jpeg]]
 
 모든 hydrolase 분자가 lysosome에 도달하는 것은 아니다:
 - 일부 M6P-tagged hydrolase가 정상 packaging process를 벗어남

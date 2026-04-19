@@ -1,8 +1,8 @@
 # Rho Family GTPases
 
-Rho family GTPase는 세포 극성 확립과 actin cytoskeleton 재구성의 핵심 신호전달 분자다. 세 주요 구성원인 **Cdc42**, **Rac**, **Rho**는 각각 고유한 downstream effector를 통해 filopodia, lamellipodia, stress fiber 형성을 조절한다.[^기출_기말_2023_16]
+Rho family GTPase는 세포 극성 확립과 actin cytoskeleton 재구성의 핵심 신호전달 분자다. 세 주요 구성원인 **Cdc42**, **Rac**, **Rho**는 각각 고유한 downstream effector를 통해 [[actin arrays|filopodia, lamellipodia, stress fiber]] 형성을 조절한다.[^기출_기말_2023_16]
 
-## 분자 스위치 메커니즘
+## ==분자 스위치 메커니즘==
 
 Rho family 단백질은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/major accessory proteins of the actin cytoskeleton|small monomeric GTPase]]로서 GTP-결합 활성형과 GDP-결합 비활성형 사이를 순환하는 분자 스위치로 작동한다.
 
@@ -12,16 +12,16 @@ Rho family 단백질은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filamen
 - **GAP (GTPase Activating Protein)**: GTP 가수분해를 촉진하여 GTPase를 **불활성화**
 - **GDI (Guanine nucleotide Dissociation Inhibitor)**: GDP-결합형에 결합하여 GEF에 의한 GTP 교환을 억제
 
-## 세 주요 구성원과 actin에 대한 효과
+## ==세 주요 구성원과 actin에 대한 효과==
 
-![[_page_68_Figure_2.jpeg]]
-*Fig 16–75. Cdc42, Rac, Rho의 활성화가 fibroblast actin 구조에 미치는 극적인 차이. (A) 혈청 결핍 기저 상태. (B) 활성형 Cdc42 주입 → 다수의 filopodia. (C) 활성형 Rac 주입 → 세포 전 둘레에서 lamellipodium 형성. (D) 활성형 Rho 주입 → 다수의 stress fiber 형성.*
+![[Cell Biology/출처/md converted/Chapter 16/_page_68_Figure_2.jpeg]]
+*Fig 16–75. Cdc42, Rac, Rho의 활성화가 fibroblast actin 구조에 미치는 극적인 차이. (A) 혈청 결핍 기저 상태. (B) 활성형 **Cdc42** 주입 → 다수의 **filopodia**. (C) 활성형 **Rac** 주입 → 세포 전 둘레에서 **lamellipodium** 형성. (D) 활성형 **Rho** 주입 → 다수의 **stress fiber** 형성.*
 
-| GTPase | 주요 actin 구조 | 핵심 effector |
-|--------|--------------|-------------|
-| Cdc42 | Filopodia | 세포 극성 마스터 조절자 |
-| Rac | Lamellipodia | WAVE → Arp2/3 |
-| Rho | Stress fiber, Focal adhesion | Formin + ROCK |
+| GTPase    | 주요 actin 구조                      | 핵심 effector   |
+| --------- | -------------------------------- | ------------- |
+| ==Cdc42== | ==Filopodia==                    | 세포 극성 마스터 조절자 |
+| ==Rac==   | ==Lamellipodia==                 | WAVE → Arp2/3 |
+| ==Rho==   | ==Stress fiber==, Focal adhesion | Formin + ROCK |
 
 ### Cdc42 → Filopodia와 세포 극성
 
@@ -29,7 +29,7 @@ Cdc42는 Rho family GTPase 중 가장 잘 보존되어 있으며 **세포 극성
 
 **출아 효모(Saccharomyces cerevisiae)에서의 Cdc42 기능**:
 
-![[_page_69_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_69_Figure_2.jpeg]]
 *Fig 16–76. Cdc42가 효모 세포 극성을 확립하는 양성 피드백 루프. (A) Cdc42-GTP가 자신의 GEF를 plasma membrane으로 모집하여 단일 활성화 부위를 생성. (B) Formin 단백질 활성화 후 actin 필라멘트 형성, myosin V가 소낭을 운반하여 bud 성장.*
 
 1. 비활성형 GDP-Cdc42가 세포막에 균등 분포
@@ -47,7 +47,7 @@ Rac-GTP는 세포 periphery에서 actin 중합을 촉진하여 **sheet-like lame
 
 **Rac → WAVE → Arp2/3 신호축**:
 
-![[_page_73_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_73_Figure_2.jpeg]]
 *Fig 16–79. Rho family GTPase에 의한 NPF와 formin 조절. (A) WAVE는 Rac-GTP와 결합 시 활성 열린 형태로 전환되어 Arp2/3 complex 및 profilin-actin 결합이 가능해짐. (B) 일부 formin은 자가억제 구조를 갖고 있어 Rho-GTP 결합 시 plus end 및 profilin-actin 결합 부위가 노출됨.*
 
 - WAVE family nucleation-promoting factor (NPF)는 평소 접힌 비활성 형태로 존재
@@ -61,7 +61,7 @@ Rho-GTP는 Rac와 대조적으로 **평행 actin bundle**을 형성하고 myosin
 
 **Rho 신호 경로**:
 
-![[_page_74_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 16/_page_74_Figure_2.jpeg]]
 *Fig 16–80. Rac와 Rho 활성화의 대조적 효과. (A) Rac 활성화: WAVE/Arp2/3로 분지형 네트워크 형성, PAK이 MLCK를 억제하여 myosin II 활성 감소. (B) Rho 활성화: formin으로 직선 필라멘트 뉴클레이션, ROCK이 myosin II를 활성화하여 stress fiber와 focal adhesion 형성.*
 
 - **Rho-GTP → Formin 활성화**: Formin과의 결합이 자가억제를 해제하여 직선 actin 필라멘트 형성 촉진

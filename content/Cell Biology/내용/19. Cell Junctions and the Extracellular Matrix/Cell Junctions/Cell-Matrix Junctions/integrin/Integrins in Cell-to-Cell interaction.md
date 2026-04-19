@@ -30,7 +30,7 @@
 
 ## [[ICAM|ICAM과 VCAM]]
 
-![[_page_51_Picture_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_51_Picture_3.jpeg]]
 *Ig superfamily의 cell-cell adhesion molecule. NCAM과 ICAM의 구조.*
 
 **ICAM (Intercellular cell adhesion molecule)**과 **VCAM (Vascular cell adhesion molecule)**은 내피세포에 발현되는 [[NCAM and ICAM|Ig superfamily]] 구성원이다:

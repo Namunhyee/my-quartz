@@ -6,14 +6,14 @@
 
 ### 발생 빈도
 효모 [[Endoplasmic Reticulum]] membrane과 진화적으로 관련된 bacterial plasma membrane을 가로지르는 post-translational 단백질 translocation이 더 흔하다. 두 경우 모두 [[Sec61 complex|Sec61 translocator]](bacteria에서는 SecY)가 translocator로 사용된다.
-![[Pasted image 20260204112105.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260204112105.png]]
 ### 펼쳐진 상태 유지
 Precursor protein은 초기 합성 후 cytosol에서 fold되지 않는다. 대신, 그들은 precursor folding 또는 응집을 방지하는 다른 cytosolic protein과 상호작용한다. 이러한 상호작용 단백질은 일반적으로 hsp70 family와 같은 일반적인 chaperone protein이며, 펼쳐진 polypeptide가 translocator를 통해 threading될 때 분리되어야 한다.
 
 ## Translocator 개시
 
 Co-translational translocation에서 논의된 것처럼, precursor의 signal peptide는 [[Sec61 complex]]에 직접 engage하여 channel을 연다. 그러나 membrane을 가로지르는 translocation의 다음 단계는 다르게 발생하며 lumenal 측면에서 polypeptide를 channel을 가로질러 당기거나 cytosol에서 channel로 공급하기 위해 세포 에너지를 사용하는 accessory protein에 의존한다.
-![[_page_25_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_25_Figure_2.jpeg]]
 ## ==Eukaryotic cell에서의 기전==
 
 ### Sec62-Sec63 complex 사용

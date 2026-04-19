@@ -19,7 +19,7 @@ Cholesterol은 다음과 같이 표현된다:
 
 ## Membrane 내 배향과 분포
 
-![[_page_3_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_3_Figure_8.jpeg]]
 
 ### Bilayer 내 위치
 

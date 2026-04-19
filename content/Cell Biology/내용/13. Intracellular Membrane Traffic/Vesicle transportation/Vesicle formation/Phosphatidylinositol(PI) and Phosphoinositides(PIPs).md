@@ -43,7 +43,7 @@ PI(3,4,5) P3=phosphatidylinositol 3,4,5-trisphosphate[^2][^기출_중간_2023_3]
 
 ## PIP-binding Domain을 통한 Protein Recruitment
 
-![[Pasted image 20260210003541.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260210003541.png]]
 
 많은 protein이 특정 PIP의 head group에 high specificity로 결합하는 domain 보유:
 예를 들어, [[phagocytosis#Phosphoinositide의 역할|phagocytosis]]는 PI(4,5)P<sub>2</sub> , PI(3,4,5)P<sub>3</sub> 가 진행하기 위한 주요 Phosphatidiylinositides 신호로 작용함.

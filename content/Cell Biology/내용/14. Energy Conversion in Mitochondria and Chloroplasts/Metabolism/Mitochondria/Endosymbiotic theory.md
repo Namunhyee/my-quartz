@@ -4,7 +4,7 @@
 
 미토콘드리아와 엽록체는 과거 독립된 세균이 진핵세포 전구체 안으로 들어와 **endosymbiont(내부공생체)**가 된 뒤, 점차 세포 소기관으로 진화하였다는 이론이다.
 
-![[_page_48_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_48_Figure_2.jpeg]]
 *Figure 14-55: 미토콘드리아와 엽록체의 기원을 나타낸 진화 계통도.*
 
 ---
@@ -49,7 +49,7 @@
 
 ## Chemiosmotic mechanism의 진화
 
-![[_page_46_Picture_12.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_46_Picture_12.jpeg]]
 *Figure 14-53: Chemiosmotic ATP synthesis의 단계적 진화 모델.*
 
 1. **Stage 1**: ATP-driven H⁺ pump가 세균 세포 밖으로 H⁺ pumping → 세포 내 pH 조절

@@ -4,14 +4,14 @@
 
 ==**Endocytosis**는 세포가 plasma membrane 성분, fluid, 용질, 거대분자, 입자 물질을 흡수하는 과정이다==. Plasma membrane의 작은 부분이 점진적으로 들어가는 물질을 둘러싸고, 먼저 invagination한 다음 pinch off하여 섭취된 물질이나 입자를 포함하는 **endocytic vesicle**을 형성한다.
 
-![[_page_0_Figure_14.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_0_Figure_14.jpeg]]
 
 ## Endocytosis의 종류
 
 대부분의 진핵 세포는 지속적으로 pinocytic (endocytic) vesicle을 형성한다:
 ![[Cell Biology/출처/md converted/Chapter 13/_page_52_Figure_7.jpeg]]
 ### 1. Pinocytosis ("cell drinking")
-![[Pasted image 20260409173411.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260409173411.png]]
 세포가 지속적으로 형성하는 작은 endocytic vesicle.
 #### Clathrin-mediated Endocytosis
 가장 흔한 형태의 pinocytosis:
@@ -28,7 +28,7 @@
 [[Autophagy|Autophagy]]를 참조하라. 세포가 자신의 세포질 성분을 섭취하는 특별한 형태.
 
 ## [[Endosomes maturation|Endocytic Pathway]]
-![[_page_1_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_1_Figure_5.jpeg]]
 
 ==Endocytosis로 생성된 대부분의 endocytic vesicle은 공통 receiving 구획인 **early endosome**과 융합한다.== ==Early endosome에서 내재화된 cargo가 분류된다:==
 - 일부 cargo 분자는 plasma membrane으로 반환됨 (직접 또는 recycling endosome 경유)
@@ -49,7 +49,7 @@ Endocytosis와 [[exocytosis_MOC|exocytosis]]는 연결된 과정으로 **endocyt
 
 ## Clathrin-coated Pit과 Vesicle
 
-![[_page_40_Picture_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_40_Picture_10.jpeg]]
 
 ### Clathrin-coated Pit
 

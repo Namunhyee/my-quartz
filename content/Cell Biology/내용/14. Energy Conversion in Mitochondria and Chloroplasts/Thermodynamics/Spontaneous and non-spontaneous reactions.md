@@ -40,7 +40,7 @@ $$\Delta G° = -n(0.096)\Delta E'_0$$
 - H₂O/O₂ E'₀ = +820 mV
 - ΔE'₀ = 1140 mV → 매우 자발적 (ΔG° ≈ −219 kJ/mol for 2e⁻)
 
-![[_page_14_Picture_19.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_14_Picture_19.jpeg]]
 *Panel 14-1: Redox potential 측정 방법과 ΔG 계산.*
 
 ## 관련 개념

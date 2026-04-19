@@ -3,15 +3,15 @@
 Detergent는 ==hydrophobic association을 파괴하고 lipid bilayer를 disassemble==하여 ==[[Membrane protein]]을 가용성 형태로 방출==할 수 있는 유일한 agent이다. 이는 small [[Amphiphilic molecule|amphiphilic]] molecule로 가변적인 구조를 가진다.
 
 
-![[_page_21_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_21_Picture_2.jpeg]]
 - 세포를 파괴하면, free soluble protein은 쉽게 추출 가능하나, membrane과 membrane protein은 녹지 않고 insoluble pellet으로 남는다.
-![[Pasted image 20260316184155.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260316184155.png]]
 - ==detergent를 넣어주면, protein-lipid-detergent complex, lipid-detergent complex는 cell lysate에 남는다.==
 
 
 ## ==detergent 의 종류==
 
-![[_page_20_Figure_1.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_20_Figure_1.jpeg]]
 
 Polar (hydrophilic) end는 두 가지 type이 있다:
 

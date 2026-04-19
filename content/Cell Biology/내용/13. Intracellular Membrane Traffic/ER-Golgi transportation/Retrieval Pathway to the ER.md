@@ -5,7 +5,7 @@
 
 Retrieval pathway는 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting|ER]]을 실수로 떠난 protein을 다시 ER로 되돌리는 transport system이다.[^기출_중간_2021_미상B][^기출_중간_2022_27][^기출_중간_2023_5] 이 pathway는 각 compartment의 identity를 유지하는 데 essential하다.
 
-![[_page_19_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
 ## ==COPI-coated Vesicle==
 
@@ -75,7 +75,7 @@ Retrieval pathway는 specific signal에 의존한다.
 
 ## KDEL Receptor
 
-![[_page_19_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
 Soluble protein의 retrieval은 **KDEL receptor** 필요.
 
@@ -106,7 +106,7 @@ Soluble protein의 retrieval은 **KDEL receptor** 필요.
 
 ### ==pH-dependent Affinity==
 
-![[_page_19_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
 **Key feature**:
 - ==Golgi (pH ~6.5-6.7): High affinity for KDEL[^기출_중간_2023_5][^기출_중간_2025_20]==

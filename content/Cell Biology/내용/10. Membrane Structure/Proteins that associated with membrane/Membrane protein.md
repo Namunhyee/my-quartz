@@ -128,7 +128,7 @@ Membrane protein은 membrane의 거의 모든 다른 기능을 매개한다:
 대부분의 transmembrane protein에서:
 - Polypeptide chain이 lipid bilayer를 α-helical conformation으로 횡단
 
-![[_page_15_Picture_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_15_Picture_7.jpeg]]
 
 위 그림은 membrane-spanning polypeptide chain segment가 lipid bilayer를 α helix로 횡단하는 것을 보여준다. Glycophorin의 일부로 red blood cell plasma membrane에서 풍부하게 발견된다.
 
@@ -147,7 +147,7 @@ Multipass transmembrane protein의 또 다른 방식:
 
 ## ==**Glycosylation**==
 
-![[_page_18_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_18_Figure_7.jpeg]]
 
 대부분의 transmembrane protein (동물 세포)은 glycosylate됨:
 - ==Sugar residue가 ER과== [[Golgi apparatus_MOC|Golgi apparatus]]==의 lumen에서== [[N-linked glycosylation|추가됨]]
@@ -177,7 +177,7 @@ Glycoprotein과 [[Glycolipid]]의 carbohydrate는:
 - ==모든 진핵세포 표면의 carbohydrate-rich zone 형성==
 - Cell coat 또는 glycocalyx로 불림
 
-![[_page_19_Figure_4.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 10/_page_19_Figure_4.jpeg]]
 
 위 그림 (B)는 carbohydrate layer의 구성을 보여준다:
 - Membrane glycolipid의 oligosaccharide side chain

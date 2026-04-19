@@ -63,5 +63,9 @@ title: 🧬AUSOM 세포생물학 노트
 		- [[000_Ch13-2_정리본]] (6주차: Lysosome ~ Polarized cells)
 	- [[000_세포생물학 개요]] 정리본 표 업데이트
 	- 기출문제 수정사항 업데이트 1차
+- 2026/04/19
+	- 기출문제 전체 검토사항 반영 완료.
 ----
-vault organized by 24 CHAE
+vault organized by 24 채문기
+
+Previous exam questions are reviewed and checked by 24 김현우, 정진우, 조원형, 채문기

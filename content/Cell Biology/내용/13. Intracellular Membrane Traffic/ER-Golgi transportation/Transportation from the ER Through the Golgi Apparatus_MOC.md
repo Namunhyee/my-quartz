@@ -47,7 +47,7 @@ ER exit step은 secretory pathway의 major checkpoint.
 
 ### ==Formation==
 
-![[_page_18_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
 
 ER-derived transport vesicle이 coat shed 후:
 
@@ -66,7 +66,7 @@ ER-derived transport vesicle이 coat shed 후:
    - ER에서 Golgi로 material 운반하는 transport container로 기능
 
 ### Movement to Golgi
-![[_page_19_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
 
 **Microtubule-based transport**:
@@ -85,7 +85,7 @@ Early stage vesicular tubular cluster:
 - **Vacuolar domain**: 대부분의 volume
 
 ## Retrieval Pathway to the ER
-![[_page_18_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
 
 ### COPI-coated Vesicle Budding
 
@@ -161,7 +161,7 @@ Golgi 도달 후에도 retrieval 계속되어 더욱 mature.
 
 **KDEL Receptor**:
 
-![[_page_19_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_19_Figure_10.jpeg]]
 
 - Multipass transmembrane protein
 - KDEL sequence 인식

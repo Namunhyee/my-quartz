@@ -6,7 +6,7 @@
 ## GPI Anchor의 구조
 
 GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipid 구조이다:
-![[Pasted image 20260204122435.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260204122435.png]]
 - **Inositol**: lipid에 부착되어 있으며, 이로부터 GPI anchor의 이름이 유래
 - **Glucosamine**: Inositol에 연결
 - **3개의 Mannose**: sugar chain 형성

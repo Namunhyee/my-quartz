@@ -17,7 +17,7 @@
 ## Detection Methods
 
 ### <mark style="background:#fff88f">Direct vs Indirect Immunocytochemistry</mark>
-![[_page_10_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 9/_page_10_Picture_2.jpeg]]
 
 
 **Primary Antibody(1차 항체)**:

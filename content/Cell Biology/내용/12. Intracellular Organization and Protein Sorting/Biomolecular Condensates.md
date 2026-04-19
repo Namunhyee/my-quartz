@@ -7,7 +7,7 @@
 - ==**Compartment = 반드시 membrane이 필요한 것은 아님**==
 
 ## 형성 메커니즘: Multivalent Interactions
-![[_page_5_Picture_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_5_Picture_9.jpeg]]
 ==**Multivalent interaction**: 하나의 분자가 여러 개의 결합 부위를 보유 → 동시에 여러 분자와 결합==
 ==→ 네트워크 형성 → 액체처럼 분리 (**phase separation**)==
 
@@ -56,7 +56,7 @@
 ## ==Phosphorylation에 의한 동적 조절==
 
 신호전달 과정에서 condensate는 필요에 따라 형성되고 해체된다:
-![[_page_10_Figure_6.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_10_Figure_6.jpeg]]
 
 | 단계 | 내용 |
 |------|------|

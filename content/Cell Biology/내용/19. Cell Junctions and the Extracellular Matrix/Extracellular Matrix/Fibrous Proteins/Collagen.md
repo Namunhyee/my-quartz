@@ -5,7 +5,7 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 ## 구조적 특징
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_14_Figure_2.jpeg]]
-![[_page_14_Picture_13.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_14_Picture_13.jpeg]]
 *Collagen의 구조. 긴(1000 AA), triple-stranded helical structure. 3개의 amino acid가 한 turn을 이루며, Gly-X-Y triplet 서열을 반복한다.*
 
 - **Triple-stranded helical structure**: 3개의 collagen polypeptide chain (α chain)이 rope처럼 superhelix를 형성
@@ -14,7 +14,7 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 - **Proline과 glycine이 매우 풍부**: Glycine이 매 3번째 아미노산으로 나타나며, 작은 크기 덕분에 3개 사슬이 촘촘히 결합 가능
 - 콜라겐은 **Hydroxylysine** 잔기에 Glucose와 Galactose가 결합하는 <font color="#ff0000">당단백질</font>. 이 과정은 콜라겐의 **삼중 나선을 안정화**하고 **섬유 형성**을 돕기 위해 꼭 필요.
 
-![[_page_15_Picture_1.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_15_Picture_1.jpeg]]
 *배아 닭 피부 결합조직의 fibroblast를 둘러싼 collagen fibril[^1]. Collagen은 ECM의 구조적 지지를 제공하며, 경직성과 신장 저항성 덕분에 피부, 힘줄, 뼈, 인대에 이상적인 matrix이다.*
 
 ## Types of Collagen (Table 19-2 기반)
@@ -45,7 +45,7 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 | **Type III** | 피부, 혈관, 내부 장기                               | 약한 피부, 느슨한 관절, 혈관 파열 (Ehlers-Danlos syndrome) |
 | **Type V**   | Type I과 함께 fibril 형성                        | Type I과 유사 분포                                 |
 | **Type XI**  | Type II와 함께 fibril 형성                       | Type II와 유사 분포                                |
-![[Pasted image 20260219010142.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260219010142.png]]
 
 ### Fibril-associated Collagens
 
@@ -79,7 +79,7 @@ Fibril이 아닌 sheet-like network를 형성하는 collagen들이다.
 
 **Type IV Collagen**은 [[Basal Lamina_MOC|basal lamina]]의 필수 구성요소이다:
 
-![[_page_38_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_38_Figure_9.jpeg]]
 *Basal lamina의 분자 구조. Type IV collagen 분자가 terminal domain를 통해 상호작용하여 유연한 felt-like network를 형성한다. 이것이 [[Laminin|laminin]], [[nidogen]], [[Proteoglycan|perlecan]]과 결합하여 basal lamina에 인장 강도를 부여한다.*
 
 Type IV collagen은 fibrillar collagen과 달리:

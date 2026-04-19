@@ -1,8 +1,8 @@
 # NCAM and ICAM
 
-![[_page_51_Picture_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_51_Picture_3.jpeg]]
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_52_Picture_2.jpeg]]
-![[_page_52_Picture_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_52_Picture_3.jpeg]]
 *Ig superfamily의 cell-cell adhesion molecule 구조. NCAM과 ICAM.*
 
 **NCAM**과 **ICAM**은 **Immunoglobulin (Ig) superfamily**에 속하는 cell adhesion molecule이다.[^기출_기말_2022_10] Extracellular portion에 하나 이상의 **Ig-like domain**을 포함하는 것이 특징이다.
@@ -15,7 +15,7 @@
 - **기능**: 신경세포 발달, 신경 연결 형성, 세포 이동 등에 관여
 
 ## ICAM (Intercellular Cell Adhesion Molecule)
-![[_page_52_Picture_9.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_52_Picture_9.jpeg]]
 
 - **분포**: 내피세포와 일부 다른 세포 타입에서 발현
 - **결합 방식**: **Heterophilic binding** — 백혈구의 [[integrin_MOC|integrin]] (특히 αLβ2/LFA1)에 결합

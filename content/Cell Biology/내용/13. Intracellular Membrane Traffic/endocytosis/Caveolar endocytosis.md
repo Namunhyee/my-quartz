@@ -20,7 +20,7 @@ Caveolae는 다음과 같은 성분이 풍부하다:
 - ==Plasma membrane의 **[[Cell Biology/내용/10. Membrane Structure/Structures in membrane/Raft domain|lipid raft]]** 유형을 나타낼 수 있음==[^기출_중간_2023_10]
 
 ## 구조 단백질
-![[Pasted image 20260210190519.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260210190519.png]]
 ### ==Caveolin(Coat protein)==
 
 주요 구조 단백질은 **caveolin** family이다:[^기출_중간_2025_23]

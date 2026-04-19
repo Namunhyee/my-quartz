@@ -7,7 +7,7 @@
 - 따라서 cytosolic accessory protein인 SecA ATPase를 사용
 
 ## 기능 기전
-![[Pasted image 20260202234617.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260202234617.png]]
 
 ### Precursor 결합 및 부착
 - SecA가 precursor polypeptide에 결합

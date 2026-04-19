@@ -1,7 +1,7 @@
 > Intact Tissues Are Usually Fixed and Sectioned Before Microscopy
 [[Ch9.pdf#page=10&selection=0,0,0,64|Ch9, 페이지 10]]
 
-![[Pasted image 20260120125550.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260120125550.png]]
 조직이 광학현미경 관찰 준비과정에서 microtome으로 잘려짐.
 급속냉각된 샘플이 세포 구조를 더 잘 보존함
 

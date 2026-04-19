@@ -4,7 +4,7 @@
 
 Exocytosis는 transport vesicle이 plasma membrane과 융합하여 vesicle의 내용물을 세포 외부로 방출하는 과정이다.[^기출_중간_2023_12][^기출_중간_2025_25] Vesicle membrane은 plasma membrane의 일부가 되고, vesicle의 내용물은 extracellular space로 분비된다.[^기출_중간_2025_25] 이 과정은 [[Transportation from the ER Through the Golgi Apparatus_MOC|protein의 ER에서 Golgi apparatus를 거쳐 세포 표면으로의 이동]] 경로의 마지막 단계이다.[^기출_중간_2022_36][^기출_중간_2023_12]
 
-![[Pasted image 20260409190121.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260409190121.png]]
 
 ## Exocytosis의 두 가지 경로
 
@@ -54,7 +54,7 @@ Exocytosis로 plasma membrane에 추가된 membrane은 [[_endocytosis_MOC|endocy
 - Membrane 성분의 재활용
 - Receptor down-regulation
 
-![[_page_1_Figure_5.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_1_Figure_5.jpeg]]
 *Figure 13-3: Secretory pathway와 endocytic pathway의 개략도. Red arrow는 secretory pathway, green arrow는 endocytic pathway, blue arrow는 retrieval pathway를 나타낸다.*
 
 ## Regulated Exocytosis가 Plasma membrane을 확장하다

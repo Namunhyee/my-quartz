@@ -50,7 +50,7 @@ Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 
 **Sequential cycles**: 활성화와 bleaching의 연속적인 cycles가 잘 분리된 단일 형광 분자를 검출할 수 있게 함[^기출_중간_2023_14]
 
 **Image building**: 수만 개의 연속적인 작은 분자 그룹들의 위치가 map에 추가됨에 따라 형광 구조의 superresolution 이미지가 구축됨
-![[Pasted image 20260305212402.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260305212402.png]]
 ### (B) TIRF와 PALM/STORM 비교
 세포의 일부에서 microtubules가 형광으로 표지되어 TIRF microscope(왼쪽)와 superresolution PALM microscope(오른쪽)에서 이미지화됨.
 

@@ -12,7 +12,7 @@ Gap junction은 인접 세포의 cytoplasm을 직접 연결하는 채널로, 이
 
 Gap junction의 pore size는 약 1.4 nm로, 이온, 당, 아미노산, 뉴클레오타이드, 비타민, cAMP, IP3 같은 intracellular signaling molecule 등 약 1000 dalton 이하의 분자를 통과시킨다. 단백질, 핵산, 다당류 같은 macromolecule은 통과하지 못한다.
 
-![[_page_17_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 19/_page_17_Figure_7.jpeg]]
 *Figure 19-24. Gap junction channel의 크기 결정 실험. 형광 분자를 크기별로 한 세포에 주입하면, 약 1000 dalton 미만의 분자만 인접 세포로 이동한다.*
 
 ---

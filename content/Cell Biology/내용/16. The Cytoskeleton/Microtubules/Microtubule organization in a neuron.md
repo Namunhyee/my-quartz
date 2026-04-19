@@ -1,6 +1,6 @@
 # Microtubule Organization in a Neuron
 
-![[ppt로부터_ Figure 16-62.png]]
+![[Cell Biology/출처/md converted/Chapter 16/ppt로부터_ Figure 16-62.png]]
 *Fig 16–62. 뉴런에서 microtubule 조직. 축삭에서는 모든 microtubule의 plus end가 축삭 말단 쪽을 향하고, dendrite에서는 plus end와 minus end가 혼재한다.*
 
 뉴런에서 microtubule 배열은 세포 내에서도 구역에 따라 다르게 조직된다.

@@ -2,10 +2,10 @@
 
 Extracellular matrix(ECM)는 세포가 국소적으로 [[Cell Biology/내용/13. Intracellular Membrane Traffic/exocytosis/secretory pathway|분비 경로(ER → Golgi → 세포 외부)]]를 통해 분비하여 조직화된 meshwork로 조립한 많은 단백질과 다당류로 구성된다.
 
-![[_page_3_Picture_3.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_3_Picture_3.jpeg]]
 *Fibroblast를 둘러싼 extracellular matrix. Extracellular space는 대부분 ECM의 macromolecule network로 채워진다.*
 
-![[Pasted image 20260219015632.png]]
+![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260219015632.png]]
 ## ECM의 세 가지 주요 Macromolecule 분류
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_5_Picture_1.jpeg]]

@@ -39,7 +39,7 @@ Transmembrane protein [[Sec61 complex|translocator]]가 cytosol에서 topologica
 
 ### Eukaryotic cells에서의 기전
 
-![[_page_25_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_25_Figure_2.jpeg]]
 
 Figure 12-25B[^1]: Eukaryotic cell에서의 post-translational translocation. [[Sec62-Sec63 complex]]가 필요하다. 이 complex는 [[Sec61 complex|Sec61 translocator]]에 부착되어 있으며, ER lumen에서 translocator로부터 나오는 translocating chain에 결합할 수 있는 위치에 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]] 분자를 배치한다. ATP 구동 BiP 결합 및 방출 주기가 단백질을 lumen으로 끌어당긴다.
 
@@ -47,7 +47,7 @@ Figure 12-25B[^1]: Eukaryotic cell에서의 post-translational translocation. [[
 
 ### Bacteria에서의 기전
 
-![[_page_25_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_25_Figure_2.jpeg]]
 
 *Figure 12-25C: Bacteria에서의 post-translational translocation. 완성된 polypeptide chain이 [[SecA ATPase]]에 의해 cytosolic 측면에서 plasma membrane의 [[Sec61 complex|Sec61 translocator]] 박테리아 상동체(SecY)로 공급된다. ATP 가수분해 구동 conformational change가 SecA에서 piston과 같은 운동을 유도한다. 이 piston은 단백질 chain의 여러 아미노산을 translocator의 pore를 통해 밀어낼 뿐만 아니라 chain이 cytosol로 역류하는 것을 방지한다.*
 

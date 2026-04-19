@@ -97,7 +97,7 @@ COPI-coated vesicle은 다른 disassembly trigger 사용:
 
 **Rab cascade**는 하나의 Rab protein이 다른 Rab protein을 순차적으로 recruit하고 활성화하는 과정이다.
 
-![[_page_13_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_13_Picture_2.jpeg]]
 
 ### Mechanism
 
@@ -142,7 +142,7 @@ COPI-coated vesicle은 다른 disassembly trigger 사용:
 
 **Rab protein**은 GTP/GDP cycle과 membrane/cytosol cycle을 coupling하여 작동한다.
 
-![[_page_12_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_12_Figure_9.jpeg]]
 
 ### Rab Protein의 특징
 

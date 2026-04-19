@@ -1,6 +1,6 @@
 # Elastin
 
-![[_page_22_Picture_1.jpeg]]
+![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_22_Picture_1.jpeg]]
 
 **Elastin**은 조직에 **탄성(elasticity)**을 부여하는 단백질이다.[^기출_기말_2022_14] 대동맥 같은 혈관에서 특히 중요하며, lung(폐), elasic ligaments(탄성 인대), elastic cartilage(탄성 연골), skin, bladder(방광)에서도 매우 중요하다.
 

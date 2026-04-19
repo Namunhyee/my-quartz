@@ -4,7 +4,7 @@ Peroxisome은 사실상 모든 진핵세포에 존재하는 소형 막 소기관
 
 ## 기본 구조
 
-![[_page_40_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_40_Picture_8.jpeg]]
 *Fig 12-43. 간 세포의 peroxisome 전자현미경 사진. 진한 결정성 봉입체(paracrystalline core)는 주로 urate oxidase로 구성된다.*
 
 - **단일막(single membrane)**으로 둘러싸인 소포 형태[^기출_중간_2025_6]

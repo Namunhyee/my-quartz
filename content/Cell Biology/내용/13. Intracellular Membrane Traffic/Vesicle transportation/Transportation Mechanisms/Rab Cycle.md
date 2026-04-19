@@ -98,7 +98,7 @@ Transport vesicle 형성 시:
 
 ### ==Rab-associated domain formation==
 
-![[_page_12_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_12_Figure_9.jpeg]]
 
 **Positive feedback mechanism**
 1. Rab GEF가 membrane에서 Rab activate

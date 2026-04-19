@@ -23,7 +23,7 @@ Specialized fusion protein이 energy barrier 극복:
 
 세포 내 대부분의 membrane fusion은 **[[SNARE|SNARE protein]]**에 의해 매개된다.
 
-![[_page_14_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_8.jpeg]]
 
 ### SNARE의 특징
 
@@ -50,7 +50,7 @@ Specialized fusion protein이 energy barrier 극복:
 
 ## ==Membrane Fusion Process==
 
-![[_page_14_Figure_9.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_9.jpeg]]
 
 ### ==단계별 과정==
 
@@ -95,7 +95,7 @@ SNARE pairing은 highly specific:
 - [[Transportation Mechanism_MOC#Rab Cycle|Rab protein]]과 함께 작동하여 높은 정확도 달성
 
 ## Trans-SNARE Complex Disassembly
-![[_page_14_Figure_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 13/_page_14_Figure_8.jpeg]]
 
 Fusion 후 SNARE는 재사용을 위해 분리되어야 함:
 

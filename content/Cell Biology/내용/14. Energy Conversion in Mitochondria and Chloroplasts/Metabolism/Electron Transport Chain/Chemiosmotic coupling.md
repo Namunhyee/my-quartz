@@ -13,7 +13,7 @@
 ![[Cell Biology/출처/md converted/Chapter 14/_page_1_Figure_2.jpeg]]
 *Figure 14-2: Stage 1 - Electrochemical proton gradient 형성.*
 
-![[_page_1_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_1_Figure_10.jpeg]]
 *Figure 14-3: Stage 2 - ATP synthase에 의한 ATP 합성.*
 
 ### Stage 1: Proton Gradient 형성
@@ -29,7 +29,7 @@
 
 ## Electrochemical Proton Gradient 구성
 
-![[_page_11_Figure_10.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_11_Figure_10.jpeg]]
 *Figure 14-14: 미토콘드리아 inner membrane의 electrochemical proton gradient.*
 
 두 가지 성분:

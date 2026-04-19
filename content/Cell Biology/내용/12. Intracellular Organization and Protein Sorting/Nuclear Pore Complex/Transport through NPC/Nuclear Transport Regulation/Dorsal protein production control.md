@@ -2,7 +2,7 @@
 
 ==**Dorsal** 단백질은 초파리(*Drosophila*) 배아 발생에서 등쪽(dorsal)과 배쪽(ventral) 분화를 제어하는 전사 조절 인자이다. 핵 내 위치 여부가 유전자 발현을 조절한다.==
 
-![[_page_59_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 12/_page_59_Picture_8.jpeg]]
 *Fig 12-62. 초파리 배아 초기 발생에서의 핵 수송 조절. 배아는 공통 세포질에 많은 핵이 존재하는 syncytium 형태이다. Dorsal 단백질은 세포질 전반에 균일하게 생성되지만, 배쪽(아래쪽) 핵에는 축적되고 등쪽(위쪽) 핵에서는 배제된다. Dorsal 단백질의 차등적 핵 수입이 등과 배의 차별적 발생을 조절한다.*
 
 ## 조절 메커니즘
