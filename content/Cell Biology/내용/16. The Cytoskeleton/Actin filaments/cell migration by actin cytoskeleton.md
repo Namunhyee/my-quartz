@@ -13,7 +13,7 @@
 
 **Blebbing**은 plasma membrane이 actin cortex에서 국소적으로 분리되어 세포 후방의 actin-myosin 수축이 만드는 수압으로 돌출을 형성하는 방식이다. 돌출 후 안쪽 표면에 새 actin cortex가 재형성된다.
 
-## lamellipodium의 형성과 이동
+## ==lamellipodium의 형성과 이동==
 **Mesenchymal cell migration**.
 ![[Pasted image 20260416154635.png]]
 
@@ -34,10 +34,10 @@
 
 Leading edge에서 [[actin arrays#dendritic network (lamellipodium)|actin meshwork]]가 앞으로 나아가는 메커니즘은 다음 단계로 이루어진다.
 
-1. **Nucleation**: Arp2/3 complex가 leading edge front에서 기존 필라멘트 측면에 새 필라멘트를 nucleate한다. 주로 70° 각도로 가지를 뻗는다.
-2. **Elongation**: 새로 생긴 필라멘트의 plus end가 길어지면서 plasma membrane을 앞으로 민다. 이 힘이 가능한 이유는 network 뒤쪽에 어떤 형태의 고정(anchorage)이 있기 때문이다.
-3. **Capping**: 일정한 속도로 plus end가 capping protein에 의해 막힌다.
-4. **Depolymerization**: 새로 중합된 subunit이 filament 내에서 ATP를 ADP로 가수분해하면, cofilin이 ADP-actin 필라멘트를 선택적으로 인식하여 depolymerization을 가속한다 (→ [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/treadmilling|treadmilling]] 참조).
+1. ==**Nucleation**: Arp2/3 complex가 leading edge front에서 기존 필라멘트 측면에 새 필라멘트를 nucleate한다. 주로 70° 각도로 가지를 뻗는다.==
+2. ==**Elongation**: 새로 생긴 필라멘트의 plus end가 길어지면서 plasma membrane을 앞으로 민다==. 이 힘이 가능한 이유는 network 뒤쪽에 어떤 형태의 고정(anchorage)이 있기 때문이다.
+3. ==**Capping**: 일정한 속도로 plus end가 capping protein에 의해 막힌다.==
+4. ==**Depolymerization**: 새로 중합된 subunit이 filament 내에서 ATP를 ADP로 가수분해하면, **cofilin**이 ADP-actin 필라멘트를 선택적으로 인식하여 depolymerization을 가속한다== (→ [[Cell Biology/내용/16. The Cytoskeleton/Actin filaments/treadmilling|treadmilling]] 참조).
 
 이 과정의 결과로 front에서는 net 조립, rear에서는 net 분해가 공간적으로 분리된다. 따라서 actin 필라멘트 network 전체는 앞으로 전진하지만, 개별 필라멘트는 기질에 대해 정지 상태를 유지한다.
 

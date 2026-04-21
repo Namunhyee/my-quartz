@@ -1,7 +1,7 @@
 # SMLM (Single-Molecule Localization Microscopy)
 
 ## 개요
-Single-molecule localization microscopy는 개별 형광 분자의 정확한 위치를 결정하여 [[deconvolution|회절 한계]]를 극복하는 superresolution 기술이다. 약 20 nm의 resolution을 달성할 수 있어, conventional light microscopy보다 약 10배 향상된 성능을 보인다.
+Single-molecule localization microscopy는 개별 형광 분자의 정확한 위치를 결정하여 [[deconvolution|회절 한계]]를 극복하는 superresolution 기술이다. ==약 20 nm의 resolution을 달성할 수 있어, conventional light microscopy보다 약 10배 향상된 성능을 보인다.==
 
 ## 기본 원리
 
@@ -35,10 +35,10 @@ Single-molecule localization microscopy는 개별 형광 분자의 정확한 위
 ### Activation Process
 Labels는 예를 들어 near-ultraviolet light로 조명하여 활성화되며, 이는
 #### <font color="#0070c0">Isolation</font>
-<mark style="background:#fff88f">작은 subset의 분자들</mark>을 수정하여 다른 파장의 excitation beam에 노출될 때 형광을 내도록 한다. 이들은 switching off하여 형광을 quenching하기 전에 excitation에 반응하여 각각 수천 개의 photons를 방출하며, switching process는 수만 또는 수십만 번까지 반복될 수 있어 
+==아주 약한 레이저를 쏘아 작은 subset의 분자들을 무작위로 형광을 띄도록 한다. 그리고 다시 형광을 끈다. switching process는 수만 또는 수십만 번까지 반복될 수 있다.==
 #### <font color="#0070c0">Localization</font>
 <mark style="background:#fff88f">단일 분자 세트의 정확한 좌표를 결정할 수 있다.</mark>
-
+==Point Spread Function 때문에 희미하게 보여도 정 가 운데 부분은 분자의 중심 - 중심점(Center) 확인==
 ### <font color="#0070c0">Image Reconstruction</font>
 전체 세트를 결합하여 계산된 <mark style="background:#fff88f">각 개별 분자의 위치가 정확히 표시된 이미지로 디지털 표시</mark>할 수 있다.
 

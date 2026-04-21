@@ -18,7 +18,7 @@
 - <mark style="background:#fff88f">Osmium tetroxide (OsO4): 지질 및 세포막 구조 보존</mark>, 전자 밀도 증가
 → 세포막과 세포 내 구조를 안정적으로 유지
 ### (2) <mark style="background:#fff88f">탈수 (Dehydration)</mark>
-- 시료 내 물을 유기용매로 대체
+- 시료 내 물을 ==유기용매로 대체==
 - <mark style="background:#fff88f">진공 환경에서 물은 유지될 수 없기 때문(증발함)</mark>
 - <mark style="background:#fff88f">물과 레진이 섞이지 않기 때문이기도 함.</mark>
 ### (3)<mark style="background:#fff88f"> Resin infiltration 및 Embedding</mark>
@@ -46,12 +46,13 @@
 ---
 ## 4. [[positively stained vs negatively stained#최신 기술 Cryo-EM과의 관계|Cryo-EM]]의 개념
 문제 제기:
-- 화학적 고정, 탈수, 레진 embedding 과정이 실제 세포 구조를 왜곡할 수 있다.
+- ==화학적 고정, 탈수, 레진 embedding 과정이 실제 세포 구조를 왜곡할 수 있다.==
 ### Cryo-EM 접근 방식
 - <mark style="background:#fff88f">시료를 급속 동결 (vitrification)</mark>
 - <mark style="background:#fff88f">물을 얼음 결정이 아닌 비결정질 유리질 형태로 유지</mark>[^기출_중간_2023_15]
 	- <mark style="background:#fff88f">이로써 전자빔에 의해 얼음이 녹지 않는다.</mark>
-- 화학 고정 없이 구조 보존
+- ~~화학 고정 없이 구조 보존~~
+- 
 ### Cryo-sectioning
 - 두꺼운 세포를 <mark style="background:#fff88f">집속 이온 빔(FIB)으로 얇게 가공</mark>
 - 판 모양(lamella)으로 만든 후 관찰(염색 안 함)

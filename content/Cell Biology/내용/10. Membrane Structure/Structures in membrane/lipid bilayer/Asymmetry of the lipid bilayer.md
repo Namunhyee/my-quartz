@@ -5,11 +5,11 @@
 ## ==Human Red Blood Cell의 Asymmetry==
 ![](_page_9_Figure_7.jpeg)
 Human red blood cell (erythrocyte) membrane은 lipid asymmetry의 고전적 예이다:
-Phosphatidylethanolamine: <font color="#ffe100">yellow</font>
+[[Phospholipid|Phosphatidylethanolamine]]: <font color="#ffe100">yellow</font>
 Phosphatidylserine: <font color="#92d050">green</font>
 Phosphatidylcholine: <font color="#ff0000">red</font>
 Sphingomyelin: <font color="#974806">brown</font>
-Glycolipid: <font color="#00b0f0">blue</font>
+[[Glycolipid]]: <font color="#00b0f0">blue</font>
 ### Outer Monolayer (==Noncytosolic==)
 
 **Choline-containing phospholipid가 거의 모두 위치:**[^기출_중간_2023_1_③][^기출_중간_2025_1_④]
@@ -56,6 +56,12 @@ Glycolipid의 비대칭 분포는 합성 위치로부터 나온다:
 Membrane-bound phospholipid translocator에 의해 생성되고 유지된다:
 - ==[[Flippase]]와 [[Scramblase]]==
 - 한 monolayer에서 다른 monolayer로 phospholipid 이동 촉매
+
+|**장소**|**Scramblase 상태**|**Flippase 상태**|**최종 상태**|
+|---|---|---|---|
+|**ER (소포체)**|**항상 활성 (ON)**|활성 낮음|**대칭 (Symmetry)**|
+|**Golgi (골지체)**|비활성 (OFF)|**항상 활성 (ON)**|**비대칭 (Asymmetry)**|
+|**세포막 (PM)**|**조건부 활성 (평소 OFF)**|**항상 활성 (ON)**|**비대칭 (Asymmetry)**|
 ## Asymmetry 유지의 중요성
 
 Lipid asymmetry 유지는 여러 이유로 중요하다:

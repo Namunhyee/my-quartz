@@ -13,7 +13,7 @@
 
 가장 풍부한 membrane lipid이다. Polar head group (phosphate group 포함)과 두 개의 hydrophobic hydrocarbon tail을 가진다.
 
-#### Glycerophospholipid
+#### Glycerophospholipid = phosphoglyceride
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_1_Figure_7.jpeg]]
 

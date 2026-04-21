@@ -2,6 +2,11 @@
 
 Scramblase는 ER membrane에서 phospholipid가 bilayer의 두 leaflet 사이를 빠르게 equilibrate할 수 있도록 하는 phospholipid translocator이다. 이 효소는 새로 합성된 lipid가 membrane의 양쪽 leaflet에 고르게 분포되도록 하여 bilayer가 균형있게 성장할 수 있게 한다.[^기출_중간_2021_23][^기출_중간_2023_28]
 
+|**장소**|**Scramblase 상태**|**Flippase 상태**|**최종 상태**|
+|---|---|---|---|
+|**ER (소포체)**|**항상 활성 (ON)**|활성 낮음|**대칭 (Symmetry)**|
+|**Golgi (골지체)**|비활성 (OFF)|**항상 활성 (ON)**|**비대칭 (Asymmetry)**|
+|**세포막 (PM)**|**조건부 활성 (평소 OFF)**|**항상 활성 (ON)**|**비대칭 (Asymmetry)**|
 ## Scramblase의 필요성
 
 ### Lipid 합성의 비대칭성

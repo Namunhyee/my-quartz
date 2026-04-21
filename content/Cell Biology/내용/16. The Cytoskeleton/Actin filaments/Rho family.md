@@ -15,13 +15,13 @@ Rho family 단백질은 [[Cell Biology/내용/16. The Cytoskeleton/Actin filamen
 ## ==세 주요 구성원과 actin에 대한 효과==
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_68_Figure_2.jpeg]]
-*Fig 16–75. Cdc42, Rac, Rho의 활성화가 fibroblast actin 구조에 미치는 극적인 차이. (A) 혈청 결핍 기저 상태. (B) 활성형 **Cdc42** 주입 → 다수의 **filopodia**. (C) 활성형 **Rac** 주입 → 세포 전 둘레에서 **lamellipodium** 형성. (D) 활성형 **Rho** 주입 → 다수의 **stress fiber** 형성.*
+*Fig 16–75. Cdc42, Rac, Rho의 활성화가 fibroblast actin 구조에 미치는 극적인 차이. ==(A) serum-starved fibroblasts. growth factor가 없는 **Quiescent state**.. (B) 활성형 **Cdc42** 주입 → 다수의 **filopodia**. (C) 활성형 **Rac** 주입 → 세포 전 둘레에서 **lamellipodium** 형성. (D) 활성형 **Rho** 주입 → 다수의 **stress fiber** 형성.*==
 
-| GTPase    | 주요 actin 구조                      | 핵심 effector   |
-| --------- | -------------------------------- | ------------- |
-| ==Cdc42== | ==Filopodia==                    | 세포 극성 마스터 조절자 |
-| ==Rac==   | ==Lamellipodia==                 | WAVE → Arp2/3 |
-| ==Rho==   | ==Stress fiber==, Focal adhesion | Formin + ROCK |
+| GTPase    | 주요 actin 구조                          | 핵심 effector   |
+| --------- | ------------------------------------ | ------------- |
+| ==Cdc42== | ==Filopodia==                        | 세포 극성 마스터 조절자 |
+| ==Rac==   | ==Lamellipodia==                     | WAVE → Arp2/3 |
+| ==Rho==   | ==Stress fiber==, ==Focal adhesion== | Formin + ROCK |
 
 ### Cdc42 → Filopodia와 세포 극성
 

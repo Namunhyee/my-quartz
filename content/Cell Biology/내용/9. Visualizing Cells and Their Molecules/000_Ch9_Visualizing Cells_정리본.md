@@ -4,6 +4,31 @@
 
 ---
 
+## 현미경 기법별 분해능 · 깊이 한계 비교
+
+| 기법                                                                           | 분류       |            분해능 (XY)            |            관찰 가능 깊이            |       살아있는 세포        | 주요 제약·특이사항                                     |
+| ---------------------------------------------------------------------------- | -------- | :----------------------------: | :----------------------------: | :------------------: | ---------------------------------------------- |
+| [[optical microscope\|명시야 (Bright-field)]]                                   | 광학       |            ~200 nm             |      제한 없음 (깊어질수록 blur ↑)      |          가능          | 염색 필요; 투명 시료 대비 낮음                             |
+| [[optical microscope\|암시야 (Dark-field)]]                                     | 광학       |            ~200 nm             |             제한 없음              |          가능          | 산란광만 검출                                        |
+| [[phase contrast microscopy(위상차 현미경)\|위상차 (Phase-contrast)]]                 | 광학       |            ~200 nm             |             제한 없음              | **가능 (No staining)** | 투명 생세포 관찰 최적; GFP 관찰 불가                        |
+| [[000_Fluorescence Microscopy(형광현미경)\|형광 (Fluorescence)]]                    | 광학       |            ~200 nm             |   제한 없음 (out-of-focus noise)   |          가능          | 특정 분자 표지 가능; blur 심함                           |
+| [[deconvolution\|Deconvolution]]                                             | 광학 + 디지털 |            ~200 nm             |        **~40 μm** (효과적)        |          가능          | 회절한계 극복 불가; 컴퓨터 PSF 역계산                        |
+| [[Confocal Microscope\|Confocal]]                                            | 광학       |            ~200 nm             |          **~150 μm**           |          가능          | pinhole로 out-of-focus 제거; 아날로그                 |
+| [[Multiphoton Microscopy\|Multiphoton]]                                      | 광학       |            ~200 nm             |          **~500 μm**           |        **가능**        | NIR 레이저, 광독성 낮음; 가장 깊은 광학 이미징                  |
+| [[TIRF(Total Internal Reflection Fluorescence Microscopy)\|TIRF]]            | 광학       |            ~200 nm             | **~200 nm** (evanescent field) |          가능          | 세포막 표면 극히 제한; 단일 분자 관찰 가능                      |
+| [[SIM(Structured Illumination Microscopy)\|SIM]]                             | 초고해상도    |          **~100 nm**           |         수십 μm (3D 가능)          |         어려움          | 모든 형광 dye 사용 가능; 약 2배 향상                       |
+| [[STED(Stimulated Emission Depletion)\|STED]]                                | 초고해상도    |           **~20 nm**           |          confocal 수준           |         어려움          | Photoswitchable probe 필수; depletion beam (도넛형) |
+| [[SMLM (Single-Molecule Localization Microscopy)\|SMLM (PALM/STORM)]]        | 초고해상도    |           **~20 nm**           |      ~200 nm (TIRF 조합 시)       |         어려움          | 수만~수십만 cycles; 긴 촬영 시간                         |
+| [[TEM(Transmission Electron Microscope)\|TEM]]                               | 전자현미경    | 실용 **~0.05 nm** / 생물 **~1 nm** |        **수십 nm** (초박절편)        |        **불가**        | 이론적 0.002 nm; 진공, 중금속 염색 필요                    |
+| [[SEM(Scanning Electron Microscope)\|SEM]]                                   | 전자현미경    |           **~10 nm**           |            **표면만**             |        **불가**        | 3D 표면 이미지; 내부 구조 관찰 불가                         |
+| [[Cryo EM_Biological Specimen Preparation for Electron Microscopy\|Cryo EM]] | 전자현미경    |         **원자 수준(~nm)**         |      수백 nm (FIB lamella)       |        **불가**        | 비결정질 동결; 2017 노벨화학상                            |
+| [[AFM(Atomic Force Microscopy)\|AFM]]                                        | 기타       |  수직 **0.1 nm** / 수평 **1 nm**   |            **표면만**             |          가능          | 힘 측정; 살아있는 세포 표면 관찰 가능                         |
+
+> [!tip] 깊이 한계 요약 (깊은 것 → 얕은 것)
+> Multiphoton **500 μm** > Confocal **150 μm** > Deconvolution **40 μm** > 형광/위상차 (blur 있으나 제한 없음) > TIRF / SMLM **200 nm** ≈ TEM 초박절편 수십 nm > SEM · AFM (표면만)
+
+---
+
 ## 현미경과 노벨상
 
 | 인물 | 업적 | 수상 |
@@ -358,8 +383,10 @@ ATG-XXXXXX(target 단백질)----GFP(형광)
 
 ![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260312171513.png]]
 
-**형광 Ca²⁺ indicator**:
+
+**형광 Ca²⁺ indicator**: [[Fluorescent Biosensors for Cell Signaling]]
 - ==모든 indicator가 Ca²⁺에 결합하는 게 아니라, **결합한 것과 안 한 것이 나뉘어** 농도에 의해 색 차이 형성==
+![[Cell Biology/출처/md converted/Chapter 9/_page_13_Picture_8.jpeg]]
 - ==**빨간색**: 신호 약함 / **노란색**: 신호 강함== (Purkinje 세포 예시)
 
 ---

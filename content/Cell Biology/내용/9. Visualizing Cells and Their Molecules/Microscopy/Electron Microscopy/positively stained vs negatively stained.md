@@ -86,6 +86,7 @@
 - 시냅스 구조
 
 ## Negative Staining (음성 염색)
+둘다 negative staining
 ![[Cell Biology/출처/md converted/Chapter 9/_page_28_Figure_2.jpeg]]
 ### 정의
 

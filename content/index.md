@@ -11,6 +11,10 @@ title: 🧬AUSOM 세포생물학 노트
 정리노트 포함.
 
 ---
+## 암기하면 좋은 내용들
+![[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)#==수업에서 언급된 PIP 종류==]]
+
+---
 ## Patch Note
 - 2026/02/27 
 	- 내용에 이미지 링크 수정
@@ -65,6 +69,8 @@ title: 🧬AUSOM 세포생물학 노트
 	- 기출문제 수정사항 업데이트 1차
 - 2026/04/19
 	- 기출문제 전체 검토사항 반영 완료.
+- 2026/04/22
+	- 9,10과 정리노트 검토, 재작성
 ----
 vault organized by 24 채문기
 

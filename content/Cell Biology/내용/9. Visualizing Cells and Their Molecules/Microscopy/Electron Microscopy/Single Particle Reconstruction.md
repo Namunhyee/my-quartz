@@ -6,8 +6,8 @@
 - <mark style="background:#fff88f"><font color="#000000"><font color="#000000">단일 이미지로는 높은 해상도의 구조를 얻기 어렵다</font>.</font></mark>
 
 ## 2. 해결 방법: 단일 입자 재구성 (Single Particle Reconstruction)
-- <mark style="background:#fff88f">동일한 분자를 낮은 전자 밀도로, 매우 많이 촬영한다.</mark>
-- 각각의 이미지는 잡음(noise)이 크고 신호(signal)는 약하다.
+- <mark style="background:#fff88f">동일한 분자를 낮은 전자 속도로, 매우 많이 촬영한다.</mark>
+- ==속도가 낮아 파장이 긴 전자를 쓰기 때문에 각각의 이미지는 잡음(noise)이 크고 신호(signal)는 약하다.==
 - 여러 이미지를 정렬(alignment)하고 평균화(averaging)한다.
 - <mark style="background:#fff88f"><font color="#000000">평균 이미지</font></mark>를 통해 신호 대 잡음비(SNR)를 증가시킨다.(노이즈 제거)
 

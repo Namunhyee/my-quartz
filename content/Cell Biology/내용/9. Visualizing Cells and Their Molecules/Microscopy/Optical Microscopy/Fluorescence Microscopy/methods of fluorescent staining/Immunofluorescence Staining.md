@@ -23,6 +23,7 @@
 **Primary Antibody(1차 항체)**:
 - 관심 있는 protein(단백질)에 직접 결합
 - Marker molecule(표지 분자)에 직접 연결 가능
+- nonspecific한 형광을 줄일 수 있음.
 
 **Secondary Antibody(2차 항체)**:
 - Primary antibody에 결합하는 antibody[^기출_중간_2022_3]

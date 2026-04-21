@@ -38,8 +38,8 @@ Mitochondria inner membrane의 ATP synthase complex:
 위 그림은 epithelial cell에서 membrane molecule이 특정 membrane domain에 어떻게 제한될 수 있는지 보여준다:
 - Protein A (apical domain)와 protein B (basal/lateral domain)는 자신의 domain에서 laterally diffuse 가능
 - Tight junction에 의해 다른 domain으로 들어가는 것이 방지됨[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_②][^기출_중간_2023_22_②][^기출_중간_2023_22_④]
-- Outer (extracellular) monolayer의 lipid molecule도 두 domain 사이를 확산할 수 없음[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_⑤][^기출_중간_2023_22_⑤]
-- Inner (cytosolic) monolayer의 lipid는 확산 가능
+- lipid molecule도 두 domain 사이를 확산할 수 없음[^기출_중간_2022_19][^기출_중간_2023_22][^기출_중간_2022_19_⑤][^기출_중간_2023_22_⑤]
+
 
 **기능적 중요성:**
 - Membrane protein의 비대칭 분포는 종종 epithelium의 기능에 필수적

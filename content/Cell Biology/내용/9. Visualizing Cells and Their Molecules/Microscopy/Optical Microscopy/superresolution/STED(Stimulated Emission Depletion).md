@@ -6,7 +6,8 @@ STED microscopy는 point spread function의 크기를 줄여 [[diffraction limit
 [[PSF(point spread function)|Point spread function]]은 lens에 의해 점 광원이 초점을 맞출 때 형성되는 three-dimensional blurred image 내 빛 강도의 분포다. Diffraction effects 때문에 점 광원과 동일하게 imaging되는 대신, 이미지는 Gaussian distribution에 의해 대략적으로 설명되는 강도 분포를 가지며, 이것이 lens system의 resolution을 결정한다.
 ## STED의 원리
 **Resolution 향상 방법**: Excitation spot의 blurred periphery에 있는 모든 형광 분자들을 ground state나 정상적으로 형광을 내지 않는 state로 다시 전환하고, 매우 center에 있는 분자들만 기록되도록 남겨두는 것이다.
-<font color="#e36c09">depletion beam</font>은 '유도방출'이라는 원리(photobleacing, photoactivation 아님)로 전자를 내린다.
+==<font color="#e36c09">depletion beam</font>은 '유도방출'이라는 원리(photobleacing, photoactivation 아님)로 전자를 내린다.==
+==형광분자가 빛을 방출하기 전에 다시 바닥상태로 돌아가게 하여 '형광을 끈다'==
 ## Figure 9-30: Point Spread Function 크기 감소를 통한 Superresolution
 
 ![[Cell Biology/출처/md converted/Chapter 9/_page_19_Figure_6.jpeg]]

@@ -57,7 +57,9 @@ Clathrin-coated 및 COPI-coated 또는 COPII-coated vesicle과 대조적으로, 
 - Cholesterol과 glycosphingolipid가 풍부[^기출_중간_2025_23]
 - GPI-anchored 단백질 농축
 - [[Raft domain|Lipid raft]] 형성과 유사한 원리
-
+## actin filaments와의 관계
+![[Pasted image 20260420131844.png]]
+actin에 caveolar를 고정함. 기계적 자극 수용에 관여.
 ## Clathrin-independent Endocytosis
 
 Caveolar endocytosis는 여러 clathrin-independent pinocytic vesicle 및 membrane invagination 중 하나이다. 이러한 clathrin-independent invagination의 대부분은:
@@ -73,4 +75,4 @@ Caveolar endocytosis는 여러 clathrin-independent pinocytic vesicle 및 membra
 
 [^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Caveolae의 구조(caveolin/cavin, lipid raft 특성)와 clathrin-independent endocytosis 메커니즘이 정답 근거로 활용됨.
 [^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — ①번 선지: Dynamin은 역할 세포 외부에서 끊어지는 과정을 한다 (틀림, Dynamin은 세포질 쪽(cytoplasmic face)에서 neck을 감싸 pinch-off); ②번 선지: Caveolae는 Cavins가 coating 단백질로 이용될 수 있다 (틀림 또는 부정확, Cavin은 adaptor protein으로 이용됨.); ③번 선지: Caveolar endocytosis는 주로 lipid raft 영역에서 일어나고 있다 (맞음, caveolae는 cholesterol·glycosphingolipid 풍부한 lipid raft 도메인); ④번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, macropinocytosis는 actin-mediated ruffle 형성을 이용, 비특이적 fluid 섭취, 정답); ⑤번 선지: Macropinocytosis 진행과정에서 흡수 시 특정 cargo를 특이적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적).
-[^기출_중간_2025_23]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_23번|2025 중간 23번]] — ①번 선지: Caveolar endocytosis는 microtubule 기반이고 actin에 의존한다 (틀림, caveolar endocytosis는 clathrin-independent이며 actin 직접 의존성보다 lipid raft 기반); ②번 선지: Caveolin 단백질이 세포막에 결합하면 caveolae 구조가 형성되는 것에 필요하다 (맞음, caveolin은 caveolae 형성의 필수 구조 단백질, 정답); ③번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, macropinocytosis는 actin-mediated ruffle 형성 이용); ④번 선지: Macropinocytosis는 세포 외 큰 입자를 수용체 독립적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 receptor-independent, 비특이적); ⑤번 선지: 모든 clathrin-independent pathway는 receptor-dependent 방식으로만 cargo를 섭취한다 (틀림, macropinocytosis는 receptor-independent).
+[^기출_중간_2025_23]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_23번|2025 중간 23번]] — ① Caveolar endocytosis는 actin 의존적인 경우가 있음; microtubule과의 관계는 간접적 ✗- **② Caveolin-1은 cholesterol-rich membrane microdomain에 존재하며 caveolae 형성에 필수 ✓**- ③ [[Cell Biology/내용/13. Intracellular Membrane Traffic/endocytosis/macropinocytosis|Macropinocytosis]]에서 actin reorganization은 재활용이 아니라 membrane ruffling을 위해 발생함 ✗- ④ Macropinocytosis는 비선택적(non-selective) 과정 ✗- ⑤ Macropinocytosis 등은 non-receptor-dependent ✗

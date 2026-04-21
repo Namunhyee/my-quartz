@@ -1,14 +1,14 @@
 # Skeletal Muscle Cell_MOC
 ![[Cell Biology/출처/md converted/Chapter 16/_page_30_Figure_6.jpeg]]
 
-*Fig 16–28. 골격근 세포(skeletal muscle cell)의 구조. 근육 섬유는 많은 myofibril로 구성되며, 각 myofibril은 직렬로 연결된 수천 개의 sarcomere로 이루어진다.*
+*Fig 16–28. ==골격근 세포(skeletal muscle cell)의 구조. 근육 섬유는 많은 myofibril로 구성==되며, ==각 [[myofibrils|myofibril]]은 직렬로 연결된 수천 개의 sarcomere로 이루어진다==. ==폭 50um==*
 ![[Cell Biology/출처/md converted/Chapter 16/_page_30_Figure_7.jpeg]]
-- Skeletal muscle cell은 actin과 myosin II 필라멘트의 고도로 정렬된 배열로 이루어진 강력한 수축 기계이다.[^기출_기말_2023_23] 
-- muscle fibers와 동의어
-- myoblasts(근아세포)의 fusion으로 생성되어 다핵성이다.
-- 성인 인간의 근육세포는 50㎛ 직경에 몇 cm 길이를 가진다.
+- Skeletal muscle cell은 [[100_Actin filaments_MOC|actin]]과 [[myosin II]] 필라멘트의 고도로 정렬된 배열로 이루어진 강력한 수축 기계이다.[^기출_기말_2023_23] 
+- ==muscle fibers와 동의어==
+- ==myoblasts(근아세포)의 fusion으로 생성되어 다핵성이다.==
+- ==성인 인간의 근육세포는 50㎛ 직경에 몇 cm 길이를 가진다==.
 - B는 형광 현미경 사진. [[myofibrils|myofibril]]은 적색, 핵은 청색으로 염색되어있다.
-- 신경 자극이 오면 순식간에 모든 sarcomere가 동시에 수축할 수 있도록 전문화된 막 시스템을 갖추고 있다.
+- ==신경 자극이 오면 순식간에 모든 sarcomere가 동시에 수축할 수 있도록 전문화된 막 시스템을 갖추고 있다.== [[sarcoplasmic reticulum]]
 
 ## 목차
 

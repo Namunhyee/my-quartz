@@ -14,7 +14,7 @@ GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipi
 - **Lipid 부분**: 막에 anchor를 고정
 
 ## ==GPI Anchor 부착 메커니즘==
-
+![[Cell Biology/출처/md converted/Chapter 12/_page_30_Picture_2.jpeg]]
 ### ==1단계: 초기 단백질 합성 및 ER Signal Sequence 인식==
 - GPI-anchored protein은 ==N-말단==에 [[Sorting Signal#Signal Sequences|ER signal sequence]]를 가지고 합성된다
 - 이 signal sequence가 단백질을 [[Endoplasmic Reticulum|ER]]로 유도한다
@@ -32,7 +32,7 @@ GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipi
 2. ==**부착 반응**: 미리 조립된 GPI intermediate를 새로운 C-말단에 동시에 부착==
 
 이 반응은 ER에서 일어나며, GPI intermediate의 phosphoethanolamine에 있는 amino group이 단백질의 새로운 C-말단과 **amide bond**[^1]를 형성한다.
-![[Cell Biology/출처/md converted/Chapter 12/_page_30_Picture_2.jpeg]]
+
 ### 4단계: 막 부착 유지
 - 공유결합으로 연결된 lipid anchor로 인해 단백질은 막에 결합된 상태를 유지
 - 모든 amino acid가 처음에는 ER의 lumenal 면에 노출
@@ -61,10 +61,7 @@ GPI anchor는 다음과 같은 구성 요소로 이루어진 복잡한 glycolipi
 
 ## 관련 개념
 - [[Transmembrane Protein Insertion]]
-- [[ER Protein Processing]]
-- [[Membrane Protein Topology]]
-- [[Lipid Rafts]]
-- [[Plasma Membrane]]
+- [[Raft domain|Lipid Rafts]]
 
 ## 요약
 GPI anchor는 단백질을 막에 부착하는 독특한 방법이다. ER에서 transamidase가 단백질의 C-말단 hydrophobic sequence를 절단하고 동시에 미리 조립된 GPI intermediate를 부착한다. 이를 통해 단백질은 covalent lipid anchor를 통해 막에 결합되며, 필요시 방출되거나 특정 membrane domain으로 구획화될 수 있다.

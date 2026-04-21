@@ -1,6 +1,7 @@
 # Phosphatidylinositol(PI) and Phosphoinositides(PIPs)
 
-## 개요
+==![[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)#==수업에서 언급된 PIP 종류==|수업에서 언급된 PIP 종류]]==
+## ==개요==
 
 Phosphoinositides (PIPs)는 membrane의 약 10% 미만을 차지[^1]하지만 중요한 regulatory function을 가진다.[^기출_중간_2022_22][^기출_중간_2023_3][^기출_중간_2025_2] 이들은 organelle과 membrane domain의 molecular marker로 작용하며, vesicle transport의 여러 단계를 조절한다.
 
@@ -47,6 +48,24 @@ PI(3,4,5) P3=phosphatidylinositol 3,4,5-trisphosphate[^2][^기출_중간_2023_3]
 
 많은 protein이 특정 PIP의 head group에 high specificity로 결합하는 domain 보유:
 예를 들어, [[phagocytosis#Phosphoinositide의 역할|phagocytosis]]는 PI(4,5)P<sub>2</sub> , PI(3,4,5)P<sub>3</sub> 가 진행하기 위한 주요 Phosphatidiylinositides 신호로 작용함.
+### ==수업에서 언급된 PIP 종류==
+
+| 어느 메커니즘에서                                                                                              | 어떤 PIP                 | 어느 단백질과                             | 어떻게 작용                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------ | ---------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Clathrin coat]]                                                                                      | PI(4,5)P₂              | [[AP2]]                             | [[AP2]]가 처음 membrane에 모집될 때 PI(4,5)P₂를 인식함.                                                                                                                                        |
+| [[Endosomes maturation#==5.== ESCRT Protein Complex Intralumenal Vesicle 형성\|Intralumenal vesicle 형성]] | PI(3)P                 | [[ESCRT Protein Complex]] 중 ESCRT-0 | [[ESCRT Protein Complex]] 중 첫 단계 역할인ESCRT-0가 PI(3)P를 인식하여 메커니즘 시작                                                                                                                  |
+| [[phagocytosis]]                                                                                       | PI(4,5)P₂, PI(3,4,5)P₃ | ~~WASP, Rac1/WAVE~~                 | PI(3)P에서 PI(4,5)P₂로 인산화 : actin reorganization.<br>PI(4,5)P₂에서 PI 3-kinase가 PI(3,4,5)P₃로 인산화 : cup 닫기<br>이후 PIP2,PIP3는 사라지고 PI(3)P가 남아 early phagosome으로 역할                        |
+| [[Pinching-Off]]                                                                                       | PI(4,5)P₂              | dynamin                             | 메커니즘 첫단계에서 dynamin의 PH domain(PIP2 binding domain)이 cytosolic leaflet에서 PI(4,5)P₂와 결합                                                                                              |
+| Rab5 associated domain formation                                                                       | PI(3)P                 | Rab5 effectors                      | 1.  acitve Rab5가 **PI 3-kinase** activate → PI(3)P production<br>2. **PI(3)P**가 **Rab effector** (tethering protein 포함) binding stabilize<br>3. Rab-5 associated membrane patch 형성 |
+### compartment별 분포
+| Compartment     | 주요 PIP             |
+| --------------- | ------------------ |
+| Plasma membrane | PI(4,5)P₂          |
+| Early endosome  | PI(3)P             |
+| Late endosome   | PI(3)P + PI(3,5)P₂ |
+| Golgi           | PI(4)P             |
+| ER              | PI                 |
+
 
 ### Recognition Specificity
 - 서로 다른 phosphorylation form을 구별

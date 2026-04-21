@@ -39,11 +39,11 @@ NA: 렌즈의 빛 모음 정도
 **성능**: 여전히 light microscope보다 약 200배 향상
 ## <mark style="background:#fff88f">수차(Aberration)</mark>
 전자빔이 이상적인 경로로 집속되지 못해 영상이 왜곡되거나 해상도가 저하되는 현상
-### 1. 구면수차 (Spherical Aberration)
+### 1. ==구면수차 (Spherical Aberration)==
 - 구면수차는 렌즈 중심을 통과하는 전자와 주변부를 통과하는 전자가 서로 다른 초점에 모이는 현상
 - <mark style="background:#fff88f">주변부 전자의 굴절 과다</mark> 때문에 발생 
 - 고해상도 관찰에서 가장 큰 해상도 제한 요인 중 하나로 작용한다.
-### 2. 색수차 (Chromatic Aberration)
+### 2. ==색수차 (Chromatic Aberration)==
 - 색수차는 에너지가 서로 다른 전자들이 서로 다른 위치에 초점을 형성하는 현상 
 - <mark style="background:#fff88f">전자빔의 에너지 불균일성, 파장의 차이</mark> 때문에 발생
 - 가속 전압의 안정성과 전자 에너지 분산이 중요한 영향을 미친다.
@@ -56,14 +56,14 @@ NA: 렌즈의 빛 모음 정도
 즉,
 **핵전하 ↑ → 전자 산란 ↑ → 영상 대비 ↑**[^기출_중간_2022_10][^기출_중간_2025_32]
 ### <mark style="background:#fff88f">BF(명시야), DF(암시야)</mark>
-#### ① BF (Bright Field, 명시야)
+#### ① ==BF (Bright Field, 명시야)==
 - 직접 통과한 전자(산란되지 않은 전자)를 이용해 영상을 만든다.
-- 전자를 많이 산란시키는 부분은 전자가 덜 도달하므로 **어둡게 보인다.**
+- ==전자를 많이 산란시키는 부분은 전자가 덜 도달하므로 **어둡게 보인다.**==
 - 중금속이 붙은 부위가 어둡게 보이는 이유가 여기에 있다.
 → 생체 시료에서 가장 흔히 사용하는 방식이다.
-#### ② DF (Dark Field, 암시야)
+#### ② ==DF (Dark Field, 암시야)==
 - 산란된 전자만을 이용해 영상을 만든다.
-- 전자를 많이 산란시키는 부분이 **밝게 보인다.**
+- ==전자를 많이 산란시키는 부분이 **밝게 보인다.**==
 → BF와 대비가 반대로 형성된다.
 ## Figure 9-39: Electron Microscope의 Resolution
 ![[Cell Biology/출처/md converted/Chapter 9/_page_25_Figure_9.jpeg]]

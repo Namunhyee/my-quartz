@@ -45,7 +45,7 @@ Membrane-bending protein은 필요에 따라 특정 membrane region에 부착하
 
 ### 2. Rigid Scaffold Formation (C)
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_30_Picture_3.jpeg]]
+![[Pasted image 20260422001749.png]]
 
 **메커니즘:**[^기출_중간_2023_21_④]
 - ==일부 membrane-bending protein이 rigid scaffold 형성==
