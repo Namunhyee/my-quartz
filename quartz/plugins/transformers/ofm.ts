@@ -277,20 +277,28 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   // otherwise, fall through to regular link
                 }
 
-                // treat as broken link if slug not in ctx.allSlugs
-                if (opts.disableBrokenWikilinks) {
+                // resolve fp with case-insensitive slug matching
+                let resolvedFp = fp
+                if (ctx.allSlugs) {
                   const slug = slugifyFilePath(fp as FilePath)
-                  const exists = ctx.allSlugs && ctx.allSlugs.includes(slug)
-                  if (!exists) {
-                    return {
-                      type: "html",
-                      value: `<a class=\"internal broken\">${alias ?? fp}</a>`,
+                  if (!ctx.allSlugs.includes(slug)) {
+                    const slugLower = slug.toLowerCase()
+                    const caseInsensitiveMatch = ctx.allSlugs.find(
+                      (s) => s.toLowerCase() === slugLower,
+                    )
+                    if (caseInsensitiveMatch) {
+                      resolvedFp = caseInsensitiveMatch
+                    } else if (opts.disableBrokenWikilinks) {
+                      return {
+                        type: "html",
+                        value: `<a class=\"internal broken\">${alias ?? fp}</a>`,
+                      }
                     }
                   }
                 }
 
                 // internal link
-                const url = fp + anchor
+                const url = resolvedFp + anchor
 
                 return {
                   type: "link",
