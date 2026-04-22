@@ -249,10 +249,27 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
         const targetSlug = matchingFileNames[0]
         return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
       }
+
+      // no exact match — try case-insensitive filename match
+      if (matchingFileNames.length === 0) {
+        const lowerTarget = targetCanonical.toLowerCase()
+        const caseInsensitiveMatches = opts.allSlugs.filter((slug) => {
+          const parts = slug.split("/")
+          const fileName = parts.at(-1)
+          return fileName?.toLowerCase() === lowerTarget
+        })
+        if (caseInsensitiveMatches.length === 1) {
+          return (resolveRelative(src, caseInsensitiveMatches[0]) + targetAnchor) as RelativeURL
+        }
+      }
     }
 
     // if it's not unique, then it's the absolute path from the vault root
-    return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
+    // try a case-insensitive full-path match first to correct any casing mismatch
+    const lowerCanonical = targetCanonical.toLowerCase()
+    const resolvedCanonical =
+      opts.allSlugs.find((s) => s.toLowerCase() === lowerCanonical) ?? canonicalSlug
+    return (joinSegments(pathToRoot(src), resolvedCanonical) + folderTail) as RelativeURL
   }
 }
 
