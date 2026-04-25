@@ -173,9 +173,18 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
       }
 
       // pre-transform highlights before remark-parse so nested bold/italic/wikilinks inside ==...== are processed correctly
+      // wikilinks are temporarily replaced with placeholders to prevent ==...== inside [[...]] from being transformed
       if (opts.highlight) {
-        src = src.replace(highlightRegex, (_match, inner) => {
+        const wikilinkMatches: string[] = []
+        let processedSrc = src.replace(wikilinkRegex, (match) => {
+          wikilinkMatches.push(match)
+          return `\x00wl${wikilinkMatches.length - 1}\x00`
+        })
+        processedSrc = processedSrc.replace(highlightRegex, (_match, inner) => {
           return `<span class="text-highlight">${inner}</span>`
+        })
+        src = processedSrc.replace(/\x00wl(\d+)\x00/g, (_match, idx) => {
+          return wikilinkMatches[parseInt(idx)]
         })
       }
 
