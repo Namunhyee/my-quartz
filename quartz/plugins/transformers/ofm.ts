@@ -172,6 +172,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         })
       }
 
+      // pre-transform highlights before remark-parse so nested bold/italic/wikilinks inside ==...== are processed correctly
+      if (opts.highlight) {
+        src = src.replace(highlightRegex, (_match, inner) => {
+          return `<span class="text-highlight">${inner}</span>`
+        })
+      }
+
       // pre-transform wikilinks (fix anchors to things that may contain illegal syntax e.g. codeblocks, latex)
       if (opts.wikilinks) {
         // replace all wikilinks inside a table first
@@ -309,19 +316,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                       value: alias ?? fp,
                     },
                   ],
-                }
-              },
-            ])
-          }
-
-          if (opts.highlight) {
-            replacements.push([
-              highlightRegex,
-              (_value: string, ...capture: string[]) => {
-                const [inner] = capture
-                return {
-                  type: "html",
-                  value: `<span class="text-highlight">${inner}</span>`,
                 }
               },
             ])

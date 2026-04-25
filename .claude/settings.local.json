@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(xargs ls *)",
-      "Bash(xargs grep *)"
+      "Bash(xargs grep *)",
+      "Bash(npx tsc *)",
+      "Bash(node_modules/.bin/tsc --noEmit)",
+      "Bash(npx quartz *)"
     ]
   }
 }
