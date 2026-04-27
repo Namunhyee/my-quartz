@@ -1,10 +1,11 @@
 # Intermediate Filaments_MOC
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_1_Figure_6.jpeg]]
-*(i) 개별 intermediate filament; (ii) 뉴런(파랑)과 (iii) 상피세포의 intermediate filament; (iv) nuclear lamina.*
+*(i) 개별 intermediate filament; (ii) ==뉴런(파랑)과== (iii) ==상피세포의 intermediate filament==; (iv) nuclear lamina.*
 
 - Intermediate filament는 ==직경 약 10 nm의 rope-like 섬유==로, 
 - 대규모의 heterogeneous한 ==intermediate filament protein== 계열로 구성된다.[^기출_기말_2022_5][^기출_기말_2023_13][^기출_기말_2025_21] 
+- ==Neuron이 axon의 지름과 구조적 안정성을 유지하는데에 intermediate filament를 이용함.==
 - 한 유형은 내핵막 바로 아래에 [[nuclear lamina]]==라 불리는 망상 구조를 형성==한다.[^기출_기말_2022_21] 
 - 다른 유형은 ==세포질을 가로질러 뻗어== 세포에 ==기계적 강도를 제공==한다. [[epithelial cells in the small intestine|상피 조직]]에서는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Desmosome/Desmosome_MOC|desmosome]] 및 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/hemidesmosomes|hemidesmosome]]을 통해 [[Cell-Cell junction_MOC|cell-cell junction]]에서 반대편 junction까지 연결되어 상피 전체를 강화한다.
 

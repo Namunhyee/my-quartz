@@ -9,8 +9,6 @@
 
 - ==핵 유전자로 암호화된 모든 미토콘드리아 단백질 수입에 필수==[^기출_중간_2025_16]
 - ==Cytosol에서 signal sequence를 인식하고 intermembrane space로 단백질을 수송==
-- ==알파-나선형 소수성 분절을 가진 단백질만 측면으로 배출 가능== → ==β-barrel 단백질은 SAM complex로 넘겨짐==
-
 ## ==**TIM complexes== (Translocator of the Inner Mitochondrial Membrane)**
 
 두 종류의 TIM 복합체가 inner membrane에서 작동한다:
@@ -19,7 +17,7 @@
 - ==Matrix 단백질 수송에 사용==[^기출_중간_2021_20][^기출_중간_2021_미상D][^기출_중간_2023_ver2_39]
 - N-terminal signal sequence를 인식하여 matrix로 전달[^기출_중간_2025_16]
 - ==Inner membrane 단백질 삽입에도 사용(측면 방출)==
-- ==Matrix 쪽에 mitochondrial hsp70이 결합되어 있어 단백질을 끌어당김==([[3 Energy source for import#3a. ==ATP 가수분해== — ==Mitochondrial hsp70== (Matrix 내에서 끌어당김)|ATPase]])
+- ==Matrix 쪽에 mitochondrial hsp70들이 결합하며 단백질을 끌어당김==([[3 Energy source for import#3a. ==ATP 가수분해== — ==Mitochondrial hsp70== (Matrix 내에서 끌어당김)|ATPase]])
 - **==막전위**를 이용해서도 당김==
 
 ### ==**TIM22 complex**==

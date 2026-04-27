@@ -68,7 +68,7 @@ Glycolipid 중 가장 복잡한 형태이다.
 Sugar-containing lipid molecule로서 glycolipid는:
 - Membrane 분포에서 가장 극단적인 asymmetry 보임
 - Plasma membrane 또는 intracellular membrane에서
-- **오직 cytosol을 등지는 monolayer에서만 발견됨**
+- ==**오직 cytosol을 등지는 monolayer에서만 발견됨**==
 
 ### Asymmetric Distribution의 원인
 

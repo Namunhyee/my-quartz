@@ -1,4 +1,5 @@
 # The Insertion of Tailed-Anchored Proteins : Guided Entry of Tail-anchored proteins pathway(GET pathway)
+#GET3
 
 ## 개요
 **Tail-anchored proteins**는 C-말단 근처에 단일 transmembrane α-helix를 통해 막에 고정된 중요한 cytosolic face membrane protein군이다. 이들은 [[SRP]]-의존적 경로를 사용할 수 없어, 특수화된 post-translational membrane insertion mechanism을 사용한다.

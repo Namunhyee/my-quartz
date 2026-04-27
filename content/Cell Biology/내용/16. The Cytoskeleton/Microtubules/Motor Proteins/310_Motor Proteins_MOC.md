@@ -1,6 +1,10 @@
 # Motor Proteins_MOC
 
-Microtubule 기반 motor protein에는 두 가지 주요 class가 있다.[^기출_기말_2023_17] **Kinesin**은 plus end 방향으로, **Dynein**은 minus end 방향으로 이동한다.[^기출_기말_2022_15] 이 motor들은 세 가지 주요 기능을 수행한다: organelle/거대분자 수송, microtubule 간 sliding을 통한 특정 배열 생성, microtubule dynamics 조절이다.
+Microtubule 기반 motor protein에는 두 가지 주요 class가 있다.[^기출_기말_2023_17] **Kinesin**은 plus end 방향으로, **Dynein**은 minus end 방향으로 이동한다.[^기출_기말_2022_15] 이 motor들은 세 가지 주요 기능을 수행한다: 
+1. ==organelle/거대분자 수송==
+2. ==microtubule 간 sliding을 통한 특정 배열 생성.==
+	- ==예시 : [[Microtubule organization in a neuron|neurons]], epithelial cells의 방향성 확립==
+3. ==microtubule dynamics 조절이다.==
 
 특히 motor protein은 [[Cell Biology/내용/13. Intracellular Membrane Traffic/Vesicle transportation/Vesicle transportation_MOC|vesicle 및 organelle 세포 내 수송]]의 핵심 구동 장치이며, [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/ATP|ATP]] 가수분해로 구동된다.
 

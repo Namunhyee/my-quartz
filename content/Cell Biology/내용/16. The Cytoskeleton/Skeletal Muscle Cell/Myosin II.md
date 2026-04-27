@@ -1,5 +1,6 @@
 # Myosin II
 
+[[Myosin II cycle]]<---myosin 작동 메커니즘은 여기로
 ## 구조
 
 - ==Myosin II는 두 개의 heavy chain과 두 쌍의 light chain으로 구성된 elongated 단백질이다.==[^기출_기말_2022_9][^기출_기말_2025_15] 

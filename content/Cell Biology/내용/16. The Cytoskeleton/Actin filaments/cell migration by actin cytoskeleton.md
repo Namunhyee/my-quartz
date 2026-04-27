@@ -5,7 +5,7 @@
 ![[Cell Biology/출처/md converted/Chapter 16/_page_24_Figure_3.jpeg]]
 *Fig 16–19. 세포 이동의 세 가지 모드. (A) Mesenchymal mode: Arp2/3가 lamellipodia를 만들고 stress fiber가 focal adhesion에 연결. (B) Amoeboid mode: Arp2/3가 3D pseudopod을 만들어 빠른 이동. (C) Blebbing: cortex와 membrane이 분리되어 수압으로 돌출.*
 
-## 세 가지 이동 모드
+## ~~세 가지 이동 모드~~
 
 **Mesenchymal cell migration**은 fibroblast나 유리 표면의 상피세포에서 나타난다. Arp2/3 complex가 leading edge에서 actin 중합을 유도해 lamellipodium을 형성하고, cofilin이 오래된 ADP-actin 필라멘트를 해체한다. 결과적으로 front에서 조립, back에서 분해가 일어나는 패턴이 treadmilling과 유사하다. 이 모드는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin]] 기반 focal adhesion을 통한 기질([[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Extracellular Matrix/Extracellular Matrix_MOC|ECM]]) 부착이 필요하며, 속도는 1 μm/min 미만으로 느리다.
 
@@ -27,7 +27,7 @@
 ### 4️. 뒤쪽 떼기 (Detachment)
 - 뒤쪽 adhesion 해체 → 앞으로 이동 가능
 
-## Protrusion of the Actin Meshwork at the Leading Edge
+## ==Protrusion of the Actin Meshwork at the Leading Edge==
 
 ![[Cell Biology/출처/md converted/Chapter 16/ppt로부터_figure 16-80.png]]
 *Fig 16–80. Leading edge에서 actin meshwork protrusion 모델. 두 시점에서 lamellipodium 전진을 보여주며, 나중 시점의 새로 조립된 구조는 더 밝은 색으로 표시.*

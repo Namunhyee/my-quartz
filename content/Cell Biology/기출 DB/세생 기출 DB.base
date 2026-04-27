@@ -6,28 +6,30 @@ views:
         - or:
             - file.inFolder("Cell Biology/기출 DB/기말고사")
             - file.inFolder("Cell Biology/기출 DB/중간고사")
-        - note["이미지 임베드"] == true
-        - 시험 == "기말고사"
+        - 연도 == 2025
+        - 시험 == "중간고사"
     order:
       - file.name
       - 정답/해설 오류
       - 유형
       - 연도
+      - 단원
       - 시험
       - 복기_완성
       - 번호
-      - 단원
       - 관련_노트
       - 해설 불완전
       - 정답 오류
     sort:
+      - property: 단원
+        direction: ASC
+      - property: 연도
+        direction: ASC
       - property: 번호
         direction: ASC
       - property: 복기_완성
         direction: DESC
       - property: 시험
         direction: ASC
-      - property: 연도
-        direction: DESC
     columnSize:
       file.name: 152

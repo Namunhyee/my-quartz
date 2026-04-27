@@ -34,6 +34,10 @@ Raft domain (lipid raft)은 plasma membrane의 specialized domain으로, 특정 
 - 이 거대 artificial liposome에서 형성되는 domain의 평균 크기는 세포막에서 예상되는 것보다 훨씬 큼
 - Lipid raft는 몇 nanometer 직경만큼 작을 수 있음
 
+이하는 교수님 official
+- ==lipid raft라해서 유동성이 낮아지는 것이 아니다.==
+- ==vesicle formation에서 coat assembly를 위한 지질과 단백질이 모이기에 유리한 것도 lipid raft를 형성하기 때문.==
+
 ### Phase Transition의 원리
 
 이러한 경우 lipid molecule 사이의 attractive force가:

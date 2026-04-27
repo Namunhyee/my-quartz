@@ -17,7 +17,7 @@ Co-translational translocation에서 논의된 것처럼, precursor의 signal pe
 ## ==Eukaryotic cell에서의 기전==
 
 ### Sec62-Sec63 complex 사용
-Eukaryotic cell은 [[Sec61 complex|Sec61 translocator]]와 연결되는 [[Sec62-Sec63 complex]]라는 accessory protein을 사용하여 단백질을 [[Endoplasmic Reticulum]] lumen으로 당긴다.
+Eukaryotic cell은 [[Sec61 complex|Sec61 translocator]]와 연결되는 [[Sec62-Sec63 complex]]라는 accessory protein을 사용하여 단백질을 [[Endoplasmic Reticulum]] lumen으로 당긴다. ==SRP 대신 Sec62-63 complex가 부유하던 단백질을 인식함.==
 
 ### [[BiP]]의 역할
 ==[[Sec62-Sec63 complex]]는 translocation channel의 lumenal 개구부 인접 위치에 hsp70 유사 chaperone protein([[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]])을 배치한다. [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Proten Traffic(except Mitochondria)/Protein Translocation/Enzymes, complexes and Factors/BiP|BiP]]에 의한 ATP 가수분해 구동 결합 및 방출 주기가 precursor가 [[Sec61 complex|Sec61 translocator]]에 초기 삽입된 후 단백질 import의 구동력을 제공한다.==

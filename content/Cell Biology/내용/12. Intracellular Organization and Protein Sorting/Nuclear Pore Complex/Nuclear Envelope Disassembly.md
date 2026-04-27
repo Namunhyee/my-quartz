@@ -2,7 +2,7 @@
 
 동물 세포에서는 유사분열(mitosis) 동안 [[300_Microtubules_MOC|방추사(microtubule)]]가 복제된 염색체에 접근할 수 있도록 핵막이 분해된다. 유사분열 말기에는 핵막이 재조립된다.
 ![[Cell Biology/출처/md converted/Chapter 12/_page_61_Picture_2.jpeg]]
-*Fig 12-65. 유사분열 중 핵막과 핵 lamina의 분해 및 재형성. Lamin의 인산화가 nuclear lamina 분해를 유발하여 핵막 붕괴가 시작된다. 탈인산화가 과정을 역전시킨다. Lamin network는 개별 decondensing 딸염색체 주변에서부터 재형성된다. Lamin이 inner nuclear membrane에 있는 lamin receptor를 가진 막을 모집하고, 결국 이 막 구조들이 융합되어 완전한 핵을 형성한다.*
+*Fig 12-65. 유사분열 중 핵막과 핵 lamina의 분해 및 재형성. ==Lamin의 인산화가 nuclear lamina 분해를 유발==하여 핵막 붕괴가 시작된다. 탈인산화가 과정을 역전시킨다. Lamin network는 개별 decondensing 딸염색체 주변에서부터 재형성된다. Lamin이 inner nuclear membrane에 있는 lamin receptor를 가진 막을 모집하고, 결국 이 막 구조들이 융합되어 완전한 핵을 형성한다.*
 
 ## 분해 과정 (유사분열 시작)
 

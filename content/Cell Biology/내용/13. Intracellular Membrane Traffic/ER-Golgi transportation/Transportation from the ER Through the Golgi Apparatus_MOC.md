@@ -25,14 +25,14 @@
 - Proteasome에 의해 degradation
 - [[Quality control of ER protein folding|Quality-control step]]으로 비정상 protein의 onward transport 방지
 
-**CFTR 예시**:
-- **Cystic fibrosis transmembrane conductance regulator**
-- Plasma membrane의 Cl⁻ transporter
-- Predominant mutation으로 slightly misfolded CFTR 생성
-- Plasma membrane 도달하면 거의 정상 기능
-- 하지만 ER에 retain되어 proteasome에서 degraded
-- 결과: Cystic fibrosis disease
-- 교훈: Stringent quality control의 drawback
+==**CFTR 예시**:==
+- ==**Cystic fibrosis transmembrane conductance regulator**==
+- ==Plasma membrane의 Cl⁻ transporter==
+- ==Predominant mutation으로 slightly misfolded CFTR 생성==
+- ==Plasma membrane 도달하면 거의 정상 기능==
+- ==하지만 ER에 retain되어 proteasome에서 degraded==
+- ==결과: Cystic fibrosis disease==
+
 
 ### Exit Rate Variation
 

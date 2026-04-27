@@ -52,23 +52,36 @@ ER 내강이 가용성 resident 단백질과 효소로 가득 차 있는 것과 
 ## ==Transport 메커니즘==
 
 Golgi apparatus를 통한 transport는 여러 메커니즘을 통해 발생할 수 있다:
-
+![[Cell Biology/출처/md converted/Chapter 13/_page_26_Figure_2.jpeg]]
 ### ==1. Vesicle transport 메커니즘==
 
 한 구획에서 다음 구획으로 cargo를 운반하는 transport vesicle을 사용한다.[^기출_중간_2022_29][^기출_중간_2025_21] COPI-coated vesicle이 forward 및 backward transport 모두에 사용될 수 있다.[^기출_중간_2022_29][^기출_중간_2025_21]
+#### ==실험. 두 종류의 특수 골지체를 이용한 실험==
+ **Donor(공여) 골지체**: VSV-G 단백질(화물, cargo)을 가지고 있음. 하지만 중요한 효소인 GlcNAc transferase I이 결여된 돌연변이 세포에서 추출. 따라서 화물(VSV-G)은 당 가공이 중간에 멈춘 상태 
+ **Acceptor(수용) 골지체**: 화물(VSV-G)은 없음.대신 GlcNAc transferase I(효소)은 정상적으로 존재 
+##### 실험 과정
+두 골지체를 시험관에 섞고, 실험에 필요한 물질 투입 
+##### 가설
+만약 vesicle transport가 일어난다면, Donor 골지체에 있던 VSV-G 화물이 소낭에 담겨 Acceptor 골지체로 이동하고 그곳에 있는 효소에 의해 GlcNAc (방사능 동위원소) 이 VSV-G 단백질에 결합할 것임 
+이는 화물 (VSV-G )이 Vesicle에 담겨 Acceptor 골지체로 이동했음을 입증한 것
 
 ### ==2. Cisternal maturation 메커니즘==
 
 새로운 cis cisterna가 ER에서 온 vesicular tubular cluster의 융합으로 지속적으로 형성된다.[^기출_중간_2025_21] Cargo가 cisterna 내에서 수정됨에 따라, 효소는 transport vesicle로 떠나 새로 도착하는 vesicular tubular cluster와 융합한다.[^기출_중간_2022_29][^기출_중간_2025_21] 동시에, cisterna는 나중 Golgi cisternae에서 온 효소를 포함하는 transport vesicle을 받아들여 medial cisterna로 전환된다.[^기출_중간_2022_29][^기출_중간_2025_21]
+##### ==실험1 거대 분자 관찰==
+소낭에서는 발견될 수 없는 거대 분자가 골지체를 통과함.
+##### ==실험2 실시간 현미경 관찰==
+- 특정 골지 조에 녹색 형광( Cis 효소)와 적색형광 (trans 효소)을 입히고 실시간으로 관찰
+- 시간이 지나면서 골지 stack의 색이 녹색에서 적색으로 변함.
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_26_Figure_2.jpeg]]
 
-두 메커니즘의 요소가 다양한 정도로 사용될 가능성이 높다. Stack 중심에 오래 지속되는 cisternae의 안정적인 core가 존재할 수 있고, 가장자리의 영역은 지속적인 maturation을 겪을 수 있다.
 
 ## ==동물세포에서의 Golgi의 위치를 결정하는 것==
 ![[Cell Biology/출처/md converted/Chapter 13/_page_18_Figure_9.jpeg]]
 Golgi apparatus의 독특한 구조는 [[300_Microtubules_MOC|microtubule cytoskeleton]]과 세포질 Golgi matrix 단백질 모두에 의존한다:
-
+식물세포의 golgi는 microtubule에 의해 guide되지 않아 세포 내에 흩어져 있음
+![[Pasted image 20260427004904.png]]
+==좌측이 동물세포의 골지. 핵 주위에 위치함. 우측이 식물세포의 골지. 세포 내에 산재함.==
 
 ### GRASP (Golgi Reassembly and Stacking Proteins)
 

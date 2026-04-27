@@ -15,6 +15,4 @@ Dynein head가 ATP를 가수분해하면 B microtubule의 minus end 방향으로
 
 Bending 메커니즘의 자세한 내용은 [[Cell Biology/내용/16. The Cytoskeleton/Microtubules/Flagellum or cilium/axoneme bending|axoneme bending]] 참조.
 
-인간에서 axonemal dynein의 유전적 결함은 **primary ciliary dyskinesia (Kartagener's syndrome)**을 일으킨다. 특징으로는 내장 비대칭의 역전(situs inversus), 불임(immotile sperm), 폐 감염에 대한 높은 감수성(호흡기 cilia 마비)이 있다.
-
 [^기출_기말_2023_21]: [[Cell Biology/기출 DB/기말고사/2023년/final_2023_21번|2023 기말 21번]] — axonemal dynein arm 결함이 primary ciliary dyskinesia(PCD)/Kartagener syndrome을 유발하며, 불임(immotile sperm), 폐 감염 감수성 증가, 내장 좌우 비대칭(situs inversus)이 특징이라는 내용이 정답 근거로 활용됨.

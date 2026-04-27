@@ -134,7 +134,7 @@ H⁺/neurotransmitter antiport:
 ### Ca²⁺-triggered Fusion
 이후 action potential 도착으로 **Ca²⁺ influx**
 
-4. ==Fusion pore opeing==. <font color="#76923c">Synaptotagmin</font> activation**
+4. <font color="#76923c">Synaptotagmin</font> activation, ==Fusion pore opeing==. 
    - ==Ca²⁺-binding domain 보유==
    - Ca²⁺ 결합으로 conformational change
    - SNARE complex와 상호작용하여 **Complexin displacement**, pore opening

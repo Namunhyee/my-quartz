@@ -12,7 +12,7 @@ Transport vesicle의 형성은 donor membrane의 특정 영역에서 coat protei
 
 - **[[Clathrin coat|Clathrin-coated vesicles]]**: Golgi, endosome, plasma membrane에서 출발
 - **COPI-coated vesicles**: Golgi cisternae 사이 transport
-- **COPII-coated vesicles**: [[Transportation from the ER Through the Golgi Apparatus_MOC|ER에서 Golgi로 transport]]
+- **[[COPII]]-coated vesicles**: [[Transportation from the ER Through the Golgi Apparatus_MOC|ER에서 Golgi로 transport]]
 - ~~**Retromer-coated vesicles**: Endosome에서 Golgi로 retrieval~~
 
 각 coat type은 서로 다른 transport step에 사용된다:
@@ -48,7 +48,7 @@ Coat assembly는 다음에 의해 조절된다:
 - **[[Phosphatidylinositol(PI) and Phosphoinositides(PIPs)|Phosphoinositides (PIPs)]]**: Compartment-specific marker로 작용
 - **Coat-recruitment GTPases**: Sar1 (COPII), ARF (COPI, clathrin)
 - **Cargo molecules**: 일부 cargo는 coat assembly를 촉진
-
+==이들은 [[Raft domain|lipid raft]] 형태로 모여있고, 이 모임이 curvature를 만들고, vesicle formation에 필요한 지질이나 protein을 모아놓기 때문에 vesicle 형성에 유리하다.==
 ## Vesicle Formation의 단계
 
 1. **Coat nucleation**: Coat-recruitment GTPase 활성화 또는 PIP 생성

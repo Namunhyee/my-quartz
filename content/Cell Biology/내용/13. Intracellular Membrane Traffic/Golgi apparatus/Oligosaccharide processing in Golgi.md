@@ -68,7 +68,6 @@ Complex oligosaccharide는 이질적일 수 있다:
 
 Trimming되지만 Golgi apparatus에서 새로운 당이 추가되지 않는다.
 - Core region까지 완전히 trimming되지 않음
-- 추가 mannose 포함
 
 Hybrid oligosaccharide도 존재한다 (하나의 mannose branch와 하나의 GlcNAc 및 Gal branch).
 

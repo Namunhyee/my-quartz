@@ -23,11 +23,11 @@ Trans-SNARE complex가 membrane fusion drive:
 - Hexameric ==AAA-ATPase== = ==Unfoldase==
 - Cis-SNARE complex 인식
 **Mechanism**:
-1. NSF가 accessory protein (α-SNAP)과 함께 cis-SNARE complex 결합[^기출_중간_2023_8][^기출_중간_2025_24]
-2. ATP hydrolysis[^기출_중간_2023_8][^기출_중간_2025_24]
-3. Conformational change
-4. SNARE helix를 forcibly unwind[^기출_중간_2023_8][^기출_중간_2025_24]
-5. SNARE protein 분리[^기출_중간_2023_8][^기출_중간_2025_24]
+1. ==NSF가 accessory protein (α-SNAP)과 함께 cis-SNARE complex 결합[^기출_중간_2023_8][^기출_중간_2025_24]==
+2. ==ATP hydrolysis[^기출_중간_2023_8][^기출_중간_2025_24]==
+3. ==Conformational change==
+4. ==SNARE helix를 forcibly unwind[^기출_중간_2023_8][^기출_중간_2025_24]==
+5. ==SNARE protein 분리[^기출_중간_2023_8][^기출_중간_2025_24]==
 
 ### 5. SNARE Recycling
 분리된 SNARE는:

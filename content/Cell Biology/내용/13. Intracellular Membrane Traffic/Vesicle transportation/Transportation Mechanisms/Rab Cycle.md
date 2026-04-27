@@ -1,6 +1,6 @@
 # Rab Cycle
 
-Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를 조절한다.[^기출_중간_2021_미상C][^기출_중간_2022_25][^기출_중간_2023_7] 이 cycle은 vesicle과 target membrane에서 일어나며, vesicle identity와 targeting specificity를 제공한다.
+==Rab protein은 membrane과 cytosol 사이를 cycle하면서 vesicle transport를 조절한다.==[^기출_중간_2021_미상C][^기출_중간_2022_25][^기출_중간_2023_7] 이 cycle은 vesicle과 target membrane에서 일어나며, vesicle identity와 targeting specificity를 제공한다.
 
 ## Rab protein의 구조와 특성
 

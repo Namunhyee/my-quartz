@@ -23,10 +23,10 @@
 ## [[major accessory proteins of the actin cytoskeleton|accessory proteins in sarcomere]]
 ### thin filaments의 길이를 일정하게 하는 proteins
 #### ==CapZ==
-Z disc에 thin filaments의 plus end를 anchoring하고 성장과 분해를 막음.
+Z disc에 thin filaments의 **plus end**를 anchoring하고 성장과 분해를 막음.
 #### ==tropomodulin==
-thin filaments의 minus end에 붙어 성장과 분해를 막음.
-CapZ와 tropomodulin에 의해 light band의 ac
+thin filaments의 **minus end**에 붙어 성장과 분해를 막음.
+CapZ와 tropomodulin에 의해 light band의 actin filaments가 
 #### ==nebulin==
 thin filament와 동일한 길이의 단백질로 나선형으로 thin filament 측면에 붙어 안정화함.
 ### myosin에 관여하는 protein

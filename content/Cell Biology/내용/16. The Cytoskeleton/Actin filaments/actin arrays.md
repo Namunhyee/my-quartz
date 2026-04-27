@@ -6,6 +6,8 @@
 *Fig 16–18. 세포 이동 중 ==fibroblast(섬유아세포. 이동성 좋음)==의 actin array 모식도. (A) stress fiber(수축성), actin cortex(lamellipodia용 network), filopodia(spike형), lamellipodium. (B) Leading edge의 dense actin network. Plus end가 세포 끝을 향한다.* 
 ==화살표가 향하는 방향이 minus end 쪽.==
 
+[[Rho family|Rho GTPase Family]]==에 의해 조절된다.==
+
 ## 주요 Array 유형
 
 ### ==dendritic network (lamellipodium)==
@@ -14,12 +16,15 @@
 - 2차원 sheet-like 구조로 세포 전진 방향에 평행하게 배열
 - ==방향성이 있음.==
 - 세포 가장자리를 밀어내는 힘 생성
+- Rac GTPase에 의해 조절됨
+- [[cell migration by actin cytoskeleton]]에 그 기전 설명됨.
 
 ### ==Tight parallel bundle (filopodium)==
 ![[Pasted image 20260416135836.png]]
 - Formin이 long, straight filament 형성
 - 1차원 spike 구조, 세포 환경 탐색 및 신경 성장원뿔 유도 기능
 - Plus end가 세포 끝을 향해 배치
+- Cdc42 GTPase에 의해 조절됨
 
 
 ### ==Contractile bundle (stress fiber)==
@@ -29,6 +34,7 @@
 - ==번들을 형성하여 존재.==
 - ==방향성은 양방향으로 존재.==
 - [[Myosin II|Myosin II]]가 수축력을 제공
+- Rho GTPase에 의해 조절됨.
 
 
 ### ==gel-like network(cell cortex)==

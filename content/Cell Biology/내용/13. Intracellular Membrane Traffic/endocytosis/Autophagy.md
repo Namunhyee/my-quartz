@@ -20,7 +20,9 @@ Autophagy 동안:
 ### ==2. Selective Autophagy==
 
 Autophagosome이 표식이 붙은 특정 cargo를 단단히 둘러싸고 주변 세포질을 대부분 제외한다.[^기출_중간_2025_27]
-e.g. mitophagy
+e.g. mitophagy : 손상된 mitochondria 제거
+	xenophagy : 침입한 미생물 제거
+	
 
 ## Autophagy의 역할
 

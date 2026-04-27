@@ -3,6 +3,7 @@
 **Sarcoplasmic reticulum (SR)**은 골격근 세포에서 각 myofibril을 그물처럼 감싸는 특수화된 [[Cell Biology/내용/12. Intracellular Organization and Protein Sorting/Membrane-enclosed Organelles/Endoplasmic Reticulum|endoplasmic reticulum]]이다. [[T tubules|T tubule]]에서 전달되는 전기 신호를 Ca²⁺ 방출로 변환하여 근육 수축을 개시하는 역할을 한다.
 
 ![[Cell Biology/출처/md converted/Chapter 16/_page_33_Picture_2.jpeg]]
+![[Pasted image 20260427125724.png]]
 *Fig 16–30. T tubule과 sarcoplasmic reticulum. (A) Plasma membrane에서 각 myofibril 주위로 T tubule이 내부로 함입되고, sarcoplasmic reticulum이 망상으로 둘러싼다. (B) T tubule 단면 전자현미경 사진. (C) T tubule의 전압 개폐 Ca²⁺ channel이 SR의 Ca²⁺-release channel을 여는 과정 모식도.*
 
 ---

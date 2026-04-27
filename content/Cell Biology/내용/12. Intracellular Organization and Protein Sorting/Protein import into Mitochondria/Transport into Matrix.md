@@ -13,7 +13,7 @@
     
 6. **Signal peptide 절단** Matrix에 있는 signal peptidase가 signal peptide를 절단한다.[^기출_중간_2025_16]
     
-7. **Protein folding 및 maturation** 단백질이 기능적인 mitochondrial protein으로 접히며 성숙한다.
+7. **Protein folding 및 maturation** 단백질이 기능적인 mitochondrial protein으로 접히며 성숙한다. 원칙적으로 signal peptide 절단 후 folding
 ---
 
 [^기출_중간_2025_16]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_16번|2025 중간 16번]] — ① 미토콘드리아 기질(matrix)로 향하는 단백질은 보통 N-말단에 양친매성 α-나선 구조의 signal sequence를 지니며, 수송 후 미토콘드리아 기질에서 그 신호 서열이 절단된다.② 옳음: 세포질 hsp70이 unfolded 상태 유지, TOM/TIM23 통과. ③ 옳음: 막전위(ΔΨ)와 mtHsp70 ATP 가수분해로 완전 수입. ⑤ 틀림: matrix targeting sequence는 MPP에 의해 절단됨.

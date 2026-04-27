@@ -7,15 +7,15 @@
 
 ## 조립 단계
 
-1. **Monomer → Coiled-coil dimer**: 두 monomer가 평행하게 정렬되어 central rod domain끼리 coiled-coil을 형성한다.
+1. ==**Monomer(α-helix) → Coiled-coil dimer**: 두 monomer가 평행하게 정렬되어 central rod domain끼리 coiled-coil을 형성한다.==
 
-2. **Dimer → Antiparallel staggered tetramer**: 두 dimer가 역방향(antiparallel)으로 엇갈리게 결합하여 4-chain tetramer를 형성한다. 이 tetramer가 soluble subunit이다.
+2. ==**Dimer → Antiparallel staggered tetramer**: 두 dimer가 역방향(antiparallel)으로 엇갈리게 결합하여 4-chain tetramer를 형성한다. 이 tetramer가 soluble subunit이다.==
 
-3. **Tetramer → 10 nm 필라멘트**: Tetramer들이 측면으로 packing되어 8개의 parallel protofilament를 이루고, 최종 필라멘트는 단면에 16개의 dimer(32개의 coiled-coil)를 갖는다.
+3. ==**Tetramer → 10 nm 필라멘트**: Tetramer들이 측면으로 packing되어 8개의 parallel protofilament를 이루고[^기출_기말_2022_5], 최종 필라멘트는 **단면에 16개의 dimer(32개의 coiled-coil)**를 갖는다.==
 
 ## 중요한 특성
 
-Intermediate filament subunit은 ATP나 GTP 결합 부위가 없다.[^기출_기말_2025_21] 또한 tetramer subunit은 두 dimer가 반대 방향을 향해 구성되므로 양 끝이 동일하다. 따라서 assembled intermediate filament는 **극성(polarity)이 없다** — actin filament나 microtubule과 근본적으로 다른 점이다.[^기출_기말_2022_5]
+==Intermediate filament subunit은 ATP나 GTP 결합 부위가 없다.[^기출_기말_2025_21] 또한 tetramer subunit은 두 dimer가 반대 방향을 향해 구성되므로 양 끝이 동일하다. 따라서 assembled intermediate filament는 **극성(polarity)이 없다** — actin filament나 microtubule과 근본적으로 다른 점이다.[^기출_기말_2022_5]==
 
 Intermediate filament는 쉽게 구부러지지만(persistence length < 1 μm) 끊기가 매우 어렵고, 원래 길이의 3배 이상 늘어날 수 있다. 이는 rope-like 구조에서 비롯된 기계적 특성이다.
 

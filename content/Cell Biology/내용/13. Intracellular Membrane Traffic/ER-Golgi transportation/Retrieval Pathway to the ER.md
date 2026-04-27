@@ -45,7 +45,6 @@ Retrieval pathway는 specific signal에 의존한다.
 **Structure**:
 - C-terminal end에 위치
 - **K-K-X-X**: Two lysine + any two amino acid
-- Single-letter code 사용
 
 **Mechanism**:
 1. ==KKXX sequence가 COPI coat에 directly bind==[^기출_중간_2023_5][^기출_중간_2025_20]

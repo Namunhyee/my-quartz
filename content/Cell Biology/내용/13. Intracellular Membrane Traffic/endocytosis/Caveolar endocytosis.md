@@ -59,7 +59,8 @@ Clathrin-coated 및 COPI-coated 또는 COPII-coated vesicle과 대조적으로, 
 - [[Raft domain|Lipid raft]] 형성과 유사한 원리
 ## actin filaments와의 관계
 ![[Pasted image 20260420131844.png]]
-actin에 caveolar를 고정함. 기계적 자극 수용에 관여.
+
+==actin에 caveolar를 고정함. 기계적 자극 수용에 관여.==
 ## Clathrin-independent Endocytosis
 
 Caveolar endocytosis는 여러 clathrin-independent pinocytic vesicle 및 membrane invagination 중 하나이다. 이러한 clathrin-independent invagination의 대부분은:
@@ -70,8 +71,8 @@ Caveolar endocytosis는 여러 clathrin-independent pinocytic vesicle 및 membra
 
 - [[_endocytosis_MOC|Endocytosis]]
 - [[Receptor-mediated endocytosis|Receptor-mediated endocytosis]]
-- [[../../10. Membrane Structure/Lipid rafts|Lipid raft]]
-- [[../../10. Membrane Structure/Membrane proteins|Membrane 단백질]]
+- [[Raft domain|Lipid raft]]
+- [[Membrane protein|Membrane 단백질]]
 
 [^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Caveolae의 구조(caveolin/cavin, lipid raft 특성)와 clathrin-independent endocytosis 메커니즘이 정답 근거로 활용됨.
 [^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — ①번 선지: Dynamin은 역할 세포 외부에서 끊어지는 과정을 한다 (틀림, Dynamin은 세포질 쪽(cytoplasmic face)에서 neck을 감싸 pinch-off); ②번 선지: Caveolae는 Cavins가 coating 단백질로 이용될 수 있다 (틀림 또는 부정확, Cavin은 adaptor protein으로 이용됨.); ③번 선지: Caveolar endocytosis는 주로 lipid raft 영역에서 일어나고 있다 (맞음, caveolae는 cholesterol·glycosphingolipid 풍부한 lipid raft 도메인); ④번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, macropinocytosis는 actin-mediated ruffle 형성을 이용, 비특이적 fluid 섭취, 정답); ⑤번 선지: Macropinocytosis 진행과정에서 흡수 시 특정 cargo를 특이적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적).

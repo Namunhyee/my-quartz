@@ -125,7 +125,7 @@ Transport vesicle이 early endosome의 tubular extension에서 bud off:
 일부 retrieval pathway는 late endosome에서도 작동한다:
 - Retromer-coated vesicle
 - TGN으로 특정 단백질 반환
-- 예: M6P receptor
+- 예: [[Transport of lysosomal hydrolases from TGN to endosomes|M6P]] receptor
 
 
 ## Maturation의 점진성

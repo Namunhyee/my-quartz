@@ -8,7 +8,7 @@ Actin filament
 - ===microfilament==
 - ==직경 **8 nm**의 flexible한 구조체로==
 - ==linear bundle, 2차원 network, 3차원 gel 등 다양한 형태로 조직화된다== -> [[actin arrays]]
-- 세포 전체에 분산되어 있지만, ==plasma membrane 바로 아래 cortex에 가장 고농도로 집중==되어 있다. Actin filament는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin ]]기반 [[Cell-Matrix Junctions_MOC|focal adhension]]과 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Adheres junction/Adheres junction_MOC|adherens junction]]을 통해 ECM 및 인접 세포와 기계적으로 연결된다.
+- 세포 전체에 분산되어 있지만, ==plasma membrane 바로 아래 cortex에 가장 고농도로 집중==되어 있다. Actin filament는 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/integrin/integrin_MOC|integrin ]]기반 [[Cell-Matrix Junctions_MOC|focal adhension]]과 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Adheres junction/Adheres junction_MOC|adherens junction]]을 통해 [[Extracellular Matrix_MOC|ECM]] 및 인접 세포와 [[Adheres junction_MOC|기계적으로 연결된다]].
 
 ## 목차
 

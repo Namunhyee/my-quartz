@@ -60,43 +60,6 @@
 - **일부 단백질의 경우**
 - 분비 후 processing
 
-## Proteolytic Cleavage의 메커니즘
-
-### Cleavage Site의 특징
-
-**공통 인식 서열:**
-- **Paired basic amino acids**
-  - Lys-Arg, Lys-Lys
-  - Arg-Lys, Arg-Arg
-  - Specific protease (furin-like)가 인식
-
-**예시: Proinsulin → Insulin**
-```
-Proinsulin:
-  B chain - C peptide - A chain
-          ↓ cleavage at Arg-Arg
-  B chain + C peptide + A chain
-          ↓ C peptide 제거
-  Active insulin (B chain + A chain, disulfide bonded)
-```
-
-### Processing Enzyme
-
-#### Proprotein Convertase (PC)
-- **Furin family**
-- TGN과 secretory vesicle에서 활성
-- Paired basic amino acid 인식
-- Ca²⁺-dependent
-
-#### Carboxypeptidase
-- **Trimming enzyme**
-- Basic amino acid 제거
-- Final product 생성
-
-#### Other Protease
-- Tissue-specific enzyme
-- 특정 substrate에 특화
-
 ## Processing의 조절
 
 ### Acidification
@@ -177,25 +140,6 @@ Proinsulin:
 - 연쇄적 proteolytic activation
 - 빠른 반응 가능
 
-## 병리학적 측면
-
-### Processing 결함
-- **Impaired activation**
-  - 기능 상실
-  - 질병 유발
-
-- **Premature activation**
-  - 세포 손상
-  - Tissue damage
-
-### Therapeutic Application
-- **Protease inhibitor 개발**
-  - 과도한 활성 억제
-  - 질병 치료
-
-- **Proprotein convertase inhibitor**
-  - 특정 processing 차단
-  - 질병 조절
 
 ## 요약
 
