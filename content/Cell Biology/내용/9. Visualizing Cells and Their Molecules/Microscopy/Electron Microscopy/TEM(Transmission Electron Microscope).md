@@ -65,6 +65,13 @@ NA: 렌즈의 빛 모음 정도
 - 산란된 전자만을 이용해 영상을 만든다.
 - ==전자를 많이 산란시키는 부분이 **밝게 보인다.**==
 → BF와 대비가 반대로 형성된다.
+
+| **구분**                | **명시야상 (Bright Field, BF)** | **암시야상 (Dark Field, DF)**  |
+| --------------------- | --------------------------- | -------------------------- |
+| **개념**                | 투과된 직진광으로 이미지 형성            | 산란/굴절된 전자선으로 이미지 형성        |
+| **기본 배경**             | **밝음 (White/Bright)**       | **어두움 (Black/Dark)**       |
+| **Negative Staining** | 배경은 **검고**, 시료는 **밝게** 보임   | 배경은 **밝고**, 시료는 **검게** 보임  |
+| **Positive Staining** | 배경은 **밝고**, 시료는 **검게** 보임   | 배경은 **어두움**, 시료는 **밝게** 보임 |
 ## Figure 9-39: Electron Microscope의 Resolution
 ![[Cell Biology/출처/md converted/Chapter 9/_page_25_Figure_9.jpeg]]
 **표본**: Monolayer of graphene

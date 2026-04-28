@@ -102,7 +102,7 @@ Asn-X-Ser/Thr
 - Aggregation 방지
 
 ## ==Processing in the ER==
-### Glucose Trimming
+### [[Glycosylation-Based Monitoring|Glucose Trimming]]
 ![[Cell Biology/출처/md converted/Chapter 12/_page_33_Picture_2.jpeg]]
 #### **단계:**
 1. glucosidase가 2개의 glucose 제거

@@ -31,7 +31,7 @@ Specimen을 heavy metal layer로 coating하거나 rapidly frozen한 후, cooled 
 
 **결과**: SEM은 0.5 nm에서 10 nm 사이의 resolution으로 three-dimensional objects의 striking images 생성 (instrument 종류에 따라)
 
-## 3. 시료-전자 상호작용
+## 시료-전자 상호작용
 전자빔이 시료에 충돌하면 여러 신호가 발생한다.
 ### (1) <mark style="background:#fff88f">Secondary electron (SE)</mark>
 - 1차전자가 충돌하여 해당 부분이 이온화되며 전자 방출

@@ -169,7 +169,7 @@ Artificial bilayer 실험:
 - **[[Cholesterol]]** 농축
 - **[[Phospholipid#Sphingolipid|Sphingolipid]]** 농축
 - **[[Glycolipid]]** 농축
-- **[[GPI anchor|GPI-anchored]] protein** 농축
+- ~~**[[GPI anchor|GPI-anchored]] protein** 농축~~
 - 일부 transmembrane protein
 
 **Sphingolipid가 raft에 집중되는 이유:**
@@ -193,7 +193,7 @@ Artificial bilayer 실험:
 		1. 이하는 교수님 official
 	- ==lipid raft라해서 유동성이 낮아지는 것이 아니다.==
 	- ==vesicle formation에서 coat assembly를 위한 지질과 단백질이 모이기에 유리한 것도 lipid raft를 형성하기 때문.==
-3. **Cell Adhesion**: [[GPI anchor|GPI-anchored]] protein localization 조절
+3. ~~**Cell Adhesion**: [[GPI anchor|GPI-anchored]] protein localization 조절~~
 
 ## 5. Membrane Protein
 
@@ -234,9 +234,10 @@ Artificial bilayer 실험:
 *Fig 9. β-barrel transmembrane protein (porin 등) - 주로 박테리아, 미토콘드리아에 존재*
 
 - Multiple β-strand가 rolled-up β sheet (β barrel) 형성
-- 막 횡단에 **10개 이하의 아미노산**으로 충분 (extended β strand)
-- 격번 아미노산의 side chain만 소수성이면 됨
+- ~~막 횡단에 **10개 이하의 아미노산**으로 충분 (extended β strand)~~
+- ~~격번 아미노산의 side chain만 소수성이면 됨~~
 - **Porin** 등에서 발견 (주로 박테리아, 미토콘드리아)
+- 단백질마다 각자의 덮개 domain이 있어 조절에 관여.
 
 ### [[Lipid anchor]]
 ![[Cell Biology/출처/md converted/Chapter 10/_page_14_Figure_1.jpeg]]

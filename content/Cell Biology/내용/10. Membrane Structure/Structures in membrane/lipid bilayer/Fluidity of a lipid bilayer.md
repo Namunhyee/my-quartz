@@ -96,23 +96,21 @@ Fluidity는 정밀하게 조절되어야 한다:
 
 #### Phase Transition
 
-![[Cell Biology/출처/md converted/Chapter 10/_page_6_Figure_8.jpeg]]
-
 단일 type의 phospholipid로 만든 synthetic bilayer:
 1. Liquid state에서 2차원 rigid crystalline (또는 gel) state로 변화
 2. 특징적인 온도에서 발생 = phase transition
 3. <mark style="background:#fff88f">Phase transition 온도는 다음 조건에서 낮아짐(온도를 조금만 올려도 유동성 증가):</mark>[^기출_중간_2022_13]
    - Hydrocarbon chain이 짧을 때
    - Chain에 double bond가 있을 때
-
-#### Hydrocarbon Chain 길이의 영향
+## 유동성에 영향을 주는 요인인
+#### 1. Hydrocarbon Chain 길이의 영향
 
 **짧은 chain:**
 - 같은 monolayer와 반대 monolayer에서 서로 상호작용하는 경향 감소[^기출_중간_2023_16_⑤]
 - 낮은 온도에서 membrane이 fluid로 유지
 - Freeze시키기 더 어려움
 
-#### cis-Double Bond의 영향
+#### 2. cis-Double Bond의 영향
 
 ![[Cell Biology/출처/md converted/Chapter 10/_page_6_Figure_8.jpeg]]
 
@@ -123,10 +121,9 @@ Fluidity는 정밀하게 조절되어야 한다:
 - Unsaturated lipid의 hydrocarbon chain이 더 spread apart됨
 - 결과: Unsaturated lipid를 포함하는 bilayer가 더 얇음
 
-#### 복잡한 Lipid 혼합의 효과
+#### 3. 온도 효과
+온도가 높을수록 유동성 증가
 
-Membrane이 많은 서로 다른 lipid species의 복잡한 혼합으로 구성되면:
-- 대부분의 membrane이 phase-transition point 바로 위에서 liquid로 유지되도록 조절됨
 
 ### <mark style="background:#fff88f">온도 적응</mark>
 

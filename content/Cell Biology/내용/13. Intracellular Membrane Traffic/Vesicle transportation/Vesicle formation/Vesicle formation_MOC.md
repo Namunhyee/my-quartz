@@ -17,7 +17,7 @@ Transport vesicle의 형성은 donor membrane의 특정 영역에서 coat protei
 
 각 coat type은 서로 다른 transport step에 사용된다:
 
-![[Cell Biology/출처/md converted/Chapter 13/_page_3_Figure_7.jpeg]]
+![[Pasted image 20260428150112.png]]
 
 ## Coat의 구조와 기능
 
