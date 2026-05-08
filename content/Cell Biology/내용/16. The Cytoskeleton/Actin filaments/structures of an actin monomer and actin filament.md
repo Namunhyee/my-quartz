@@ -17,7 +17,7 @@
 
 actin subunit은 극성이 있음
 
-- 두 protofilament가 나란히 감겨 **right-handed double helix** 형성
+- 두 protofilament가 나란히 감겨 **right-handed double helix** 형성[^기출_기말_2025_12]
 - 반복 단위 pitch: 37 nm
 - 직경: 8 nm[^기출_기말_2022_5]
 - 모든 subunit이 동일한 방향으로 배열 → filament에 **극성(polarity)** 부여[^기출_기말_2022_5]

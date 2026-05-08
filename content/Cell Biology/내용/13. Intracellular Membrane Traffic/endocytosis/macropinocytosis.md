@@ -47,7 +47,7 @@ Macropinocytosis는 목적과 메커니즘 모두에서 [[phagocytosis|phagocyto
 - [[phagocytosis|Phagocytosis]]와 유사한 메커니즘
 
 ## 전용 분해 경로
-==Macropinocytosome은 재활용 없이 오직 분해만을 진행한다.==
+==Macropinocytosome은 재활용 없이 오직 분해만을 진행한다.==[^기출_중간_2025_23]
 Macropinocytosis는 전용 degradative pathway이다:
 - Macropinosome이 acidify됨
 - Late endosome 또는 endolysosome과 융합
@@ -101,4 +101,4 @@ Macropinocytosis는 oncogene *Ras*의 활성화에 의해 자극된다:
 
 [^기출_중간_2022_33]: [[Cell Biology/기출 DB/중간고사/2022년/mid_2022_33번|2022 중간 33번]] — Macropinocytosis의 비선택적 특성, ruffle 형성, actin polymerization 의존성이 정답 근거로 활용됨.
 [^기출_중간_2023_10]: [[Cell Biology/기출 DB/중간고사/2023년/mid_2023_10번|2023 중간 10번]] — ④번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, macropinocytosis는 actin-mediated ruffle 형성 이용, 정답); ⑤번 선지: Macropinocytosis 진행과정에서 흡수 시 특정 cargo를 특이적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적 bulk fluid 섭취, receptor 불필요).
-[^기출_중간_2025_23]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_23번|2025 중간 23번]] — ③번 선지: Macropinocytosis 진행에서 비활성화가 없는 actin reorganization이 일어날 수 있다 (맞음, actin-mediated ruffle 형성); ④번 선지: Macropinocytosis는 세포 외 큰 입자를 수용체 독립적으로 인식하여 internalization 한다 (틀림, macropinocytosis는 비특이적이지만 receptor-independent 맞음, 그러나 '특이적 인식' 부분은 틀림); ⑤번 선지: 모든 clathrin-independent pathway는 receptor-dependent 방식으로만 cargo를 섭취한다 (틀림, macropinocytosis는 receptor-independent).
+[^기출_중간_2025_23]: [[Cell Biology/기출 DB/중간고사/2025년/mid_2025_23번|2025 중간 23번]] — - ③ [[Cell Biology/내용/13. Intracellular Membrane Traffic/endocytosis/macropinocytosis|Macropinocytosis]]에서 actin reorganization은 재활용이 아니라 membrane ruffling을 위해 발생함. Macropinocytosome은 재활용 없이 오직 분해만을 진행한다. ✗- ④ Macropinocytosis는 비선택적(non-selective) 과정 ✗- ⑤ Macropinocytosis 등은 non-receptor-dependent ✗

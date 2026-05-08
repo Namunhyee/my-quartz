@@ -8,7 +8,7 @@
 ## 형성
 
 - ==Primary cilia는 interphase 동안 **basal body**(단일 centriole이 핵심인 구조)에서 plasma membrane 근처에 형성된다.== 
-- Centriole은 세포 분열 시에는 centrosome의 핵심으로, ==interphase에서는 basal body로 번갈아 기능한다.== 
+- Centriole은 세포 분열 시에는 [[centrosome]]의 핵심으로, ==interphase에서는 basal body로 번갈아 기능한다.== 
 - ==세포가 분열 주기에 진입하면 primary cilium이 흡수(resorption)되어 centriole이 centrosome으로 기능한다.==
 ![[Centrosome#Centrosome의 이중 기능 Primary Cilia 의 Basal Body]]
 

@@ -17,5 +17,5 @@
 ==Dendrite에서는 microtubule의 극성이 **혼재**한다. Plus end가 바깥쪽을 향하는 것과 안쪽을 향하는 것이 섞여 있다. 이로 인해 vesicle은 kinesin과 dynein 모두에 결합할 수 있으며, 어떤 motor가 활성화되느냐에 따라 양방향으로 이동할 수 있다.==
 
 ## 알츠하이머의 대표적 병리
-- 세포 내에서 microtubule을 안정화하는 Tau 단백질이 과인산화되면
-- 미세소관이 붕괴해 synapse까지 수송이 어려워지면서 neuronal malfunction.
+- ==세포 내에서 microtubule을 안정화하는 Tau 단백질이 과인산화되면==
+- ==미세소관이 붕괴해 synapse까지 수송이 어려워지면서 neuronal malfunction.==

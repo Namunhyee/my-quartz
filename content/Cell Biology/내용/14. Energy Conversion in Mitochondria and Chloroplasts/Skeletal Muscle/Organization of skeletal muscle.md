@@ -4,7 +4,6 @@
 
 골격근의 구조는 다음과 같이 계층적으로 조직된다:
 
-```
 Muscle (근육)
   └── Muscle fascicle (근속)
         └── Muscle fiber = Myocyte (근섬유/근세포)
@@ -12,7 +11,6 @@ Muscle (근육)
                     └── Sarcomere (근절) ← 수축의 기본 단위
                           ├── Thick filament (굵은 필라멘트) — Myosin
                           └── Thin filament (가는 필라멘트) — Actin
-```
 
 ## 주요 구성 요소
 

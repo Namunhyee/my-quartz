@@ -1,7 +1,8 @@
 ![[Cell Biology/출처/md converted/Chapter 12/_page_46_Figure_6.jpeg]]
 ## ==Mitochondrial Protein Import의 주요 단계==
 
-1. **Precursor proteins 합성** Cytosol에서 N-terminal signal sequence를 가진 Precursor proteins가 합성된다.[^기출_중간_2025_16]
+1. **Precursor proteins 합성** Cytosol에서 N-terminal signal sequence를 가진 Precursor proteins가 합성된다.  signal sequence는 [[Sorting Signal#==Signal Sequences의 예시==|양전하 아미노산과 소수성 아미노산이 교대로 배치된]] [[Amphiphilic molecule|amphiphilic]]
+ [[α-helical Conformation in Membrane Proteins|α-helix]] 이다.[^기출_중간_2025_16]
     
 2. **Unfolded state 유지** 단백질이 접히지 않은 상태를 유지하도록 cytosolic Hsp70 chaperones가 결합한다.[^기출_중간_2025_16]
     

@@ -6,6 +6,7 @@
 ## 기본 원리
 
 - 모든 mitochondrial precursor protein은 하나 이상의 [[Sorting Signal|signal sequence]]를 포함한다.
+- signal sequence는 [[Sorting Signal#==Signal Sequences의 예시==|양전하 아미노산과 소수성 아미노산이 교대로 배치된]] [[Amphiphilic molecule|amphiphilic]] [[α-helical Conformation in Membrane Proteins|α-helix]] 이다.[^기출_중간_2025_16]
 - 단백질은 **==post-translational** 방식==으로, 완전히 합성된 후 ==**unfolded** 상태==로 수입된다 (==ER의 co-translational 방식과 달리 미토콘드리아 표면에 ribosome이 거의 결합하지 않음==).[^기출_중간_2025_16]
 - Cytosolic **hsp70** chaperone이 precursor를 unfolded 상태로 유지한다.[^기출_중간_2025_16]
 - 미토콘드리아는 두 개의 막을 가지므로, 각 subcompartment로 단백질을 보내기 위한 여러 경로가 존재한다.
