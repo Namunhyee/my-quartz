@@ -102,7 +102,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
-        if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
+        if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "") || file.data.frontmatter?.isCanvas) {
           linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,
