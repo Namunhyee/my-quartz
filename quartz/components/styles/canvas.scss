@@ -5,6 +5,17 @@
   --canvas-edge-color: var(--gray);
 }
 
+// ─── 데스크톱에서 오른쪽 컬럼 제거 → canvas가 전체 나머지 공간 사용 ──
+body.canvas-page #quartz-body {
+  @media all and ($desktop) {
+    grid-template-columns: $sidePanelWidth 1fr;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+}
+
 // ─── 전체 래퍼 ────────────────────────────────────────────────────
 .canvas-wrapper {
   position: relative;

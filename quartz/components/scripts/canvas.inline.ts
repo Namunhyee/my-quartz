@@ -49,6 +49,8 @@ function setupCanvas() {
   const viewport = document.getElementById("canvas-viewport")
   if (!wrapper || !viewport) return
 
+  document.body.classList.add("canvas-page")
+
   const boundsAttr = wrapper.dataset.bounds
   if (!boundsAttr) return
   const bounds: CanvasBounds = JSON.parse(boundsAttr)
@@ -153,6 +155,7 @@ function setupCanvas() {
 
   // SPA cleanup
   ;(window as any).addCleanup?.(() => {
+    document.body.classList.remove("canvas-page")
     wrapper.removeEventListener("pointerdown", onPointerDown)
     wrapper.removeEventListener("pointermove", onPointerMove)
     wrapper.removeEventListener("pointerup", onPointerUp)

@@ -7,7 +7,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { FullSlug, pathToRoot } from "../../util/path"
-import { sharedPageComponents } from "../../../quartz.layout"
+import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { write } from "./helpers"
 import { ProcessedContent } from "../vfile"
 import { CanvasData, CanvasEdge, CanvasNode } from "../index"
@@ -140,7 +140,7 @@ export const CanvasPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     beforeBody: [ArticleTitleComp],
-    left: [],
+    left: defaultContentPageLayout.left,
     right: [],
     pageBody: CanvasBody,
     afterBody: [],
