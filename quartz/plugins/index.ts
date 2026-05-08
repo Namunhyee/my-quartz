@@ -2,6 +2,41 @@ import { StaticResources } from "../util/resources"
 import { FilePath, FullSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"
 
+export interface CanvasNode {
+  id: string
+  type: "text" | "file" | "link" | "group"
+  x: number
+  y: number
+  width: number
+  height: number
+  color?: string
+  text?: string
+  file?: string
+  url?: string
+  label?: string
+}
+
+export interface CanvasEdge {
+  id: string
+  fromNode: string
+  fromSide: "top" | "bottom" | "left" | "right"
+  toNode: string
+  toSide: "top" | "bottom" | "left" | "right"
+  label?: string
+  color?: string
+  fromEnd?: "none" | "arrow"
+  toEnd?: "none" | "arrow"
+}
+
+export interface CanvasData {
+  nodes: CanvasNode[]
+  edges: CanvasEdge[]
+  renderedTextNodes: Record<string, string>
+  fileNodeSlugs: Record<string, string>
+  fileNodeTitles: Record<string, string>
+  bounds: { minX: number; minY: number; maxX: number; maxY: number }
+}
+
 export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   const staticResources: StaticResources = {
     css: [],
@@ -52,5 +87,6 @@ declare module "vfile" {
     slug: FullSlug
     filePath: FilePath
     relativePath: FilePath
+    canvasData?: import("./index").CanvasData
   }
 }

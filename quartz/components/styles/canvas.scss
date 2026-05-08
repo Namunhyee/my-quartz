@@ -1,0 +1,231 @@
+@use "../../styles/variables.scss" as *;
+
+// ─── Canvas 색상 변수 ────────────────────────────────────────────
+:root {
+  --canvas-edge-color: var(--gray);
+}
+
+// ─── 전체 래퍼 ────────────────────────────────────────────────────
+.canvas-wrapper {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 12rem);
+  min-height: 400px;
+  overflow: hidden;
+  background-color: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+
+  &:active {
+    cursor: grabbing;
+  }
+}
+
+// ─── 뷰포트 (transform 대상) ──────────────────────────────────────
+.canvas-viewport {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  will-change: transform;
+}
+
+// ─── 기본 노드 ────────────────────────────────────────────────────
+.canvas-node {
+  position: absolute;
+  box-sizing: border-box;
+  border: 1.5px solid var(--lightgray);
+  border-radius: 8px;
+  background-color: var(--light);
+  overflow: hidden;
+  z-index: 1;
+
+  // 색상 적용 (CSS 커스텀 프로퍼티 우선)
+  &[data-color] {
+    border-color: var(--node-color, var(--lightgray));
+  }
+}
+
+// ─── 텍스트 노드 ──────────────────────────────────────────────────
+.canvas-node--text {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  overflow-y: auto;
+
+  // 마크다운 요소 스타일 조정
+  p { margin: 0.25em 0; }
+  p:first-child { margin-top: 0; }
+  p:last-child { margin-bottom: 0; }
+  h1, h2, h3, h4, h5, h6 { margin: 0.3em 0 0.2em; line-height: 1.3; }
+  ul, ol { padding-left: 1.2em; margin: 0.25em 0; }
+  code { font-size: 0.85em; }
+  strong { font-weight: 600; }
+
+  // 색상별 배경 틴트
+  &[data-color="1"] { background-color: rgba(251, 70, 76, 0.07); }
+  &[data-color="2"] { background-color: rgba(233, 151, 63, 0.07); }
+  &[data-color="3"] { background-color: rgba(224, 222, 113, 0.07); }
+  &[data-color="4"] { background-color: rgba(68, 207, 110, 0.07); }
+  &[data-color="5"] { background-color: rgba(83, 223, 221, 0.07); }
+  &[data-color="6"] { background-color: rgba(168, 130, 255, 0.07); }
+}
+
+// ─── 파일 노드 ────────────────────────────────────────────────────
+.canvas-node--file {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: var(--dark);
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+    background-color: var(--highlight);
+    text-decoration: none;
+  }
+
+  .canvas-file-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--secondary);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+}
+
+// ─── 링크 노드 ────────────────────────────────────────────────────
+.canvas-node--link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: var(--secondary);
+  font-size: 0.85rem;
+
+  &:hover {
+    border-color: var(--secondary);
+    background-color: var(--highlight);
+  }
+
+  .canvas-link-icon {
+    font-size: 1.1rem;
+  }
+
+  .canvas-link-domain {
+    font-size: 0.8rem;
+    color: var(--gray);
+    word-break: break-all;
+    text-align: center;
+  }
+}
+
+// ─── 그룹 노드 ────────────────────────────────────────────────────
+.canvas-node--group {
+  border-radius: 12px;
+  border-style: dashed;
+  border-width: 2px;
+  background-color: transparent;
+  overflow: visible;
+  z-index: 0 !important;
+
+  // 색상별 배경 + 테두리
+  &[data-color="1"] { background-color: rgba(251, 70, 76, 0.05); border-color: #fb464c; }
+  &[data-color="2"] { background-color: rgba(233, 151, 63, 0.05); border-color: #e9973f; }
+  &[data-color="3"] { background-color: rgba(224, 222, 113, 0.05); border-color: #e0de71; }
+  &[data-color="4"] { background-color: rgba(68, 207, 110, 0.05); border-color: #44cf6e; }
+  &[data-color="5"] { background-color: rgba(83, 223, 221, 0.05); border-color: #53dfdd; }
+  &[data-color="6"] { background-color: rgba(168, 130, 255, 0.05); border-color: #a882ff; }
+
+  .canvas-group-label {
+    position: absolute;
+    top: -0.15rem;
+    left: 0.75rem;
+    transform: translateY(-100%);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--dark);
+    white-space: nowrap;
+    pointer-events: none;
+    background-color: var(--light);
+    padding: 0 0.25rem;
+    border-radius: 3px;
+  }
+}
+
+// ─── SVG 엣지 레이어 ──────────────────────────────────────────────
+.canvas-edges {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.canvas-edge {
+  fill: none;
+  stroke: var(--canvas-edge-color);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.canvas-edge-label {
+  fill: var(--darkgray);
+  font-size: 0.75rem;
+  pointer-events: none;
+  paint-order: stroke;
+  stroke: var(--light);
+  stroke-width: 4px;
+}
+
+// ─── 컨트롤 버튼 ──────────────────────────────────────────────────
+.canvas-controls {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.375rem;
+  z-index: 10;
+
+  button {
+    background-color: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 5px;
+    padding: 0.3rem 0.6rem;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    color: var(--dark);
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background-color: var(--lightgray);
+      border-color: var(--gray);
+    }
+  }
+}
+
+// ─── 에러 상태 ───────────────────────────────────────────────────
+.canvas-error {
+  padding: 2rem;
+  color: var(--gray);
+  font-style: italic;
+}
+
+// ─── 색상 변수 (노드 인라인 스타일용) ────────────────────────────
+.canvas-node[data-color="1"] { --node-color: #fb464c; }
+.canvas-node[data-color="2"] { --node-color: #e9973f; }
+.canvas-node[data-color="3"] { --node-color: #e0de71; }
+.canvas-node[data-color="4"] { --node-color: #44cf6e; }
+.canvas-node[data-color="5"] { --node-color: #53dfdd; }
+.canvas-node[data-color="6"] { --node-color: #a882ff; }
