@@ -6,11 +6,10 @@ import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { FilePath, FullSlug, joinSegments, pathToRoot, slugifyFilePath } from "../../util/path"
+import { FullSlug, pathToRoot } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
 import { write } from "./helpers"
-import { defaultProcessedContent, ProcessedContent } from "../vfile"
-import { glob } from "../../util/glob"
+import { ProcessedContent } from "../vfile"
 import { CanvasData, CanvasEdge, CanvasNode } from "../index"
 import { unified } from "unified"
 import remarkParse from "remark-parse"
@@ -30,10 +29,12 @@ async function renderMarkdownToHtml(text: string): Promise<string> {
 }
 
 function resolveFileNodeSlug(nodeFilePath: string, allSlugs: FullSlug[]): string | undefined {
-  const target = slugifyFilePath(nodeFilePath as FilePath)
+  // strip .md extension and get the basename for shortest-path matching
+  const stripped = nodeFilePath.replace(/\.md$/, "")
+  const basename = stripped.split("/").pop()!.toLowerCase().replace(/\s+/g, "-")
   return (
-    allSlugs.find((s) => s === target) ??
-    allSlugs.find((s) => s.toLowerCase() === target.toLowerCase())
+    allSlugs.find((s) => s.toLowerCase().split("/").pop() === basename) ??
+    allSlugs.find((s) => s.toLowerCase() === stripped.toLowerCase())
   )
 }
 
@@ -57,14 +58,17 @@ async function* emitAllCanvas(
   resources: StaticResources,
   opts: FullPageLayout,
 ) {
-  const { argv, cfg } = ctx
+  const { cfg } = ctx
   const allFiles = content.map((c) => c[1].data)
   const allSlugs = ctx.allSlugs
 
-  const canvasFiles = await glob("**/*.canvas", argv.directory, cfg.configuration.ignorePatterns)
+  // canvas stubs were injected into content by build.ts
+  const canvasStubs = content.filter(([, vfile]) => vfile.data.frontmatter?.isCanvas)
 
-  for (const fp of canvasFiles) {
-    const fullPath = joinSegments(argv.directory, fp) as FilePath
+  for (const [tree, vfile] of canvasStubs) {
+    const fullPath = vfile.data.filePath as string
+    if (!fullPath) continue
+
     let json: { nodes?: CanvasNode[]; edges?: CanvasEdge[] }
     try {
       const raw = await fs.promises.readFile(fullPath, "utf-8")
@@ -107,21 +111,10 @@ async function* emitAllCanvas(
       bounds,
     }
 
-    // Strip .canvas extension from slug for clean URLs
-    const rawSlug = slugifyFilePath(fp as FilePath)
-    const slug = rawSlug.replace(/\.canvas$/, "") as FullSlug
+    // attach canvasData to vfile for CanvasContent component
+    vfile.data.canvasData = canvasData
 
-    const [tree, vfile] = defaultProcessedContent({
-      slug,
-      filePath: fullPath,
-      relativePath: fp as FilePath,
-      frontmatter: {
-        title: path.basename(fp, ".canvas"),
-        tags: [],
-      },
-      canvasData,
-    })
-
+    const slug = vfile.data.slug!
     const externalResources = pageResources(pathToRoot(slug), resources)
     const componentData: QuartzComponentProps = {
       ctx,

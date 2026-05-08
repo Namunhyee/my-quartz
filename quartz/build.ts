@@ -9,9 +9,9 @@ import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
 import cfg from "../quartz.config"
-import { FilePath, joinSegments, slugifyFilePath } from "./util/path"
+import { FilePath, FullSlug, joinSegments, slugifyFilePath } from "./util/path"
 import chokidar from "chokidar"
-import { ProcessedContent } from "./plugins/vfile"
+import { ProcessedContent, defaultProcessedContent } from "./plugins/vfile"
 import { Argv, BuildCtx } from "./util/ctx"
 import { glob, toPosixPath } from "./util/glob"
 import { trace } from "./util/trace"
@@ -79,12 +79,31 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const filePaths = markdownPaths.map((fp) => joinSegments(argv.directory, fp) as FilePath)
   ctx.allFiles = allFiles
-  ctx.allSlugs = allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+
+  // include canvas slugs (without extension) so wikilinks like [[Canvas.canvas]] resolve correctly
+  const canvasPaths = allFiles.filter((fp) => fp.endsWith(".canvas")).sort()
+  ctx.allSlugs = [
+    ...allFiles.map((fp) => slugifyFilePath(fp as FilePath)),
+    ...canvasPaths.map(
+      (fp) => slugifyFilePath(fp as FilePath).replace(/\.canvas$/, "") as FullSlug,
+    ),
+  ]
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
 
-  await emitContent(ctx, filteredContent)
+  // create lightweight stubs for canvas files so they appear in Explorer, Search, and folder pages
+  const canvasStubs: ProcessedContent[] = canvasPaths.map((fp) => {
+    const slug = slugifyFilePath(fp as FilePath).replace(/\.canvas$/, "") as FullSlug
+    return defaultProcessedContent({
+      slug,
+      filePath: joinSegments(argv.directory, fp) as FilePath,
+      relativePath: fp as FilePath,
+      frontmatter: { title: path.basename(fp, ".canvas"), tags: [], isCanvas: true },
+    })
+  })
+
+  await emitContent(ctx, [...filteredContent, ...canvasStubs])
   console.log(
     styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
   )
@@ -254,13 +273,29 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
 
   // update allFiles and then allSlugs with the consistent view of content map
   ctx.allFiles = Array.from(contentMap.keys())
-  ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+  const rebuildCanvasPaths = ctx.allFiles.filter((fp) => fp.endsWith(".canvas"))
+  ctx.allSlugs = [
+    ...ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath)),
+    ...rebuildCanvasPaths.map(
+      (fp) => slugifyFilePath(fp as FilePath).replace(/\.canvas$/, "") as FullSlug,
+    ),
+  ]
+  const rebuildCanvasStubs: ProcessedContent[] = rebuildCanvasPaths.map((fp) => {
+    const slug = slugifyFilePath(fp as FilePath).replace(/\.canvas$/, "") as FullSlug
+    return defaultProcessedContent({
+      slug,
+      filePath: joinSegments(argv.directory, fp) as FilePath,
+      relativePath: fp as FilePath,
+      frontmatter: { title: path.basename(fp, ".canvas"), tags: [], isCanvas: true },
+    })
+  })
   let processedFiles = filterContent(
     ctx,
     Array.from(contentMap.values())
       .filter((file) => file.type === "markdown")
       .map((file) => file.content),
   )
+  processedFiles = [...processedFiles, ...rebuildCanvasStubs]
 
   let emittedFiles = 0
   for (const emitter of cfg.plugins.emitters) {
