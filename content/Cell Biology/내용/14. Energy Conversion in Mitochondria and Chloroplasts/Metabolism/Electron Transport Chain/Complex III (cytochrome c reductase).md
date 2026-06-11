@@ -10,8 +10,8 @@
 ---
 
 ## 구조
+![[Cell Biology/출처/md converted/Chapter 14/_page_21_Figure_2.jpeg]]
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_20_Figure_2.jpeg]]
 *Figure 14-22: Cytochrome c reductase 구조. 두 개의 동일한 240,000 dalton 단량체로 이루어진 dimer이며, 세 핵심 소단위가 색으로 표시됨.*
 
 포유류에서 **11개의 서로 다른 단백질**로 구성된 **dimer** (총 240,000 dalton × 2):
@@ -29,8 +29,7 @@
 ## 반응 메커니즘: Q Cycle
 
 Q cycle은 proton pumping을 두 배로 늘리기 위한 정교한 메커니즘이다.
-
-![[Cell Biology/출처/md converted/Chapter 14/_page_21_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_20_Figure_2.jpeg]]
 *Figure 14-23: Cytochrome c reductase의 두 단계 Q cycle 메커니즘.*
 
 ### Step 1
@@ -58,7 +57,10 @@ Q cycle은 proton pumping을 두 배로 늘리기 위한 정교한 메커니즘�
 - [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex IV (cytochrome c oxidase)|Complex IV]]로 전자를 넘겨줌
 
 ---
+## 구조적 이상
+complexIII의 구조적 이상은 [[Complex I (NADH dehydrogenase)]]의 이상과 마찬가지로 산소를 환원시켜 활성산소(ROS)로 만듦.
 
+---
 ## 진화적 보존성
 
 Cytochrome c reductase는 세균부터 미토콘드리아, 엽록체까지 **구조와 기능이 고도로 보존**되어 있다. 엽록체의 **cytochrome b₆-f complex**가 기능적·구조적 등가물이며, 동일한 Q cycle을 사용한다.

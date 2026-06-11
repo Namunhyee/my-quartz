@@ -10,28 +10,28 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 
 - **Triple-stranded helical structure**: 3개의 collagen polypeptide chain (α chain)이 rope처럼 superhelix를 형성
 - **길이**: 약 1000 amino acid
-- **반복 서열**: Gly-X-Y triplet (X는 주로 proline, Y는 주로 hydroxyproline)
-- **Proline과 glycine이 매우 풍부**: Glycine이 매 3번째 아미노산으로 나타나며, 작은 크기 덕분에 3개 사슬이 촘촘히 결합 가능
+- **반복 서열**: ==Gly-X-Y== triplet (X는 주로 proline, Y는 주로 hydroxyproline)
+- ==**Proline과 glycine이 매우 풍부**: Glycine이 매 3번째 아미노산으로 나타나며, 작은 크기 덕분에 3개 사슬이 촘촘히 결합 가능==
 - 콜라겐은 **Hydroxylysine** 잔기에 Glucose와 Galactose가 결합하는 <font color="#ff0000">당단백질</font>. 이 과정은 콜라겐의 **삼중 나선을 안정화**하고 **섬유 형성**을 돕기 위해 꼭 필요.
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_15_Picture_1.jpeg]]
 *배아 닭 피부 결합조직의 fibroblast를 둘러싼 collagen fibril[^1]. Collagen은 ECM의 구조적 지지를 제공하며, 경직성과 신장 저항성 덕분에 피부, 힘줄, 뼈, 인대에 이상적인 matrix이다.*
 
 ## Types of Collagen (Table 19-2 기반)
-| TABLE 19–2 Some Types of Collagen and Their Properties |          |                                             |                                                                                                      |                                                                                                    |
-| ------------------------------------------------------ | -------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-|                                                        | **Type** | **Polymerized form**                        | **Tissue distribution**                                                                              | **Mutant phenotype**                                                                               |
-| Fibril-forming<br>(fibrillar)                          | I        | Fibril                                      | Bone, skin, tendons, ligaments,<br>cornea, internal organs<br>(accounts for 90% of body<br>collagen) | Severe bone defects, fractures<br>(osteogenesis imperfecta)                                        |
-|                                                        | II       | Fibril                                      | Cartilage, intervertebral disc,<br>notochord, vitreous humor of<br>the eye                           | Cartilage deficiency, dwarfism<br>(chondrodysplasia)                                               |
-|                                                        | III      | Fibril                                      | Skin, blood vessels, internal<br>organs                                                              | Fragile skin, loose joints, blood vessels<br>prone to rupture (vascular Ehlers–Danlos<br>syndrome) |
-|                                                        | V        | Fibril (with type I)                        | As for type I                                                                                        | Fragile skin, loose joints (classical Ehlers–<br>Danlos syndrome)                                  |
-|                                                        | XI       | Fibril (with type II)                       | As for type II                                                                                       | Myopia, blindness                                                                                  |
-| Fibril-associated                                      | IX       | Lateral association<br>with type II fibrils | Cartilage                                                                                            | Osteoarthritis                                                                                     |
-|                                                        | XII      | Lateral association<br>with type I fibrils  | Tendons                                                                                              | Skeletal and muscle abnormalities                                                                  |
-| Network-forming                                        | IV       | Sheetlike network                           | Basal lamina                                                                                         | Kidney disease (glomerulonephritis),<br>deafness                                                   |
-|                                                        | VII      | Anchoring fibrils                           | Beneath stratified squamous<br>epithelia                                                             | Skin blistering                                                                                    |
-| Transmembrane                                          | XVII     | Nonfibrillar                                | Hemidesmosomes                                                                                       | Skin blistering                                                                                    |
-| Proteoglycan<br>core protein                           | XVIII    | Nonfibrillar                                | Basal lamina                                                                                         | Myopia, detached retina, hydrocephalus                                                             |
+| TABLE 19–2 Some Types of Collagen and Their Properties |          |                                                 |                                                                                                          |                                                                                                    |
+| ------------------------------------------------------ | -------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+|                                                        | **Type** | **Polymerized form**                            | **Tissue distribution**                                                                                  | **Mutant phenotype**                                                                               |
+| ==Fibril-forming<br>(fibrillar)==                      | ==I==    | ==Fibril==                                      | ==Bone, skin, tendons, ligaments,<br>cornea, internal organs<br>(accounts for 90% of body<br>collagen)== | ==Severe bone defects, fractures<br>(osteogenesis imperfecta)==                                    |
+|                                                        | ==II==   | ==Fibril==                                      | ==Cartilage, intervertebral disc,<br>notochord, vitreous humor of<br>the eye==                           | ==Cartilage deficiency, dwarfism<br>(chondrodysplasia)==                                           |
+|                                                        | III      | Fibril                                          | Skin, blood vessels, internal<br>organs                                                                  | Fragile skin, loose joints, blood vessels<br>prone to rupture (vascular Ehlers–Danlos<br>syndrome) |
+|                                                        | V        | Fibril (with type I)                            | As for type I                                                                                            | Fragile skin, loose joints (classical Ehlers–<br>Danlos syndrome)                                  |
+|                                                        | XI       | Fibril (with type II)                           | As for type II                                                                                           | Myopia, blindness                                                                                  |
+| ==Fibril-associated==                                  | ==IX==   | ==Lateral association<br>with type II fibrils== | ==Cartilage==                                                                                            | ==Osteoarthritis==                                                                                 |
+|                                                        | ==XII==  | ==Lateral association<br>with type I fibrils==  | ==Tendons==                                                                                              | ==Skeletal and muscle abnormalities==                                                              |
+| ==Network-forming==                                    | ==IV==   | ==Sheetlike network==                           | ==[[Basal Lamina_MOC\|Basal lamina]]==                                                                   | ==Kidney disease (glomerulonephritis),<br>deafness==                                               |
+|                                                        | VII      | Anchoring fibrils                               | Beneath stratified squamous<br>epithelia                                                                 | Skin blistering                                                                                    |
+| ==Transmembrane==                                      | ==XVII== | ==Nonfibrillar==                                | ==[[hemidesmosomes]]==                                                                                   | Skin blistering                                                                                    |
+| Proteoglycan<br>core protein                           | XVIII    | Nonfibrillar                                    | [[Basal Lamina_MOC\|Basal lamina]]                                                                       | Myopia, detached retina, hydrocephalus                                                             |
 인간 유전체는 42개의 서로 다른 collagen α chain을 암호화하는 유전자를 포함하며, 이들의 다양한 조합으로 약 40가지 타입의 collagen 분자가 형성된다.
 
 ### Fibril-forming (Fibrillar) Collagens
@@ -54,17 +54,18 @@ Collagen은 fibrous protein의 family로 모든 다세포 동물에서 발견된
 
 **Fibril-associated collagen** (예: type IX, XII)은 fibrillar collagen과 다른 특성을 가진다:
 
-1. **구조적 차이**: Triple-stranded helical 구조가 1~2개의 **짧은 nonhelical domain**에 의해 중단되어, fibrillar collagen보다 유연하다.
-2. **분비 후 절단 없음**: Propeptide를 유지한다.
-3. **Fibril 표면 결합**: 스스로 fibril을 형성하지 않고, fibrillar collagen이 형성한 fibril 표면에 **주기적으로 결합**한다.
-   - Type IX: Type II collagen fibril (cartilage(연골), cornea(각막), vitreous(유리체)에 결합)
-   - Type XII: Type I collagen fibril (tendon(힘줄) 등)에 결합
+1. ==**구조적 차이**: Triple-stranded helical 구조가 1~2개의 **짧은 nonhelical domain**에 의해 중단되어, fibrillar collagen보다 유연하다.==
+2. ==**분비 후 절단 없음**: Propeptide를 유지한다.==
+3. ==**Fibril 표면 결합**: 스스로 fibril을 형성하지 않고, fibrillar collagen이 형성한 fibril 표면에 **주기적으로 결합**한다.==
+   - ==Type IX: Type II collagen fibril (cartilage(연골), cornea(각막), vitreous(유리체)에 결합)==
+   - ==Type XII: Type I collagen fibril (tendon(힘줄) 등)에 결합==
 
 **기능**: Collagen fibril 간 상호작용, fibril과 다른 matrix macromolecule 간 상호작용을 매개하여 fibril의 조직화를 돕는다.
 
-| Type        | Tissue Distribution                                 | Mutant Phenotype     |
-| ----------- | --------------------------------------------------- | -------------------- |
-| **Type IX** | 연골(Cartilage) (Type II fibril에 lateral association) | 골관절염(Osteoarthritis) |
+| Type         | Tissue Distribution                                 | Mutant Phenotype                 |
+| ------------ | --------------------------------------------------- | -------------------------------- |
+| **Type IX**  | 연골(Cartilage) (Type II fibril에 lateral association) | 골관절염(Osteoarthritis)             |
+| **Type XII** | 힘줄(tendon) (Type I fibril에 결합)                      | skeletal and muscle abnomalities |
 
 ### Network-forming Collagens
 
@@ -91,10 +92,10 @@ Type IV collagen의 돌연변이는 [[Alport syndrome]] 같은 신장 질환을 
 
 ### 기타 Collagen Types
 
-| Type | Form | Tissue Distribution | Mutant Phenotype |
-|------|------|---------------------|------------------|
-| **Type XVII** (Transmembrane) | Nonfibrillar | Hemidesmosome | 피부 수포 |
-| **Type XVIII** (Proteoglycan core protein) | Nonfibrillar | Basal lamina | 근시, 망막 박리, 수두증 |
+| Type                                       | Form         | Tissue Distribution | Mutant Phenotype |
+| ------------------------------------------ | ------------ | ------------------- | ---------------- |
+| **Type XVII** (Transmembrane)              | Nonfibrillar | Hemidesmosome       | 피부 수포            |
+| **Type XVIII** (Proteoglycan core protein) | Nonfibrillar | Basal lamina        | 근시, 망막 박리, 수두증   |
 
 ^bec4d3
 

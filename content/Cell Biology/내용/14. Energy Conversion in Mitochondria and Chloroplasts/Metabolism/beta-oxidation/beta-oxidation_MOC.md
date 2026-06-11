@@ -11,21 +11,22 @@ Beta-oxidation(베타 산화)은 **지방산**을 미토콘드리아에서 분�
 ## 진입 전 활성화
 
 지방산은 먼저 세포질에서 CoA와 결합해 **Acyl CoA**로 활성화되어야 한다:
-- ATP → AMP + PPᵢ (2 ATP에 해당하는 에너지 소비)
+- ATP → AMP + PPᵢ (2 ATP에 해당하는 에너지 소비)→ 자세한 내용: [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Substrate activation|Substrate activation]]
 - **Carnitine shuttle**: Long-chain acyl CoA는 carnitine과 결합하여 inner membrane을 통과
-
-→ 자세한 내용: [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Thermodynamics/Substrate activation|Substrate activation]]
+### ==Carnitine shuttle==
+![[Pasted image 20260607162832.png]]
+암기
 
 ## 4단계 반복 사이클
 
 각 사이클마다 탄소 2개(Acetyl CoA)가 떨어져 나간다:
 
-| Step | 효소 | 반응 |
-|------|------|------|
-| 1 | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/1. Acyl CoA dehydrogenase\|Acyl CoA dehydrogenase]] | Acyl CoA → trans-Enoyl CoA + **FADH₂** |
-| 2 | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/2. Enoyl CoA hydratase\|Enoyl CoA hydratase]] | trans-Enoyl CoA + H₂O → L-3-Hydroxyacyl CoA |
-| 3 | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/3. Hydroxyacyl CoA dehydrogenase\|Hydroxyacyl CoA dehydrogenase]] | L-3-Hydroxyacyl CoA + NAD⁺ → 3-Ketoacyl CoA + **NADH** |
-| 4 | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/4. B-Ketothiolase\|β-Ketothiolase]] | 3-Ketoacyl CoA + CoA → Acetyl CoA + (Acyl CoA 탄소 2개 단축) |
+| Step | 효소                                                                                                                                                                   | 반응                                                      |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1    | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/1. Acyl CoA dehydrogenase\|Acyl CoA dehydrogenase]]               | Acyl CoA → trans-Enoyl CoA + **FADH₂**                  |
+| 2    | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/2. Enoyl CoA hydratase\|Enoyl CoA hydratase]]                     | trans-Enoyl CoA + H₂O → L-3-Hydroxyacyl CoA             |
+| 3    | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/3. Hydroxyacyl CoA dehydrogenase\|Hydroxyacyl CoA dehydrogenase]] | L-3-Hydroxyacyl CoA + NAD⁺ → 3-Ketoacyl CoA + **NADH**  |
+| 4    | [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/beta-oxidation/4. B-Ketothiolase\|β-Ketothiolase]]                               | 3-Ketoacyl CoA + CoA → Acetyl CoA + (Acyl CoA 탄소 2개 단축) |
 
 ## Net Result: 탄소 수에 따른 계산
 

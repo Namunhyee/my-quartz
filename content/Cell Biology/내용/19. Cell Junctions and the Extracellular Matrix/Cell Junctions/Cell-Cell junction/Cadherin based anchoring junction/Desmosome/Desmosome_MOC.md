@@ -8,8 +8,8 @@ Desmosome은 adherens junction과 구조적으로 유사하지만, actin 대신 
 *Figure 19-16. (A) Desmosome의 구조. 각 세포의 plasma membrane 세포질 면에 intracellular adaptor protein들로 이루어진 dense plaque가 있고, 여기에 intermediate filament bundle이 부착된다. Transmembrane nonclassical cadherin이 plaque에 결합하고, extracellular domain이 인접 세포의 막을 붙들어 맨다. (B) 분자 구성: Desmoglein과 desmocollin의 tail에 plakoglobin과 plakophilin이 결합하고, desmoplakin이 intermediate filament와 연결된다. (C, D) 전자현미경으로 본 desmosome — 단추 모양의 부착 지점이 보이며, 여기에 intermediate filament가 연결된다.*
 
 **Transmembrane protein**: Desmoglein, Desmocollin (→ [[nonclassical cadherin]])  
-**Intracellular adaptors**: Plakoglobin (γ-catenin, β-catenin의 친척), Plakophilin (p120-catenin의 먼 친척), Desmoplakin  
-**Cytoskeletal attachment**: [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|Intermediate filaments]] (상피 세포에서는 keratin, 심근 세포에서는 desmin)
+**Intracellular adaptors**: Plakoglobin (==γ-catenin==, [[catenin#주요 Catenin들|β-catenin]]의 친척), ==Plakophilin== ([[catenin#주요 Catenin들|p120-catenin]]의 먼 친척), ==Desmoplakin==  
+**Cytoskeletal attachment**: [[Cell Biology/내용/16. The Cytoskeleton/Intermediate filaments/200_Intermediate filaments_MOC|Intermediate filaments]] (상피 세포에서는 [[Keratin filaments|keratin]], 심근 세포에서는 desmin)
 
 ## Intermediate Filament Network
 

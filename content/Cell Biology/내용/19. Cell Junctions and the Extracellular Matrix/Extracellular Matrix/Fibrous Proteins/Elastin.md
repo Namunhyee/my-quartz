@@ -27,6 +27,6 @@ Elastin 분자의 일부는 **random coil conformation**을 채택하며, 이 ra
 
 ## Collagen vs Elastin
 공통점  : Glycine과 proline함량이 높음
-차이점 : Collagen은 triple helix 구조이지만, elastin은 single strand의 random coil 구조이다.
+차이점 : Collagen은 triple helix 구조이지만, elastin은 single strand의 random coil 구조이다. 그리고 elastin은 당화되지 않는다.
 
 [^기출_기말_2022_14]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_14번|2022 기말 14번]] — ②번 선지: elastin은 탄성 조직 구성 단백질로 Osteogenesis imperfecta와 무관 (오답).

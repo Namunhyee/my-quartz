@@ -21,7 +21,7 @@
 소장의 simple columnar epithelium을 기준으로, 세포 측면(lateral surface)에는 다음 junction들이 존재한다:
 
 - **Anchoring junctions** — 세포의 cytoskeleton을 인접 세포 또는 ECM에 고정하여 기계적 강도를 제공한다.
-  - [[Cell-Cell junction_MOC|Cell–cell]]: **[[Adheres junction_MOC|Adherens junction]]** ([[100_Actin filaments_MOC|actin]] 연결), **[[Desmosome_MOC|Desmosome]]** ([[200_Intermediate filaments_MOC|intermediate filament]] 연결)
+  - [[Cell-Cell junction_MOC|Cell–cell]]: **[[Adherens junction_MOC|Adherens junction]]** ([[100_Actin filaments_MOC|actin]] 연결), **[[Desmosome_MOC|Desmosome]]** ([[200_Intermediate filaments_MOC|intermediate filament]] 연결)
   - [[Cell-Matrix Junctions_MOC|Cell–matrix]]: **Actin-linked cell–matrix junction**, **[[hemidesmosomes|Hemidesmosome]]** ([[200_Intermediate filaments_MOC|intermediate filament]] 연결)
 - **[[00_Tight junction_MOC|Tight junction]]** — apical 쪽에서 세포 사이 공간을 봉합하여 분자의 paracellular 이동을 차단
 - **[[00_Gap junction_MOC|Gap junction]]** — 인접 세포 cytoplasm을 직접 연결하는 채널
@@ -37,12 +37,13 @@ Apical 영역에서 tight junction, adherens junction, desmosome이 순서대로
 
 모든 anchoring junction은 plasma membrane을 가로지르는 **transmembrane adhesion protein**에 의존한다. 이 단백질은 한쪽 끝이 세포 내 cytoskeleton에, 다른 쪽 끝이 세포 외부 구조에 연결된다. 이들은 두 superfamily로 나뉜다.
 
-| Junction                          | Transmembrane adhesion protein | Extracellular ligand          | Cytoskeletal attachment | Intracellular adaptors                        |
-| --------------------------------- | ------------------------------ | ----------------------------- | ----------------------- | --------------------------------------------- |
-| Adherens junction                 | Classical cadherins            | Cadherin (인접세포)               | Actin                   | α-Catenin, β-catenin, p120-catenin, vinculin  |
-| Desmosome                         | Desmoglein, desmocollin        | Desmoglein/desmocollin (인접세포) | Intermediate filaments  | Plakoglobin, plakophilin, desmoplakin         |
-| Actin-linked cell–matrix junction | Integrin                       | ECM proteins                  | Actin                   | Talin, kindlin, [[vinculin]], paxillin, FAK 등 |
-| Hemidesmosome                     | α6β4 integrin, collagen XVII   | ECM proteins                  | Intermediate filaments  | Plectin, BP230                                |
+| Junction                                     | Transmembrane adhesion protein                               | Extracellular ligand                                     | Cytoskeletal attachment                                    | Intracellular adaptors                               |
+| -------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
+| [[Adherens junction_MOC\|Adherens junction]] | [[Classical cadherins]]                                      | Cadherin (인접세포)                                          | [[100_Actin filaments_MOC\|Actin]]                         | α-[[Catenin]], β-catenin, p120-catenin, [[vinculin]] |
+| [[Desmosome_MOC\|Desmosome]]                 | Desmoglein, desmocollin                                      | [[nonclassical cadherin\|Desmoglein/desmocollin ]](인접세포) | [[200_Intermediate filaments_MOC\|Intermediate filaments]] | Plakoglobin, plakophilin, desmoplakin                |
+| Actin-linked cell–matrix junction            | [[integrin_MOC\|Integrin]]                                   | [[Extracellular Matrix_MOC\|ECM]] proteins               | Actin                                                      | Talin, kindlin, [[vinculin]], paxillin, FAK 등        |
+| Hemidesmosome                                | α6β4 integrin, [[Collagen#기타 Collagen Types\|collagen XVII]] | ECM proteins                                             | Intermediate filaments                                     | [[Plectin]], BP230                                   |
+
 
 
 *Table 19-1 기반.*

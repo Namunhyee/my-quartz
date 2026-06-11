@@ -10,7 +10,7 @@
 
 ## 원인
 
-[[Collagen#Type IV Collagen|Type IV collagen]]은 [[Basal Lamina_MOC|basal lamina]]의 필수 구성요소로, flexible sheet-like network를 형성하여 tensile strength를 제공한다. Type IV collagen 유전자의 돌연변이는 신장 사구체의 basal lamina (GBM: glomerular basement membrane)를 손상시킨다.
+[[Collagen#Types of Collagen (Table 19-2 기반)|Type IV collagen]]은 [[Basal Lamina_MOC|basal lamina]]의 필수 구성요소로, flexible sheet-like network를 형성하여 tensile strength를 제공한다. Type IV collagen 유전자의 돌연변이는 신장 사구체의 basal lamina (GBM: glomerular basement membrane)를 손상시킨다.
 
 ## 증상
 

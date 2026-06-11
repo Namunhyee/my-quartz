@@ -36,8 +36,6 @@
 ## 작동 메커니즘: Rotary Catalysis
 
 ### Proton 경로
-![[Cell Biology/출처/md converted/Chapter 14/_page_28_Picture_9.jpeg]]
-*Figure 14-32: F₀ rotor ring. 각 c subunit에 proton 결합 부위(glutamate, 노란색)가 있다.*
 
 1. Crista space의 H⁺가 **a subunit의 첫 번째 half-channel**을 통해 c subunit의 결합부위에 결합
 2. H⁺를 실은 c subunit이 ring을 따라 **한 바퀴 회전**
@@ -69,10 +67,10 @@
 
 ## Cristae에서의 배열
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_29_Figure_7.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_29_Picture_2.jpeg]]
 *Figure 14-33: Cristae ridge를 따라 dimers row를 형성하는 ATP synthase.*
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_29_Picture_2.jpeg]]
+![[_page_29_Figure_7.jpeg]]
 *Figure 14-34: Cristae ridge의 ATP synthase dimer rows가 proton "sink"를 형성하여 효율적 ATP 생산에 기여.*
 
 - ATP synthase는 cristae ridge를 따라 **dimer rows** 형성

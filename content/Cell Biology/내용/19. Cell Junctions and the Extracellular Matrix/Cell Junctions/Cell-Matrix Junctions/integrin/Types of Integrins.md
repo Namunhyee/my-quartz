@@ -6,14 +6,14 @@
 
 ## 주요 Integrin Types (강의자료 Table 기반)
 
-| Integrin | Ligand | Distribution | α subunit 돌연변이 표현형 | β subunit 돌연변이 표현형 |
-|----------|--------|--------------|------------------------|------------------------|
-| **α5β1** | [[Fibronectin\|Fibronectin]] | Ubiquitous | 배아 사망; 혈관, 체절, neural crest 결함 | 배아 초기 사망 (착상 시) |
-| **α6β1** | [[Laminin\|Laminin]] | Ubiquitous | 심각한 피부 수포; 다른 상피에도 결함 | 배아 초기 사망 (착상 시) |
-| **α7β1** | Laminin | Muscle | 근이영양증; 근건 접합부 결함 | 배아 초기 사망 (착상 시) |
-| **αLβ2** (LFA1) | Ig superfamily counterreceptors ([[NCAM and ICAM\|ICAM1]]) | White blood cells | 백혈구 동원 장애 | [[Leukocyte Adhension Deficiency\|Leukocyte adhesion deficiency]] (LAD); 염증 반응 장애; 반복적인 생명 위협 감염 |
-| **αIIbβ3** | Fibrinogen | Platelets | 출혈; 혈소판 응집 없음 ([[Glanzmann Thrombasthenia\|Glanzmann disease]]) | 출혈; 혈소판 응집 없음 (Glanzmann disease); 경증 골석회화증 |
-| **α6β4** | Laminin | [[hemidesmosomes\|Hemidesmosome]]의 상피 | 심각한 피부 수포; 다른 상피에도 결함 | 심각한 피부 수포; 다른 상피에도 결함 |
+| Integrin            | Ligand                                                         | Distribution                              | α subunit 돌연변이 표현형                                              | β subunit 돌연변이 표현형                                                                                   |
+| ------------------- | -------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ==**α5β1**==        | [[Fibronectin\|Fibronectin]]                                   | Ubiquitous                                | ==배아 사망; 혈관, 체절, neural crest 결함==                                  | ==배아 초기 사망 (착상 시)==                                                                                      |
+| **α6β1**            | [[Laminin\|Laminin]]                                           | Ubiquitous                                | 심각한 피부 수포; 다른 상피에도 결함                                           | 배아 초기 사망 (착상 시)                                                                                      |
+| **α7β1**            | Laminin                                                        | Muscle                                    | 근이영양증; 근건 접합부 결함                                                | 배아 초기 사망 (착상 시)                                                                                      |
+| ==**αLβ2** (LFA1)== | ==Ig superfamily counterreceptors== ([[NCAM and ICAM\|ICAM1]]) | ==White blood cells==                     | ==백혈구 동원 장애==                                                   | [[Leukocyte Adhension Deficiency\|Leukocyte adhesion deficiency]] (LAD); ==염증 반응 장애; 반복적인 생명 위협 감염== |
+| **αIIbβ3**          | Fibrinogen                                                     | Platelets                                 | 출혈; 혈소판 응집 없음 ([[Glanzmann Thrombasthenia\|Glanzmann disease]]) | 출혈; 혈소판 응집 없음 (Glanzmann disease); 경증 골석회화증                                                          |
+| ==**α6β4**==        | ==[[Laminin]]==                                                | ==[[hemidesmosomes\|Hemidesmosome]]의 상피== | 심각한 피부 수포; 다른 상피에도 결함                                           | 심각한 피부 수포; 다른 상피에도 결함                                                                                |
 
 ## 특징
 

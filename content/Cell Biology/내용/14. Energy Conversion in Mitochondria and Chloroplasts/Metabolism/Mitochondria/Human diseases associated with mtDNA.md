@@ -9,7 +9,7 @@ mtDNA 돌연변이는 **미토콘드리아 질환(mitochondrial disease)**을 �
 ## mtDNA 돌연변이의 원인과 특성
 
 ### 돌연변이 발생 원인
-- 전자전달계 가동 중 필연적으로 생성되는 **Reactive Oxygen Species (ROS)** → mtDNA 손상
+- ==전자전달계 가동 중 필연적으로 생성되는 **Reactive Oxygen Species (ROS)** → mtDNA 손상==
 - **덜 정교한 복제·수선 시스템** → 핵 DNA 대비 **100배 높은 돌연변이 발생률**
 - Deletion 및 point mutation 모두 발생
 
@@ -33,11 +33,16 @@ mtDNA 돌연변이는 **미토콘드리아 질환(mitochondrial disease)**을 �
 
 ## 표현형 특징
 
-| 특징 | 내용 |
-|------|------|
-| **가장 흔히 이환되는 계통** | 근육계(muscle) + 신경계(nervous system) — ATP 의존도가 가장 높음 |
-| **다양한 증상** | 증상의 종류·심각도·발현 연령이 가족 내에서도 다양 |
-| **이환 조직의 가변성** | 같은 돌연변이라도 어느 조직에서 mitotic segregation이 심화되느냐에 따라 다름 |
+| 특징                                       | 내용                                                 |
+| ---------------------------------------- | -------------------------------------------------- |
+| **가장 흔히 이환되는 계통**                        | 근육계(muscle) + 신경계(nervous system) — ATP 의존도가 가장 높음 |
+| **다양한 증상과 발현 연령**                        | 증상의 종류·심각도·발현 연령이 가족 내에서도 다양                       |
+| **systemic failure of oragnic function** | 전신 질환. 전체 기관계가 부전.                                 |
+## ==암과 Waburg effect==
+![[Pasted image 20260607161735.png]]
+암세포와 종양세포는 낮은 효율로 glucose를 과다하게 소모한다. aerobic 환경에서도 pyruvate를 전자전달계에서 이용하는 비율이 낮다.
+
+이 특성을 이용해 FdG-PET 이미지를 이용해 방사선 labeling한 glucose가 축적되는 조직을 찾을 수 있음.
 
 ---
 

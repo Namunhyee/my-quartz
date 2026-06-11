@@ -12,7 +12,8 @@
 
 ## 구조
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_22_Figure_2.jpeg]]
+
+![[Cell Biology/출처/md converted/Chapter 14/_page_21_Figure_2.jpeg]]
 *Figure 14-24: Cytochrome c oxidase 구조. ~13개 소단위, 총 ~204,000 dalton. 기능적 core (Subunit I, II, III)가 색으로 표시됨.*
 
 - **~13개의 단백질 소단위** (세포 종류에 따라 다름), 총 ~204,000 dalton
@@ -30,7 +31,7 @@
 
 ## 반응 메커니즘
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_23_Picture_8.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_22_Figure_2.jpeg]]
 *Figure 14-25: Cytochrome c oxidase에서 O₂와 전자의 반응. 전자 경로와 bimetallic center가 표시됨.*
 
 ### 전자 흐름

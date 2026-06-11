@@ -6,18 +6,18 @@ Electron Transport Chain (ETC, 전자전달계) = **Respiratory chain**은 미�
 
 > "The respiratory chain is embedded in the crista membrane portion of the inner mitochondrial membrane. It contains three respiratory enzyme complexes through which electrons pass on their way from NADH to O₂." — Chapter 14
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_17_Figure_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_16_Figure_9.jpeg]]
 *Figure 14-18: 미토콘드리아 전자전달계의 세 proton pump와 전자 경로.*
 
 ## 구성 요소
 
-| Complex | 이름 | 역할 | Proton pumping |
-|---------|------|------|---------------|
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex I (NADH dehydrogenase)\|Complex I]] | NADH dehydrogenase | NADH → ubiquinone | **4 H⁺/e⁻** |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex II (Succinate dehydrogenase)\|Complex II]] | Succinate dehydrogenase | Succinate → ubiquinone | **없음** |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex III (cytochrome c reductase)\|Complex III]] | Cytochrome c reductase | Ubiquinol → cytochrome c | **2 H⁺/e⁻** |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex IV (cytochrome c oxidase)\|Complex IV]] | Cytochrome c oxidase | Cytochrome c → O₂ | **1 H⁺/e⁻** |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex V (ATP synthase)\|Complex V]] | ATP synthase | H⁺ gradient → ATP | (역방향: ATP 합성) |
+| Complex                                                                                                                                                          | 이름                      | 역할                       | Proton pumping |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ | -------------- |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex I (NADH dehydrogenase)\|Complex I]]         | NADH dehydrogenase      | NADH → ubiquinone        | **4 H⁺/e⁻**    |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex II (Succinate dehydrogenase)\|Complex II]]  | Succinate dehydrogenase | Succinate → ubiquinone   | **없음**         |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex III (cytochrome c reductase)\|Complex III]] | Cytochrome c reductase  | Ubiquinol → cytochrome c | **2 H⁺/e⁻**    |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex IV (cytochrome c oxidase)\|Complex IV]]     | Cytochrome c oxidase    | Cytochrome c → O₂        | **1 H⁺/e⁻**    |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Electron Transport Chain/Complex V (ATP synthase)\|Complex V]]               | ATP synthase            | H⁺ gradient → ATP        | (역방향: ATP 합성)  |
 
 ## 전자 흐름 경로
 
@@ -38,7 +38,8 @@ NADH
 
 ## Redox Potential과 에너지
 
-![[Cell Biology/출처/md converted/Chapter 14/_page_18_Picture_2.jpeg]]
+
+![[Cell Biology/출처/md converted/Chapter 14/_page_17_Figure_2.jpeg]]
 *Figure 14-19: 전자전달계를 따라 증가하는 Redox potential.*
 
 - NADH (E'₀ = −320 mV) → O₂ (E'₀ = +820 mV)

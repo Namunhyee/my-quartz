@@ -19,14 +19,14 @@
 
 ## 핵 유전 시스템과의 차이점
 
-### 1. Relaxed Codon Usage (완화된 코돈 사용)
+### ==1. Relaxed Codon Usage (완화된 코돈 사용)==
 
 - 세포질 및 엽록체: 30개 이상의 tRNA로 아미노산 지정
 - 미토콘드리아: **22개 tRNA**만으로 모든 아미노산 지정 가능
 - 이유: "**2 out of 3**" pairing — tRNA가 codon의 세 번째 위치(wobble position)에 관계없이 결합 가능
 - 결과: 1개의 tRNA가 4개의 codon을 모두 인식 → 더 적은 tRNA 종류로 단백질 합성
 
-### 2. Variant Genetic Code (변형된 유전 코드)
+### ==2. Variant Genetic Code (변형된 유전 코드)==
 
 미토콘드리아 유전 코드는 핵 유전 코드와 일부 다르며, 생물마다 변형 내용도 다름:
 
@@ -39,13 +39,19 @@
 
 - 변형 이유: 미토콘드리아 genome이 소규모이므로 희귀 코돈 하나의 의미 변경이 비교적 적은 영향을 미침 → **random drift** 발생 가능
 - 단백질 수가 많은 핵 genome에서는 코돈 의미 변경 시 다수 단백질 기능 손상 → 불가능
-
+- ==mitochondria가 파괴되거나 mtRNA가 세포질로 유출되었을 때 cytosol에서 mitochodrian protein이 생산되는 것을 막음.==
 ### 3. tRNA Import (일부 생물)
 
 - 일부 기생생물(예: trypanosome)은 미토콘드리아에 tRNA 유전자가 없음
 - 세포질에서 합성된 tRNA를 **미토콘드리아로 import**하여 사용 (특수 tRNA translocase 이용)
 
 ---
+## ==Complex II는 오직 NucleicDNA에서 온 subunit으로만 이루어져있다.==
+그 이유 : mt에서 만들어진 subunit들은 ETC 기능에서 핵심적인 complex 1,3,4,5
+왜 이 subunit들의 gene은 mtDNA에 보존되어 있을까?  
+nucleus의 chromosome은 두개이기 때문에 하나가 망가지면 절반의 mitochondria가 malfunction.  
+mtDNA에 보존될 경우, 비정상 mitochondria만 작동하지 않고 다른 mitochondria는 작동할 수 있기 때문에 진화적으로 유리함.  
+nucleus에서 만들어진 subunit들은 하나쯤 망가져도 ETC가 작동함.
 
 ## 미토콘드리아 유전자 발현 흐름
 

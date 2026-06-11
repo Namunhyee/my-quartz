@@ -1,7 +1,7 @@
-# Cadherin Based Adhension_MOC
+	# Cadherin Based Adhension_MOC
 > Calcium-dependent adhesion membrane protein
 
-Cadherin은 모든 multicellular animal에 존재하며, choanoflagellate(동물과 근연)에도 있지만 균류, 식물, 세균에는 없다. Cadherin은 Ca²⁺ 이온에 의존하여 세포 부착을 매개하며("cadherin"이라는 이름도 이에서 유래), Ca²⁺ 제거 시 부착이 붕괴된다.
+Cadherin은 모든 multicellular animal에 존재하며, choanoflagellate(동물과 근연)에도 있지만 균류, 식물, 세균에는 없다. ==Cadherin은 Ca²⁺ 이온에 의존하여 세포 부착을 매개==하며("cadherin"이라는 이름도 이에서 유래), Ca²⁺ 제거 시 부착이 붕괴된다.
 
 ## Cadherin Superfamily 개요
 
@@ -10,7 +10,7 @@ Cadherin은 모든 multicellular animal에 존재하며, choanoflagellate(동물
 
 Cadherin superfamily는 인간에서 180개 이상의 구성원을 갖는다.
 
-- [[classical cadherin]] — E-cadherin, N-cadherin, P-cadherin 등
+- [[classical cadherins]] — E-cadherin, N-cadherin, P-cadherin 등
 - [[nonclassical cadherin]] → [[Desmosome_MOC|Desmosome]]에서 다룸
 
 ## Cadherin의 구조와 결합 기전
@@ -23,7 +23,7 @@ Cadherin superfamily는 인간에서 180개 이상의 구성원을 갖는다.
 
 ## Adherens Junction
 
-- [[Adheres junction_MOC]]
+- [[Adherens junction_MOC]]
 
 ## Desmosome
 

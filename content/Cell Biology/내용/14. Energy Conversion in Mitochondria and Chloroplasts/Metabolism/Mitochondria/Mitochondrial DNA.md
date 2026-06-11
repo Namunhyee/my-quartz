@@ -41,7 +41,7 @@
 
 ### 2. 별도의 전사·번역 시스템
 - mtDNA 전사, 단백질 합성, DNA 복제 모두 **matrix** 내에서 진행
-- 관련 효소 (RNA polymerase, DNA polymerase, aminoacyl-tRNA synthetase 등) 대부분 핵 encoding → import
+- ==관련 효소 (RNA polymerase, DNA polymerase, aminoacyl-tRNA synthetase 등) 대부분 핵 encoding== → import
 - 미토콘드리아 ribosome은 세균 ribosome과 유사 (세균 항생제에 감수성)
 
 ### 3. Genome 크기의 세포별 차이

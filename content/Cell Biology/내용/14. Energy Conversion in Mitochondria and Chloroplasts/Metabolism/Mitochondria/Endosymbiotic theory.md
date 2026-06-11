@@ -11,7 +11,7 @@
 
 ## 미토콘드리아의 기원
 
-- 약 **1.6억 년 전**, 원시 고세균계(archaeon) 세포가 **α-proteobacterium (호기성 세균)**과 안정적 내부공생 관계를 형성
+- ==약 **1.6억 년 전**, 원시 고세균계(archaeon) 세포가 **α-proteobacterium (호기성 세균)**과 안정적 내부공생 관계를 형성==
 - 이 proteobacterium이 현재 미토콘드리아로 진화
 - 현재 미토콘드리아와 가장 가까운 친척: rhizobacteria, agrobacteria, rickettsias (모두 α-proteobacteria, 진핵세포와 밀접한 관계)
 
@@ -38,7 +38,7 @@
 
 ## Gene Transfer: Organelle → Nucleus
 
-- 내부공생 후 시간이 지나면서 organelle 유전자 상당수가 **핵 genome으로 이전**
+- ==내부공생 후 시간이 지나면서 organelle 유전자 상당수가 **핵 genome으로 이전**==
 - 성공적 gene transfer 조건:
   1. 핵 전사 시스템에 맞게 적응
   2. 세포질에서 번역 후 소기관으로 import할 [[Sorting Signal|**signal sequence**]] 획득 (→ [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Mitochondria/Mitochondrial DNA|Mitochondrial DNA]] 참조)

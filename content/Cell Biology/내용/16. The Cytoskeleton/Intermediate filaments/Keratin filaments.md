@@ -15,7 +15,7 @@ Keratin은 intermediate filament 중 가장 다양한 계열이다. 인간 유�
 ## 조직 내 연결
 
 Keratin 필라멘트는 두 곳의 cell junction에 고정되어 상피 조직 전체에 걸쳐 기계적 강도를 전달한다.
-- **[[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Desmosome/Desmosome_MOC|Desmosome]]**: 세포-세포 접촉부에서 인접 세포의 keratin 네트워크를 연결
+- **[[Desmosome_MOC|Desmosome]]**: 세포-세포 접촉부에서 인접 세포의 keratin 네트워크를 연결
 - **[[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Matrix Junctions/hemidesmosomes|Hemidesmosome]]**: 세포-기질 접촉부에서 keratin 네트워크를 [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Extracellular Matrix/Basal Lamina/Basal Lamina_MOC|기저막(basal lamina)]]에 연결
 
 표피의 분화 중에는 **filaggrin** 같은 accessory protein이 keratin 필라멘트를 bundling하여 최외각 피부층에 특유의 강도를 부여한다. Filaggrin 유전자 돌연변이는 습진(eczema) 같은 건성 피부 질환 소인을 유발한다.

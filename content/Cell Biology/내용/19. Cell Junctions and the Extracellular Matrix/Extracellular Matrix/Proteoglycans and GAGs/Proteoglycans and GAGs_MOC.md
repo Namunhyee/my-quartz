@@ -1,6 +1,6 @@
 # Proteoglycans and GAGs_MOC
 
-Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다.[^기출_기말_2022_24] Hyaluronan을 제외한 모든 GAG는 단백질에 공유결합하여 **proteoglycan**을 형성한다.
+Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranched polysaccharide chain이다.[^기출_기말_2022_24] ==Hyaluronan을 제외한 모든 GAG는 단백질에 공유결합하여 **proteoglycan**을 형성한다.==
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_6_Figure_6.jpeg]]
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_6_Figure_7.jpeg]]
@@ -9,7 +9,8 @@ Glycosaminoglycan (GAG)은 반복되는 disaccharide 단위로 구성된 unbranc
 ## 주요 특징
 
 - **음전하(Negative charge)**: Sugar의 sulfate 또는 carboxyl group 때문에 강한 음전하를 띤다
-- **거대한 부피**: 질량 대비 매우 큰 부피를 차지하며 고도로 수화된다
+- **거대한 부피**: 질량 대비 매우 큰 부피를 차지하며 고도로 수화된다.
+- **내압성**: 압축력에 대한 내성성
 - **4개의 주요 그룹**: Hyaluronan, Chondroitin sulfate, Heparan sulfate, Keratan sulfate
 
 ---

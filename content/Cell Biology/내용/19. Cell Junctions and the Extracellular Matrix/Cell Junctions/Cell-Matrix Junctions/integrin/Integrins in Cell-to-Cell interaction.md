@@ -11,15 +11,15 @@
 
 ### 1단계: Selectin-mediated Rolling
 - 내피세포가 **selectin**을 발현하여 백혈구와 혈소판 표면의 oligosaccharide를 인식한다.[^기출_기말_2022_17][^기출_기말_2022_10]
-- Selectin의 lectin domain과 carbohydrate ligand 사이의 결합은 **낮은 친화도**이다.
+- ==Selectin의 lectin domain과 carbohydrate ligand 사이의 결합은 **낮은 친화도**이다.==
 - 백혈구가 내피에 **약하고 가역적으로 부착**하여 혈관 벽을 따라 **구르며(rolling)** 이동한다 (혈류에 의해 밀림).
 
 ### 2단계: Integrin Activation
 - Rolling이 계속되는 동안 백혈구가 **integrin을 활성화**한다.[^기출_기말_2022_17]
-- **αLβ2 (LFA1)** 같은 백혈구 integrin이 활성화된다.
+- **αLβ2 (LFA1)** 같은 백혈구 [[Types of Integrins#주요 Integrin Types (강의자료 Table 기반)|integrin]]이 활성화된다.
 
 ### 3단계: Firm Adhesion
-- 활성화된 integrin이 내피세포 표면의 **Ig superfamily 단백질**에 결합한다.
+- ==활성화된 integrin이 내피세포 표면의 **Ig superfamily 단백질**에 결합한다(강한 결합)==.
   - **ICAM (intercellular cell adhesion molecule)**
   - **VCAM (vascular cell adhesion molecule)**
 - Integrin이 adhesion을 **강화**한다.

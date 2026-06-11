@@ -6,9 +6,9 @@
 **Fibronectin (FN)**은 모든 척추동물에서 발견되며 cell-matrix 상호작용에 중요한 대형 glycoprotein이다.[^기출_기말_2022_14]
 
 ## 구조와 기능
-- 항상 extracellular space에서 상호작용
-- Disulfide bond로 C-terminal 근처에서 연결된 **dimer** 구조
-- 각 subunit은 여러 domain을 포함:
+- ==항상 extracellular space에서 상호작용==
+- ==Disulfide bond로 C-terminal 근처에서 연결된 **dimer** 구조==
+- ==각 subunit은 여러 domain을 포함:==
   - **Type III fibronectin repeat**: 주요 반복 domain (~90 AA, 각 subunit에 15회 이상)
   - Collagen 결합 domain
   - Proteoglycan 결합 domain
@@ -16,13 +16,13 @@
 ![[Cell Biology/출처/md converted/클립보드 이미지 자료/Pasted image 20260219015616.png]]
 ## RGD Sequence
 
-한 type III repeat에 있는 **RGD sequence** (Arg-Gly-Asp)가 세포 표면의 integrin과 결합하는 핵심 motif이다.[^기출_기말_2022_16][^기출_기말_2023_28]
+한 type III repeat에 있는 **RGD sequence** (Arg-Gly-Asp)가 세포 표면의 [[integrin_MOC|integrin]]과 결합하는 핵심 motif이다.[^기출_기말_2022_16][^기출_기말_2023_28]
 
-- RGD sequence를 포함한 짧은 peptide도 fibronectin과 경쟁하여 integrin 결합 부위를 차단할 수 있다.
-- 이를 응용하여 **RGD sequence를 포함한 항응고제(anti-clotting drug)**가 개발됨
-- 일부 뱀은 독에 RGD를 포함한 항응고 단백질(**disintegrin**)을 분비하여 희생자를 출혈시킨다.
+- ==RGD sequence를 포함한 짧은 peptide도 fibronectin과 경쟁하여 integrin 결합 부위를 차단할 수 있다==.
+- ==이를 응용하여 **RGD sequence를 포함한 항응고제(anti-clotting drug)**가 개발됨==
+- ==일부 뱀은 독에 RGD를 포함한 항응고 단백질(**disintegrin**)을 분비하여 희생자를 출혈시킨다.==
 
-## Soluble vs Insoluble Fibronectin
+## ==Soluble vs Insoluble Fibronectin==
 
 - **Soluble FN**: 혈액과 체액에서 순환하며, 손상 부위에서 혈병(blood clot) 형성
 - **Insoluble FN**: ECM의 일부로서 **FN fibril** 형성
@@ -48,9 +48,8 @@ FN fibril은 **세포 표면에서만** 조립된다:
 이 tension-dependent mechanism은 FN fibril이 **기계적으로 필요한 곳**(혈류가 아닌 조직)에서만 조립되도록 보장한다.
 
 ## 질환과의 연관
-
-- Fibronectin mutant 쥐는 내피세포가 적절한 혈관을 형성하지 못해 배아 발생 초기에 사망한다.
-	-  
+==glomerulopathy(사구체 병증), sclerosis(경화), neural tube formation, increased virulence of bacteria infection 등에 연관.==
+- Fibronectin mutant 쥐는 내피세포가 적절한 혈관을 형성하지 못해 배아 발생 초기에 사망한다
 - [[scleroderma]]에서 FN 침착 증가가 관찰된다.
 
 [^기출_기말_2022_14]: [[Cell Biology/기출 DB/기말고사/2022년/final_2022_14번|2022 기말 14번]] — ④번 선지: fibronectin은 세포 부착/이동 관련 glycoprotein으로 Osteogenesis imperfecta와 무관 (오답).

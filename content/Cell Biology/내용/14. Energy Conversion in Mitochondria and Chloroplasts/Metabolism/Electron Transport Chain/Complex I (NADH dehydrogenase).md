@@ -7,8 +7,7 @@
 > "The NADH dehydrogenase complex is the largest of these respiratory enzyme complexes." — Chapter 14
 
 ## 구조
-
-![[Cell Biology/출처/md converted/Chapter 14/_page_19_Picture_2.jpeg]]
+![[Cell Biology/출처/md converted/Chapter 14/_page_18_Picture_2.jpeg]]
 *Figure 14-20: NADH dehydrogenase (Complex I)의 구조. L자형의 막 arm과 matrix arm.*
 
 - **동물 미토콘드리아**: 40개 이상의 단백질 서브유닛, 분자량 ~1,000,000 Da
@@ -38,6 +37,8 @@ NADH → FMN → FeS cluster (×7) → Ubiquinone (Q)
 
 - 40개 이상의 서브유닛의 정밀한 조립에는 전용 **assembly factor** 필요
 - Assembly factor 돌연변이 → 인간 질환 유발
+## 구조 이상
+complex 1의 구조이상으로 전자가 산소를 만나면 활성산소를 만들어 세포가 해를 입음.
 
 ## 관련 개념
 

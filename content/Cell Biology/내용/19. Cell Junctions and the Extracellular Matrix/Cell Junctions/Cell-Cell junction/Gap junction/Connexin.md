@@ -5,16 +5,16 @@
 ![[Cell Biology/출처/md converted/Chapter 19/_page_17_Figure_6.jpeg]]
 *Figure 19-25. (A) 두 인접 세포 사이의 gap junction. 각 세포의 lipid bilayer(회색)를 connexon(초록)이 관통하며, 두 connexon이 연결되어 연속된 수성 채널을 형성한다. (B) Connexon의 조합 방식: homomeric(같은 connexin) 또는 heteromeric(다른 connexin 혼합) connexon이 가능하며, 두 반채널의 조합이 같으면 homotypic, 다르면 heterotypic channel이 된다. (C) Human connexin 26 gap junction channel의 고해상도 결정 구조(x-ray crystallography): 6개의 connexin subunit이 모여 pore를 형성하며, 지름 약 1.4 nm의 통로가 예측된다.*
 
-**Connexin**은 4개의 transmembrane domain을 가진 단백질이다. 6개의 connexin이 모여 **connexon**(hemichannel)을 형성한다.[^기출_기말_2023_26] 인접 세포 두 connexon이 정렬되면 두 세포를 연결하는 완전한 채널이 만들어진다.
+==**Connexin**은 4개의 transmembrane domain을 가진 단백질이다. 6개의 connexin이 모여 **connexon**(hemichannel)을 형성한다.==[^기출_기말_2023_26] 인접 세포 두 connexon이 정렬되면 두 세포를 연결하는 완전한 채널이 만들어진다.
 
 하나의 gap junction은 수개~수천 개의 connexon 쌍으로 이루어진 **plaque** 구조이다.
 
 ## 다양성
 
-- **Homomeric connexon**: 동일한 connexin 6개  
-- **Heteromeric connexon**: 다른 종류의 connexin 혼합  
-- **Homotypic channel**: 두 반채널이 같은 connexon 구성  
-- **Heterotypic channel**: 두 반채널이 다른 connexon 구성
+- ==**Homomeric connexon**: 동일한 connexin 6개==  
+- ==**Heteromeric connexon**: 다른 종류의 connexin 혼합==  
+- ==**Homotypic channel**: 두 반채널이 같은 connexon 구성==  
+- ==**Heterotypic channel**: 두 반채널이 다른 connexon 구성==
 
 대부분의 세포 타입은 여러 종류의 connexin을 발현하며, 이런 조합의 다양성 덕분에 조직마다 투과성과 조절 특성이 다른 gap junction이 만들어진다.
 

@@ -33,11 +33,16 @@
 
 ---
 
-## Threshold Effect
+## ==Threshold Effect==
 
 - 세포는 일정 수준의 정상 mtDNA가 있으면 정상 기능 유지 가능
-- 돌연변이 비율이 임계치(보통 60–90%) 이상 → 에너지 대사 장애 → 증상 발현
+- ==돌연변이 비율이 임계치(보통 60–90%) 이상 → 에너지 대사 장애 → 증상 발현==
 - 같은 돌연변이라도 heteroplasmy 비율에 따라 무증상~중증까지 다양한 표현형
+### ==ROS 누적에 의한 비정상 mitochondria 누적==
+어느정도 수준의 mutation mitochondria가 비정상 penotype을 발현시키나?
+비정상 mt의 비율에 따라 중증도가 달라진다. ROS의 축적은 mtDNA를 손상시킴. mt DNA 변이 mitochondria가 뒤늦게 threshold를 넘으면 onset age가 늦게 나타날 수도 있음.
+#### ==이것은 mitochondrial vicious cycle에 의함==
+mtDNA 손상, 산화 스트레스, morphological and functional alternation of mitochondria 이 세가지가 서로를 촉진함.
 
 ---
 

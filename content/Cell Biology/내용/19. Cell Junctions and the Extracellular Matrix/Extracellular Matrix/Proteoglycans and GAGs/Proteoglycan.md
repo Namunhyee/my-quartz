@@ -8,7 +8,7 @@ Hyaluronan을 제외한 모든 [[GAG]]는 단백질에 공유결합하여 **prot
 ## 구성
 
 - **Core protein**: Membrane-bound ribosome이 합성하고 ER lumen으로 주입한다.
-- **GAG chain**: [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Proteoglycan Assembly|Golgi apparatus에서 core protein에 부착]]된다.<mark style="background:#fff88f">serine에 연결됨.</mark>[^기출_기말_2022_18][^기출_기말_2023_29] 먼저 serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.
+- **GAG chain**: [[Cell Biology/내용/13. Intracellular Membrane Traffic/Golgi apparatus/Proteoglycan Assembly|Golgi apparatus에서 core protein에 부착]]된다. serine에 연결됨.[^기출_기말_2022_18][^기출_기말_2023_29] 먼저 ==serine side chain에 특정 **linkage tetrasaccharide**가 붙어 primer 역할을 하고, 이후 한 번에 하나씩 sugar가 추가된다.==
 - **변형(Modification)**: Golgi에서 sulfation (음전하 증가), epimerization (sugar의 configuration 변화) 등이 일어난다.
 
 ## 기능
@@ -24,27 +24,27 @@ Proteoglycan은 거의 무한한 heterogeneity를 가질 수 있다:
 
 ## 대표적 Proteoglycan 예시
 
-### Decorin
+### ==Decorin==
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_9_Figure_5.jpeg]]
 *Small proteoglycan인 decorin의 예시.*
 
 - 작은 proteoglycan으로 **단 1개의 GAG chain**을 가진다.
 - Fibroblast가 분비한다.
-- **Collagen fibril에 결합**하여 fibril 조립과 직경을 조절한다.
+- ==**[[Collagen#구조적 특징|Collagen fibril]]에 결합**하여 fibril 조립과 직경을 조절한다.==
 - Decorin을 만들지 못하는 쥐는 피부가 약하고 인장 강도가 감소한다.
 
-### Aggrecan
+### ==Aggrecan==
 
 ![[Cell Biology/출처/25년 강의노트/md_converted/Ch19-2_Cell_Junctions_and_the_Extracellular_Matrix/_page_9_Figure_6.jpeg]]
 *Large proteoglycan인 aggrecan의 예시.*
 
-- 연골(cartilage)의 주요 구성요소
+- ==연골(cartilage)의 주요 구성요소==
 - 거대한 proteoglycan으로 질량 약 3 × 10⁶ dalton
-- **100개 이상의 GAG chain**을 가진다
+- **==100개 이상의 GAG chain**을 가진다==
 - Hyaluronan과 결합하여 더 큰 aggregate를 형성한다 (→ [[Proteoglycan aggregate]])
 
-### Perlecan
+### ==Perlecan==
 
 **Perlecan**은 [[Basal Lamina_MOC|basal lamina]]의 주요 proteoglycan이다.
 

@@ -21,9 +21,9 @@ Vinculin은 [[Activation of Integrins by intracellular signaling|talin]]과 상�
    - Vinculin에 의한 actin 동원이 junction과 cytoskeleton 사이의 연결을 강화한다.
    - Mechanotransduction: 기계적 힘이 생화학적 신호로 전환된다.
 
-## Cell-cell Junction에서의 역할
+## ==Cell-cell Junction에서의 역할==
 
-Vinculin은 cell-matrix junction뿐 아니라 adherens junction에서도 유사한 역할을 한다. [[Cell Biology/내용/19. Cell Junctions and the Extracellular Matrix/Cell Junctions/Cell-Cell junction/Cadherin based adhension/Adheres junction/mechanotransduction in an adherence junction|Adherens junction의 mechanotransduction]]에서 α-catenin이 tension에 의해 펼쳐지면 vinculin 결합 부위가 노출되고, vinculin이 결합하여 actin을 추가로 동원한다.
+Vinculin은 cell-matrix junction뿐 아니라 adherens junction에서도 유사한 역할을 한다. [[mechanotransduction in an adherence junction|Adherens junction의 mechanotransduction]]에서 α-catenin이 tension에 의해 펼쳐지면 vinculin 결합 부위가 노출되고, vinculin이 결합하여 actin을 추가로 동원한다.
 
 ## 의의
 

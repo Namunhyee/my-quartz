@@ -1,22 +1,15 @@
 # Net Result of Energy Metabolism
 
-## 교과서 Table 14-3 요약
-
-![[Cell Biology/출처/md converted/Chapter 14/_page_26_Figure_2.jpeg]]
-*Table 14-3: 포도당 및 Palmitoyl CoA 산화의 산물 정리.*
-
----
-
 ## A. Glucose 1분자 완전 산화
 
 ### 각 단계별 산물
 
-| 경로 | 위치 | NADH | FADH₂ | ATP/GTP |
-|------|------|------|-------|---------|
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC\|Glycolysis]] | 세포질 | 2 | 0 | 2 (net) |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/pyruvate oxidation\|Pyruvate oxidation]] | matrix | 2 | 0 | 0 |
-| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Citric Acid Cycle/Citric Acid Cycle_MOC\|Citric Acid Cycle]] (×2) | matrix | 6 | 2 | 2 (GTP) |
-| **Total** | | **10** | **2** | **4** |
+| 경로                                                                                                                                                    | 위치     | NADH   | FADH₂ | ATP/GTP |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ----- | ------- |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Glycolysis/Glycolysis_MOC\|Glycolysis]]                           | 세포질    | 2      | 0     | 2 (net) |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/pyruvate oxidation\|Pyruvate oxidation]](×2)                      | matrix | 2      | 0     | 0       |
+| [[Cell Biology/내용/14. Energy Conversion in Mitochondria and Chloroplasts/Metabolism/Citric Acid Cycle/Citric Acid Cycle_MOC\|Citric Acid Cycle]] (×2) | matrix | 6      | 2     | 2 (GTP) |
+| **Total**                                                                                                                                             |        | **10** | **2** | **4**   |
 
 교과서 원문:
 > - Cytosol (glycolysis): 1 glucose → 2 pyruvate + 2 NADH + 2 ATP
@@ -37,7 +30,15 @@
 > "We can calculate that the complete oxidation of one molecule of glucose—starting with glycolysis and ending with oxidative phosphorylation gives a net yield of about **30 molecules of ATP**." — Chapter 14
 
 ---
+### 강의노트에서의 ATP 계산
 
+
+|                  | NADH / H+ pumping | FADH2 / H+ pumping | Total H+ pumping | Mito. ATP synthesis |
+| ---------------- | ----------------- | ------------------ | ---------------- | ------------------- |
+| glucose          | 10 / 60           | 2 / 8              | 68               | 34-36               |
+| caporic acid(C6) | 11 / 66           | 5 / 20             | 86               | 43-45               |
+NADH 1분자 - 6 protons pumping - 3ATP 생성
+FADH2 1분자 - 4 protons pumping - 2ATP 생성
 ## B. Palmitoyl CoA 1분자 완전 산화
 
 Palmitate (C16:0 포화지방산)의 활성화 형태인 **Palmitoyl CoA** (이미 CoA와 결합된 상태).

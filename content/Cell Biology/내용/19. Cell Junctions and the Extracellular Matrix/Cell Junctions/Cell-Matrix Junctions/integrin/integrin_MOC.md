@@ -16,7 +16,7 @@
 
 ### Extracellular Binding
 - ECM 단백질의 특정 amino acid sequence motif에 결합
-- **RGD sequence** (Arg-Gly-Asp): [[Fibronectin|fibronectin]] 등에서 발견되는 주요 결합 motif[^기출_기말_2023_28]
+- ==**RGD sequence** (Arg-Gly-Asp)==: [[Fibronectin|fibronectin]] 등에서 발견되는 주요 결합 motif[^기출_기말_2023_28]
 - **LDV sequence**: 다른 integrin 결합 motif
 - [[Laminin|Laminin]]과 [[Collagen|collagen]]의 특정 서열
 

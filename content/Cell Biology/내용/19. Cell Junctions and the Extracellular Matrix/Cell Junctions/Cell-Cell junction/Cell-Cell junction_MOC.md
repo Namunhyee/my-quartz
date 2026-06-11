@@ -1,6 +1,8 @@
 # Cell-Cell Junction_MOC
 
 Cell–cell junction은 세포 간 직접 결합을 매개한다. 크게 **anchoring junction**, **tight junction**, **gap junction**으로 나뉘며, 그 외 혈류 속에서 작동하는 transient adhesion 기전도 존재한다.
+주로 gut, skin같은 epithelial cell에 존재한다.
+
 
 ---
 

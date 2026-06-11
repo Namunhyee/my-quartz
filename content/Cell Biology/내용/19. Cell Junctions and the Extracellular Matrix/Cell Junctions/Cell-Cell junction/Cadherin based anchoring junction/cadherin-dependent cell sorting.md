@@ -1,4 +1,4 @@
-# Cadherin-Dependent Cell Sorting
+	# Cadherin-Dependent Cell Sorting
 
 ## 조직 조직화(Organization of Developing Tissues)에서 Cadherin의 역할
 
@@ -19,6 +19,10 @@ Cadherin은 세포 표면을 무차별적으로 끈끈하게 만드는 접착제
 *Figure 19-8. 신경관 형성 시 cadherin 발현 변화. Neural tube 세포는 E-cadherin을 잃고 N-cadherin을 획득하는 반면, 위를 덮는 ectoderm 세포는 E-cadherin을 유지한다. Neural crest 세포가 이주할 때는 cadherin이 거의 사라지고 cadherin 7이 나타나 느슨한 그룹으로 이동을 가능하게 하며, 신경절 형성 시 다시 N-cadherin이 발현된다.*
 
 만약 N-cadherin이 neural crest 세포에서 인위적으로 과발현되면, 세포가 신경관에서 탈출하지 못한다.
+#### neural crest
+일시적인 cell group. 척추동물 배아 외배엽에서 발생함. melanocyte, craniofacial cartilage, bone, smooth muscle, peripheral and entric neuron, neuroglia, ganglion을 구성함.
+#### neural tube
+중추신경계의 배아 수준 전구체
 
 ### 세포 배양 실험
 

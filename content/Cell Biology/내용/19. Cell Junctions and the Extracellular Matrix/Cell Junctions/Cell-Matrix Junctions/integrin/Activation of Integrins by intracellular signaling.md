@@ -14,7 +14,7 @@ Integrin은 **양방향 신호 전달**이 가능하다.[^기출_기말_2023_32]
 - GPCR 활성화 → intracellular signaling pathway 개시
 - **Rap1** (monomeric GTPase family member) 활성화
 
-### 3. Talin 동원
+### 3. [[Talin]] 동원
 - 활성화된 Rap1이 **RIAM** 단백질과 상호작용
 - RIAM이 **talin**을 plasma membrane으로 동원
 
