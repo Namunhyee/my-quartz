@@ -9,7 +9,7 @@ Plectin은 다음 요소들을 물리적으로 연결한다:
 - ==Intermediate filament ↔ **microtubule**==
 - Intermediate filament ↔ **actin filament bundle**
 - Intermediate filament ↔ **myosin II** 필라멘트
-- Intermediate filament bundle ↔ plasma membrane의 **adhesive structure** (desmosome, hemidesmosome 등)
+- Intermediate filament bundle ↔ plasma membrane의 **adhesive structure** ([[Desmosome_MOC|desmosome]], [[hemidesmosomes|hemidesmosome]] 등)
 
 ==또한 plectin은 [[Cell Biology/내용/16. The Cytoskeleton/SUN-KASH protein complexes|SUN-KASH protein complexes]]와 연결되어 intermediate filament를 핵 내부와 간접적으로 연결하는 다리 역할도 한다.==
 
